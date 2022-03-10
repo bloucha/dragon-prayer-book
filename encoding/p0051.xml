@@ -28,7 +28,7 @@
 <lb break="no"/>o 
 	<choice>
 		       <seg type="lucas">s(an)c(t)o</seg>
-		       <orig>sċo</orig>
+		       <orig>sc̄o</orig>
 		       <reg>sancto</reg>
 	     </choice> 
 	     <choice>
@@ -60,7 +60,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">sp(iritu)s.</seg>
-		       <orig>sṗs.</orig>
+		       <orig>sp̄s.</orig>
 		       <reg>spiritus.</reg>
 	     </choice> 
 	     <choice>
@@ -81,7 +81,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">un(d)</seg>
-		       <orig>uṅ</orig>
+		       <orig>un̄</orig>
 		       <reg>und</reg>
 	     </choice> 
 	     <choice>
@@ -118,7 +118,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ne.</seg>
-		       <orig>dṅe.</orig>
+		       <orig>dn̄e.</orig>
 		       <reg>domine.</reg>
 	     </choice> 
 	     <choice>
@@ -138,13 +138,13 @@
 	     </choice>  
 	     <choice>
 		       <seg type="lucas">P(ate)r</seg>
-		       <orig>Pṙ</orig>
+		       <orig>Pr̄</orig>
 		       <reg>Pater</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">n(oste)r.</seg>
-		       <orig>nṙ.</orig>
+		       <orig>nr̄.</orig>
 		       <reg>noster.</reg>
 	     </choice> Et ne. 
 	<choice>
@@ -198,7 +198,7 @@
 	     </choice> Mitte ei 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dṅe</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
@@ -235,7 +235,7 @@
       <lb/>Esto eis 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dṅe</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
@@ -261,13 +261,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)ne</seg>
-		       <orig>Dṅe</orig>
+		       <orig>Dn̄e</orig>
 		       <reg>Domine</reg>
 	     </choice>
       <lb/>ex. 
 	<choice>
 		       <seg type="lucas">D(omi)n(u)s</seg>
-		       <orig>Dṅs</orig>
+		       <orig>Dn̄s</orig>
 		       <reg>Dominus</reg>
 	     </choice> 
 	     <choice>
@@ -277,7 +277,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Or(ati)o.</seg>
-		       <orig>Oṙo.</orig>
+		       <orig>Or̄o.</orig>
 		       <reg>Oratio.</reg>
 	     </choice>
    </ab>

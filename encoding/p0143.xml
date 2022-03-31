@@ -118,7 +118,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig/>
+		       <orig>ɔ</orig>
 		       <reg>con</reg>
 	     </choice>
       <lb break="no"/>
@@ -240,7 +240,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig/>
+		       <orig>ɔ</orig>
 	           <!-- check transcription -->
 		       <reg>con</reg>
 	     </choice>

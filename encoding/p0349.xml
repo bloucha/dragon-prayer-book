@@ -12,61 +12,61 @@
       <lb/>a 
 	<choice>
 		       <seg type="lucas">d(omi)no:</seg>
-		       <orig>dno:</orig>
+		       <orig>dn̄o:</orig>
 		       <reg>domino:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q</orig>
+		       <orig>̇q</orig>
 		       <reg>qui</reg>
 	     </choice> salvos facis rec
 <lb break="no"/>tos corde. 
 	<choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>Ds</orig>
+		       <orig>Dṡ</orig>
 		       <reg>Deus</reg>
 	     </choice> iudex 
 	<choice>
 		       <seg type="lucas">iust(us)</seg>
-		       <orig>iust</orig>
+		       <orig>iustꝰ</orig>
 		       <reg>iustus</reg>
 	     </choice>
       <lb/>fortis 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>✝ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">pacie(n)s:</seg>
-		       <orig>pacies:</orig>
+		       <orig>paciēs:</orig>
 		       <reg>paciens:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nu(m)q(ui)d</seg>
-		       <orig>nuqd</orig>
+		       <orig>nū̇qd</orig>
 		       <reg>numquid</reg>
 	     </choice> ira
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">scet(ur)</seg>
-		       <orig>scet</orig>
+		       <orig>sceṫ</orig>
 		       <reg>scetur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)</seg>
-		       <orig>p</orig>
+		       <orig>ꝑ</orig>
 		       <reg>per</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sing(u)los</seg>
-		       <orig>singlos</orig>
+		       <orig>singl̇os</orig>
 		       <reg>singulos</reg>
 	     </choice> dies. Nisi
 <lb/>
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig/>
+		       <orig>ɔ</orig>
 		       <reg>con</reg>
 	     </choice>
 	     <choice>

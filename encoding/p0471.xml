@@ -145,9 +145,9 @@
 	     </choice>
       <lb/>Nec 
 	<choice>
-		       <seg type="lucas">av(er)tit?</seg>
-		       <orig>avtit?</orig>
-		       <reg>avertit?</reg>
+		       <seg type="lucas">av(er)tit</seg>
+		       <orig>avtit</orig>
+		       <reg>avertit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">facie(m)</seg>
@@ -155,10 +155,10 @@
 		       <reg>faciem</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">sua(m?)</seg>
+		       <seg type="lucas">sua(m)</seg>
 		       <orig>sua</orig>
-		       <reg>suam?</reg>
-	     </choice> ame:
+		       <reg>suam</reg>
+	     </choice> a me:
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>

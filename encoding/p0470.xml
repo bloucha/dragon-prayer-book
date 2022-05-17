@@ -52,7 +52,12 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig> </orig>
 		       <reg>et </reg>
-	     </choice> pedes meos: di??(?)a
+	     </choice> pedes meos: 
+         <choice>
+                  <seg type="lucas">dinu(mer)a</seg>
+                  <orig>dinua</orig>
+                  <reg>dinumera</reg>
+         </choice>
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ver(un)t</seg>
@@ -89,19 +94,11 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig> </orig>
 		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">i(?)
-	</seg>
-		       <orig>i
-	</orig>
-		       <reg>i?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
-		       <seg type="lucas">spexer(un)t</seg>
-		       <orig>spexert</orig>
-		       <reg>spexerunt</reg>
+		       <seg type="lucas">i(n)spexer(un)t</seg>
+		       <orig>ispexert</orig>
+		       <reg>inspexerunt</reg>
 	     </choice>
       <lb/>me: 
 	<choice>
@@ -126,9 +123,9 @@
 		       <reg>super</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">veste(m?)</seg>
+		       <seg type="lucas">veste(m)</seg>
 		       <orig>veste</orig>
-		       <reg>vestem?</reg>
+		       <reg>vestem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mea(m)</seg>
@@ -211,9 +208,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">d(eo)</seg>
+		       <seg type="lucas">d(e)</seg>
 		       <orig>d</orig>
-		       <reg>deo</reg>
+		       <reg>de</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ma(n)u</seg>

@@ -37,9 +37,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">Ps(alm?)</seg>
+		       <seg type="lucas">Ps(almus David)</seg>
 		       <orig>Ps</orig>
-		       <reg>Psalm?</reg>
+		       <reg>Psalmus David</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)n(u)s</seg>
@@ -47,16 +47,16 @@
 		       <reg>Dominus</reg>
 	     </choice> regit me. 
 	<choice>
-		       <seg type="lucas">Ps(alm?).</seg>
+		       <seg type="lucas">Ps(almus David).</seg>
 		       <orig>Ps.</orig>
-		       <reg>Psalm?.<!--  check expansion --></reg>
+		       <reg>Psalmus David</reg>
 	     </choice> 
  Do
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">nu(m)?</seg>
-		       <orig>nu?</orig>
-		       <reg>num?</reg>
+		       <seg type="lucas">mi(ni)</seg>
+		       <orig>mi</orig>
+		       <reg>minik</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
@@ -147,9 +147,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">i(n)firmab(er)o</seg>
+		       <seg type="lucas">i(n)firmabo(r)</seg>
 		       <orig>ifirmabo</orig>
-		       <reg>infirmabero</reg>
+		       <reg>infirmabor</reg>
 	     </choice> Pro
 <lb break="no"/>ba me 
 	<choice>
@@ -163,10 +163,10 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">te(m)pta</seg>
+		       <seg type="lucas">te(n)ta</seg>
 		       <orig>tepta</orig>
-		       <reg>tempta</reg>
-	     </choice> me: ura
+		       <reg>tenta</reg>
+	     </choice> me: ure
 <lb/>renes meos 
 	<choice>
 		       <seg type="lucas">(et) </seg>
@@ -211,9 +211,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)placiu</seg>
-		       <orig>placiu</orig>
-		       <reg>conplaciu</reg>
+		       <seg type="lucas">(con)placui</seg>
+		       <orig>placui</orig>
+		       <reg>conplacui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -232,9 +232,9 @@
 	     </choice>
       <lb/>sed 
 	<choice>
-		       <seg type="lucas">ccu(?)?</seg>
-		       <orig>ccu?</orig>
-		       <reg>ccu??<!--  check expansion --></reg>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>ccu</orig>
+		       <reg>cum</reg>
 	     </choice> 
  
 	     <choice>
@@ -278,7 +278,7 @@
 		       <orig>itroibo.</orig>
 		       <reg>introibo.</reg>
 	     </choice> O
-<lb break="no"/>divi? 
+<lb break="no"/>divi 
 	<choice>
 		       <seg type="lucas">eccl(esi)a(m)</seg>
 		       <orig>eccla</orig>
@@ -301,9 +301,9 @@
 		       <reg>cum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">i(?)piis</seg>
+		       <seg type="lucas">i(m)piis</seg>
 		       <orig>ipiis</orig>
-		       <reg>i?piis<!--  check expansion --></reg>
+		       <reg>impiis</reg>
 	     </choice> 
  
 	     <choice>

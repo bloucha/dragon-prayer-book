@@ -16,9 +16,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">c(ir)cu(n)dabo</seg>
+		       <seg type="lucas">c(ir)cu(m)dabo</seg>
 		       <orig>ccudabo</orig>
-		       <reg>circundabo</reg>
+		       <reg>circumdabo</reg>
 	     </choice> altare 
 	<choice>
 		       <seg type="lucas">tuu(m)</seg>
@@ -107,9 +107,9 @@
 		       <reg>cum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">i(?)piis</seg>
+		       <seg type="lucas">i(m)piis</seg>
 		       <orig>ipiis</orig>
-		       <reg>i?piis<!--  check expansion --></reg>
+		       <reg>impiis</reg>
 	     </choice> 
  
 	     <choice>
@@ -176,9 +176,9 @@
 		       <reg>sunt:</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">dext(r)a</seg>
+		       <seg type="lucas">dext(er)a</seg>
 		       <orig>dexta</orig>
-		       <reg>dextra</reg>
+		       <reg>dextera</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
@@ -223,9 +223,9 @@
 		       <reg>sum:</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">redi(m?)e</seg>
+		       <seg type="lucas">redi(m)e</seg>
 		       <orig>redie</orig>
-		       <reg>redim?e<!--  check expansion --></reg>
+		       <reg>redime</reg>
 	     </choice> 
  me
 <lb/>
@@ -249,19 +249,11 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>i</orig>
 		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">dir(?)
-	</seg>
-		       <orig>dir
-	</orig>
-		       <reg>dir?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
-		       <seg type="lucas">t(i)o:</seg>
-		       <orig>to:</orig>
-		       <reg>tio:</reg>
+		       <seg type="lucas">dir(ec)to:</seg>
+		       <orig>dirto:</orig>
+		       <reg>directo:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>

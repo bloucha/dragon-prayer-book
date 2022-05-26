@@ -79,9 +79,9 @@
 		       <reg>est.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Hu(n?)c</seg>
+		       <seg type="lucas">Hu(n)c</seg>
 		       <orig>Huc</orig>
-		       <reg>Hun?c<!--  check expansion --></reg>
+		       <reg>Hunc</reg>
 	     </choice> 
  
 	     <choice>
@@ -96,11 +96,11 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">hu(n?)c</seg>
+		       <seg type="lucas">hu(n)c</seg>
 		       <orig>huc</orig>
-		       <reg>hun?c<!--  check expansion --></reg>
+		       <reg>hunc</reg>
 	     </choice> 
- ealtat: 
+ exaltat: 
 	<choice>
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q</orig>

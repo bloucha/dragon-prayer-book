@@ -91,16 +91,16 @@
 		       <reg>iniquitates:</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">degecer(un)t</seg>
-		       <orig>degecert</orig>
-		       <reg>degecerunt</reg>
+		       <seg type="lucas">defecer(un)t</seg>
+		       <orig>defecert</orig>
+		       <reg>defecerunt</reg>
 	     </choice> scru
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ta(n)tes</seg>
 		       <orig>tates</orig>
 		       <reg>tantes</reg>
-	     </choice> scruti?io. Accedet
+	     </choice> scrutinio. Accedet
 <lb/>
 	     <choice>
 		       <seg type="lucas">ho(mo)</seg>
@@ -127,7 +127,7 @@
 		       <seg type="lucas">d(eu)s.</seg>
 		       <orig>ds.</orig>
 		       <reg>deus.</reg>
-	     </choice> Sagutte 
+	     </choice> Sagitte 
 	<choice>
 		       <seg type="lucas">p(ar)vu</seg>
 		       <orig>pvu</orig>
@@ -140,9 +140,9 @@
 		       <reg>lorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">f(?)?e</seg>
-		       <orig>f?e</orig>
-		       <reg>f??e<!--  check expansion --></reg>
+		       <seg type="lucas">f(a)c(t)e</seg>
+		       <orig>fce</orig>
+		       <reg>facte</reg>
 	     </choice> 
  
 	     <choice>
@@ -218,7 +218,7 @@
 		       <orig> </orig>
 		       <reg>et </reg>
 	     </choice> timu
-<lb break="no"/>it? 
+<lb break="no"/>it 
 	<choice>
 		       <seg type="lucas">o(mn)is</seg>
 		       <orig>ois</orig>

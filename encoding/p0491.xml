@@ -212,9 +212,9 @@
 		       <reg>inique</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">age(re?):</seg>
+		       <seg type="lucas">age(re):</seg>
 		       <orig>age:</orig>
-		       <reg>agere?:<!--  check expansion --></reg>
+		       <reg>agere:</reg>
 	     </choice> 
  
 	     <choice>
@@ -232,7 +232,7 @@
 		       <seg type="lucas">b(us)</seg>
 		       <orig>b</orig>
 		       <reg>bus</reg>
-	     </choice> nolite exaltare cornu?.
+	     </choice> nolite exaltare cornu.
 <lb/>Nolite 
 	<choice>
 		       <seg type="lucas">extolle(re)</seg>

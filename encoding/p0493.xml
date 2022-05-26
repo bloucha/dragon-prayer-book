@@ -63,9 +63,9 @@
 		       <reg>dicta</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">d(un)t</seg>
-		       <orig>dt</orig>
-		       <reg>dunt</reg>
+		       <seg type="lucas">s(un)t</seg>
+		       <orig>st</orig>
+		       <reg>sunt</reg>
 	     </choice>
       <lb/>de te: civitas dei. Memor.
 <lb/>ero raab 
@@ -123,9 +123,9 @@
 		       <reg>fuerunt</reg>
 	     </choice> illic. 
 	<choice>
-		       <seg type="lucas">Nu(n)q(ui)d</seg>
+		       <seg type="lucas">Nu(m)q(ui)d</seg>
 		       <orig>Nuqd</orig>
-		       <reg>Nunquid</reg>
+		       <reg>Numquid</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">syo(n)</seg>
@@ -191,7 +191,7 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">D(omi)n(u0s</seg>
+		       <seg type="lucas">D(omi)n(u)s</seg>
 		       <orig>Dns</orig>
 		       <reg>Dominus</reg>
 	     </choice> narrabit 

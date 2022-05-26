@@ -124,143 +124,143 @@
 	     <choice>
 		       <seg type="lucas">Diru(?)
 	</seg>
-		       <orig>Diru
+	           <orig>Dirū
 	</orig>
 		       <reg>Diru?
 	<!--  check expansion --></reg>
 	     </choice> 
       <choice>
 		       <seg type="lucas">pam(us)</seg>
-		       <orig>pam</orig>
+            <orig>pamꝰ</orig>
 		       <reg>pamus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vi(n?)</seg>
-		       <orig>vi</orig>
+	           <orig>vī</orig>
 		       <reg>vin?<!--  check expansion --></reg>
 	     </choice> 
       <lb break="no"/>cula 
 	<choice>
 		       <seg type="lucas">eor(um):</seg>
-		       <orig>eor:</orig>
+	      <orig>eor⋮:</orig>
 		       <reg>eorum:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	           <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)iitiam(us)</seg>
-		       <orig>piitiam</orig>
+	           <orig>ꝓiitiamꝰ</orig>
 		       <reg>proiitiamus</reg>
 	     </choice> a no
 <lb break="no"/>bis in?
 	<choice>
 		       <seg type="lucas">gu(m)</seg>
-		       <orig>gu</orig>
+	      <orig>gū</orig>
 		       <reg>gum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ip(s)or(um).</seg>
-		       <orig>ipor.</orig>
+	           <orig>ipōꝝ.</orig>
 		       <reg>ipsorum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(uonia)m</seg>
-		       <orig>Qm</orig>
+	           <orig>Ɋm<!--  no apparent abbrev but for the extremely long tail of the Q --></orig>
 		       <reg>Quoniam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">h(ab)i</seg>
-		       <orig>hi</orig>
+	           <orig>hī</orig>
 		       <reg>habi</reg>
 	     </choice>
       <lb break="no"/>tat 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	      <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> celis irridebit eos: et
 <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)n(u)s</seg>
-		       <orig>dns</orig>
+		       <orig>dn̄s</orig>
 		       <reg>dominus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(u)bsa(n?)nabit</seg>
-		       <orig>sbsanabit</orig>
+	           <orig>sḃsānabit</orig>
 		       <reg>subsan?nabit</reg>
 	     </choice> eos. 
 	<choice>
 		       <seg type="lucas">Tu(n)c</seg>
-		       <orig>Tuc</orig>
+	      <orig>Tūc</orig>
 		       <reg>Tunc</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">loquet(ur)</seg>
-		       <orig>loquet</orig>
+	           <orig>loquet<!--  my pc is not allowing me to insert the two vertical dots (U+0743) unicode character--></orig>
 		       <reg>loquetur</reg>
 	     </choice> ad eos 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	      <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> ira sua:
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	           <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	           <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> furore suo 
 	<choice>
 		       <seg type="lucas">co(n)turbab(it)</seg>
-		       <orig>coturbab</orig>
+	      <orig>cōturbabͭ</orig>
 		       <reg>conturbabit</reg>
 	     </choice>
       <lb/>eos. Ego 
 	<choice>
 		       <seg type="lucas">au(?)t</seg>
-		       <orig>aut</orig>
+	      <orig>aūt</orig>
 		       <reg>au?t<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig/>
+	           <orig>ɔ</orig>
 		       <reg>con</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">stitut(us)</seg>
-		       <orig>stitut</orig>
+	           <orig>stitutꝰ</orig>
 		       <reg>stitutus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">su(m)</seg>
-		       <orig>su</orig>
+	           <orig>sū</orig>
 		       <reg>sum</reg>
 	     </choice> rex ab eo 
 	<choice>
 		       <seg type="lucas">sup(er)</seg>
-		       <orig>sup</orig>
+	      <orig>suꝑ</orig>
 		       <reg>super</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">syo(n)</seg>
-		       <orig>syo</orig>
+	           <orig>syō</orig>
 		       <reg>syon</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mo(n)⸗</seg>
-		       <orig>mo⸗</orig>
+	           <orig>mō⸗</orig>
 		       <reg>mon⸗</reg>
 	     </choice>
    </ab>

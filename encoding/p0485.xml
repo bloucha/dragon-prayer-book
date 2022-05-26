@@ -90,9 +90,9 @@
 	     </choice> cor maris.
 <lb/>
 	     <choice>
-		       <seg type="lucas">Sonner(un)t?</seg>
-		       <orig>Sonnert?</orig>
-		       <reg>Sonnerunt?</reg>
+		       <seg type="lucas">Sonuer(un)t</seg>
+		       <orig>Sonuert</orig>
+		       <reg>Sonuerunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -157,23 +157,14 @@
 		       <reg>eius.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Flu(?)is</seg>
+		       <seg type="lucas">Flu(min)is</seg>
 		       <orig>Fluis</orig>
-		       <reg>Flu?is<!--  check expansion --></reg>
-	     </choice> 
- 
-	     <choice>
-		       <seg type="lucas">i(?)
-	</seg>
-		       <orig>i
-	</orig>
-		       <reg>i?
-	<!--  check expansion --></reg>
+		       <reg>Fluminis</reg>
 	     </choice> 
       <choice>
-		       <seg type="lucas">pet(us)</seg>
-		       <orig>pet</orig>
-		       <reg>petus</reg>
+		       <seg type="lucas">i(m)pet(us)</seg>
+		       <orig>ipet</orig>
+		       <reg>impetus</reg>
 	     </choice>
       <lb/>letificat 
 	<choice>
@@ -225,14 +216,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">movebit(ur):</seg>
+		       <seg type="lucas">(com)movebit(ur):</seg>
 		       <orig>movebit:</orig>
-		       <reg>movebitur:</reg>
+		       <reg>commovebitur:</reg>
 	     </choice> adiuvabit
 <lb/>
 	     <choice>

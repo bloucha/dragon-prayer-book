@@ -15,18 +15,10 @@
 		       <orig>tu</orig>
 		       <reg>tum</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">nob(?)
-	</seg>
-		       <orig>nob
-	</orig>
-		       <reg>nob?
-	<!--  check expansion --></reg>
-	     </choice> 
       <choice>
-		       <seg type="lucas">cu(m):</seg>
-		       <orig>cu:</orig>
-		       <reg>cum:</reg>
+		       <seg type="lucas">nob(is)cu(m):</seg>
+		       <orig>nobcu:</orig>
+		       <reg>nobiscum:</reg>
 	     </choice> susceptor 
 	<choice>
 		       <seg type="lucas">n(oste)r</seg>
@@ -70,13 +62,8 @@
 		       <orig>p</orig>
 		       <reg>pro</reg>
 	     </choice>
-      <lb break="no"/>
-	     <choice>
-		       <seg type="lucas">digi(n)a</seg>
-		       <orig>digia</orig>
-		       <reg>digina</reg>
-	     </choice> 
-	     <choice>
+      <lb break="no"/>digia 
+   	<choice>
 		       <seg type="lucas">s(upe)r</seg>
 		       <orig>sr</orig>
 		       <reg>super</reg>
@@ -114,9 +101,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)te(?)t</seg>
+		       <seg type="lucas">(con)te(re)t</seg>
 		       <orig>tet</orig>
-		       <reg>conte?t</reg>
+		       <reg>conteret</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -124,9 +111,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)f(ri?)nget</seg>
+		       <seg type="lucas">(con)f(ri)nget</seg>
 		       <orig>fnget</orig>
-		       <reg>confri?nget</reg>
+		       <reg>confringet</reg>
 	     </choice> arma: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
@@ -135,14 +122,14 @@
 	     </choice> scu
 <lb break="no"/>ta 
 	<choice>
-		       <seg type="lucas">(con)buret</seg>
+		       <seg type="lucas">(com)buret</seg>
 		       <orig>buret</orig>
-		       <reg>conburet</reg>
+		       <reg>comburet</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ig(ni?).</seg>
+		       <seg type="lucas">ig(ni).</seg>
 		       <orig>ig.</orig>
-		       <reg>igni?.<!--  check expansion --></reg>
+		       <reg>igni.</reg>
 	     </choice> 
  Vacate 
 	<choice>

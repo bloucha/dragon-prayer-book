@@ -36,7 +36,7 @@
 		       <seg type="lucas">domib(us)</seg>
 		       <orig>domib</orig>
 		       <reg>domibus</reg>
-	     </choice> eburveis?: ex 
+	     </choice> eburneis: ex 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
 		       <orig>q</orig>
@@ -49,9 +49,9 @@
 		       <reg>bus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">del(i)c(t)aver(un)t?</seg>
-		       <orig>delcavert?</orig>
-		       <reg>delictaverunt?</reg>
+		       <seg type="lucas">del(e)c(t)aver(un)t</seg>
+		       <orig>delcavert</orig>
+		       <reg>delectaverunt</reg>
 	     </choice> te filie 
 	<choice>
 		       <seg type="lucas">regu(m)</seg>
@@ -80,11 +80,11 @@
 		       <orig>i</orig>
 		       <reg>in</reg>
 	     </choice> vestitu
-<lb/>dea?rato: 
+<lb/>deaurato: 
 	<choice>
-		       <seg type="lucas">c(ir)cu(n)data</seg>
+		       <seg type="lucas">c(ir)cu(m)data</seg>
 		       <orig>ccudata</orig>
-		       <reg>circundata</reg>
+		       <reg>circumdata</reg>
 	     </choice> varie
 <lb break="no"/>tate. Audi filia 
 	<choice>
@@ -238,7 +238,13 @@
 		       <seg type="lucas">dep(re)cabu(n)t(ur)</seg>
 		       <orig>depcabut</orig>
 		       <reg>deprecabuntur</reg>
-	     </choice> divites
+	     </choice>: 
+         <choice>
+                  <seg type="lucas">o(mne)s</seg>
+                  <orig>os</orig>
+                  <reg>omnes</reg>
+         </choice>
+         divites
 
 
 </ab>

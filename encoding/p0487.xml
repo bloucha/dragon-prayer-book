@@ -21,9 +21,9 @@
 		       <reg>super</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">o(mn)e(m?)</seg>
+		       <seg type="lucas">o(mn)e(m)</seg>
 		       <orig>oe</orig>
-		       <reg>omnem?</reg>
+		       <reg>omnem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra(m).</seg>
@@ -89,9 +89,9 @@
 		       <reg>suam:</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">sp(irit?)em</seg>
+		       <seg type="lucas">sp(eci)em</seg>
 		       <orig>spem</orig>
-		       <reg>spirit?em<!--  check expansion --></reg>
+		       <reg>speciem</reg>
 	     </choice> 
  iacob
 <lb/>

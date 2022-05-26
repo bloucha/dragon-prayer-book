@@ -48,9 +48,9 @@
 		       <reg>dominus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">o(mN)ia</seg>
+		       <seg type="lucas">o(mn)ia</seg>
 		       <orig>oia</orig>
-		       <reg>omNia</reg>
+		       <reg>omnia</reg>
 	     </choice> ossa 
 	<choice>
 		       <seg type="lucas">eor(um):</seg>
@@ -69,14 +69,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)te(re?)</seg>
-		       <orig>te</orig>
-		       <reg>contere?</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">t(ur).</seg>
-		       <orig>t.</orig>
-		       <reg>tur.</reg>
+		       <seg type="lucas">(con)te(re)t(ur).</seg>
+		       <orig>tet.</orig>
+		       <reg>conteretur.</reg>
 	     </choice> Mors
 <lb/>
 	     <choice>
@@ -172,7 +167,7 @@
 		       <orig>i</orig>
 		       <reg>in</reg>
 	     </choice> eo.
-<lb/>ERectavit cor 
+<lb/>ERuctavit cor 
 	<choice>
 		       <seg type="lucas">meu(m)</seg>
 		       <orig>meu</orig>
@@ -207,9 +202,9 @@
 		       <reg>calamus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">r(?)ecibe:</seg>
-		       <orig>recibe:</orig>
-		       <reg>r?ecibe:<!--  check expansion --></reg>
+		       <seg type="lucas">(sc)ribe:</seg>
+		       <orig>reribe:</orig>
+		       <reg>(sc)ribe:</reg>
 	     </choice> 
  velo
 <lb break="no"/>
@@ -218,34 +213,26 @@
 		       <orig>cit</orig>
 		       <reg>citer</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">s(?)c(?)
-	</seg>
-		       <orig>sc
-	</orig>
-		       <reg>s?c?
-	<!--  check expansion --></reg>
-	     </choice> 
       <choice>
-		       <seg type="lucas">be(n)tis.</seg>
-		       <orig>betis.</orig>
-		       <reg>bentis.</reg>
+		       <seg type="lucas">sc(ri)be(n)tis.</seg>
+		       <orig>scbetis.</orig>
+		       <reg>scribentis.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Specios(us)</seg>
 		       <orig>Specios</orig>
 		       <reg>Speciosus</reg>
-	     </choice> for⸗
-14ma 
+	     </choice> for
+<lb break="no"/>ma
 	<choice>
 		       <seg type="lucas">p(re)</seg>
 		       <orig>p</orig>
 		       <reg>pre</reg>
 	     </choice> filiis 
 	<choice>
-		       <seg type="lucas">ho(m)in(um?);</seg>
+		       <seg type="lucas">ho(m)in(um);</seg>
 		       <orig>hoin;</orig>
-		       <reg>hominum?;</reg>
+		       <reg>hominum;</reg>
 	     </choice> diffusa
 <lb/>
 	     <choice>

@@ -40,12 +40,12 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>i</orig>
 		       <reg>in</reg>
-	     </choice> fimbriis? au
+	     </choice> fimbriis au
 <lb break="no"/>reis: 
 	<choice>
-		       <seg type="lucas">c(ir)cu(n?)amicta</seg>
+		       <seg type="lucas">c(ir)cu(m)amicta</seg>
 		       <orig>ccuamicta</orig>
-		       <reg>circun?amicta</reg>
+		       <reg>circumamicta</reg>
 	     </choice> varietati
 <lb break="no"/>
 	     <choice>
@@ -127,20 +127,12 @@
 		       <reg>templum</reg>
 	     </choice> re
 <lb break="no"/>gis. Pro 
-	<choice>
-		       <seg type="lucas">p(ate?)
-	</seg>
-		       <orig>p
-	</orig>
-		       <reg>pate?
-	<!--  check expansion --></reg>
-	     </choice> 
       <choice>
-		       <seg type="lucas">rib(us)</seg>
-		       <orig>rib</orig>
-		       <reg>ribus</reg>
+		       <seg type="lucas">p(at)rib(us)</seg>
+		       <orig>prib</orig>
+		       <reg>patribus</reg>
 	     </choice> tuis na
-<lb break="no"/>ci 
+<lb break="no"/>ti 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
 		       <orig>st</orig>
@@ -270,7 +262,7 @@
 		       <seg type="lucas">n(oste)r</seg>
 		       <orig>nr</orig>
 		       <reg>noster</reg>
-	     </choice> regugi ~ 
+	     </choice> refugi ~ 
 	<choice>
 		       <seg type="lucas">s(e)c(u)li.</seg>
 		       <orig>scli.</orig>
@@ -278,9 +270,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">n(on)</seg>
-		       <orig>n</orig>
-		       <reg>non</reg>
+		       <seg type="lucas">u(m)</seg>
+		       <orig>u</orig>
+		       <reg>um</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>

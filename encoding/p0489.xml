@@ -94,9 +94,9 @@
 		       <reg>dicam</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">no(min?)i</seg>
+		       <seg type="lucas">no(min)i</seg>
 		       <orig>noi</orig>
-		       <reg>nomin?i<!--  check expansion --></reg>
+		       <reg>nomini</reg>
 	     </choice> 
  tuo in
 <lb/>
@@ -144,9 +144,9 @@
 		       <reg>cum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">dep(re?)cor:</seg>
+		       <seg type="lucas">dep(re)cor:</seg>
 		       <orig>depcor:</orig>
-		       <reg>depre?cor:<!--  check expansion --></reg>
+		       <reg>deprecor:</reg>
 	     </choice> 
  a 
 	<choice>
@@ -225,9 +225,9 @@
 		       <reg>arcum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">re(?)</seg>
+		       <seg type="lucas">re(m)</seg>
 		       <orig>re</orig>
-		       <reg>re?<!--  check expansion --></reg>
+		       <reg>rem</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -252,9 +252,9 @@
 	     </choice>
       <lb break="no"/>tis 
 	<choice>
-		       <seg type="lucas">i(n)imac(u)latu(m).</seg>
-		       <orig>iimaclatu.</orig>
-		       <reg>inimaculatum.</reg>
+		       <seg type="lucas">i(m)mac(u)latu(m).</seg>
+		       <orig>imaclatu.</orig>
+		       <reg>immaculatum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">S(u)bito</seg>
@@ -263,13 +263,13 @@
 	     </choice> sa⸗
 16
 <lb/>
-	     <choice>
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
-		       <reg>et </reg>
-	     </choice> inigiSazemy.?
-
-
+	     + iniquitatem. <!--so. basically this was written in and inserted
+	                       in the margin after the initial text was written.
+	                       I am leaving it here because it is part of the book 
+	                       and definitely should be included somehow, but I 
+	                       need to talk to Dr. Flanders and Dr. Boeckeler 
+	                       about the best way to do that. So just leave it as
+	                       is for now if you run into this while digitizing :) -->
 </ab>
 
    <ab type="translation"

@@ -27,9 +27,9 @@
 	     </choice> Ac
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">ci(n)ge(re?)</seg>
+		       <seg type="lucas">ci(n)ge(re)</seg>
 		       <orig>cige</orig>
-		       <reg>cingere?</reg>
+		       <reg>cingere</reg>
 	     </choice> gladio tuo: 
 	<choice>
 		       <seg type="lucas">s(upe)r</seg>
@@ -53,9 +53,9 @@
 		       <reg>potentissime.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Sp(?)e</seg>
+		       <seg type="lucas">Sp(eci)e</seg>
 		       <orig>Spe</orig>
-		       <reg>Sp?e<!--  check expansion --></reg>
+		       <reg>Specie</reg>
 	     </choice> 
  tua 
 	<choice>
@@ -64,23 +64,15 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">pl(?)</seg>
+		       <seg type="lucas">p(u)l</seg>
 		       <orig>pl</orig>
-		       <reg>pl?<!--  check expansion --></reg>
+		       <reg>pul</reg>
 	     </choice> 
-      <lb/>
-	     <choice>
-		       <seg type="lucas">c(?)
-	</seg>
-		       <orig>c
-	</orig>
-		       <reg>c?
-	<!--  check expansion --></reg>
-	     </choice> 
+      <lb break="no"/>
       <choice>
-		       <seg type="lucas">tudi(n)e</seg>
-		       <orig>tudie</orig>
-		       <reg>tudine</reg>
+		       <seg type="lucas">c(ri)tudi(n)e</seg>
+		       <orig>ctudie</orig>
+		       <reg>critudine</reg>
 	     </choice> tua: 
 	<choice>
 		       <seg type="lucas">i(n)te(n)de</seg>
@@ -152,10 +144,10 @@
 	     </choice> dex
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">t(r)a</seg>
+		       <seg type="lucas">t(er)a</seg>
 		       <orig>ta</orig>
-		       <reg>tra</reg>
-	     </choice> tua. Sabitte tue acu
+		       <reg>tera</reg>
+	     </choice> tua. Sagitte tue acu
 <lb break="no"/>te: 
 	<choice>
 		       <seg type="lucas">p(o)p(u)li</seg>
@@ -205,9 +197,9 @@
 		       <reg>seculi:</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">v(ir?)ga</seg>
+		       <seg type="lucas">v(ir)ga</seg>
 		       <orig>vga</orig>
-		       <reg>vir?ga<!--  check expansion --></reg>
+		       <reg>virga</reg>
 	     </choice> 
  di
 <lb break="no"/>
@@ -217,9 +209,9 @@
 		       <reg>rectionis</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">v(ir?)ga</seg>
+		       <seg type="lucas">v(ir)ga</seg>
 		       <orig>vga</orig>
-		       <reg>vir?ga<!--  check expansion --></reg>
+		       <reg>vi?ga</reg>
 	     </choice> 
  
 	     <choice>
@@ -253,7 +245,7 @@
 		       <seg type="lucas">p(ro)pt(er)ea</seg>
 		       <orig>pptea</orig>
 		       <reg>propterea</reg>
-	     </choice> ??xit te 
+	     </choice> unxit te 
 	<choice>
 		       <seg type="lucas">d(eu)s</seg>
 		       <orig>ds</orig>

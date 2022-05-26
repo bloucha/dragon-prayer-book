@@ -128,9 +128,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">v(ir?)</seg>
+		       <seg type="lucas">v(ir)</seg>
 		       <orig>v</orig>
-		       <reg>vir?</reg>
+		       <reg>vir</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
@@ -245,7 +245,12 @@
 		       <seg type="lucas">mimie(n)t(ur)</seg>
 		       <orig>mimiet</orig>
 		       <reg>mimientur</reg>
-	     </choice> c?(?)?
+	     </choice> 
+         <choice>
+                  <seg type="lucas">o(mn)i</seg>
+                  <orig>oi</orig>
+                  <reg>omni</reg>
+         </choice>
 <lb/>bono. 
 	<choice>
 		       <seg type="lucas">Ve(n)ite</seg>

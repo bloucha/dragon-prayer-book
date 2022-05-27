@@ -88,7 +88,7 @@
 		       <orig>e.</orig>
 		       <reg>est.</reg>
 	     </choice>
-      <lb/>Moy?ses 
+      <lb/>Moyses 
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig> </orig>
@@ -105,9 +105,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">sac(ri?)doti</seg>
+		       <seg type="lucas">sac(er)doti</seg>
 		       <orig>sacdoti</orig>
-		       <reg>sacri?doti<!--  check expansion --></reg>
+		       <reg>sacerdoti</reg>
 	     </choice> 
       <lb break="no"/>
 	     <choice>
@@ -155,12 +155,7 @@
 		       <seg type="lucas">ei(us).</seg>
 		       <orig>ei.</orig>
 		       <reg>eius.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">Inv(er)o</seg>
-		       <orig>Invo</orig>
-		       <reg>Invero</reg>
-	     </choice>
+	     </choice> Invo
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">caba(n)t</seg>
@@ -237,9 +232,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">q(ui)d</seg>
+		       <seg type="lucas">q(uo)d</seg>
 		       <orig>qd</orig>
-		       <reg>quid</reg>
+		       <reg>quod</reg>
 	     </choice> dedit 
 	<choice>
 		       <seg type="lucas">ill(is).</seg>
@@ -299,18 +294,11 @@
 		       <orig>os</orig>
 		       <reg>omnes</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">adi(?)
-	</seg>
-		       <orig>adi
-	</orig>
-		       <reg>adi?
-	<!--  check expansion --></reg>
-	     </choice> 
+	      
       <choice>
-		       <seg type="lucas">ve(n)t(i)o(n)es</seg>
-		       <orig>vetoes</orig>
-		       <reg>ventiones</reg>
+		       <seg type="lucas">adi(n)ve(n)t(i)o(n)es</seg>
+		       <orig>adivetoes</orig>
+		       <reg>adinventiones</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>

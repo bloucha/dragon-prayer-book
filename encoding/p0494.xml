@@ -73,9 +73,9 @@
 		       <reg>annunciate</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">d(eo)</seg>
+		       <seg type="lucas">d(e)</seg>
 		       <orig>d</orig>
-		       <reg>deo</reg>
+		       <reg>de</reg>
 	     </choice> die 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
@@ -231,9 +231,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">pulch(er)tu</seg>
+		       <seg type="lucas">pulch(ri)tu</seg>
 		       <orig>pulchtu</orig>
-		       <reg>pulchertu</reg>
+		       <reg>pulchritu</reg>
 	     </choice>
       <lb break="no"/>do 
 	<choice>

@@ -21,9 +21,9 @@
 		       <reg>gloriam</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">no(min?)i</seg>
+		       <seg type="lucas">no(min)i</seg>
 		       <orig>noi</orig>
-		       <reg>nomin?i<!--  check expansion --></reg>
+		       <reg>nomini</reg>
 	     </choice> 
  eius.
 <lb/>Tollite hostias 
@@ -44,9 +44,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">at(er)a</seg>
+		       <seg type="lucas">at(ri)a</seg>
 		       <orig>ata</orig>
-		       <reg>atera</reg>
+		       <reg>atria</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us):</seg>
@@ -81,9 +81,9 @@
 	     </choice>
       <lb/>a facie 
 	<choice>
-		       <seg type="lucas">i(us)</seg>
-		       <orig>i</orig>
-		       <reg>ius</reg>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>ei</orig>
+		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">univ(er)sa</seg>
@@ -123,9 +123,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">Ete(n)i</seg>
+		       <seg type="lucas">Ete(n)i(m)</seg>
 		       <orig>Etei</orig>
-		       <reg>Eteni</reg>
+		       <reg>Etenim</reg>
 	     </choice> correxit 
 	<choice>
 		       <seg type="lucas">orbe(m)</seg>
@@ -149,14 +149,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">movebit(ur):</seg>
+		       <seg type="lucas">(com)movebit(ur):</seg>
 		       <orig>movebit:</orig>
-		       <reg>movebitur:</reg>
+		       <reg>commovebitur:</reg>
 	     </choice> iudicabit
 <lb/>
 	     <choice>
@@ -190,15 +185,11 @@
 		       <orig>tra;</orig>
 		       <reg>terra;</reg>
 	     </choice> 
+	     
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">moveat(ur)</seg>
+		       <seg type="lucas">(com)moveat(ur)</seg>
 		       <orig>moveat</orig>
-		       <reg>moveatur</reg>
+		       <reg>commoveatur</reg>
 	     </choice>
       <lb/>mare 
 	<choice>
@@ -270,9 +261,9 @@
 	     </choice> ligna
 <lb/>
 	     <choice>
-		       <seg type="lucas">siluar(um)</seg>
-		       <orig>siluar</orig>
-		       <reg>siluarum</reg>
+		       <seg type="lucas">silvar(um)</seg>
+		       <orig>silvar</orig>
+		       <reg>silvarum</reg>
 	     </choice> a facie 
 	<choice>
 		       <seg type="lucas">d(omi)ni</seg>

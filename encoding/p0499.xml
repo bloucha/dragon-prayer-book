@@ -4,15 +4,11 @@
 
     <ab type="transcription" xml:id="p0499_transcription" corresp="#p0499_translation">
         <lb/>
+        
         <choice>
-            <seg type="lucas">(con)</seg>
-            <orig/>
-            <reg>con</reg>
-        </choice>
-        <choice>
-            <seg type="lucas">sp(e)c(t)u</seg>
+            <seg type="lucas">(con)sp(e)c(t)u</seg>
             <orig>spcu</orig>
-            <reg>spectu</reg>
+            <reg>conspectu</reg>
         </choice> regis <choice>
             <seg type="lucas">d(omi)ni;</seg>
             <orig>dni;</orig>
@@ -29,9 +25,9 @@
             <reg>et </reg>
         </choice>
         <choice>
-            <seg type="lucas">pl(n)itudo</seg>
-            <orig>plitudo</orig>
-            <reg>plnitudo</reg>
+            <seg type="lucas">ple(n)itudo</seg>
+            <orig>pleitudo</orig>
+            <reg>plenitudo</reg>
         </choice>
         <choice>
             <seg type="lucas">ei(us):</seg>
@@ -186,7 +182,13 @@
             <seg type="lucas">s(upe)r</seg>
             <orig>sr</orig>
             <reg>super</reg>
-        </choice> cherubi? <choice>
+        </choice> 
+        <choice>
+            <seg type="lucas">cherub(i)m</seg>
+            <orig>cherubm</orig>
+            <reg>cherubim</reg>
+        </choice> 
+        <choice>
             <seg type="lucas">moveat(ur)</seg>
             <orig>moveat</orig>
             <reg>moveatur</reg>
@@ -263,7 +265,13 @@
             <orig>qm</orig>
             <reg>quoniam</reg>
         </choice>
-        <lb/>tribile <choice>
+        <lb/>
+        <choice>
+            <seg type="lucas">t(er)ribile</seg>
+            <orig>tribile</orig>
+            <reg>terribile</reg>
+        </choice> 
+        <choice>
             <seg type="lucas">(et) </seg>
             <orig> </orig>
             <reg>et </reg>

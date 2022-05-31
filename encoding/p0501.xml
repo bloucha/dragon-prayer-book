@@ -184,9 +184,9 @@
 		       <reg>ecclesia</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">leta(?)</seg>
+		       <seg type="lucas">leta(m)</seg>
 		       <orig>leta</orig>
-		       <reg>leta?</reg>
+		       <reg>letam</reg>
 	     </choice> a
 <lb break="no"/>
 	     <choice>
@@ -203,7 +203,7 @@
 		       <seg type="lucas">q(ue)</seg>
 		       <orig>q</orig>
 		       <reg>que</reg>
-	     </choice> none
+	     </choice> nove
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)lis</seg>
@@ -223,9 +223,9 @@
 	     </choice> or
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">di(n)s</seg>
+		       <seg type="lucas">di(ni)s</seg>
 		       <orig>dis</orig>
-		       <reg>dins</reg>
+		       <reg>dinis</reg>
 	     </choice> dux 
 	<choice>
 		       <seg type="lucas">(et) </seg>
@@ -270,9 +270,9 @@
 		       <reg>celicus.</reg>
 	     </choice> Carnis 
 	<choice>
-		       <seg type="lucas">lib(era?)</seg>
+		       <seg type="lucas">lib(er)</seg>
 		       <orig>lib</orig>
-		       <reg>libera?</reg>
+		       <reg>liber</reg>
 	     </choice> ergas⸗
 
 

@@ -47,7 +47,12 @@
 		       <orig>Fragrās</orig>
 		       <reg>Fragrans</reg>
 	     </choice> odor de
-<lb/>t???(?)lo 
+<lb/>
+         <choice>
+                  <seg type="lucas">tum(u)lo</seg>
+                  <orig>tuml͘o</orig>
+                  <reg>tumulo</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">cu(m)</seg>
 		       <orig>cū</orig>
@@ -85,9 +90,9 @@
 		       <reg>famulo</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">su(m?)mi?</seg>
-		       <orig>sūmi?</orig>
-		       <reg>sum?mi?<!--  check expansion --></reg>
+		       <seg type="lucas">su(m)mi</seg>
+		       <orig>sūmi</orig>
+		       <reg>summi</reg>
 	     </choice> 
       <lb/>regis 
 	<choice>
@@ -96,9 +101,9 @@
 		       <reg>magnalia.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Uri(?)o</seg>
-		       <orig>Urīo</orig>
-		       <reg>Uri?o<!--  check expansion --></reg>
+		       <seg type="lucas">Tri(n)o</seg>
+		       <orig>Trīo</orig>
+		       <reg>Trino</reg>
 	     </choice> 
  deo
 <lb/>
@@ -199,9 +204,9 @@
 	     </choice> mor
 <lb break="no"/>tis 
 	<choice>
-		       <seg type="lucas">ho(mo?)</seg>
+		       <seg type="lucas">ho(ra)</seg>
 		       <orig>hö</orig>
-		       <reg>homo?</reg>
+		       <reg>hora</reg>
 	     </choice> nos 
 	<choice>
 		       <seg type="lucas">tecu(m)</seg>
@@ -213,8 +218,13 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
-	     </choice> hic †sp?†
-<lb/>per nos pie respice.
+	     </choice> hic 
+         <choice>
+                  <seg type="lucas">s(em)</seg>
+                  <orig>s</orig>
+                  <reg>sem</reg>
+         </choice>
+<lb break="no"/>per nos pie respice.
 <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>

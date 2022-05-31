@@ -70,9 +70,9 @@
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">re(?)</seg>
+		       <seg type="lucas">re(m)</seg>
 		       <orig>re</orig>
-		       <reg>re?<!--  check expansion --></reg>
+		       <reg>rem</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -94,7 +94,12 @@
 		       <seg type="lucas">f(a)c(tu)s</seg>
 		       <orig>fcs</orig>
 		       <reg>factus</reg>
-	     </choice> ei?(?a)nge
+	     </choice> 
+         <choice>
+                  <seg type="lucas">eiv(a)nge</seg>
+                  <orig>eivnge</orig>
+                  <reg>eivange</reg>
+         </choice>
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">lic(us).</seg>
@@ -113,9 +118,9 @@
 		       <reg>cula</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">v(ir)gi(n)tatis</seg>
+		       <seg type="lucas">v(ir)gi(ni)tatis</seg>
 		       <orig>vgitatis</orig>
-		       <reg>virgintatis</reg>
+		       <reg>virginitatis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">liliu(m)</seg>
@@ -139,9 +144,9 @@
 		       <reg>pro</reg>
 	     </choice> celo 
 	<choice>
-		       <seg type="lucas">p(er)e?(n)ciu(m).</seg>
-		       <orig>pe?ciu.</orig>
-		       <reg>pere?ncium.</reg>
+		       <seg type="lucas">p(er)eu(n)ciu(m).</seg>
+		       <orig>peuciu.</orig>
+		       <reg>pereuncium.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Mu(n)</seg>
@@ -155,9 +160,9 @@
 		       <reg>dum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">calca(?)s</seg>
+		       <seg type="lucas">calca(n)s</seg>
 		       <orig>calcas</orig>
-		       <reg>calca?s<!--  check expansion --></reg>
+		       <reg>calcans</reg>
 	     </choice> 
  
 	     <choice>
@@ -175,11 +180,11 @@
 		       <orig>manu</orig>
 		       <reg>manum</reg>
 	     </choice>
-      <lb/>misit? ad forcia ??
+      <lb/>misit ad forcia 
 	<choice>
-		       <seg type="lucas">d(us)</seg>
-		       <orig>d</orig>
-		       <reg>dus</reg>
+		       <seg type="lucas">nud(us)</seg>
+		       <orig>nud</orig>
+		       <reg>nudus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">occ(ur)</seg>
@@ -196,7 +201,12 @@
 		       <seg type="lucas">hostib(us)</seg>
 		       <orig>hostib</orig>
 		       <reg>hostibus</reg>
-	     </choice> (christi?) 
+	     </choice> 
+         <choice>
+                  <seg type="lucas">(christi)</seg>
+                  <orig>x</orig>
+                  <reg>christi</reg>
+         </choice> 
 	<choice>
 		       <seg type="lucas">suffult(us)</seg>
 		       <orig>suffult</orig>
@@ -209,9 +219,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">Pug(na?)t</seg>
+		       <seg type="lucas">Pug(na)t</seg>
 		       <orig>Pugt</orig>
-		       <reg>Pugna?t<!--  check expansion --></reg>
+		       <reg>Pugnat</reg>
 	     </choice> 
  
 	     <choice>
@@ -240,11 +250,11 @@
 		       <orig>frib</orig>
 		       <reg>fratribus</reg>
 	     </choice> crebros ad
-<lb break="no"/>??(?)
+<lb break="no"/>
 	<choice>
-		       <seg type="lucas">ge(n)s</seg>
-		       <orig>ges</orig>
-		       <reg>gens</reg>
+		       <seg type="lucas">iuge(n)s</seg>
+		       <orig>iuges</orig>
+		       <reg>iugens</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sedul(is)</seg>

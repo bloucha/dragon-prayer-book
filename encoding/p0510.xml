@@ -140,9 +140,9 @@
 		       <reg>et </reg>
 	     </choice> domestici dei; 
 	<choice>
-		       <seg type="lucas">s(?)redificati</seg>
+		       <seg type="lucas">s(upe)redificati</seg>
 		       <orig>sredificati</orig>
-		       <reg>s?redificati<!--  check expansion --></reg>
+		       <reg>superedificati<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -156,9 +156,9 @@
 		       <reg>fundamentum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ap(u)lor(um)</seg>
+		       <seg type="lucas">ap(osto)lor(um)</seg>
 		       <orig>aplor</orig>
-		       <reg>apulorum</reg>
+		       <reg>apostolorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -166,9 +166,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">p(ro)ph(er)a</seg>
+		       <seg type="lucas">p(ro)ph(et)a</seg>
 		       <orig>ppha</orig>
-		       <reg>prophera</reg>
+		       <reg>propheta</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -229,9 +229,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">paci(m?)a</seg>
+		       <seg type="lucas">paci(enti)a</seg>
 		       <orig>pacia</orig>
-		       <reg>pacim?a<!--  check expansion --></reg>
+		       <reg>pacientia<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
 	     <choice>

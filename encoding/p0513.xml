@@ -50,10 +50,10 @@
                   <seg type="lucas">meu(m)</seg>
                   <orig>meu</orig>
                   <reg>meum</reg>
-            </choice> ut diligatis <lb/>?(?)? <choice>
-                  <seg type="lucas">ice(?)</seg>
-                  <orig>ice</orig>
-                  <reg>ice?</reg>
+            </choice> ut diligatis <lb/><choice>
+                  <seg type="lucas">i(n)vice(m)</seg>
+                  <orig>ivice</orig>
+                  <reg>invicem</reg>
             </choice>
             <choice>
                   <seg type="lucas">sic(ut)</seg>
@@ -80,9 +80,9 @@
                   <reg>nemo</reg>
             </choice>
             <choice>
-                  <seg type="lucas">h(i?)t</seg>
+                  <seg type="lucas">h(abe)t</seg>
                   <orig>ht</orig>
-                  <reg>hi?t<!--  check expansion --></reg>
+                  <reg>habet</reg>
             </choice> ut <choice>
                   <seg type="lucas">a(n)i(m)a(m)</seg>
                   <orig>aia</orig>
@@ -106,10 +106,10 @@
                   <seg type="lucas">an(tiphon?)</seg>
                   <orig>an</orig>
                   <reg>antiphon?</reg>
-            </choice> Vos amici mei estis <lb/>fi <choice>
-                  <seg type="lucas">fec(er?)itis</seg>
+            </choice> Vos amici mei estis <lb/>si <choice>
+                  <seg type="lucas">fec(er)itis</seg>
                   <orig>fecitis</orig>
-                  <reg>fecer?itis<!--  check expansion --></reg>
+                  <reg>feceritis</reg>
             </choice>
             <choice>
                   <seg type="lucas">q(ue)</seg>
@@ -117,9 +117,9 @@
                   <reg>que</reg>
             </choice>
             <choice>
-                  <seg type="lucas">p(ri)ncipio</seg>
-                  <orig>pncipio</orig>
-                  <reg>principio</reg>
+                  <seg type="lucas">p(re)cipio</seg>
+                  <orig>pcipio</orig>
+                  <reg>precipio</reg>
             </choice>
             <choice>
                   <seg type="lucas">vob(is)</seg>
@@ -176,9 +176,9 @@
                   <orig>an</orig>
                   <reg>antiphon?</reg>
             </choice> In <choice>
-                  <seg type="lucas">pacia(n)a</seg>
-                  <orig>paciaa</orig>
-                  <reg>paciana</reg>
+                  <seg type="lucas">paci(enti)a</seg>
+                  <orig>pacia</orig>
+                  <reg>pacientia</reg>
             </choice>
             <choice>
                   <seg type="lucas">v(est)ra</seg>

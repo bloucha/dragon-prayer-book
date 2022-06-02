@@ -25,9 +25,9 @@
                   <reg>nobis</reg>
             </choice>
             <choice>
-                  <seg type="lucas">ope(n?)</seg>
+                  <seg type="lucas">ope(m)</seg>
                   <orig>ope</orig>
-                  <reg>open?</reg>
+                  <reg>opem</reg>
             </choice>
             <choice>
                   <seg type="lucas">fere(n)s</seg>
@@ -48,12 +48,23 @@
                   <seg type="lucas">morib(us).</seg>
                   <orig>morib.</orig>
                   <reg>moribus.</reg>
-            </choice> Im. <lb/>
+            </choice> 
             <choice>
-                  <seg type="lucas">Gl(ori)a.</seg>
+                  <seg type="lucas">Im(ple Pater).</seg>
+                  <orig>Im.</orig>
+                  <reg>Imple Pater.</reg>
+            </choice><lb/>
+            <choice>
+                  <seg type="lucas">Gl(ori)a (Patri).</seg>
                   <orig>Gla.</orig>
-                  <reg>Gloria.</reg>
-            </choice> im. <choice>
+                  <reg>Gloria Patri.</reg> <!--there is no symbol/abbreviation marker for the Patri, it is just there-->
+            </choice>
+            <choice>
+                  <seg type="lucas">im(ple Pater).</seg>
+                  <orig>im.</orig>
+                  <reg>imple Pater.</reg>
+            </choice>
+            <choice>
                   <seg type="lucas">V(ersiculus).</seg>
                   <orig>V.</orig>
                   <reg>Versiculus.</reg>
@@ -61,7 +72,12 @@
                   <seg type="lucas">p(ro)</seg>
                   <orig>p</orig>
                   <reg>pro</reg>
-            </choice> n. Ad <choice>
+            </choice> 
+            <choice>
+                  <seg type="lucas">n(obis).</seg>
+                  <orig>n.</orig>
+                  <reg>nobis.</reg> <!--no marker for this one either-->
+            </choice> Ad <choice>
                   <seg type="lucas">l(?).</seg>
                   <orig>l.</orig>
                   <reg>l?.<!--  check expansion --></reg>
@@ -73,9 +89,9 @@
                   <reg>antiphon</reg>
             </choice>
             <choice>
-                  <seg type="lucas">Ade(m?)</seg>
+                  <seg type="lucas">Ade(st)</seg>
                   <orig>Ade</orig>
-                  <reg>Adem?</reg>
+                  <reg>Adest</reg>
             </choice> dies leticie <choice>
                   <seg type="lucas">q(uo)</seg>
                   <orig>q</orig>
@@ -123,9 +139,9 @@
             </choice>
             <lb/>
             <choice>
-                  <seg type="lucas">IMpnu(m)?</seg>
-                  <orig>IMpnu?</orig>
-                  <reg>IMpnum?</reg>
+                  <seg type="lucas">IMnu(m)</seg>
+                  <orig>IMpnu</orig>
+                  <reg>IMnum</reg>
             </choice> nove letici <lb break="no"/>e dulci <choice>
                   <seg type="lucas">p(ro)ductu(m)</seg>
                   <orig>pductu</orig>
@@ -214,9 +230,9 @@
                   <reg>mittitur.</reg>
             </choice>
             <choice>
-                  <seg type="lucas">Doct(er)na(m)</seg>
+                  <seg type="lucas">Doct(ri)na(m)</seg>
                   <orig>Doctna</orig>
-                  <reg>Docternam</reg>
+                  <reg>Doctrinam</reg>
             </choice>
       </ab>
 

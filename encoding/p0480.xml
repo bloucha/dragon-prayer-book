@@ -239,54 +239,54 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(u)s</seg>
-		       <orig>dns</orig>
+		       <orig>dn̄s</orig>
 		       <reg>dominus</reg>
 	     </choice> his 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)</seg>
-		       <orig>t</orig>
+	           <orig>ṫ</orig>
 		       <reg>tri</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">b(u)lato</seg>
-		       <orig>blato</orig>
+		       <orig>bl͘ato</orig>
 		       <reg>bulato</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(un)t</seg>
-		       <orig>st</orig>
+		       <orig>st͘</orig>
 		       <reg>sunt</reg>
 	     </choice> corde: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	      <orig> +</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">hu(m)iles</seg>
-		       <orig>huiles</orig>
+	           <orig>hūiles</orig>
 		       <reg>humiles</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">sp(irit)u</seg>
-		       <orig>spu</orig>
+	           <orig>spū</orig>
 		       <reg>spiritu</reg>
 	     </choice> salvabit. 
 	<choice>
 		       <seg type="lucas">M(u)lte</seg>
-		       <orig>Mlte</orig>
+		       <orig>Ml͘te</orig>
 		       <reg>Multe</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)bu⸗</seg>
-		       <orig>tbu⸗</orig>
+	           <orig>ṫbu⸗</orig>
 		       <reg>tribu⸗</reg>
 	     </choice>
    </ab>

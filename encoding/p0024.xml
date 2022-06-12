@@ -83,7 +83,7 @@
 		       <seg type="lucas">gi(ni)s</seg>
 	                 <orig>gīs</orig>
 		       <reg>ginis</reg>
-	           <!-- slight change from main transcription, it didn't include s -->
+	           
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -92,9 +92,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(arty)ris</seg>
-		       <orig>mṙ̄is</orig>
+		       <orig>mr̈is</orig>
 		       <reg>martyris</reg>
-	           <!-- r with two dots could not be found -->
+	           	     
 	     </choice> tue 
 	<choice>
 		       <seg type="lucas">p(er)</seg>
@@ -115,19 +115,19 @@
 <lb/>collocasti : 
 	<choice>
 		       <seg type="lucas">(con)cede</seg>
-		       <orig>cede</orig>
+		       <orig>ɔcede</orig>
 		       <reg>concede</reg>
-	      <!-- still need a con unicode -->
+	      
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pici(us).</seg>
-	                 <orig>ꝓpiciꝰ.</orig>
+	                 <orig>ꝑpiciꝰ.</orig>
 		       <reg>propicius.</reg>
 	     </choice> ut 
 <lb/>
 	     <choice>
 		       <seg type="lucas">ej(us)</seg>
-	                 <orig>ejꝰ</orig>
+	                 <orig>eiꝰ</orig>
 		       <reg>ejus</reg>
 	     </choice> 
 	     <choice>
@@ -142,7 +142,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)t(er)cessio(n)e</seg>
-	                 <orig>ītcessiōe</orig>
+	                 <orig>īṫcessiōe</orig>
 		       <reg>intercessione</reg>
 	     </choice> ; ad
 <lb/>
@@ -163,9 +163,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christu)s</seg>
-		       <orig>s</orig>
+		       <orig>xp̄s</orig>
 		       <reg>christus</reg>
-	           <!-- there's a character here that's totally missing from the transcription and i cannot tell what it is -->
+	           
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">valeam(us)</seg>
@@ -190,7 +190,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(um)</seg>
-	                 <orig>dōn⋮</orig>
+	                 <orig>dn̄⋮</orig>
 		       <reg>dominum</reg>
 	     </choice> 
 	     <choice>
@@ -201,14 +201,14 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">ih(eseu)m</seg>
-		       <orig>ih̄m</orig>
+		       <orig>iḣm</orig>
 		       <reg>iheseum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christu)m</seg>
-		       <orig>m</orig>
+		       <orig>xp̄m</orig>
 		       <reg>christum</reg>
-	           <!-- same christus problem -->
+	           
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">filiu(m)</seg>
@@ -233,7 +233,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">reg(na)t</seg>
-	                 <orig>reġ̇̄t</orig>
+	                 <orig>reg̈t</orig>
 		       <reg>regnat</reg>
 	     </choice>  
 	     <choice>
@@ -262,7 +262,7 @@
                         <orig>Ꝑ</orig> 
                         <reg>Per</reg>
                   </choice>
-         <!-- transcription does not include that Per is an abbrevation -->
+         
 	<choice>
 		       <seg type="lucas">o(mn)ia</seg>
 		       <orig>oīa</orig>
@@ -270,32 +270,32 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(ae)c(u)la</seg>
-	                 <orig>sclȧ</orig>
+	                 <orig>scl͘a</orig>
 		       <reg>saecula</reg>
-            <!-- unsure if dot or macron, no mark for missing ae -->
+            
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">s(ae)c(u)lor(um).</seg>
-	                 <orig>scl̄or⋮.</orig>
+	                 <orig>scl͘or⋮.</orig>
 		       <reg>saeculorum.</reg>
-	           <!-- i think this is l with a macron, unsure though -->
+	           
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Ame(n).</seg>
-		       <orig>Amē.</orig>
+		       <orig>Am̄e.</orig>
 		       <reg>Amen.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">D(omin)e</seg>
+		       <seg type="lucas">D(omi)ne</seg>
 		       <orig>Dn̄e</orig>
 		       <reg>Domine</reg>
-	           <!-- mistake in transcription, n is not counted when it should be -->
+	           	     
 	     </choice> ex. Et
 <lb/>clamor. 
 	<choice>
-		       <seg type="lucas">Benedicam(us)</seg>
-	                 <orig>Benedicam⋮</orig>
+		       <seg type="lucas">Benedicam(us)</seg> <!-- check transcription -->
+	                 <orig>Bn̄dicamꝰ</orig>
 		       <reg>Benedicamus</reg>
 	     </choice> 
 	     <choice>

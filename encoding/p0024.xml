@@ -257,6 +257,7 @@
 	                 <orig>ḋs</orig>
 		       <reg>deus</reg>
 	     </choice> : Per 
+         <!-- Per is repeated -->
                   <choice>
                         <seg> type="lucas">P(er)</seg>
                         <orig>Ꝑ</orig> 
@@ -294,7 +295,8 @@
 	     </choice> ex. Et
 <lb/>clamor. 
 	<choice>
-		       <seg type="lucas">Benedicam(us)</seg> <!-- check transcription -->
+		       <seg type="lucas">Benedicam(us)</seg> 
+	      <!-- check transcription, should be bndicam -->
 	                 <orig>Bn̄dicamꝰ</orig>
 		       <reg>Benedicamus</reg>
 	     </choice> 

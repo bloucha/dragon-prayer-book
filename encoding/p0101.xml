@@ -125,9 +125,9 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-	           <!-- should there be a small raised s -->
+	           
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig>
+		       <orig>q̈ˢ</orig>
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
@@ -173,6 +173,7 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
+	           <!-- check transcription, I don't see a y -->
 		       <seg type="lucas">synu(m)</seg>
 		       <orig>synū</orig>
 		       <reg>synum</reg>

@@ -68,13 +68,12 @@
 		       <orig/>
 		       <reg>ab</reg>
 	     </choice>
-         <!-- no marking for this here, just wanna make sure that is right -->
+         <!-- no marking for this here, seems to replace h? -->
 	     <choice>
 		       <seg type="lucas">u(n)da(n)cia</seg>
-		       <orig>ūdācia</orig>
+		       <orig>ūndācia</orig>
 		       <reg>undancia</reg>
-	           <!-- h on the page that does not show up in the transcript, also an n
-	           after the u -->
+	           <!-- h and n not originally included -->
 	     </choice> di
 <lb break="no"/>
 	     <choice>
@@ -103,11 +102,11 @@
 		       <orig/>
 		       <reg>ab</reg>
 	     </choice>
-         <!-- same as above, assume this is implied somehow -->
+         <!-- same as above with the h and n -->
 	     <choice>
 		       <seg type="lucas">u(n)da(n)cia</seg>
-		       <orig>ūdācia</orig>
-	           <!-- h on page that doesn't show here, also an n after the u -->
+		       <orig>ūndācia</orig>
+	           
 		       <reg>undancia</reg>
 	     </choice> di
 <lb break="no"/>
@@ -118,8 +117,8 @@
 	     </choice> tuis. 
 	<choice>
 		       <seg type="lucas">Propt(er)</seg>
-		       <orig>Propt͘</orig>
-	      <!-- not sure if not above or dot right -->
+		       <orig>Propṫ</orig>
+	      
 		       <reg>Propter</reg>
 	     </choice> 
 	     <choice>
@@ -135,7 +134,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)xi(m)os</seg>
-		       <orig>ꝓxīos</orig>
+		       <orig>ꝑxīos</orig>
 		       <reg>proximos</reg>
 	     </choice> meos: lo
 <lb break="no"/>
@@ -151,7 +150,7 @@
 	     </choice> de te. 
 	<choice>
 		       <seg type="lucas">Propt(er)</seg>
-		       <orig>Propt͘</orig>
+		       <orig>Propṫ</orig>
 		       <reg>Propter</reg>
 	     </choice>
       <lb/>

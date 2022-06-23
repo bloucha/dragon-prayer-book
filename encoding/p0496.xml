@@ -53,9 +53,9 @@
 	     </choice> sua.
 <lb/>
 	     <choice>
-		       <seg type="lucas">On(?)s</seg>
-		       <orig>Ons</orig>
-		       <reg>On?s<!--  check expansion --></reg>
+		       <seg type="lucas">D(omi)n(u)s</seg>
+		       <orig>Dns</orig>
+		       <reg>Dominus</reg>
 	     </choice> 
  
 	     <choice>
@@ -120,12 +120,12 @@
 		       <seg type="lucas">iudiciu(m)</seg>
 		       <orig>iudiciu</orig>
 		       <reg>iudicium</reg>
-	     </choice> [
-	<choice>
-		       <seg type="lucas">pp(er)icio]</seg>
-		       <orig>ppicio]</orig>
-		       <reg>ppericio]</reg>
-	     </choice> \\ce?pio// sedis
+	     </choice> 
+         <choice>
+                  <seg type="lucas">corr(ect)io</seg> <!--Hello digitizer! This word can be found scribbled in the left margin of the page; don't-->
+                  <orig>corrio</orig>                 <!--worry if you can't tell what symbol was used to abbreviate it––I honestly suspect no-->
+                  <reg>correctio</reg>                <!--marking was used at all due to it being written in the margin. Just leave a note!-->
+         </choice>sedis
 <lb/>
 	     <choice>
 		       <seg type="lucas">ei(us).</seg>
@@ -159,9 +159,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">i(n)fal(m)mabit</seg>
-		       <orig>ifalmabit</orig>
-		       <reg>infalmmabit</reg>
+		       <seg type="lucas">i(n)fla(m)mabit</seg>
+		       <orig>iflamabit</orig>
+		       <reg>inflammabit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -174,9 +174,9 @@
 		       <reg>circuitu</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">i(n)nimi</seg>
-		       <orig>inimi</orig>
-		       <reg>innimi</reg>
+		       <seg type="lucas">i(n)imi</seg>
+		       <orig>iimi</orig>
+		       <reg>inimi</reg>
 	     </choice>
       <lb break="no"/>cos 
 	<choice>
@@ -206,9 +206,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)mota</seg>
+		       <seg type="lucas">(com)mota</seg>
 		       <orig>mota</orig>
-		       <reg>conmota</reg>
+		       <reg>commota</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -232,9 +232,9 @@
 		       <reg>sicut</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">c(?)a</seg>
+		       <seg type="lucas">c(er)a</seg>
 		       <orig>ca</orig>
-		       <reg>c?a<!--  check expansion --></reg>
+		       <reg>cera</reg>
 	     </choice> 
  
 	     <choice>
@@ -268,8 +268,8 @@
 		       <seg type="lucas">Annu(n)ciaver(un)t</seg>
 		       <orig>Annuciavert</orig>
 		       <reg>Annunciaverunt</reg>
-	     </choice> celi ius⸗
-vavit14 
+	     </choice> celi ius
+         <lb break="no"/>
 	<choice>
 		       <seg type="lucas">ticia(m)</seg>
 		       <orig>ticia</orig>
@@ -314,7 +314,7 @@ vavit14
 	     <choice>
 		       <seg type="lucas">Co(n)fu(n)dua(n)t(ur)</seg>
 		       <orig>Cofuduat</orig>
-		       <reg>Confunduantur</reg>
+		       <reg>Confundantur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mne)s</seg>

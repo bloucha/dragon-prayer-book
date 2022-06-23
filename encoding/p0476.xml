@@ -32,7 +32,7 @@
 		       <reg>autem</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)move</seg>
+		       <seg type="lucas">(com)move</seg>
 		       <orig>move</orig>
 		       <reg>conmove</reg>
 	     </choice> 
@@ -231,9 +231,9 @@
 		       <reg>Beata</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ges(?)</seg>
+		       <seg type="lucas">ge(n)s</seg>
 		       <orig>ges</orig>
-		       <reg>ges?</reg>
+		       <reg>gens</reg>
 	     </choice> cu
 <lb break="no"/>ius 
 	<choice>
@@ -295,9 +295,9 @@
 		       <reg>hominum?.</reg>
 	     </choice> De 
 	<choice>
-		       <seg type="lucas">p(re)p(er?)ato</seg>
+		       <seg type="lucas">p(re)p(ar)ato</seg>
 		       <orig>ppato</orig>
-		       <reg>preper?ato</reg>
+		       <reg>preparato</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">h(ab)ita⸗</seg>

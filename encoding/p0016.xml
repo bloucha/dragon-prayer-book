@@ -99,7 +99,7 @@
 		       <seg type="lucas">d(omi)ne</seg>
 		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
-	     </choice> famu⸗ 
+	     </choice> famu⸗ <!-- famulos is actually one word -->
 	<choice>
 		       <seg type="lucas">or(emus)</seg>
 			   <orig>or̄</orig>
@@ -201,6 +201,17 @@
 
    <ab type="translation"
        xml:id="p0016_translation"
-       corresp="#p0016_transcription"/>
+       corresp="#p0016_transcription"> <!-- starts on previous page --> in our necessities, 
+   	but deliver us always from all dangers, O blessed Virgin. <!-- the 'sub tuum praesidium' usually says 'o glorious and blessed' -->
+   	[Vespers] After childbirth
+   	you remained a virgin; O mother of God, intercede for
+   	us. Defend Thy servants, O Lord, [Let us pray] by granting them the 
+   	gift of peace, and as they have confidence in the patronage of 
+   	Blessed Mary, ever Virgin, so do Thou
+   	make them safe from all their enemies. [Antiphon] Great Father, Saint Dominic, when our last hour arrives,
+   	welcome us above, and ever watch over
+   	us here below. [Vesper] The mouth of
+   	the just man shall
+   	speak wisdom. <!-- continues to next page (Little Office BVM p 190) --> </ab>
 
 </div>

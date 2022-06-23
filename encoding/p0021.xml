@@ -24,12 +24,12 @@
                   <seg type="lucas">Dab(is)</seg>
                   <orig>Daḃ</orig>
                   <reg>Dabis</reg>
-                  <!-- not entirely sure about b(is) abbreviation -->
+                  
             </choice>
             <lb/>
             <choice>
                   <seg type="lucas">eu(m)</seg>
-                  <orig>eu̇</orig>
+                  <orig>eū</orig>
                   <reg>eum</reg>
             </choice> 
             <choice>
@@ -39,7 +39,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">b(e)n(e)dict(i)o(nem)</seg>
-                  <orig>bṅdictȯ⋮</orig>
+                  <orig>bn̄dictō⋮</orig>
                   <reg>benedictionem</reg>
             </choice> 
             <choice>
@@ -49,13 +49,13 @@
             </choice> 
             <choice>
                   <seg type="lucas">s(e)c(u)l(u)m</seg>
-                  <orig>scľm</orig>
+                  <orig>scl͘m</orig>
                   <reg>seculum</reg>
-                  <!-- please double check the ľ -->
+                  
             </choice> 
             <choice>
                   <seg type="lucas">s(e)c(u)li</seg>
-                  <orig>scli</orig>
+                  <orig>scl͘i</orig>
                   <reg>seculi</reg>
             </choice> ;
             <lb/>
@@ -63,11 +63,11 @@
                   <seg type="lucas">Letificab(is)</seg>
                   <orig>Letificaḃ</orig>
                   <reg>Letificabis</reg>
-                  <!-- please double check bis -->
+                  
             </choice> 
             <choice>
                   <seg type="lucas">eu(m)</seg>
-                  <orig>eu̇</orig>
+                  <orig>eū</orig>
                   <reg>eum</reg>
             </choice> 
             <choice>
@@ -77,55 +77,55 @@
             </choice> gaudio 
             <choice>
                   <seg type="lucas">cu(n)</seg>
-                  <orig>cu̇</orig>
+                  <orig>cū</orig>
                   <reg>cun</reg>
             </choice>
             <lb/>
             <choice>
                   <seg type="lucas">DE(us)</seg>
-                  <orig>DE</orig>
+                  <orig>DEꝰ</orig>
                   <reg>DEus</reg>
-                  <!-- i don't know the unicode for (us) -->
+                  
             </choice> 
             <choice>
                   <seg type="lucas">q(u)i</seg>
-                  <orig>q͘i</orig>
+                  <orig>q̇</orig>
                   <reg>qui</reg>
             </choice>         
             <choice>
                   <seg type="lucas">Or(aci)o</seg>
-                  <orig>Oṙo</orig>
+                  <orig>Or̄o</orig>
                   <reg>Oracio</reg>
-                  <!-- please double check -->
+                  
             </choice>         vultu tuo ;
             <lb/>
             <choice>
                   <seg type="lucas">ge(n)tiu(m)</seg>
-                  <orig>gėtiu̇</orig>
+                  <orig>gētiū</orig>
                   <reg>gentium</reg>
             </choice> 
             <choice>
                   <seg type="lucas">m(u)ltitudine(m)</seg>
-                  <orig>ml̇titudinė</orig>
+                  <orig>ml̇͘titudinē</orig>
                   <reg>multitudinem</reg>
-                  <!-- the dot above the l can't really be seen -->
+                              
             </choice> mi
             <lb break="no"/>ra 
             <choice>
                   <seg type="lucas">b(ea)ti</seg>
-                  <orig>ḃti</orig>
+                  <orig>b̄ti</orig>
                   <reg>beati</reg>
             </choice> 
             <choice>
                   <seg type="lucas">Vi(n)ce(n)tii</seg>
-                  <orig>Vīcėtii</orig>
+                  <orig>Vīcētii</orig>
                   <reg>Vincentii</reg>
             </choice> 
             <choice>
                   <seg type="lucas">(con)</seg>
-                  <orig/>
+                  <orig>ɔ</orig>
                   <reg>con</reg>
-                  <!-- CON! -->
+                  
             </choice>
             <choice>
                   <seg type="lucas">fesso(r)is</seg>
@@ -135,13 +135,13 @@
             <lb/>
             <choice>
                   <seg type="lucas">p(re)dicac(i)o(n)e</seg>
-                  <orig>pdicacoe</orig>
+                  <orig>p̄dicacōe</orig>
                   <reg>predicacione</reg>
-                  <!-- pre? -->
+                              
             </choice> ad 
             <choice>
                   <seg type="lucas">ag(ni)t(i)o(nem)</seg>
-                  <orig>aġtȯ⋮</orig>
+                  <orig>aġtō⋮</orig>
                   <reg>agnitionem</reg>
             </choice> tui 
             <lb/>
@@ -157,7 +157,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">t(ri)buisti</seg>
-                  <orig>t͘buisti</orig>
+                  <orig>ṫbuisti</orig>
                   <reg>tribuisti</reg>
             </choice> : 
             <choice>
@@ -178,7 +178,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">ve(n)tu(rum)</seg>
-                  <orig>vētuꝝ</orig>
+                  <orig>vētur⋮</orig>
                   <reg>venturum</reg>
             </choice> 
             <choice>
@@ -220,7 +220,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">me(re)am(ur)</seg>
-                  <orig>mėam݃</orig>
+                  <orig>mėam݃ </orig>
                   <reg>mereamur</reg>
             </choice> 
             <choice>
@@ -235,9 +235,9 @@
             </choice> 
             <choice>
                   <seg type="lucas">(Christu)m.</seg>
-                  <orig>m.</orig>
+                  <orig>xp̄m.</orig>
                   <reg>Christum.</reg>
-                  <!-- not sure about this one -->
+                  
             </choice> 
             <lb/>
             <choice>
@@ -252,7 +252,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">s(an)c(t)os</seg>
-                  <orig>scōs</orig>
+                  <orig>sc̄os</orig>
                   <reg>sanctos</reg>
             </choice> 
             <lb/>
@@ -268,19 +268,19 @@
             </choice> 
             <choice>
                   <seg type="lucas">D(omi)ni</seg>
-                  <orig>Dṅi</orig>
+                  <orig>Dn̄i</orig>
                   <reg>Domini</reg>
             </choice>
             <lb break="no"/>ci ordo 
             <choice>
                   <seg type="lucas">p(ro)pagavit</seg>
-                  <orig>ꝓpagavit</orig>
+                  <orig>ꝑpagavit</orig>
                   <reg>propagavit</reg>
             </choice> nos eo
             <lb break="no"/>
             <choice>
                   <seg type="lucas">(rum) </seg>
-                  <orig> ꝝ</orig>
+                  <orig>r⋮</orig>
                   <reg>rum </reg>
             </choice> 
             <choice>

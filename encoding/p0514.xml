@@ -68,7 +68,12 @@
 		       <seg type="lucas">p(er)f(e)c(t)a</seg>
 		       <orig>pfca</orig>
 		       <reg>perfecta</reg>
-	     </choice> (christ?) ca
+	     </choice> 
+         <choice>
+               <seg type="lucas">(christi)</seg>
+               <orig>x</orig>
+               <reg>christi</reg>
+         </choice> ca
 <lb break="no"/>ritas 
 	<choice>
 		       <seg type="lucas">mu(n)di</seg>
@@ -92,9 +97,9 @@
 		       <reg>pem.</reg>
 	     </choice> In hiis 
 	<choice>
-		       <seg type="lucas">p(ate?)rna</seg>
+		       <seg type="lucas">p(ate)rna</seg>
 		       <orig>prna</orig>
-		       <reg>pate?rna<!--  check expansion --></reg>
+		       <reg>paterna</reg>
 	     </choice> 
  
 	     <choice>

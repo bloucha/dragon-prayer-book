@@ -33,7 +33,7 @@
       <lb break="no"/>tis: ita filii 
 	<choice>
 		       <seg type="lucas">excussor(um).</seg>
-		       <orig>excussor⋮.</orig>
+	    <orig>excussoꝝ.</orig>
 		       <reg>excussorum.</reg>
 	     </choice> 
 	     <choice>
@@ -59,12 +59,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">desideriu(m)</seg>
-		       <orig>desideriu͘</orig>
+	         <orig>desideriū</orig>
 		       <reg>desiderium</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">suu(m)</seg>
-		       <orig>suu͘</orig>
+	         <orig>suū</orig>
 		       <reg>suum</reg>
 	     </choice>
       <lb/>ex 
@@ -79,15 +79,10 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 	         <!-- unicode 0743 is not appearing correctly -->
-		       <seg type="lucas">f(u)ndet(ur)</seg>
-		       <orig>fn̄det݃</orig>
-		       <reg>fundetur</reg>
+		       <seg type="lucas">(con)f(u)ndet(ur)</seg>
+	         <orig>ɔfn̄det݃</orig>
+		       <reg>confundetur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cu(m)</seg>
@@ -156,7 +151,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um)</seg>
-		       <orig>tuar⋮</orig>
+	         <orig>tuaꝝ</orig>
 		       <reg>tuarum</reg>
 	     </choice>
       <lb/>

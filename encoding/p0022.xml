@@ -32,9 +32,9 @@
 	     </choice>
       <lb break="no"/>dari. 
 	<choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Sapi(enti)a(m)</seg>
@@ -216,9 +216,9 @@
 		       <reg>soliadatur</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Exultabu(n)t</seg>
@@ -339,11 +339,11 @@
 
    <ab type="translation"
        xml:id="p0022_translation"
-       corresp="#p0022_transcription"> and to be commended to God by their prayers. V. 
+       corresp="#p0022_transcription"> and to be commended to God by their prayers. [Versicle]. 
             Let the nations tell of the wisdom of the Saints; And the Church show forth their 
             praise. O what happiness and glory belong always to the saints, how distinguished the merits
             of the Preachers, by whose words and deeds the world is adorned, by whose offices
-   the mind grows stronger. V. The Saints shall be joyful in glory. They shall sing for joy upon their beds. 
+   the mind grows stronger. [Versicle]. The Saints shall be joyful in glory. They shall sing for joy upon their beds. 
    [Let us pray] <!-- in the OBVM it says Oremus not oracio --> Grant, we beseech Thee, almighty God, that the examples of our saints 
    Peter, Thomas, Vincent, and Catherine, may incite us to a better life, <!-- cont --></ab>
 

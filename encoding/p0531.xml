@@ -17,86 +17,87 @@
 	     </choice>
 	     <choice>
 		       <seg type="lucas">y(m)nus.</seg>
-		       <orig>ynus.</orig>
+		       <orig>ȳnus.</orig>
 		       <reg>ymnus.</reg>
 	     </choice>
       <lb/>ETerna 
 	<choice>
 		       <seg type="lucas">(christ)i</seg>
-		       <orig>i</orig>
+		       <orig>xp̄i</orig>
 		       <reg>christi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mun(er)a</seg>
-		       <orig>muna</orig>
+		       <orig>mun͘a</orig>
 		       <reg>munera</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig/>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">m(at)r(?)m</seg>
-		       <orig>mrm</orig>
+		       <orig>mr̈m</orig>
 		       <reg>matr?m</reg>
 	     </choice> victorias laudes ca
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ne(n)tes</seg>
-		       <orig>netes</orig>
+		       <orig>nētes</orig>
 		       <reg>nentes</reg>
 	     </choice> debitas letis 
 	<choice>
 		       <seg type="lucas">canam(us)</seg>
-		       <orig>canam</orig>
+		       <orig>canamꝰ</orig>
 		       <reg>canamus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">me(n)tib(us).</seg>
-		       <orig>metib.</orig>
+		       <orig>mētib⋮.</orig>
 		       <reg>mentibus.</reg>
 	     </choice> Terrore victo 
 	<choice>
 		       <seg type="lucas">s(e)c(u)li</seg>
-		       <orig>scli</orig>
+		       <orig>scl͘i</orig>
 		       <reg>seculi</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">penisq(ue)</seg>
-		       <orig>penisq</orig>
+		       <orig>penisq⋮</orig>
 		       <reg>penisque</reg>
 	     </choice> spretis 
 	<choice>
 		       <seg type="lucas">corp(or)is</seg>
-		       <orig>corpis</orig>
+		       <orig>corꝑis</orig>
 		       <reg>corporis</reg>
 	     </choice> mor
 <lb break="no"/>tis sacre 
 	<choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig/>
+		       <orig>ɔ</orig>
 		       <reg>con</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">pe(n)dio</seg>
-		       <orig>pedio</orig>
+		       <orig>pēdio</orig>
 		       <reg>pendio</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vita(m)</seg>
-		       <orig>vita</orig>
+		       <orig>vitā</orig>
 		       <reg>vitam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(ea)ta(m)</seg>
-		       <orig>bta</orig>
+		       <orig>bt̄a⋮</orig>
 		       <reg>beatam</reg>
 	     </choice>
       <lb/>
+         <!-- continue here -->
 	     <choice>
 		       <seg type="lucas">posside(n)t.</seg>
 		       <orig>possidet.</orig>

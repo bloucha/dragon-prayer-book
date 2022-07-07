@@ -30,7 +30,10 @@
 		       <seg type="lucas">ecia(m)</seg>
 		       <orig>eciā</orig>
 		       <reg>eciam</reg>
-	     </choice> [et -erased] 
+	     </choice> 
+         <choice>
+               <supplied> etiam </supplied> <!--unsure of code -->
+         </choice> 
 	<choice>
 		       <seg type="lucas">act(us)</seg>
 		       <orig>actꝰ</orig>
@@ -259,6 +262,7 @@
 
    <ab type="translation"
        xml:id="p0023_translation"
-       corresp="#p0023_transcription"/>
+       corresp="#p0023_transcription"> may incite us to a better life, that we may imitate their actions whose
+   blessed memory we celebrate. Through [Christ our Lord]. [Antiphon] </ab>
 
 </div>

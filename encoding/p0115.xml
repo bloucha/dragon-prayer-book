@@ -68,9 +68,9 @@
 	     </choice>
       <lb/>salute. 
 	<choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> Orate 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
@@ -293,7 +293,7 @@
 	<choice>
 		       <seg type="lucas">Or(emus?).</seg>
 		       <orig>Or̄.</orig>
-		       <reg>Oremus?.<!--  check expansion --></reg>
+		       <reg>Oremus?.<!--  check expansion (translator note: the office has oremus --></reg>
 	     </choice> 
       <lb/>DEus a 
 	<choice>
@@ -344,6 +344,29 @@
 
    <ab type="translation"
        xml:id="p0115_translation"
-       corresp="#p0115_transcription"/>
+       corresp="#p0115_transcription"> and enter into the joy of eternal happiness. Through [Christ our Lord]. [Antiphon]
+        O all ye Saints
+         of God, vouchsafe to
+         intercede for the salvation of us and of
+         all mankind. [Versicle]. Pray for us, O
+         all ye Saints of God. That [we made be made worthy of the promises of Christ]. [Let us pray]. Grant, we beseech
+         Thee, O Lord,
+         that all Thy Saints
+         may continually pray
+         for us, and vouchsafe
+         of Thy clemency mercifully to hear them.
+         Through Christ our
+         Lord.[Antiphon]. Grant peace,
+         O Lord, in our days,
+         for there is none other to fight for us, but
+         Thou, our God. [Versicle]. Peace be within
+         thy strength.
+         And plenteousness in thy towers. [Let us pray]. O God, from whom
+         are holy desires,
+         right counsels and
+         just works, grant to
+         Thy servants that
+         peace, which the
+         world cannot give, <!-- OBVM 198 cont. --> </ab>
 
 </div>

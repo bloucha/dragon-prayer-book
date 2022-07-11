@@ -278,7 +278,7 @@
 	     <choice>
 		       <seg type="lucas">t(e)</seg>
 		       <orig>ṫ</orig>
-		       <reg>te</reg>
+		       <reg>te</reg> <!-- the Latin vulgate has this as 'tibi' -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(u)s</seg>
@@ -294,6 +294,16 @@
        Blessed is the man
        whose quiver is full of them.
        They will not be put to shame
-       when they contend with their opponents in court. <!-- Psalm 127 NIV -->. </ab>
+       when they contend with their opponents in court.<!-- Psalm 127 NIV -->. Blessed are all who fear the Lord,
+       who walk in obedience to him.
+       You will eat the fruit of your labor;
+       blessings and prosperity will be yours.
+       Your wife will be like a fruitful vine
+       within your house;
+       your children will be like olive shoots
+       around your table.
+       Yes, this will be the blessing
+       for the man who fears the Lord.
+       May the Lord bless you from Zion; <!-- Psalm 128 NIV cont. --> </ab>
 
 </div>

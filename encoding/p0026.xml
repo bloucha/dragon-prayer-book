@@ -12,7 +12,7 @@
       <lb/>regio 
 	<choice>
 		       <seg type="lucas">c(on)ju(n)cta</seg>
-	             <orig>ɔju̇cta</orig> <!-- not sure how to do the c(on) abbreviations -->
+	             <orig>ɔjūcta</orig> 
 		       <reg>conjuncta</reg>
 	     </choice> dei filio. 
 	<choice>
@@ -34,8 +34,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(ate)r</seg>
-		       <orig>m︦r</orig> <!-- Not sure if this is correct -->
-		       <reg>mater</reg>
+		       <orig>mr̄</orig> 		       
+	                 <reg>mater</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">du(m)</seg>
@@ -44,7 +44,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">stet(er)is</seg>
-		       <orig>steṫis</orig>
+		       <orig>stet̄is</orig>
 		       <reg>steteris</reg>
 	     </choice> 
 	     <choice>
@@ -54,18 +54,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">c(on)sp(e)c(t)u</seg>
-		       <orig>cspcu</orig> <!--not sure about this abbreviation --> 
+		       <orig>ɔspcū</orig>  
 	             <reg>conspectu</reg>
 	     </choice>
       <lb/>dei ut 
 	<choice>
 		       <seg type="lucas">loq(ua)ris</seg>
-		       <orig>loq̇ris</orig>
+		       <orig>loq̈ris</orig>
 		       <reg>loquaris</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-	             <orig>ꝓ</orig>
+	             <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -75,7 +75,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">bo(n)a</seg>
-	             <orig>boā</orig>
+	             <orig>bōa</orig>
 		       <reg>bona</reg>
 	     </choice> 
       <lb/>
@@ -113,7 +113,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)picia</seg>
-	           <orig>Ꝑicia</orig> <!-- not sure if this is the right pro abbrivation -->
+	           <orig>ꝑpicia</orig> 
 		       <reg>propicia</reg>
 	     </choice> 
 	     <choice>
@@ -140,13 +140,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(at)ria</seg>
-		       <orig>pr︦ia</orig>
+		       <orig>pr̄ia</orig>
 		       <reg>patria</reg>
 	     </choice> vite gau
 <lb break="no"/>dia 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-	             <orig>ꝓ</orig>
+	             <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -167,7 +167,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gl(ori)a</seg>
-		       <orig>glȧ</orig>
+		       <orig>gl͘a</orig>
 		       <reg>gloria</reg>
 	     </choice> susci 
 <lb break="no"/>pe pia. 
@@ -182,10 +182,12 @@
 		       <seg type="lucas">nob(is).</seg>
 	             <orig>noḃ.</orig>
 		       <reg>nobis.</reg>
-	     </choice> V. Ora. 
+	     </choice> 
+         <!-- V might be Vespers, there is a diacritic -->
+         V. Ora. 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-	             <orig>ꝓ</orig>
+	             <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb/>
@@ -216,8 +218,9 @@
 		       <reg>efficiamur</reg>
 	     </choice> 
 	     <choice>
+	           <!-- check transcription, there is no "us" -->
 		       <seg type="lucas">p(ro)missio(n)ibus</seg>
-	             <orig>ꝓmissiōibus</orig>
+	             <orig>ꝑmissiōib⋮</orig>
 		       <reg>promissionibus</reg>
 	     </choice> 
 	     <choice>

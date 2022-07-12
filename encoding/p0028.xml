@@ -20,10 +20,8 @@
          
 	<choice>
 		       <seg type="lucas">cu(m)</seg>
-		       <orig>cu</orig>
+		       <orig>cū</orig>
 		       <reg>cum</reg>
-	      <!-- This translation is missing something between the una and grege, I looks like "ni" if not then there is a macron on the right side of the u-->
-	      
 	     </choice> 
          
          grege sibi 
@@ -71,18 +69,21 @@
 		       <reg>eterne.</reg>
 	     </choice> 
          
-         et 
+        <choice>
+           <seg type="lucas"> </seg>
+           <orig>+</orig>
+           <reg>et</reg>
+        </choice> 
          
 	<choice>
-	      <!-- not sure if this is a dot or a bar above the e -->
 		       <seg type="lucas">pace(m)</seg>
-		       <orig>pacė</orig>
+		       <orig>pacē</orig>
 		       <reg>pacem</reg>
 	     </choice> 
 	     <choice>
 	           
 		       <seg type="lucas">tua(m)</seg>
-	                 <orig>tuȧ</orig>
+	           <orig>tuā</orig>
 		       <reg>tuam</reg>
 	     </choice>
       <lb/>
@@ -99,7 +100,7 @@
 	     <choice>
 	        
 		       <seg type="lucas">t(em)p(or)ib(us):</seg>
-	                  <orig>tꝑib⋮:</orig>
+	          <orig>tꝑib⋮:</orig>
 		       <reg>temporibus:</reg>
 	     </choice> 
 	     <choice>
@@ -110,29 +111,23 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">An(tiphon).</seg>
-		       <orig>An̄.</orig>
+		       <orig>An̈.</orig>
 		       <reg>Antiphon.</reg>
 	     </choice>
       <lb/>O 
 	<choice>
 		       <seg type="lucas">sac(rum)</seg>
-		       <orig>sac⋮</orig>
+		       <orig>sacꝝ</orig>
 		       <reg>sacrum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-      <!-- I think it might be convivium, the con is attached -->
-	     <choice>
-		       <seg type="lucas">viviu(m)</seg>
-		       <orig>viviū</orig>
-		       <reg>vivium</reg>
+		       <seg type="lucas">(con)viviu(m)</seg>
+		       <orig>ɔviviū</orig>
+		       <reg>convivium</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-	                 <orig>ī</orig>
+	           <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
@@ -141,15 +136,15 @@
 		       <reg>quo</reg>
 	     </choice> 
 	     <choice>
-	        <!-- it looks like rpt, not sure if this is correct -->
 		       <seg type="lucas">(christ)(?)t?</seg>
-		       <orig>t?</orig>
-		       <reg>christ?t?</reg>
+		       <orig>xp̄t</orig>
+		       <reg>christ</reg>
+	        <!-- still a question mark on this expansion -->
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">su(m)it(ur)</seg>
-		       <orig>sūiṫ</orig>
+		       <orig>sūit݃</orig>
 		       <reg>sumitur</reg>
 	     </choice> 
 	     <choice>

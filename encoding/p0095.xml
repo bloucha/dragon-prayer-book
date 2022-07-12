@@ -184,9 +184,9 @@
 		       <reg>Sancta.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> Ora 
 	<choice>
 		       <seg type="lucas">p(ro).</seg>
@@ -318,6 +318,12 @@
 
    <ab type="translation"
        xml:id="p0095_translation"
-       corresp="#p0095_transcription"/>
+       corresp="#p0095_transcription"> in the whole world. And so I was established in Zion.
+        In the city he loves as he loves me, he gave me rest;
+           in Jerusalem, my domain.<!-- Sirach 24 from the USCCB website--> God. <!-- I'm assuming this is a prompt for something longer, Deo Gratias? --> [Response] 
+       Holy Mary, mother of Christ. Listen to those who beg of you. And you from heaven grant us a pardon. <!-- Google translate--> 
+       Hear [our prayer?] Glory [be??] Holy [??]. [Versiculus]. Pray for [us]. Lord. [Let us pray]. Grant, we beseech Thee, O Lord God, that we Thy servants may enjoy continual health of mind and body, and that,
+       through the glorious intercession of Blessed Mary, ever Virgin, we may be delivered from present sorrow and hereafter enjoy eternal happiness. <!--cont BVM 80--> 
+   </ab>
 
 </div>

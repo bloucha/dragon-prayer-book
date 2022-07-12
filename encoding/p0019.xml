@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝓ</orig>
+		       <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -69,8 +69,7 @@
 	     </choice> laus 
 <lb/>
 	     <choice>
-	           <!-- used a plus sign for et -->
-		       <seg type="lucas">(et)</seg>
+	                 <seg type="lucas">(et)</seg>
 		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice> 
@@ -80,9 +79,9 @@
 		       <reg>gloria</reg>
 	     </choice> 
 	     <choice>
-	           <!-- "rum" abbreviation not displaying in oxygen-->
+	           
 		       <seg type="lucas">p(re)dicato(rum)</seg>
-	           <orig>p̄dicatoꝝ</orig>
+	           <orig>p̄dicator⋮</orig>
 		       <reg>predicatorum</reg>
 	     </choice> ordinis
 <lb/>nos 
@@ -93,7 +92,7 @@
 	     </choice> ad celestia 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝓ</orig>
+		       <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb break="no"/>fessor 
@@ -108,9 +107,9 @@
 		       <reg>numinis.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> De
 <lb break="no"/>
 	     <choice>
@@ -125,7 +124,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-	                 <orig>tuoꝝ</orig>
+	                 <orig>tuor⋮</orig>
 		       <reg>tuorum</reg>
 	     </choice> il
 <lb break="no"/>
@@ -136,7 +135,7 @@
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">i(n)tell(e)c(tu)m</seg>
-		       <orig>ītellc̄m</orig>
+		       <orig>ītellcm̄</orig>
 		       <reg>intellectum</reg>
 	     </choice> dat 
 	<choice>
@@ -162,10 +161,10 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(christus)</seg>
+		       <seg type="lucas">(Christus)</seg>
 		       <orig>xp̄s</orig>
-		       <reg>christus</reg>
-	     </choice> rex 
+		       <reg>Christus</reg>
+	     </choice> Rex 
 	<choice>
 		       <seg type="lucas">g(lori)e</seg>
 		       <orig>gl͘e</orig>
@@ -214,9 +213,9 @@
 		       <reg>gratie.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Riga(n)s</seg>
@@ -237,21 +236,34 @@
 <lb/>fructu 
 	<choice>
 		       <seg type="lucas">oper(um)</seg>
-	              <orig>opeꝝ</orig>
+	              <orig>oper⋮</orig>
 		       <reg>operum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-	              <orig>tuoꝝ</orig>
+	              <orig>tuor⋮</orig>
 		       <reg>tuorum</reg>
 	     </choice> satia
 <lb break="no"/>bitur terra. Oratio.
-
+ 
 
 </ab>
 
    <ab type="translation"
        xml:id="p0019_translation"
-       corresp="#p0019_transcription"/>
+       corresp="#p0019_transcription"> who, for the
+         enlarging of that same faith, was made worthy to obtain the
+         palm of martyrdom. Through Christ our
+         Lord. O Thomas, praise and glory of the Order of Preachers,
+         Transfer us to the Heavenly Professor of the Sacred Divinity. 
+         <!-- previous sentence is google/my own translation --> 
+         [Versicle]. The declaration of Your words, O Lord, gives light; 
+         it gives understanding to little ones. [Antiphon] Let Christ 
+         the king of glory be praised, 
+         who through Thomas the light of the Church fills 
+         the world with the doctrine of grace. [Versicle]. You water the mountains from
+         your upper chambers;
+         from the fruit of your labor the earth abounds. Oratio
+   </ab>
 
 </div>

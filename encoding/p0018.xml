@@ -42,14 +42,14 @@
 		       <reg>accendit.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 	           <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">Desid(er)iu(m)</seg>
-	           <orig>Desiḋiu̇</orig>
+	           <orig>Desiḋiū</orig>
 		       <reg>Desiderium</reg>
 	     </choice> 
                <choice>
@@ -82,7 +82,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">bior(um)</seg>
-	           <orig>biorꝝ</orig>
+	           <orig>bior⋮</orig>
 		       <reg>biorum</reg>
 	     </choice> 
 	     <choice>
@@ -92,7 +92,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">no(n)</seg>
-	                 <orig>nȯ</orig>
+	                 <orig>nō</orig>
 		       <reg>non</reg>
 	     </choice> fraudasti 
 	<choice>
@@ -139,9 +139,9 @@
 		       <reg>dotatus.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 	                 <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -151,7 +151,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(re)ve(n)isti</seg>
-	           <orig>ṗveīsti</orig>
+	           <orig>p̄veīsti</orig>
 		       <reg>prevenisti</reg>
 	     </choice> 
 	     <choice>
@@ -172,7 +172,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">t(i)o(n)ib(us)</seg>
-	                 <orig>tȯib⋮</orig>
+	                 <orig>tōib⋮</orig>
 		       <reg>tionibus</reg>
 	     </choice> 
 	     <choice>
@@ -199,7 +199,7 @@
 <lb/>lapide 
 	<choice>
 		       <seg type="lucas">p(re)cioso.</seg>
-	                  <orig>ṗcioso.</orig>
+	                  <orig>p̄cioso.</orig>
 		       <reg>precioso.</reg>
 	     </choice> 
 	     <choice>
@@ -242,7 +242,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(a)r(ty)ris</seg>
-		       <orig>mrr̈is</orig>
+		       <orig>mr̈is</orig>
 		       <reg>martyris</reg>
 	     </choice> tui 
 	<choice>
@@ -263,13 +263,23 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sectem(ur);</seg>
-	           <orig>sectem݃	;</orig>
+	           <orig>sectem݃ ;</orig>
 		       <reg>sectemur;</reg>
 	     </choice>
    </ab>
 
    <ab type="translation"
        xml:id="p0018_translation"
-       corresp="#p0018_transcription"/>
+       corresp="#p0018_transcription">descends
+         on the pillar of praise whose lamps are lit. [Versicle]. You have given him his heart's
+         desire, O Lord, and have not withheld from him the
+         request of his lips. [Antiphon] Peter, the new inhabitant of the heavens, ascended with laurel, 
+         endowed with a triple halo. <!-- previous sentence from google translate --> 
+         [Versicle]. O Lord, You have prevented him with blessings of sweetness; You have sat on
+         his head a crown of precious stones.[Let us pray] Grant, we beseech 
+         Thee, Almighty God, that we may imitate with due devotion 
+         the faith of
+         Blessed Peter, Thy
+         Martyr, <!-- cont. OBVM p297 --> </ab>
 
 </div>

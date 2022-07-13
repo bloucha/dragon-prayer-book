@@ -89,7 +89,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">q(u)i</seg>
-                  <orig>q̇</orig>
+                  <orig>q͘</orig>
                   <reg>qui</reg>
             </choice>         
             <choice>
@@ -129,7 +129,7 @@
             </choice>
             <choice>
                   <seg type="lucas">fesso(r)is</seg>
-                  <orig>fessȯis</orig>
+                  <orig>fesso͘is</orig>
                   <reg>fessoris</reg>
             </choice> tui
             <lb/>
@@ -157,7 +157,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">t(ri)buisti</seg>
-                  <orig>ṫbuisti</orig>
+                  <orig>t͘buisti</orig>
                   <reg>tribuisti</reg>
             </choice> : 
             <choice>
@@ -199,7 +199,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">t(er)ris;</seg>
-                  <orig>ṫris;</orig>
+                  <orig>t͘ris;</orig>
                   <reg>terris;</reg>
             </choice> 
             <choice>

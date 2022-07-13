@@ -65,7 +65,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)buisti</seg>
-	           <orig>ṫbuisti</orig>
+	           <orig>t͘buisti</orig>
 		       <reg>tribuisti</reg>
 	     </choice>
       <lb/>ei 
@@ -130,7 +130,7 @@
 <lb/>aureola 
 	<choice>
 		       <seg type="lucas">t(ri)plici</seg>
-	                 <orig>ṫplici</orig>
+	                 <orig>t͘plici</orig>
 		       <reg>triplici</reg>
 	     </choice> 
 	     <choice>
@@ -237,7 +237,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Pet(ri)</seg>
-	                 <orig>Peṫ</orig>
+	                 <orig>Pet͘</orig>
 		       <reg>Petri</reg>
 	     </choice> 
 	     <choice>

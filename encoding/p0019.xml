@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -172,7 +172,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -204,7 +204,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">doct(ri)na</seg>
-		       <orig>docṫna</orig>
+		       <orig>doct͘na</orig>
 		       <reg>doctrina</reg>
 	     </choice> 
 	     <choice>

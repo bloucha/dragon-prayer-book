@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(u)i</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -173,8 +173,17 @@
 		       <orig>Vīcē</orig>
 		       <reg>Vincen</reg>
 	     </choice>
-      <lb break="no"/>tius <!-- ti+AA70 ti(us) -->
+      <lb break="no"/>
+   	
+   	<!-- double check coding -->
+   	<choice>
+   			<seg type="lucas">ti(us)</seg>
+   			<orig>tiꝰ</orig>
+   			<reg>tuto</reg>
+   	</choice>
+   	tius <!-- ti+AA70 ti(us) -->
    	tuto 
+   	
 	<choice>
 		       <seg type="lucas">fere(n)s</seg>
 		       <orig>ferēs</orig>

@@ -12,22 +12,22 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">ecia(m)</seg>
-		       <orig>ecia</orig>
+	           <orig>eciā</orig>
 		       <reg>eciam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ar)icul(is)</seg>
-		       <orig>picul</orig>
+	           <orig>ꝑicul͘</orig>
 		       <reg>pariculis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">exaum(ur).</seg>
-		       <orig>exaum.</orig>
+	           <orig>exaum.</orig> <!--  I can't get my machine to insert the two vertical dots unicode U+0743 -->
 		       <reg>exaumur.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(er).</seg>
-		       <orig>P.</orig>
+	           <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
 	     </choice> 
 	     <choice>

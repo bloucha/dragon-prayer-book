@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+ <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <div xmlns="http://www.tei-c.org/ns/1.0"
      type="page"
      n="8r"
@@ -94,7 +94,7 @@
 		       <orig>noḃ</orig>
 		       <reg>nobis</reg>
 	     </choice> 
-   	<!-- check transcription -->
+
    	ju
 <lb break="no"/>
 	     <choice>
@@ -106,7 +106,7 @@
 		       <seg type="lucas">se(n)tiam(us)</seg>
 		       <orig>sētiamꝰ</orig>
 		       <reg>sentiamus</reg>
-	     </choice> . Or()o. 
+	     </choice> . Or̄o. 
 	<choice>
 		       <seg type="lucas">D(eu)s</seg>
 		       <orig>D͘s</orig>
@@ -126,7 +126,7 @@
 	<choice>
 		       <seg type="lucas">V(espers?)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers?</reg>
+		       <reg>Versicle</reg>
 	     </choice> Pre
 <lb break="no"/>ciosa 
 	<choice>
@@ -135,14 +135,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">spc(um)</seg>
-		       <orig>spcū</orig>
-		       <reg>spcum</reg>
+		       <seg type="lucas">(con)spc(um)</seg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ni</seg>
@@ -152,7 +147,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)o(rum)</seg>
-		       <orig>sc̄or⋮</orig>
+		       <orig>sc̄oꝝ ⋮</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
@@ -169,14 +164,13 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
-	     </choice> o
-   	<!-- check transcription, os -->
+	     </choice>
+
 	<choice>
 		       <seg type="lucas">()</seg>
-		       <orig/>
+		       <orig>ōs</orig>
 		       <reg><!-- supply expansion--></reg>
 	     </choice>
-s
 <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
@@ -205,16 +199,11 @@ s
 	     </choice>
       <lb/>ut meam aduvi
    	<!-- check transcription -->
-	<choice>
-		       <seg type="lucas">()</seg>
-		       <orig/>
-		       <reg><!-- supply expansion--></reg>
-	     </choice>
  ab
 <lb/>eo. 
 	<choice>
 		       <seg type="lucas">(Qui) </seg>
-		       <orig> </orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui </reg>
 	     </choice> vivit 
 	<choice>
@@ -232,7 +221,8 @@ s
 		       <orig>Ꝑ</orig>
 		       <reg>Per</reg>
 	     </choice>
-      <lb/>oi( )a 
+      <lb/>oi()a 
+   	<!-- need a choice here -->
 	<choice>
 		       <seg type="lucas">s(ae)c(u)la</seg>
 		       <orig>scl͘a</orig>
@@ -240,7 +230,7 @@ s
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(ae)c(u)lor(um)</seg>
-		       <orig>scl͗͘or⋮</orig>
+		       <orig>scl͗͘oꝝ</orig>
 		       <reg>saeculorum</reg>
 	     </choice> Amen. 
 	<choice>
@@ -275,7 +265,8 @@ s
 		       <reg>in</reg>
 	     </choice>
    	<!-- check transcription -->
-      <lb/>te( )de. 
+      <lb/>te( )de.
+   	<!-- missing choice -->
 	<choice>
 		       <seg type="lucas">D(omi)ne</seg>
 		       <orig>Dn̄e</orig>
@@ -283,7 +274,7 @@ s
 	     </choice> ad. 
 	<choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> in ad.
 

@@ -138,8 +138,7 @@
 	     <choice>
 		       <seg type="lucas">(christ)(?)t?</seg>
 		       <orig>xp̄t</orig>
-		       <reg>christ</reg>
-	        <!-- still a question mark on this expansion -->
+		       <reg>christus</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -191,8 +190,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-	        	        <seg type="lucas">fut(ura)e</seg>
-	                 <orig>fuṫ̇e</orig>
+	         <seg type="lucas">fut(ura)e</seg>
+	          <orig>fuṫ̇e</orig>
 		       <reg>futurae</reg>
 	     </choice> 
 	     <choice>
@@ -227,7 +226,7 @@
 	        
 		       <seg type="lucas">V(espers?)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers?</reg>
+		       <reg>Versicle</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Pane(m)</seg>
@@ -259,7 +258,7 @@
 	     <choice>
 	        		       <seg type="lucas">V(espers?)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers?</reg>
+		       <reg>Versicle</reg>
 	     </choice> Ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
@@ -303,7 +302,7 @@
 	     <choice>
 		       <seg type="lucas">q(ue)</seg>
 		       <orig>q̄</orig>
-		       <reg>que</reg>
+		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nob(is)</seg>
@@ -313,7 +312,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">s(i)b(i).</seg>
-	                  <orig>sḃ.</orig>
+	           <orig>sḃ.</orig>
 		       <reg>sibi.</reg>
 	     </choice> 
 	     <choice>
@@ -323,7 +322,6 @@
 		       <reg>sa???to<!--  check expansion --></reg>
 	     </choice> 
  mirabili
-O SACRUM convivium, in quo Christus sumitur: recolitur memoria passionis eius; mens impletur gratia et futurae gloriae nobis pignus datur. (from line 6)
 
 
 </ab>

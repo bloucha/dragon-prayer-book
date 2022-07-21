@@ -49,7 +49,6 @@
                   <reg>sed</reg>
             </choice> exaltavi <choice>
                   <seg type="lucas">a(n)i(mam)</seg>
-                  <!-- Added the a and three dots, check transcription -->
                   <orig>aīa⋮</orig>
                   <reg>animam</reg>
             </choice> me <lb break="no"/>
@@ -85,7 +84,7 @@
             </choice>
             <lb/>sua : ita <choice>
                   <seg type="lucas">ret(ri)but(i)o</seg>
-                  <orig>ret̄butō</orig>
+                  <orig>reṫbutō</orig>
                   <reg>retributio</reg>
             </choice>
             <choice>
@@ -148,10 +147,7 @@
                   <seg type="lucas">a(ntiphon?).</seg>
                   <orig>ä.</orig>
                   <reg>antiphon?.<!--  check expansion --></reg>
-           
-           <!-- check transcription, it looks like the b is an abbreviation -->
-            </choice> Beata <lb/>
-            
+            </choice> Beata <lb/>            
             <choice>
                   <seg type="lucas">m(ate)r</seg>
                   <orig>mr̄</orig>
@@ -175,12 +171,12 @@
             </choice>
             <choice>
                   <seg type="lucas">glo(rio)sa</seg>
-                  <orig>glōsa</orig>
+                  <orig>gl͘osa</orig>
                   <reg>gloriosa</reg>
             </choice> re <lb break="no"/>
             <choice>
                   <seg type="lucas">gi(n)a</seg>
-                  <orig>giā</orig>
+                  <orig>gīa</orig>
                   <reg>gina</reg>
             </choice> \\mundi// <choice>
                   <seg type="lucas">i(n)t(er)cede</seg>
@@ -189,7 +185,7 @@
             </choice>
             <choice>
                   <seg type="lucas">p(ro)</seg>
-                  <orig>ꝑ</orig>
+                  <orig>ꝓ</orig>
                   <reg>pro</reg>
             </choice>
             <choice>
@@ -232,7 +228,6 @@
                   <reg>quasi</reg>
             </choice>
             <choice>
-                  <!-- the "us" symbol isn't typing properly -->
                   <seg type="lucas">cyp(re)ss(us)</seg>
                   <orig>cyp̄ssꝰ</orig>
                   <reg>cypressus</reg>
@@ -286,11 +281,9 @@
                   <reg>Deo.</reg>
             </choice>
             <choice>
-                  <!-- unicode character not assigned -->
                   <seg type="lucas">R(esponsorium).</seg>
-                  <orig>R.</orig>
+                  <orig>℞.</orig>
                   <reg>Responsorium.</reg>
-                 <!-- Capital E is a special character -->
             </choice> Elegit <choice>
                   <seg type="lucas">ea(m)</seg>
                   <orig>eā</orig>

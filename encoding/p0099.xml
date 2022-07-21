@@ -27,14 +27,9 @@
 		       <reg>bona</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">i(e)r(usa)l(e)m</seg>
+		       <seg type="lucas">(h)i(e)r(usa)l(e)m</seg>
 		       <orig>irl͘m</orig>
-		       <reg>ierusalem</reg>
+		       <reg>(h)ierusalem</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -50,12 +45,12 @@
 <lb break="no"/>deas filios 
 	<choice>
 		       <seg type="lucas">filior(um)</seg>
-		       <orig>filior⋮</orig>
+		       <orig>filioꝝ</orig>
 		       <reg>filiorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um):</seg>
-		       <orig>tuor⋮:</orig>
+		       <orig>tuoꝝ:</orig>
 		       <reg>tuorum:</reg>
 	     </choice> pa
 <lb break="no"/>
@@ -81,7 +76,7 @@
 	     </choice> In 
 	<choice>
 		       <seg type="lucas">p(ro)le</seg>
-		       <orig>ꝑle</orig>
+		       <orig>ꝓle</orig>
 		       <reg>prole</reg>
 	     </choice> 
 	     <choice>
@@ -120,11 +115,11 @@
 		       <seg type="lucas">cap(?)</seg>
 		       <orig>cap̄</orig>
 		       <reg>cap?</reg>
+	      <!-- check transcription -->
 	     </choice>        go 
 	<choice>
-	      <!-- check transcrption, i think it may be "mr" -->
-		       <seg type="lucas">m(ater)</seg>
-		       <orig>m</orig>
+	           <seg type="lucas">m(ater)</seg>
+		         <orig>mr̄</orig>
 		       <reg>mater</reg>
 	     </choice> 
 	     <choice>
@@ -139,7 +134,6 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-	           <!-- not sure if the Ps are both A751, the unicode character is not typing correctly-->
 		       <seg type="lucas">p(o)p(u)lo</seg>
 		       <orig>ppl͘o</orig>
 		       <reg>populo</reg>
@@ -190,7 +184,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōr⋮</orig>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
@@ -204,9 +198,9 @@
 		       <reg>Deo.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- not sure how to code this abbreviation -->
+	           <!-- Did we ever settle on a character -->
 		       <seg type="lucas">R(esponsorium)</seg>
-		       <orig>R</orig>
+		       <orig>℞</orig>
 		       <reg>Responsorium</reg>
 	     </choice> Ora
 <lb/>
@@ -248,14 +242,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)missio(n)ib(um)</seg>
-		       <orig>ꝑmissiōib⋮</orig>
+		       <orig>ꝓxmissiōib⋮</orig>
 		       <reg>promissionibum</reg>
 	     </choice>
       <lb/>
 	     <choice>
 	           <!-- check transcription, looks like xpi -->
 		       <seg type="lucas">(christ)i.</seg>
-		       <orig>i.</orig>
+		       <orig>xp̄i.</orig>
 		       <reg>christi.</reg>
 	     </choice> 
 	     <choice>
@@ -286,7 +280,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Or(?)o.</seg>
-		       <orig>Oro.</orig>
+		       <orig>Or̄o.</orig>
 		       <reg>Or?o.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>PRotege 

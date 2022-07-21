@@ -222,6 +222,11 @@
 		       <reg>Per</reg>
 	     </choice>
       <lb/>oi()a 
+   	
+  		<choice> 
+  			<orig> oīa </orig>
+  			<reg> omnia </reg>
+  		</choice>
    	<!-- need a choice here -->
 	<choice>
 		       <seg type="lucas">s(ae)c(u)la</seg>

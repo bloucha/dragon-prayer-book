@@ -39,7 +39,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um).</seg>
-		       <orig>tuor⋮.</orig>
+		       <orig>tuoꝝ.</orig>
 		       <reg>tuorum.</reg>
 	     </choice> 
 	     <choice>
@@ -77,12 +77,12 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">cor(um)</seg>
-		       <orig>cor⋮</orig>
+		       <orig>coꝝ</orig>
 		       <reg>corum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um).</seg>
-		       <orig>tuor⋮.</orig>
+		       <orig>tuoꝝ.</orig>
 		       <reg>tuorum.</reg>
 	     </choice> 
 	     <choice>
@@ -124,7 +124,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um):</seg>
-		       <orig>s̄cor⋮:</orig>
+		       <orig>s̄coꝝ:</orig>
 		       <reg>sanctorum:</reg>
 	     </choice> ex 
 	<choice>
@@ -140,7 +140,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um)</seg>
-		       <orig>r⋮</orig>
+		       <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> genui te. Iuravit do
 <lb break="no"/>
@@ -175,17 +175,11 @@
 		       <seg type="lucas">sac(er)dos</seg>
 		       <orig>sac̄dos</orig>
 		       <reg>sacerdos</reg>
-	     </choice> 
+	     </choice>  
 	     <choice>
-		       <seg type="lucas">i(n)</seg>
-		       <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-	     	<!-- check transcription, is the I attached -->
-		       <seg type="lucas">et(er)nu(m)</seg>
-		       <orig>eṫnū</orig>
-		       <reg>eternum</reg>
+		       <seg type="lucas">i(n)et(er)nu(m)</seg>
+		       <orig>īeṫnū</orig>
+		       <reg>ineternum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(un)d(um)</seg>

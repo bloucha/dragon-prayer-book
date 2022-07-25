@@ -168,7 +168,6 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- check transcription -->
 		       <seg type="lucas">(christ)o</seg>
 		       <orig>xp̄o</orig>
 		       <reg>christo</reg>
@@ -206,7 +205,7 @@
 	     </choice> Ora. 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> no
 <lb break="no"/>bis 
@@ -225,7 +224,7 @@
 	<choice>
 		       <seg type="lucas">Ps(alm).</seg>
 	      <!-- double dots on top P not appearing correctly  -->
-		       <orig>Ps.</orig>
+		       <orig>P̈s.</orig>
 		       <reg>Psalm.</reg>
 	     </choice>
       <lb/>

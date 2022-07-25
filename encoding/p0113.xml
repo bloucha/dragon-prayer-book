@@ -130,7 +130,7 @@
 	     </choice> a 
 	<choice> <!-- A751 not showing properly for the lowercase p with a bar-->
 		       <seg type="lucas">p(ro)ge(n)ie</seg>
-	                 <orig>ꝑgēie</orig>
+	                 <orig>ꝓgēie</orig>
 		       <reg>progenie</reg>
 	     </choice> 
 	     <choice>
@@ -140,7 +140,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb break="no"/>
@@ -206,7 +206,7 @@
 	     </choice> exaltavit 
 	<choice>
 		       <seg type="lucas">hu(m)i</seg>
-		       <orig>hu̇i</orig>
+		       <orig>hūi</orig>
 		       <reg>humi</reg>
 	     </choice>
       <lb break="no"/>les. 

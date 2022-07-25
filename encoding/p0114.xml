@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">er(um)</seg>
-		       <orig>er⋮</orig>
+		       <orig>eꝝ</orig>
 		       <reg>erum</reg>
 	     </choice> 
 	     <choice>
@@ -104,11 +104,10 @@
 <lb break="no"/>ra 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
-	           <!-- not sure if the second p should be a p with a bar -->
 		       <seg type="lucas">p(o)p(u)lo</seg>
 		       <orig>ppl͘o</orig>
 		       <reg>populo</reg>
@@ -120,7 +119,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> clero 
 	<choice>
@@ -131,7 +130,7 @@
       <lb break="no"/>de 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> devoto 
 	<choice>

@@ -12,15 +12,13 @@
         <lb/>
         <choice>
             <seg type="lucas">D(omi)ne.</seg>
-            <orig>Dne.</orig>
+            <orig>Dn̄e.</orig>
             <reg>Domine.</reg>
-            <!-- not sure about this abbreviation -->
         </choice>  
         <choice>
             <seg type="lucas">D(eu)s</seg>
-            <orig>Ds</orig>
+            <orig>Ḋs</orig>
             <reg>Deus</reg>
-            <!-- not sure about this abbreviation -->
         </choice> 
         <choice>
             <seg type="lucas">i(n)</seg>
@@ -29,9 +27,8 @@
         </choice> ad. 
         <choice>
             <seg type="lucas">D(omi)ne</seg>
-            <orig>Dne</orig>
+            <orig>Dn̄e</orig>
             <reg>Domine</reg>
-            <!-- not sure about this abbreviation -->
         </choice> ad.
         <lb/>
         <choice>
@@ -51,7 +48,7 @@
         </choice>  
         <choice>
             <seg type="lucas">(Christe eleison)</seg>
-            <orig/>
+            <orig>X </orig>
             <reg>Christe eleison</reg>
             <!-- need checking for this one too -->
         </choice> . 
@@ -59,16 +56,16 @@
             <seg type="lucas">K(yrie eleison).</seg>
             <orig>K.</orig>
             <reg>Kyrie eleison.</reg>
-        </choice>  P( )r Et
+        </choice>  P( )r <!-- needs choice --> Et
         <lb/>ne. 
         <choice>
             <seg type="lucas">V(espera)</seg>
-            <orig>v̇</orig>
+            <orig>V̇</orig>
             <reg>Vespera</reg>
         </choice> Respice 
         <choice>
             <seg type="lucas">d(omi)ne</seg>
-            <orig>dne</orig>
+            <orig>dn̄e</orig>
             <reg>domine</reg>
         </choice> 
         <choice>
@@ -111,14 +108,13 @@
         </choice> 
         <choice>
             <seg type="lucas">d(omi)ni</seg>
-            <orig>dǹi</orig>
+            <orig>dn̄i</orig>
             <reg>domini</reg>
         </choice> dei 
         <choice>
             <seg type="lucas">n(ost)ri</seg>
-            <orig>nri</orig>
+            <orig>nr̄i</orig>
             <reg>nostri</reg>
-            <!-- could not add the slanted bar for r -->
         </choice> 
         <choice>
             <seg type="lucas">s(upe)r</seg>
@@ -143,7 +139,7 @@
         </choice> 
         <choice>
             <seg type="lucas">n(ost)ra</seg>
-            <orig>nṙa</orig>
+            <orig>nr̄a</orig>
             <reg>nostra</reg>
         </choice>
         <lb break="no"/>
@@ -175,9 +171,8 @@
         </choice> 
         <choice>
             <seg type="lucas">n(ost)ra(rum)</seg>
-            <orig>nra</orig>
+            <orig>nr̄aꝝ</orig>
             <reg>nostrarum</reg>
-            <!-- could not add the slanted bar for r -->
         </choice> dirige;
         <lb/>Oro 
         <choice>
@@ -192,7 +187,7 @@
         </choice> 
         <choice>
             <seg type="lucas">s(an)c(t)ificare</seg>
-            <orig>scificare</orig>
+            <orig>sc̄ificare</orig>
             <reg>sanctificare</reg>
         </choice>
         <lb/>
@@ -208,7 +203,7 @@
         </choice> 
         <choice>
             <seg type="lucas">s(an)c(t)e</seg>
-            <orig>sċe</orig>
+            <orig>sc̄e</orig>
             <reg>sancte</reg>
         </choice> 
         <choice>
@@ -224,7 +219,7 @@
         <lb/>
         <choice>
             <seg type="lucas">et(er)ne</seg>
-            <orig>et͘ne</orig>
+            <orig>eṫne</orig>
             <reg>eterne</reg>
         </choice> 
         <choice>
@@ -234,23 +229,23 @@
         </choice> hodie corda 
         <choice>
             <seg type="lucas">(et)</seg>
-            <orig/>
+            <orig>+ </orig>
             <reg>et</reg>
         </choice>
         <lb/>
         <choice>
             <seg type="lucas">corp(or)a</seg>
-            <orig>corpa</orig>
+            <orig>corꝑa</orig>
             <reg>corpora</reg>
         </choice> 
         <choice>
             <seg type="lucas">n(ost)ra</seg>
-            <orig>nra</orig>
+            <orig>nr̄a</orig>
             <reg>nostra</reg>
         </choice> 
         <choice>
             <seg type="lucas">i(n)</seg>
-            <orig>i</orig>
+            <orig>ī</orig>
             <reg>in</reg>
         </choice> lege tua . 
         <choice>

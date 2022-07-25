@@ -55,7 +55,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)li</seg>
-		       <orig>ꝑꝑli</orig>
+		       <orig>ppl͘i</orig>
 		       <reg>populi</reg>
 	     </choice> sui. Qui
 <lb/>
@@ -82,7 +82,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">filior(um)</seg>
-		       <orig>filior⋮</orig>
+		       <orig>filioꝝ</orig>
 		       <reg>filiorum</reg>
 	     </choice> 
 	     <choice>
@@ -108,7 +108,7 @@
 	     </choice> hiis 
 	<choice>
 		       <seg type="lucas">q(ue)</seg>
-		       <orig>q̇</orig>
+		       <orig>q̄</orig>
 		       <reg>que</reg>
 	     </choice>
       <lb/>
@@ -211,7 +211,8 @@
 		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice>
-      <lb/>id 
+      <lb/>id <!-- in the doc this looks like one word, 
+            check transcription -->
 	<choice>
 		       <seg type="lucas">ip(su)m.</seg>
 		       <orig>ip̄m.</orig>
@@ -264,14 +265,9 @@
 		       <orig>isrl͘</orig>
 		       <reg>israel</reg>
 	     </choice> : ad 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fite(n)du(m)</seg>
-		       <orig>fitēdū</orig>
+		       <orig>ɔfitēdū</orig>
 		       <reg>fitendum</reg>
 	     </choice> 
 	     <choice>

@@ -44,19 +44,13 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	           <!-- check translation, does the con attach to the fidetes -->
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fide(n)tes;</seg>
-		       <orig>fidētes;</orig>
-		       <reg>fidentes;</reg>
+		       <orig>ɔfidētes;</orig>
+		       <reg>confidentes;</reg>
 	     </choice> a 
 	<choice>
 		       <seg type="lucas">cu(n)ctis</seg>
-		       <orig>cuc̄tis</orig>
+		       <orig>cūctis</orig>
 		       <reg>cunctis</reg>
 	     </choice> 
 	     <choice>
@@ -105,7 +99,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)le</seg>
-		       <orig>ꝑle</orig>
+		       <orig>ꝓle</orig>
 		       <reg>prole</reg>
 	     </choice> pia 
 	<choice>
@@ -139,19 +133,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">adiu(n)t.</seg>
-		       <orig>adiuṫ.</orig>
+		       <orig>adiut̄.</orig>
 		       <reg>adiunt.</reg>
-	     </choice> 
-         <!-- check transcription below -->
-	     <choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
+	     </choice> 	    
 	     <choice>
 		       <seg type="lucas">y(mnus).</seg>
-		       <orig>yꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <orig>yp̄ꝰ.</orig>
+		       <reg>hymnus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">meme(n)t(o?).</seg>
@@ -247,7 +235,7 @@
       <lb break="no"/>res: 
 	<choice>
 		       <seg type="lucas">p(ro)lo(n)gaver(un)t</seg>
-		       <orig>ꝑlȯgaver̄t</orig>
+		       <orig>ꝓlȯgaver̄t</orig>
 		       <reg>prolongaverunt</reg>
 	     </choice> 
 	     <choice>

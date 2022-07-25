@@ -14,7 +14,8 @@
 		       <seg type="lucas">s(em)p(er)</seg>
 	           <orig>sꝑ</orig>
 		       <reg>semper</reg>
-	     </choice> salui 
+	     </choice> salui
+       
 	<choice>
 		       <seg type="lucas">e(ss)e</seg>
 		       <orig>ēe</orig>
@@ -23,7 +24,6 @@
 	     <choice>
 		       <seg type="lucas">me(re)am(ur).</seg>
 	         <orig> mėam݃. </orig>
-	         <!-- This diacritic is Syraic but it was in the document, not sure if useable -->
 		       <reg>mereamur.</reg>
 	     </choice>
       <lb/>
@@ -34,9 +34,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ)(u)m.</seg>
-		       <orig>m.</orig>
+		       <orig>xp̄m.</orig>
 		       <reg>christum.</reg>
-	         <!-- christum is incorrect in the transcription it is not just an m -->
 	     </choice> So 
 	<choice>
 		       <seg type="lucas">ma(ria?)</seg>
@@ -67,7 +66,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Divinu(m)?</seg>
-		       <orig>Divinū</orig>
+		      <orig>Divinū</orig>
 		       <reg>Divinum? <!-- check expansion --> </reg>
 	     </choice> 
 	     <choice>
@@ -88,7 +87,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">S(ancte?)</seg>
-		       <orig>S͘</orig>
+		       <orig>S͘͘</orig>
 		       <reg>Sancte?  <!-- check expansion --> </reg>
 	     </choice> 
 	     <choice>

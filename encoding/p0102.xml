@@ -5,7 +5,7 @@
       <ab type="transcription" xml:id="p0102_transcription" corresp="#p0102_translation">
             <lb/>Si <choice>
                   <seg type="lucas">i(n)iq(ui)tates</seg>
-                  <orig>īiq͘tates</orig>
+                  <orig>īiq̇tates</orig>
                   <reg>iniquitates</reg>
             </choice>
             <choice>
@@ -44,9 +44,10 @@
                   <seg type="lucas">ap(u)d</seg>
                   <orig>apḋ</orig>
                   <reg>apud</reg>
-            </choice> te <choice>
+            </choice> te 
+           <choice>
                   <seg type="lucas">p(ro)pitiat(i)o</seg>
-                  <orig>ꝑpitiatō</orig>
+                  <orig>ꝓpitiatō</orig>
                   <reg>propitiatio</reg>
             </choice>
             <choice>
@@ -252,10 +253,9 @@
                   <reg>sunt</reg>
             </choice> o <lb break="no"/>
             <choice>
-                  <!-- there is only 1 o -->
                   <seg type="lucas">oc(u)li</seg>
-                  <orig>ocl͘i</orig>
-                  <reg>oculi</reg>
+                  <orig>cl͘i</orig>
+                  <reg>culi</reg>
             </choice> mei. <choice>
                   <seg type="lucas">Neq(ue)</seg>
                   <orig>Neq⋮</orig>

@@ -81,12 +81,12 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Int(er)cede</seg>
-		       <orig>Inṫcede</orig>
+		       <orig>Inṫcede</orig>
 		       <reg>Intercede</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -101,9 +101,8 @@
 	     </choice> de
 <lb break="no"/>
 	     <choice>
-	           <!-- cannot tell if there is a raised dot on the "l" -->
 		       <seg type="lucas">FAm(u)lor(um)</seg>
-		       <orig>FAṁlor⋮</orig>
+		       <orig>FAm̄l͘oꝝ</orig>
 		       <reg>FAmulorum</reg>
 	     </choice>        Oro        
 	<choice>
@@ -112,7 +111,6 @@
 		       <reg>um</reg>
 	     </choice> 
 	     <choice>
-	           <!--double check transcription, I changed it  -->
 		       <seg type="lucas">n(ost)r(um).</seg>
 		       <orig>nr̄⋮.</orig>
 		       <reg>nostrum.</reg>
@@ -120,7 +118,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor⋮</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> 
 	     <choice>
@@ -190,12 +188,12 @@
 	     <choice>
 	           <!-- check transcrption for next two words, looks like "diu xpi" -->
 		       <seg type="lucas">i(es)u(m)</seg>
-		       <orig>iu</orig>
+		       <orig>ih̄u</orig>
 		       <reg>iesum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ)i</seg>
-		       <orig>i</orig>
+		       <orig>xp̄i</orig>
 		       <reg>christi</reg>
 	     </choice> 
 	     <choice>
@@ -210,7 +208,6 @@
 		       <reg>mur.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- the U + 0307 is not working over the Q -->
 		       <seg type="lucas">Q(ui)</seg>
 		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
@@ -251,7 +248,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Do(mini?):</seg>
-		       <orig>Do:</orig>
+		       <orig>Doᵉ:</orig>
 		       <reg>Domini?:<!--  check expansion --></reg>
 	     </choice> 
       <lb/>

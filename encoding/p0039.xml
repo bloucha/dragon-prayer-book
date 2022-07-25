@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">cu(n)ctor(um)</seg>
-	                 <orig>cu̇ctor⋮</orig>
+	              <orig>cūctor⋮</orig>
 		       <reg>cunctorum</reg>
 	     </choice> 
 	     <choice>
@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um):</seg>
-	                 <orig>pcṫor⋮:</orig>
+	                 <orig>pcṫoꝝ:</orig>
 		       <reg>peccatorum:</reg>
 	     </choice> ut 
 	<choice>
@@ -59,19 +59,16 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-	           <!-- Is it possible the con is attached to this word -->
-	           <!-- the the two horizontal dots are not working when I input -->
 		       <seg type="lucas">seq(ua)nt(ur).</seg>
-	                 <orig>seq̈nt݃</orig>
-		       <reg>sequantur.</reg>
+	              <orig>ɔseq̈nt݃</orig>
+		       <reg>consequantur.</reg>
 	     </choice> 
          
-         Qui vivis 
+        <choice> 
+              <orig>Q̇</orig>
+              <reg>Qui</reg>     
+        </choice> 
+         vivis 
 	<choice>
 	      
 		       <seg type="lucas">(et) </seg>
@@ -80,7 +77,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">reg(na)s</seg>
-		       <orig>reḡs</orig>
+		       <orig>reg̈s</orig>
 		       <reg>regnas</reg>
 	     </choice>
       <lb/>
@@ -95,14 +92,13 @@
 		       <reg>omnia</reg>
 	     </choice> 
 	     <choice>
-	           <!-- cannot tell if the period above acts as a macron for the S -->
 		       <seg type="lucas">s(ae)c(u)la</seg>
 		       <orig>scl͘a</orig>
 		       <reg>saecula</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(ae)c(u)lor(um).</seg>
-		       <orig>scl͘or⋮.</orig>
+		       <orig>scl͘oꝝ.</orig>
 		       <reg>saeculorum.</reg>
 	     </choice> Amen.
 <lb/>Dy 
@@ -112,25 +108,25 @@
 		       <reg>segem</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">d(er?)</seg>
+		       <seg type="lucas">d(er)</seg>
 		       <orig>ḋ</orig>
-		       <reg>der?</reg>
+		       <reg>der</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">hecce(m).</seg>
-		       <orig>heccē.</orig>
-		       <reg>heccem.</reg>
-	     </choice> ju. 
+		       <orig>leccē.</orig>
+		       <reg>leccen.</reg>
+	     </choice> in. 
 	<choice>
 		       <seg type="lucas">j(?).</seg>
-		       <orig>jº.</orig>
-		       <reg>j?.<!--  check expansion --></reg>
+		       <orig>iº.</orig>
+		       <reg>primo.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">n(?).</seg>
 		       <orig>nº.</orig>
-		       <reg>n?.<!--  check expansion --></reg>
+		       <reg>nocturno</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -163,12 +159,12 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ge(n)it(us)</seg>
-	                 <orig>gėitꝰ</orig>
+	              <orig>gėitꝰ</orig>
 		       <reg>genitus</reg>
 	     </choice> dei 
 	<choice>
 		       <seg type="lucas">fili(us);</seg>
-	                 <orig>filiꝰ;</orig>
+	             <orig>filiꝰ;</orig>
 		       <reg>filius;</reg>
 	     </choice> nos 
 	<choice>
@@ -179,7 +175,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ce(re)</seg>
-	                 <orig>cė</orig>
+	              <orig>cė</orig>
 		       <reg>cere</reg>
 	     </choice> 
 	     <choice>
@@ -212,7 +208,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">illu(m)i(n)a(r)e</seg>
-	                 <orig>illu̇iȧe</orig>
+	                <orig>illūiȧe</orig>
 		       <reg>illuminare</reg>
 	     </choice> dig
 <lb break="no"/>
@@ -222,18 +218,12 @@
 		       <reg>netur</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">se(?)
-	</seg>
-		       <orig>sė
-	</orig>
-		       <reg>se?
+		       <seg type="lucas">se(?)</seg>
+		       <orig>sėsꝰ</orig>
+		       <reg>se?sus
 	<!--  check expansion --></reg>
 	     </choice> 
-      <choice>
-		       <seg type="lucas">s(us)</seg>
-		       <orig>sꝰ</orig>
-		       <reg>sus</reg>
-	     </choice> 
+ 
 	     <choice>
 	           
 		       <seg type="lucas">(et) </seg>
@@ -244,13 +234,18 @@
 		       <seg type="lucas">n(ost)ra.</seg>
 		       <orig>nr̄a.</orig>
 		       <reg>nostra.</reg>
-	     </choice> ju
+	     </choice> in
 <lb/>
-	     <choice>
-	           <!-- missing second N -->
+	    <choice>
+	          <orig>iiº</orig>
+	          <reg>secundo</reg>
+	          <!-- check transcription here -->
+	    </choice>
+         
+         <choice>
 		       <seg type="lucas">n(ostrorum?).</seg>
 		       <orig>nº.</orig>
-		       <reg>nostrorum?.<!--  check expansion --></reg>
+		       <reg>nocturno</reg>
 	     </choice> 
  
 	     <choice>
@@ -280,7 +275,7 @@
 		       <reg>propicius</reg>
 	     </choice> 
 	     <choice>
-	           		       <seg type="lucas">(et) </seg>
+	             <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 

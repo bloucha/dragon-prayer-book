@@ -283,9 +283,9 @@
 		       <reg>mater</reg>
 	     </choice> dei maria. 
 	<choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> Ut 
 	<choice>
 		       <seg type="lucas">dig(na).</seg>
@@ -320,9 +320,9 @@
 	     </choice>
       <lb break="no"/>go singl?. 
 	<choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(ost)</seg>
@@ -361,6 +361,36 @@
 
    <ab type="translation"
        xml:id="p0122_translation"
-       corresp="#p0122_transcription"/>
+       corresp="#p0122_transcription">
+       In the nights lift up your hands to the holy places, and bless ye the Lord. 
+       May the Lord out of Sion bless thee, he that made heaven and earth. Alleluia.
+      O Virgin
+       Mary, there is no one
+       in the world born of
+       woman like to thee;
+       flourishing like the
+       rose, fragrant as the
+       lily: pray for us, O
+       holy Mother of God.
+       Little Chapter.
+       I am the mother of
+       fair love, and of
+       fear, and of knowledge, and of holy hope. [Thanks be to] God. Response.
+       Intercede for us,
+       O holy Virgin of virgins, Mary, Mother of
+       God. Versicle. That we
+       may be made worthy
+       of the promises of
+       Christ. [Mary,]
+       Mother [of God.]
+       Glory be to the
+       Father, and to the
+       Son, and to the Holy
+       Ghost. Intercede
+       for us, O holy Virgin of virgins, Mary,
+       Mother of God. Hymn. Virgin, all excelling! <!-- very long hymn proceeds -->
+       Versicle. After childbirth thou still didst
+       remain a Virgin undefiled. O Mother of God, <!-- obvm pg 214 cont -->
+   </ab>
 
 </div>

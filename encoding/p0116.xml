@@ -6,7 +6,7 @@
             <lb/>
             <choice>
                   <seg type="lucas">qua(m)</seg>
-                  <orig>quȧ</orig>
+                  <orig>quā</orig>
                   <reg>quam</reg>
             </choice>
             <choice>
@@ -57,7 +57,7 @@
             </choice>
             <choice>
                   <seg type="lucas">t(em)p(or)a</seg>
-                  <orig>tpa</orig> <!-- is there an abbreviation here? -->
+                  <orig>tꝑa</orig> 
                   <reg>tempora</reg>
             </choice>
             <choice>
@@ -121,7 +121,7 @@
             </choice>
             <choice>
                   <seg type="lucas">si(mi)le(m)</seg>
-                  <orig>silė⋮</orig>
+                  <orig>sil͘e⋮</orig>
                   <reg>similem</reg>
             </choice> visa es nec <lb/>
             <choice>
@@ -135,7 +135,7 @@
                   <reg>sequentem.</reg>
             </choice> filie <choice>
                   <seg type="lucas">i(e)r(usa)l(em)</seg>
-                  <orig>irl⋮͘</orig>
+                  <orig>irl͘⋮</orig>
                   <reg>ierusalem</reg>
             </choice>
             <choice>
@@ -174,13 +174,13 @@
             </choice>
             <choice>
                   <seg type="lucas">Or(emus).</seg>
-                  <orig>Or̄.</orig> <!-- check -->
+                  <orig>Or̄.</orig> 
                   <reg>Oremus.<!--  check expansion --></reg>
             </choice>
             <lb/>
             <choice>
                   <seg type="lucas">D(eu)s</seg>
-                  <orig>Dṡ</orig>
+                  <orig>Ḋs</orig>
                   <reg>Deus</reg>
             </choice>
             <choice>

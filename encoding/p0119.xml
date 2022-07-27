@@ -22,9 +22,8 @@
 	     </choice> deo iacob.
 <lb/>Ecce 
 	<choice>
-	    <!-- cannot tell if there is a macron over the i -->
 		       <seg type="lucas">audivi(mus)</seg>
-		       <orig>audiviꝰ</orig>
+		       <orig>audivīꝰ</orig>
 		       <reg>audivimus</reg>
 	     </choice> 
 	     <choice>
@@ -39,7 +38,6 @@
 	     </choice> effrata
 <lb/>
 	     <choice>
-	         <!-- A770 not appearing at the end of the word -->
 		       <seg type="lucas">i(n)ve(n)im(us)</seg>
 		       <orig>īvēimꝰ</orig>
 		       <reg>invenimus</reg>
@@ -61,7 +59,6 @@
 	     </choice> silve.
 <lb/>
 	     <choice>
-	         <!-- A770 not appearing after another macron is applied to a letter in the same word -->
 		       <seg type="lucas">Introibi(mus)</seg>
 		       <orig>Introibīꝰ</orig>
 		       <reg>Introibimus</reg>
@@ -83,7 +80,6 @@
 	     </choice>
       <lb/>
 	     <choice>
-	         <!-- A770 not appearing -->
 		       <seg type="lucas">adorabi(mus)</seg>
 		       <orig>adorabīꝰ</orig>
 		       <reg>adorabimus</reg>
@@ -133,7 +129,7 @@
 	     </choice> archa 
 	<choice>
 		       <seg type="lucas">s(an)c(t)ifi</seg>
-		       <orig>s̄cifi</orig>
+		       <orig>sc̄ifi</orig>
 		       <reg>sanctifi</reg>
 	     </choice>
       <lb break="no"/>
@@ -149,7 +145,6 @@
 	     </choice> tui
 <lb/>
 	     <choice>
-	         <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">i(n)dua(n)t(ur)</seg>
 		       <orig>īduāt݃</orig>
 		       <reg>induantur</reg>
@@ -162,7 +157,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>s̄ci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> tui ex
 <lb break="no"/>
@@ -205,7 +200,7 @@
 	     <choice>
 	         <!-- check transcription, looks like x with raised two dots -->
 		       <seg type="lucas">(christi)</seg>
-		       <orig/>
+		       <orig>xⁱ</orig>
 		       <reg>christi</reg>
 	     </choice>
       <lb/>tui. Iuravit 

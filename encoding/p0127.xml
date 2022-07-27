@@ -9,7 +9,11 @@
        xml:id="p0127_transcription"
        corresp="#p0127_translation">
 
-      <lb/>Confiteor.         Dye 
+      <lb/>
+         <choice> 
+            <orig>Cōfiteor.</orig>
+            <reg>Confiteor.</reg>  
+         </choice>Dye 
 	<choice>
 		       <seg type="lucas">woch(?)vin.</seg>
 	             <orig>wochv̇in.</orig>
@@ -18,7 +22,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">mise(re)at(ur)</seg>
-	           <orig>misėat݃</orig> <!-- check two dots to the right of the t -->
+	             <orig>misėat݃</orig> 
 		       <reg>misereatur</reg>
 	     </choice> 
 	     <choice>
@@ -28,7 +32,7 @@
 	     </choice>        Dy 
 	<choice>
 		       <seg type="lucas">woch(?)m(?).</seg>
-		       <orig>wochm.</orig> <!-- this looks like an n with a dot and then an i with a macron -->
+		       <orig>wochn.</orig> <!-- this looks like an n with a dot and then an i with a macron -->
 		       <reg>woch?m?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -44,7 +48,7 @@
 	     </choice>  
 	     <choice>
 		       <seg type="lucas">(Christe eleison)</seg>
-		       <orig></orig> <!-- unsure -->
+		       <orig>X</orig> <!-- unsure -->
 		       <reg>Christe eleison</reg>
 	     </choice> . 
 	<choice>
@@ -86,12 +90,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(er)a(n)tes</seg>
-	             <orig>spātes</orig>
+	             <orig>sꝑātes</orig>
 		       <reg>sperantes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-	             <orig>ī</orig> <!-- unsure if this is a dot or macron -->
+	             <orig>ī</orig> 
 		       <reg>in</reg>
 	     </choice> te.
 <lb/>
@@ -133,7 +137,7 @@
 	     </choice> die. 
 	<choice>
 		       <seg type="lucas">(christo).</seg>
-		       <orig> xo.</orig> <!-- unsure -->
+		       <orig> xo.</orig> 
 		       <reg>christo.</reg>
 	     </choice> 
 	     <choice>
@@ -156,7 +160,7 @@
 		       <seg type="lucas">S(um?).</seg>
 	             <orig>S⋮.</orig> 
 		       <reg>Sum?.<!--  check expansion --></reg>
-	     </choice> 
+	     </choice> A
  A 
 	<choice>
 		       <seg type="lucas">p(or)ta</seg>

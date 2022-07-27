@@ -33,14 +33,9 @@
 	     </choice> dixit. Ad
 <lb/>
 	     <choice>
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">pl(etorium)</seg>
-		       <orig>pl͘</orig>
-		       <reg>pletorium</reg>
+		       <seg type="lucas">(com)pl(etorium)</seg>
+		       <orig>ɔpl͘</orig>
+		       <reg>completorium</reg>
 	     </choice>         Ave maria. 
 	<choice>
 		       <seg type="lucas">Co(n)v(er)</seg>
@@ -55,7 +50,7 @@
 	     </choice> salutaris 
 	<choice>
 		       <seg type="lucas">n(oste)r.</seg>
-		       <orig>nṙ.</orig>
+		       <orig>nr̄.</orig>
 		       <reg>noster.</reg>
 	     </choice>
       <lb/>Et 
@@ -93,7 +88,7 @@
 	     <choice>
 	           <!-- 0308 not appearing over the P -->
 		       <seg type="lucas">Ps(alm)</seg>
-		       <orig>Ps</orig>
+		       <orig>P̈s</orig>
 		       <reg>Psalm</reg>
 	     </choice>        
 	     <choice>
@@ -142,7 +137,7 @@
 	     <choice>
 	           <!-- no unicode character for a small riased t -->
 		       <seg type="lucas">iurav(it)</seg>
-		       <orig>iurav</orig>
+	             <orig>iurav</orig>
 		       <reg>iuravit</reg>
 	     </choice>
       <lb/>
@@ -164,7 +159,7 @@
 <lb/>Si 
 	<choice>
 		       <seg type="lucas">i(n)troie(r)o</seg>
-		       <orig>ītroiēo</orig>
+		       <orig>ītroiėo</orig>
 		       <reg>introiero</reg>
 	     </choice> 
 	     <choice>
@@ -182,7 +177,10 @@
 		       <orig>domꝰ</orig>
 		       <reg>domus</reg>
 	     </choice>
-      <lb/>mee: †si† 
+      <lb/>mee: 
+         <supplied> 
+               si
+         </supplied> 
 	<choice>
 		       <seg type="lucas">asce(n)d(er)o</seg>
 		       <orig>ascēḋo</orig>

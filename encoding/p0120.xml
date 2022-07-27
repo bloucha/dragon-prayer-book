@@ -40,7 +40,7 @@
 <lb break="no"/>bo eos. Et filii 
 	<choice>
 		       <seg type="lucas">eor(um):</seg>
-		       <orig>eor⋮:</orig>
+		       <orig>eoꝝ:</orig>
 		       <reg>eorum:</reg>
 	     </choice> 
 	     <choice>
@@ -109,9 +109,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-	         <!-- check transcription, I do not see an "n" -->
 		       <seg type="lucas">h(ab)itat(i)on(em)</seg>
-		       <orig>hītatōn⋮</orig>
+		       <orig>hītatō⋮</orig>
 		       <reg>habitationem</reg>
 	     </choice> sibi. Hec 
 	<choice>
@@ -223,7 +222,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>scī</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
@@ -244,7 +243,7 @@
       <lb/>Illuc 
 	<choice>
 		       <seg type="lucas">p(ro)duca(m)</seg>
-		       <orig>ꝑducā</orig>
+		       <orig>ꝓducā</orig>
 		       <reg>producam</reg>
 	     </choice> cornu 
 	<choice>
@@ -264,9 +263,8 @@
 		       <reg>lucernam</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure how to code -->
 		       <seg type="lucas">(christo) </seg>
-		       <orig> </orig>
+		       <orig>xº</orig>
 		       <reg>christo </reg>
 	     </choice> meo. Ini
 <lb break="no"/>micos 
@@ -280,15 +278,11 @@
 		       <orig>īduā</orig>
 		       <reg>induam</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+	     
 	     <choice>
 		       <seg type="lucas">fusio(n)e:</seg>
-		       <orig>fusiōe:</orig>
-		       <reg>fusione:</reg>
+		       <orig>ɔfusiōe:</orig>
+		       <reg>confusione:</reg>
 	     </choice>
    </ab>
 

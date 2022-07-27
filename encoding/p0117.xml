@@ -19,7 +19,7 @@
                   <reg>eam</reg>
             </choice> dei <choice>
                   <seg type="lucas">ge(n)it(ri)ce(m)</seg>
-                  <orig>gėiṫcē</orig>
+                  <orig>gēiṫcē</orig>
                   <reg>genitricem</reg>
             </choice> credi <lb break="no"/>
             <choice>
@@ -65,7 +65,7 @@
             <lb/>
             <choice>
                   <seg type="lucas">D(eu)s</seg>
-                  <orig>Dṡ</orig>
+                  <orig>Ḋs</orig>
                   <reg>Deus</reg>
             </choice>
             <choice>
@@ -133,7 +133,7 @@
             <lb/>
             <choice>
                   <seg type="lucas">p(ro)</seg>
-                  <orig>ꝓ</orig> <!-- check abbreviation -->
+                  <orig>ꝓ</orig> 
                   <reg>pro</reg>
             </choice>
             <choice>
@@ -202,7 +202,7 @@
             </choice>
             <choice>
                   <seg type="lucas">q(uia)</seg>
-                  <orig>q:</orig> <!-- check abbreviation -->
+                  <orig>q:</orig> 
                   <reg>quia</reg>
             </choice>
             <choice>
@@ -248,7 +248,7 @@
             </choice>
             <lb/>Infra ascenf?. <choice>
                   <seg type="lucas">Ia(m)</seg>
-                  <orig>Iā</orig> <!-- is this a dot or a macron -->
+                  <orig>Iā</orig> 
                   <reg>Iam</reg>
             </choice>
             <choice>

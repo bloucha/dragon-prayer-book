@@ -34,7 +34,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-	             <orig>Dṡ</orig>
+	             <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> cui 
 	<choice>
@@ -106,14 +106,9 @@
 		       <reg>cathena</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">st(ri)ngit</seg>
-	             <orig>stṅgit</orig> <!-- check to make sure the dot isn't a macron -->
-		       <reg>stringit</reg>
+	             <orig>ɔstn̄git</orig> 
+		       <reg>constringit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mis(er)at(i)o</seg>
@@ -240,15 +235,9 @@
 		       <reg>assequantur.</reg>
 	     </choice> Zu 
 	<choice>
-		       <seg type="lucas">de(?)
-
-</seg>
-	             <orig>dē <!-- Check -->
-
-</orig>
-		       <reg>de?
-
-<!--  check expansion --></reg>
+		       <seg type="lucas">de(?) </seg>
+	            <orig>dē </orig>
+		    <reg>de? <!--  check expansion --></reg>
 	     </choice> 
    </ab>
 

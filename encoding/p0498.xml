@@ -34,9 +34,9 @@
 	     </choice> mirabilia
 <lb/>fecit. Salvavit sibi 
 	<choice>
-		       <seg type="lucas">dext(r)a</seg>
-		       <orig>dexṫa</orig>
-		       <reg>dextra</reg>
+		       <seg type="lucas">dext(er)a</seg>
+		       <orig>dexta</orig>
+		       <reg>dextera</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -137,7 +137,7 @@
 		       <seg type="lucas">v(er)itatis</seg>
 		       <orig>̇vitatis</orig>
 		       <reg>veritatis</reg>
-	     </choice> sue: do??? is
+	     </choice> sue: domui is
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(ae)l.</seg>
@@ -154,16 +154,11 @@
 		       <orig>ōs</orig>
 		       <reg>omnes</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">t(ri?)</seg>
-		       <orig>ṫ</orig>
-		       <reg>tri?
-	<!--  check expansion --></reg>
-	     </choice> 
+	      
       <choice>
-		       <seg type="lucas">nu(m)?</seg>
-		       <orig>nū?</orig>
-		       <reg>num?</reg>
+		       <seg type="lucas">t(er)mi(ni)</seg>
+		       <orig>tmi</orig>
+		       <reg>t(er)mi(ni)</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)re:</seg>
@@ -217,12 +212,7 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">q(?)</seg>
-		       <orig>q</orig>
-		       <reg>q?<!--  check expansion --></reg>
-	     </choice> 
+	     </choice> cy
       <lb break="no"/>thara 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
@@ -238,7 +228,7 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>✝ </orig>
 		       <reg>et </reg>
-	     </choice> cove psal
+	     </choice> voce psal
 <lb break="no"/>mi: 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
@@ -246,9 +236,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">tub(?)</seg>
-		       <orig>tuḃ</orig>
-		       <reg>tub?</reg>
+		       <seg type="lucas">tub(is)</seg>
+		       <orig>tub</orig>
+		       <reg>tubis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ductilib(us)</seg>

@@ -12,222 +12,222 @@
       <lb/>simi 
 	<choice>
 		       <seg type="lucas">fo(n)s</seg>
-		       <orig>fos</orig>
+		       <orig>fōs</orig>
 		       <reg>fons</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">viv(us)</seg>
-		       <orig>viv</orig>
+		       <orig>vivꝰ</orig>
 		       <reg>vivus</reg>
 	     </choice> ignis ca
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">rita(s)</seg>
-		       <orig>rita</orig>
+		       <orig>ritaˢ</orig>
 		       <reg>ritas</reg>
 	     </choice> 
       <gap reason="damage"/> 
 	     <choice>
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
-		       <reg>et </reg>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">spirital(is)</seg>
-		       <orig>spirital</orig>
+		       <orig>spirital͘</orig>
 		       <reg>spiritalis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">unct(i)o.</seg>
-		       <orig>uncto.</orig>
+		       <orig>unctō.</orig>
 		       <reg>unctio.</reg>
 	     </choice>
       <lb/>Tu <gap reason="damage"/> septiformis mu
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ne(re)</seg>
-		       <orig>ne</orig>
+		       <orig>nė</orig>
 		       <reg>nere</reg>
 	     </choice> dextre dei tu 
 	<choice>
 		       <seg type="lucas">digit(us)</seg>
-		       <orig>digit</orig>
+		       <orig>digitꝰ</orig>
 		       <reg>digitus</reg>
 	     </choice> tu
 <lb/>rite 
 	<choice>
 		       <seg type="lucas">p(ro)misso</seg>
-		       <orig>pmisso</orig>
+		       <orig>ꝑmisso</orig>
 		       <reg>promisso</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(at)ris</seg>
-		       <orig>pris</orig>
+		       <orig>pr̄is</orig>
 		       <reg>patris</reg>
 	     </choice> sermo
 <lb break="no"/>ne 
 	<choice>
 		       <seg type="lucas">dita(n)s</seg>
-		       <orig>ditas</orig>
+		       <orig>ditās</orig>
 		       <reg>ditans</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gutt(ur)a.</seg>
-		       <orig>gutta.</orig>
+		       <orig>gutt݃a.</orig>
 		       <reg>guttura.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Acce(n)de</seg>
-		       <orig>Accede</orig>
+		       <orig>Accēde</orig>
 		       <reg>Accende</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">lume(n)</seg>
-		       <orig>lume</orig>
+		       <orig>lumē</orig>
 		       <reg>lumen</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">se(n)sib(us)</seg>
-		       <orig>sesib</orig>
+		       <orig>sēsib⋮</orig>
 		       <reg>sensibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)fu(n)de</seg>
-		       <orig>ifude</orig>
+		       <orig>īfūde</orig>
 		       <reg>infunde</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">amore(m)</seg>
-		       <orig>amore</orig>
+		       <orig>amorē</orig>
 		       <reg>amorem</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">cordib(us)</seg>
-		       <orig>cordib</orig>
+		       <orig>cordib⋮</orig>
 		       <reg>cordibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)firma</seg>
-		       <orig>ifirma</orig>
+		       <orig>īfirma</orig>
 		       <reg>infirma</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(ost)ri</seg>
-		       <orig>nri</orig>
+		       <orig>nr̄i</orig>
 		       <reg>nostri</reg>
 	     </choice> cor
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">p(er)is</seg>
-		       <orig>pis</orig>
-		       <reg>peris</reg>
+		       <seg type="lucas">p(or)is</seg>
+		       <orig>ꝑis</orig>
+		       <reg>poris</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ir)tute</seg>
-		       <orig>vtute</orig>
+		       <orig>v̇tute</orig>
 		       <reg>virtute</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">firma(n)s</seg>
-		       <orig>firmas</orig>
+		       <orig>firmās</orig>
 		       <reg>firmans</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)peti.</seg>
-		       <orig>ppeti.</orig>
+		       <orig>ꝑpeti.</orig>
 		       <reg>perpeti.</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">hoste(m)</seg>
-		       <orig>hoste</orig>
+		       <orig>hostē</orig>
 		       <reg>hostem</reg>
 	     </choice> repellas 
 	<choice>
 		       <seg type="lucas">lo(n)gius</seg>
-		       <orig>logius</orig>
+		       <orig>lōgius</orig>
 		       <reg>longius</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">pace(m)q(ue)</seg>
-		       <orig>paceq</orig>
+		       <orig>pacēq⋮</orig>
 		       <reg>pacemque</reg>
 	     </choice> dones 
 	<choice>
 		       <seg type="lucas">p(ro)tin(us)</seg>
-		       <orig>ptin</orig>
+		       <orig>ꝑtinꝰ</orig>
 		       <reg>protinus</reg>
 	     </choice> duc
 <lb break="no"/>tore sic te 
 	<choice>
 		       <seg type="lucas">p(re)vio</seg>
-		       <orig>pvio</orig>
+		       <orig>p̄vio</orig>
 		       <reg>previo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vite(mus)</seg>
-		       <orig>vite</orig>
+		       <orig>vitēꝰ</orig>
 		       <reg>vitemus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mn)e</seg>
-		       <orig>oe</orig>
+		       <orig>oē</orig>
 		       <reg>omne</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">noxiu(m).</seg>
-		       <orig>noxiu.</orig>
+		       <orig>noxiū.</orig>
 		       <reg>noxium.</reg>
 	     </choice> Per te 
 	<choice>
 		       <seg type="lucas">sciam(us)</seg>
-		       <orig>sciam</orig>
+		       <orig>sciamꝰ</orig>
 		       <reg>sciamus</reg>
 	     </choice> da
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(at)re(m)</seg>
-		       <orig>pre</orig>
+		       <orig>pr̄e⋮</orig>
 		       <reg>patrem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">noscam(us)</seg>
-		       <orig>noscam</orig>
+		       <orig>noscamꝰ</orig>
 		       <reg>noscamus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">atq(ue)</seg>
-		       <orig>atq</orig>
+		       <orig>atq⋮</orig>
 		       <reg>atque</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">filiu(m)</seg>
-		       <orig>filiu</orig>
+		       <orig>filiū</orig>
 		       <reg>filium</reg>
 	     </choice>
       <lb/>te 
 	<choice>
 		       <seg type="lucas">ut(ri)usq(ue)</seg>
-		       <orig>utusq</orig>
+		       <orig>ut̄usq⋮</orig>
 		       <reg>utriusque</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(iritu)m</seg>
-		       <orig>spm</orig>
+		       <orig>spm̄</orig>
 		       <reg>spiritum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">credam(us)</seg>
-		       <orig>credam</orig>
+		       <orig>credamꝰ</orig>
 		       <reg>credamus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mn)i</seg>
-		       <orig>oi</orig>
+		       <orig>ōi</orig>
 		       <reg>omni</reg>
 	     </choice>
    </ab>

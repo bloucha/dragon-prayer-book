@@ -27,7 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -38,7 +38,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">gl(ori)a</seg>
-		       <orig>gla</orig>
+		       <orig>gl͘a</orig>
 		       <reg>gloria</reg>
 	     </choice> 
 	     <choice>
@@ -48,7 +48,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)s</seg>
-		       <orig>Q̇s</orig>
+		       <orig>Q͘s</orig>
 		       <reg>Quis</reg>
 	     </choice> 
 	     <choice>
@@ -63,18 +63,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
-		       <orig>d̄s</orig>
+		       <orig>ḋs</orig>
 		       <reg>deus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">n(oste)r</seg>
-		       <orig>n̄r</orig>
+		       <orig>nr̄</orig>
 		       <reg>noster</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -84,12 +84,12 @@
 	     </choice> altis 
 	<choice>
 		       <seg type="lucas">h(ab)itat:</seg>
-		       <orig>hītat:</orig>
+		       <orig>h̄itat:</orig>
 		       <reg>habitat:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -105,7 +105,7 @@
 	     </choice> celo 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -115,7 +115,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra.</seg>
-		       <orig>ṫra.</orig>
+		       <orig>t̄ra.</orig>
 		       <reg>terra.</reg>
 	     </choice> Sus
 <lb break="no"/>
@@ -126,7 +126,7 @@
 	     </choice> a 
 	<choice>
 		       <seg type="lucas">t(er)ra</seg>
-		       <orig>ṫra</orig>
+		       <orig>t̄ra</orig>
 		       <reg>terra</reg>
 	     </choice> 
 	     <choice>
@@ -136,12 +136,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> de 
 	<choice>
 		       <seg type="lucas">st(er)core</seg>
-		       <orig>sṫcore</orig>
+		       <orig>st̄core</orig>
 		       <reg>stercore</reg>
 	     </choice>
       <lb/>
@@ -152,7 +152,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">paup(er)e(m).</seg>
-		       <orig>paupe⋮.</orig>
+		       <orig>pauꝑe⋮.</orig>
 		       <reg>pauperem.</reg>
 	     </choice> Ut collo
 <lb break="no"/>cet 
@@ -189,23 +189,24 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)li</seg>
-		       <orig>ppli</orig>
+		       <orig>ppl͘i</orig>
 		       <reg>populi</reg>
 	     </choice> sui. 
 	<choice>
+	      <!-- transcription question -->
 		       <seg type="lucas">Q(ui)</seg>
 		       <orig>Q</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">h(ab)itare</seg>
-		       <orig>hītare</orig>
+		       <orig>h̄itare</orig>
 		       <reg>habitare</reg>
 	     </choice>
       <lb/>facit 
 	<choice>
 		       <seg type="lucas">st(er)ile(m)</seg>
-		       <orig>stilē</orig>
+		       <orig>sṫilē</orig>
 		       <reg>sterilem</reg>
 	     </choice> 
 	     <choice>
@@ -215,13 +216,13 @@
 	     </choice> domo: 
 	<choice>
 		       <seg type="lucas">m(at)re(m)</seg>
-		       <orig>mr̄e</orig>
+		       <orig>mr̄e⋮</orig>
 		       <reg>matrem</reg>
 	     </choice> fi
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">lior(um)</seg>
-		       <orig>lior</orig>
+		       <orig>lior⋮</orig>
 		       <reg>liorum</reg>
 	     </choice> 
 	     <choice>
@@ -252,25 +253,25 @@
 	     </choice> in 
 	<choice>
 		       <seg type="lucas">s(e)c(u)la.</seg>
-		       <orig>scl̇a.</orig>
+		       <orig>scl͘a.</orig>
 		       <reg>secula.</reg>
 	     </choice>
       <lb/>IN exitu  
 <lb/>
 	     <choice>
 		       <seg type="lucas">isr(ae)l</seg>
-		       <orig>isrl̇</orig>
+		       <orig>isrl͘</orig>
 		       <reg>israel</reg>
 	     </choice> de e
 <lb break="no"/>gipto: do⸗                Nos 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vivim(us).</seg>
-		       <orig>vivimꝰ.</orig>
+		       <orig>vivimº.</orig>
 		       <reg>vivimus.</reg>
 	     </choice> 
 	     <choice>
@@ -286,7 +287,7 @@
 	     </choice> iacob de 
 	<choice>
 		       <seg type="lucas">p(o)p(u)lo</seg>
-		       <orig>ppl̇o</orig>
+		       <orig>ppl͘o</orig>
 		       <reg>populo</reg>
 	     </choice> 
 	     <choice>

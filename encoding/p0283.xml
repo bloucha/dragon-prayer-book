@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> noli tardare 
 	<choice>
@@ -38,7 +38,7 @@
 	     </choice> tue 
 	<choice>
 		       <seg type="lucas">isr(ae)l.</seg>
-		       <orig>isrl.</orig>
+		       <orig>isrl͘.</orig>
 		       <reg>israel.</reg>
 	     </choice> 
 	     <choice>
@@ -48,6 +48,7 @@
 	     </choice> 
       <lb/>Ecce dies. 
 	<choice>
+	      <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
 		       <orig>R.</orig>
 		       <reg>Responsorium.</reg>
@@ -55,7 +56,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">b(er)andu(m)</seg>
-		       <orig>ḃandū</orig>
+		       <orig>bȧndū</orig>
 		       <reg>berandum</reg>
 	     </choice> nos. 
 	<choice>
@@ -70,7 +71,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ir)tu</seg>
-		       <orig>̇vtu</orig>
+		       <orig>v̇tu</orig>
 		       <reg>virtu</reg>
 	     </choice>
       <lb break="no"/>
@@ -81,7 +82,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(ersiculus).</seg>
-		       <orig>̇V.</orig>
+		       <orig>V̇.</orig>
 		       <reg>Versiculus.</reg>
 	     </choice> 
 	     <choice>
@@ -101,7 +102,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> sal
 <lb break="no"/>vi 
@@ -112,17 +113,17 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omine).</seg>
-		       <orig>Dꝰ.</orig>
+		       <orig>Dᵉ.</orig>
 		       <reg>Domine.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Gl(ori)a.</seg>
-		       <orig>Gl̇a.</orig>
+		       <orig>Gl͘a.</orig>
 		       <reg>Gloria.</reg>
 	     </choice> Ve?. 
 	<choice>
 		       <seg type="lucas">V(ersiculus).</seg>
-		       <orig>̇V.</orig>
+		       <orig>V̇.</orig>
 		       <reg>Versiculus.</reg>
 	     </choice>
       <lb/>
@@ -164,7 +165,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gl(ori)a(m)</seg>
-		       <orig>gl̇a⋮</orig>
+		       <orig>gl͘a⋮</orig>
 		       <reg>gloriam</reg>
 	     </choice>
       <lb/>
@@ -198,12 +199,12 @@
       <lb/>excita 
 	<choice>
 		       <seg type="lucas">pote(n)tia(m)</seg>
-		       <orig>potētia</orig>
+		       <orig>potētiā</orig>
 		       <reg>potentiam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -225,28 +226,28 @@
         
 	     <choice>
 		       <seg type="lucas">va(n)d(is)?</seg>
-		       <orig>vād?</orig>
+		       <orig>vāḋ?</orig>
 		       <reg>vandis?</reg>
 	     </choice> nos.
 <lb/>
 	     <choice>
 		       <seg type="lucas">ill(is)</seg>
-		       <orig>il̇l</orig>
+		       <orig>ill͘</orig>
 		       <reg>illis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">salvabit(ur)</seg>
-		       <orig>salvabiṫ</orig>
+		       <orig>salvabit݃</orig>
 		       <reg>salvabitur</reg>
 	     </choice> iuda 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">isr(ae)l</seg>
-		       <orig>isṙl</orig>
+		       <orig>isrl͘</orig>
 		       <reg>israel</reg>
 	     </choice>
       <lb/>
@@ -257,7 +258,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ </orig>
+		       <orig>ɔ</orig>
 		       <reg>con</reg>
 	     </choice>
 	     <choice>
@@ -267,7 +268,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> hoc 
 	<choice>
@@ -283,7 +284,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uo)d</seg>
-		       <orig>q̇d</orig>
+		       <orig>qḋ</orig>
 		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
@@ -309,10 +310,11 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(oste)r;</seg>
-		       <orig>n̄ṙ;</orig>
+		       <orig>nr̄;</orig>
 		       <reg>noster;</reg>
 	     </choice> 
 	     <choice>
+	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
 		       <orig>R.</orig>
 		       <reg>Responsorium.</reg>

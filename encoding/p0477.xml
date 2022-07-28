@@ -9,7 +9,7 @@
        xml:id="p0477_transcription"
        corresp="#p0477_translation">
 
-      <lb/>culo suo: respex†i†t 
+      <lb/>culo suo: respexit 
 	<choice>
 		       <seg type="lucas">s(upe)r</seg>
 		       <orig>sr̄</orig>
@@ -40,12 +40,17 @@
 		       <seg type="lucas">Q(ui)</seg>
 		       <orig>Q</orig>
 		       <reg>Qui</reg>
-	     </choice> †??†xit singila
-<lb/>
+	     </choice> 
+         <choice>
+	           <seg type="lucas">fi(n)xit</seg>
+                  <orig>fixit</orig>
+                  <reg>finxit</reg>
+	     </choice> singila
+<lb break="no"/>
 	     <choice>
-		       <seg type="lucas">ta(?)</seg>
-		       <orig>tā</orig>
-		       <reg>ta?</reg>
+		       <seg type="lucas">ti(m)</seg>
+		       <orig>ti</orig>
+		       <reg>tim</reg>
 	     </choice> corda 
 	<choice>
 		       <seg type="lucas">eor(um):</seg>
@@ -56,11 +61,11 @@
 		       <seg type="lucas">q(ui)</seg>
 		       <orig>̇q</orig>
 		       <reg>qui</reg>
-	     </choice> †
+	     </choice> 
 	<choice>
-		       <seg type="lucas">i(n)†telligit</seg>
-		       <orig>i†telligit</orig>
-		       <reg>in†telligit</reg>
+		       <seg type="lucas">i(n)telligit</seg>
+		       <orig>itelligit</orig>
+		       <reg>intelligit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mn)ia</seg>
@@ -77,11 +82,11 @@
 		       <seg type="lucas">eor(um).</seg>
 		       <orig>eor.</orig>
 		       <reg>eorum.</reg>
-	     </choice> N†
+	     </choice> 
 	<choice>
-		       <seg type="lucas">o(n)†</seg>
-		       <orig>o†</orig>
-		       <reg>on†</reg>
+		       <seg type="lucas">No(n)</seg>
+		       <orig>No</orig>
+		       <reg>Non</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">salvat(ur)</seg>

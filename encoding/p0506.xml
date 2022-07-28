@@ -3,10 +3,10 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="245v" xml:id="p0506">
 
 	<ab type="transcription" xml:id="p0506_transcription" corresp="#p0506_translation">
-		<lb/>O Dulcissime ?(?) <choice>
-			<seg type="lucas">c(t)o</seg>
-			<orig>co</orig>
-			<reg>cto</reg>
+		<lb/>O Dulcissime <choice>
+			<seg type="lucas">l(?)c(t)o</seg>
+			<orig>lco</orig>
+			<reg>l?cto</reg>
 		</choice> (tercia?). <lb/>
 		<choice>
 			<seg type="lucas">p(ate)r</seg>
@@ -130,16 +130,16 @@
 			<seg type="lucas">R(esponsorium).</seg>
 			<orig>R.</orig>
 			<reg>Responsorium.</reg>
+		</choice> O 
+		<choice>
+			<seg type="lucas">spe(m)</seg>
+			<orig>spe</orig>
+			<reg>spem</reg>
 		</choice>
 		<choice>
-			<seg type="lucas">Ospe(?)</seg>
-			<orig>Ospe</orig>
-			<reg>Ospe?</reg>
-		</choice>
-		<choice>
-			<seg type="lucas">mira(m?)</seg>
+			<seg type="lucas">mira(m)</seg>
 			<orig>mira</orig>
-			<reg>miram?<!--  check expansion --></reg>
+			<reg>miram</reg>
 		</choice>
 		<lb/>
 		<choice>
@@ -147,19 +147,15 @@
 			<orig>qua</orig>
 			<reg>quam</reg>
 		</choice> dedisti mortis <choice>
-			<seg type="lucas">ho(?)</seg>
+			<seg type="lucas">ho(ra)</seg>
 			<orig>ho</orig>
-			<reg>ho?</reg>
+			<reg>hora</reg>
 		</choice> te <lb/>
+		
 		<choice>
-			<seg type="lucas">fle(?) </seg>
-			<orig>fle </orig>
-			<reg>fle? <!--  check expansion --></reg>
-		</choice>
-		<choice>
-			<seg type="lucas">tib(us)</seg>
-			<orig>tib</orig>
-			<reg>tibus</reg>
+			<seg type="lucas">fle(n)tib(us)</seg>
+			<orig>fletib</orig>
+			<reg>flentibus</reg>
 		</choice>
 		<choice>
 			<seg type="lucas">du(m)</seg>
@@ -196,13 +192,13 @@
 			<reg>pater</reg>
 		</choice>
 		<choice>
-			<seg type="lucas">q(ui)d</seg>
+			<seg type="lucas">q(uo)d</seg>
 			<orig>qd</orig>
-			<reg>quid</reg>
-		</choice> dixisti nos tu <lb break="no"/>is i?? <choice>
-			<seg type="lucas">a(n)s</seg>
-			<orig>as</orig>
-			<reg>ans</reg>
+			<reg>quod</reg>
+		</choice> dixisti nos tu <lb break="no"/>is <choice>
+			<seg type="lucas">iuva(n)s</seg>
+			<orig>iuvas</orig>
+			<reg>iuvans</reg>
 		</choice>
 		<choice>
 			<seg type="lucas">p(re)cib(us).</seg>

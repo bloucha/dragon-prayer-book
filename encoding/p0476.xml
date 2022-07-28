@@ -231,9 +231,9 @@
 		       <reg>Beata</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ges(?)</seg>
-		       <orig>gēs</orig>
-		       <reg>ges?</reg>
+		       <seg type="lucas">ge(n)s</seg>
+		       <orig>ges</orig>
+		       <reg>gens</reg>
 	     </choice> cu
 <lb break="no"/>ius 
 	<choice>
@@ -295,9 +295,9 @@
 		       <reg>hominum?.</reg>
 	     </choice> De 
 	<choice>
-		       <seg type="lucas">p(re)p(er?)ato</seg>
-		       <orig>pꝑato</orig>
-		       <reg>preper?ato</reg>
+		       <seg type="lucas">p(re)p(ar)ato</seg>
+		       <orig>ppato</orig>
+		       <reg>preparato</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">h(ab)ita⸗</seg>

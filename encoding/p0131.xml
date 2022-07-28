@@ -32,9 +32,8 @@
 		       <reg>ac</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, this is a p with a bar, A770 is not appearing correctly -->
 		       <seg type="lucas">post(er)i(us)</seg>
-		       <orig>ꝑosẗiꝰ</orig>
+		       <orig>posẗiꝰ</orig> 
 		       <reg>posterius</reg>
 	     </choice> 
 	     <choice>
@@ -49,7 +48,6 @@
 		       <reg>elis</reg>
 	     </choice> ab ore 
 	<choice>
-	      <!-- the P with a bar might be a bar over the e -->
 		       <seg type="lucas">sume(n)s</seg>
 		       <orig>sumēs</orig>
 		       <reg>sumens</reg>
@@ -62,7 +60,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
-		       <orig>pct̄or⋮</orig>
+		       <orig>pct̄oꝝ</orig>
 		       <reg>peccatorum</reg>
 	     </choice> 
 	     <choice>
@@ -99,20 +97,14 @@
  Ave 
 	<choice>
 		       <seg type="lucas">ma(r)ia.</seg>
-		       <orig>ṁāia.</orig>
+		       <orig>ṁȧia.</orig>
 		       <reg>maria.</reg>
 	     </choice>
-      <lb/>
+      <lb/>     
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
-	           <!-- A770 not appearing correctly -->
-		       <seg type="lucas">y(m)n(us).</seg>
+		       <seg type="lucas">(h)y(m)n(us).</seg>
 		       <orig>ȳnꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <reg>hymnus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Que(m)</seg>
@@ -180,7 +172,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">iter(um)</seg>
-		       <orig>iter⋮</orig>
+		       <orig>iteꝝ</orig>
 		       <reg>iterum</reg>
 	     </choice> 
 	     <choice>
@@ -230,11 +222,11 @@
 		       <seg type="lucas">ge(n)it(ri)x.</seg>
 		       <orig>gēiṫx.</orig>
 		       <reg>genitrix.</reg>
-	     </choice>        ?
+	     </choice>        
 	<choice>
 		       <seg type="lucas">co(?).</seg>
-		       <orig>c̄o.</orig>
-		       <reg>co?.<!--  check expansion --></reg>
+		       <orig>rc̄o.</orig>
+		       <reg>rco?.<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
@@ -296,7 +288,6 @@
 		       <reg>genitrix</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, added "xp" -->
 		       <seg type="lucas">(christ)i</seg>
 		       <orig>xp̄i</orig>
 		       <reg>christi</reg>
@@ -319,14 +310,9 @@
 	     </choice> ad te
 <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fugie(n)tib(us)</seg>
-		       <orig>fugiētib⋮</orig>
-		       <reg>fugientibus</reg>
+		       <orig>ɔfugiētib⋮</orig>
+		       <reg>confugientibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">venia(m)</seg>

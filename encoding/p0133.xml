@@ -16,14 +16,13 @@
 		       <reg>in</reg>
 	     </choice> se 
 	<choice>
-	      <!-- unsure how to code, looks like an "r" -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝑpṫ</orig>
+		       <orig>ꝓpṫ</orig> 
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>
@@ -76,7 +75,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(m)bor(um)</seg>
-		       <orig>ābor⋮</orig>
+		       <orig>āboꝝ</orig>
 		       <reg>amborum</reg>
 	     </choice> 
 	     <choice>
@@ -134,12 +133,6 @@
 		       <reg>clementes</reg>
 	     </choice> estis. Fugiat
 <lb/>
-	     <choice>
-	           <!-- check transcription -->
-		       <seg type="lucas">(er)</seg>
-		       <orig/>
-		       <reg>er</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">g(o)</seg>
 		       <orig>gº</orig>
@@ -212,7 +205,7 @@
       <lb break="no"/>ce 
 	<choice>
 		       <seg type="lucas">s(er)vis</seg>
-		       <orig>s͘vis</orig>
+		       <orig>sv̇is</orig> <!-- dot over v or next to s -->
 		       <reg>servis</reg>
 	     </choice> 
 	     <choice>
@@ -233,8 +226,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(er)vis</seg>
-		       <orig>s͘vis</orig>
-		       <reg>servis</reg>
+		       <orig>sv̇is</orig>
+		       <reg>servis</reg> <!-- dot over v or next to s -->
 	     </choice> filii tui. O
 <lb/>
 	     <choice>
@@ -276,18 +269,18 @@
       <lb break="no"/>lia 
 	<choice>
 		       <seg type="lucas">s(er)vos</seg>
-		       <orig>s͘vos</orig>
-		       <reg>servos</reg>
+		       <orig>s͘vos</orig> 
+	      <reg>servos</reg> <!-- dot over v or next to s -->
 	     </choice> tuos filio tuo. T.
 <lb/>
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R͘.</orig>
+		       <orig>R.</orig> <!-- another instance of Responsorium -->
 		       <reg>Responsorium.</reg>
 	     </choice> Ave 
 	<choice>
 		       <seg type="lucas">ma(r)ia</seg>
-		       <orig>māia</orig>
+		       <orig>mȧia</orig>
 		       <reg>maria</reg>
 	     </choice> 
 	     <choice>

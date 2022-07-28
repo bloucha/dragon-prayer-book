@@ -34,17 +34,14 @@
 		       <seg type="lucas">q(ui).</seg>
 		       <orig>q̇.</orig>
 		       <reg>qui.</reg>
-	     </choice> †T†
-	<choice>
-		       <seg type="lucas">(em)</seg>
-		       <orig/>
-		       <reg>em</reg>
-	     </choice>
+	     </choice> 
+         <supplied> <!-- check transcription here -->
 	     <choice>
-		       <seg type="lucas">p(er)e</seg>
-		       <orig>ꝑe</orig>
-		       <reg>pere</reg>
+		       <seg type="lucas">T(em)p(er)e</seg>
+		       <orig>Tꝑe</orig>
+		       <reg>Tempere</reg>
 	     </choice>
+         </supplied>
       <lb/>paschah 
 	<choice>
 		       <seg type="lucas">an(tiphon?).</seg>
@@ -69,9 +66,8 @@
 		       <reg>Beata</reg>
 	     </choice> dei 
 	<choice>
-	      <!-- check if the dot goes on top of the x or the t -->
 		       <seg type="lucas">ge(n)it(ri)x</seg>
-		       <orig>geītẋ</orig>
+		       <orig>geīṫx</orig>
 		       <reg>genitrix</reg>
 	     </choice> ma
 <lb break="no"/>ria 
@@ -134,19 +130,18 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- check transcrption, changed to "xpo" -->
 		       <seg type="lucas">(christo) </seg>
 		       <orig> xp̄o</orig>
 		       <reg>christo </reg>
 	     </choice> ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)lo</seg>
-		       <orig>ꝑꝑl͘o</orig>
+		       <orig>ppl͘o</orig>
 		       <reg>populo</reg>
 	     </choice> 
 	     <choice>
@@ -156,7 +151,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> cle
 <lb break="no"/>ro 
@@ -168,13 +163,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> devoto 
 	<choice>
 	      <!-- check dot over the first e -->
 		       <seg type="lucas">femi(n)eo</seg>
-		       <orig>fėmīeo</orig>
+		       <orig>femīeo</orig>
 		       <reg>femineo</reg>
 	     </choice>
       <lb/>sexu 
@@ -238,7 +233,6 @@
 	     </choice> 
  
 	     <choice>
-	           <!-- character not assigned -->
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
@@ -266,9 +260,8 @@
 	     </choice> curat
 <lb/>
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(o)p(u)lo</seg>
-		       <orig>pꝑl͘o</orig>
+		       <orig>ppl͘o</orig>
 		       <reg>populo</reg>
 	     </choice> tu 
 	<choice>

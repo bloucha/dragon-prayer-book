@@ -33,14 +33,9 @@
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fid(en)t</seg>
-		       <orig>fid̄t</orig>
-		       <reg>fident</reg>
+		       <orig>ɔfid̄t</orig>
+		       <reg>confident</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -49,7 +44,7 @@
 	     </choice> te. Ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> to
 <lb break="no"/>
@@ -75,7 +70,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb/>clero 
@@ -86,18 +81,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mo(na)chor(um)</seg>
-		       <orig>möchor⋮</orig>
+		       <orig>möchoꝝ</orig>
 		       <reg>monachorum</reg>
 	     </choice> cho
 <lb break="no"/>ro exora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> devoto 
 	<choice>
@@ -160,7 +155,7 @@
 	     </choice> T. 
 	<choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R͘.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -232,7 +227,7 @@
 	     <choice>
 	           <!-- unsure how to code -->
 		       <seg type="lucas">ii(?).</seg>
-		       <orig>ii.</orig>
+		       <orig>ïi.</orig>
 		       <reg>ii?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>OB 
@@ -265,7 +260,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)be(n)t</seg>
-		       <orig>ꝑbēt</orig>
+		       <orig>ꝓbēt</orig> 
 		       <reg>probent</reg>
 	     </choice> hii 
 	<choice>

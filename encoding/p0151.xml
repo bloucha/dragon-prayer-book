@@ -164,9 +164,9 @@
 		       <reg>nobis.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
@@ -202,9 +202,9 @@
 		       <reg>Iesue.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> Exurge 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
@@ -260,9 +260,9 @@
 		       <reg>noster.</reg>
 	     </choice> Et ne. 
 	<choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> Vivet 
 	<choice>
 		       <seg type="lucas">ani(m)a</seg>
@@ -308,6 +308,15 @@
 
    <ab type="translation"
        xml:id="p0151_translation"
-       corresp="#p0151_transcription"/>
-
+       corresp="#p0151_transcription"> Glory be to Thee, the Trinity, coequal, one God, before all ages, and now, and forever. <!-- google translated prev sentence --> 
+         Chapter. Now to the king of ages, immortal, invisible, the only God, be honour and glory for ever and ever. Amen. Glory be to God. Response. Jesus Christ, Son 
+   of the living God. Have mercy on us. Versicle. Who is seated at the right hand of the Father: have mercy on us. Glory [be to the Father, and to the Son, 
+   and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end.] Jesus. <!-- prompt for what prayer? --> Versicle. 
+         Arise, O Lord, help us: and redeem us for Your
+         name's sake. Lord have mercy. Christ have mercy. Lord have mercy. 
+         Our Father, [who art in heaven: hallowed be thy name. Thy kingdom come. Thy will be done, on earth as it is in heaven. 
+         Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us.] 
+         And lead [us not into temptation, but deliver us from evil.] Versicle. My soul shall live and shall praise thee: and thy judgments shall help me. 
+         I have gone astray like a sheep that is lost: seek thy servant, <!-- psalm 118 cont. -->
+   </ab>
 </div>

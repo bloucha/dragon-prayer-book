@@ -16,9 +16,8 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-<!-- The characters in orig don't include a "u" but I think that there is one formed between the "m" and the of "l", also I can't identify a mark that would be an abbreviation to represent "u" which makes me think that it is made from the ends of those first two characters, didn't edit the orig just to be safe-->
 		       <seg type="lucas">m(u)lierib(us)</seg>
-	             <orig>mlierib⋮</orig>
+	             <orig>ml͘ierib⋮</orig>
 		       <reg>mulieribus</reg>
 	     </choice> 
 	     <choice>
@@ -27,29 +26,27 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure of what character to use for (tu) -->
 		       <seg type="lucas">b(e)n(e)d(i)c(tu)s</seg>
-	                 <orig>bn̄dc̄s</orig>
+	              <orig>bn̄dc̄s</orig>
 		       <reg>benedictus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">fruct(us)</seg>
-	                 <orig>fructꝰ</orig>
+	             <orig>fructꝰ</orig>
 		       <reg>fructus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ve(n)t(ri)s</seg>
-	                 <orig>vēṫs</orig>
+	               <orig>vēṫs</orig>
 		       <reg>ventris</reg>
 	     </choice> tui 
 	<choice>
 		       <seg type="lucas">i(esu)s</seg>
-	                 <orig>iḣs</orig>
+	               <orig>iḣs</orig>
 	 	       <reg>iesus</reg>
 	     </choice> 
 	     <choice>
-	           <!-- took off m? -->
 		       <seg type="lucas">(christu)s</seg>
 	           <orig>xp̄s</orig>
 		       <reg>christus</reg>
@@ -57,17 +54,17 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">me(n).</seg>
-	                  <orig>mē.</orig>
+	              <orig>mē.</orig>
 		       <reg>men.</reg>
 	     </choice> Credo 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-	                 <orig>ī</orig>
+	              <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">deu(m)</seg>
-	                 <orig>deū</orig>
+	             <orig>deū</orig>
 		       <reg>deum</reg>
 	     </choice> 
 	     <choice>
@@ -83,28 +80,28 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">pote(n)te(m)</seg>
-	                 <orig>potētē</orig>
+	              <orig>potētē</orig>
 		       <reg>potentem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">creatore(m)</seg>
-	                 <orig>creatorē</orig>
+	              <orig>creatorē</orig>
 		       <reg>creatorem</reg>
 	     </choice> celi 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	                 <orig>+</orig>
+	              <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)re.</seg>
-	                 <orig>ṫre.</orig>
+	              <orig>ṫre.</orig>
 		       <reg>terre.</reg>
 	     </choice>
       <lb/>Et 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-	                 <orig>ī</orig>
+	              <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
@@ -124,7 +121,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us)</seg>
-	                 <orig>eiꝰ</orig>
+	              <orig>eiꝰ</orig>
 		       <reg>eius</reg>
 	     </choice> u
 <lb break="no"/>
@@ -135,7 +132,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(um)</seg>
-	           <orig>dn̄⋮</orig>
+	              <orig>dn̄⋮</orig>
 		       <reg>dominum</reg>
 	     </choice> 
 	     <choice>
@@ -146,23 +143,19 @@
 	     <choice>
 	           <!-- Won't let me encode dot above Q ! -->
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q̇̇̇̇̇̇</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-	           <orig></orig>
-		       <reg>con</reg>
-	     </choice>
+	     
 	     <choice>
 		       <seg type="lucas">cept(us)</seg>
-	           <orig>ceptꝰ</orig>
-		       <reg>ceptus</reg>
+	              <orig>ɔceptꝰ</orig>
+		       <reg>conceptus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
-	                 <orig>ē</orig>
+	              <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice> 
       <!-- several slashes --> ex maria 
@@ -189,7 +182,7 @@
 	     </choice> pylato 
 	<choice>
 		       <seg type="lucas">crucifix(us)</seg>
-	                 <orig>crucifixꝰ</orig>
+	              <orig>crucifixꝰ</orig>
 		       <reg>crucifixus</reg>
 	     </choice> 
 	     <choice>
@@ -200,17 +193,17 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">tu(us)</seg>
-	                  <orig>tuꝰ</orig>
+	               <orig>tuꝰ</orig>
 		       <reg>tuus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	                 <orig>+</orig>
+	             <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sepult(us).</seg>
-	                 <orig>sepultꝰ.</orig>
+	             <orig>sepultꝰ.</orig>
 		       <reg>sepultus.</reg>
 	     </choice> 
 	     <choice>
@@ -259,7 +252,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">In(de)</seg>
-	                 <orig>In̄ꝰ</orig>
+	                 <orig>In̄</orig>
 		       <reg>Inde</reg>
 	     </choice> 
 	     <choice>
@@ -275,7 +268,7 @@
 <lb break="no"/>care vivos 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	                  <orig>+</orig>
+	             <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> mortuos.
 <lb/>Credo 
@@ -296,7 +289,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)a(m)</seg>
-	                 <orig>scā⋮</orig>
+	               <orig>scā⋮</orig>
 		       <reg>sanctam</reg>
 	     </choice> ec⸗
 

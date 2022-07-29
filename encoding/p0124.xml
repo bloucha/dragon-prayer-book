@@ -22,7 +22,7 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -75,7 +75,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(er)</seg>
-		       <orig>P</orig>
+		       <orig>Ꝑ</orig>
 		       <reg>Per</reg>
 	     </choice> 
 	     <choice>
@@ -151,7 +151,7 @@
 	     </choice> hac 
 	<choice>
 		       <seg type="lucas">lacri(m)ar(um)</seg>
-		       <orig>lacrīar</orig>
+		       <orig>lacrīaꝝ</orig>
 		       <reg>lacrimarum</reg>
 	     </choice> valle.
 <lb/>Eya ergo 
@@ -172,15 +172,10 @@
 		       <orig>clȯs</orig>
 		       <reg>culos</reg>
 	     </choice> ad nos 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">v(er)te.</seg>
-		       <orig>vte.</orig>
-		       <reg>verte.</reg>
+		       <orig>ɔvte.</orig>
+		       <reg>converte.</reg>
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">i(esu)m</seg>

@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)pi(n)asti</seg>
-		       <orig>ppīasti</orig>
+		       <orig>ꝓpīasti</orig>
 		       <reg>propinasti</reg>
 	     </choice> 
 	     <choice>
@@ -43,7 +43,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(ersiculus)</seg>
-		       <orig>V</orig>
+		       <orig>V̇</orig>
 		       <reg>Versiculus</reg>
 	     </choice> Ora 
 	<choice>
@@ -119,7 +119,7 @@
 <lb break="no"/>liciis 
 	<choice>
 		       <seg type="lucas">v(ir)gi(ni)tatis</seg>
-		       <orig>̇vgītatis</orig>
+		       <orig>v̇gītatis</orig>
 		       <reg>virginitatis</reg>
 	     </choice> 
 	     <choice>
@@ -156,7 +156,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">v(er)na(n)te(m)</seg>
-		       <orig>̇vnātē</orig>
+		       <orig>v̇nātē</orig>
 		       <reg>vernantem</reg>
 	     </choice> 
 	     <choice>
@@ -171,7 +171,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">rosar(um)</seg>
-		       <orig>rosar⋮</orig>
+		       <orig>rosaꝝ</orig>
 		       <reg>rosarum</reg>
 	     </choice> 
 	     <choice>
@@ -180,19 +180,14 @@
 		       <reg>et </reg>
 	     </choice> li
 <lb break="no"/>liis 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">valliu(m)</seg>
-		       <orig>valliū</orig>
-		       <reg>vallium</reg>
+		       <orig>ɔvalliū</orig>
+		       <reg>convallium</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(ea)tissima(m)</seg>
-		       <orig>bt̄issima</orig>
+		       <orig>bt̄issimā</orig>
 		       <reg>beatissimam</reg>
 	     </choice> 
 	     <choice>
@@ -229,7 +224,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(ersiculus)</seg>
-		       <orig>V</orig>
+		       <orig>V̇</orig>
 		       <reg>Versiculus</reg>
 	     </choice> Ora. 
 	<choice>
@@ -272,31 +267,25 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nyp(?)t.</seg>
-		       <orig>nȳpt.</orig>
+		       <orig>nyp̄t.</orig>
 		       <reg>nyp?t.<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">d(?)</seg>
-		       <orig>̇d</orig>
+		       <orig>ḋ</orig>
 		       <reg>d?</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)?e(?)t</seg>
-		       <orig>?ēt</orig>
+		       <orig>ɔvēt</orig>
 		       <reg>con?e?t</reg>
 	           <!--check transcription -->
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">sp(?)cht.
-
-</seg>
-		       <orig>sṗcht.
-
-</orig>
-		       <reg>sp?cht.
-
-<!--  check expansion --></reg>
+		       <seg type="lucas">sp(?)cht.</seg>
+		       <orig>sṗcht.</orig>
+		       <reg>sp?cht.<!--  check expansion --></reg>
 	     </choice> 
    </ab>
 

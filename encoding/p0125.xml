@@ -18,7 +18,7 @@
 <lb/>maria. 
 	<choice>
 		       <seg type="lucas">V(ersiculus)</seg>
-		       <orig>V</orig>
+		       <orig>V̇</orig>
 		       <reg>Versiculus</reg>
 	     </choice> 
 	     <choice>
@@ -29,7 +29,7 @@
 <lb break="no"/>dare te. 
 	<choice>
 		       <seg type="lucas">v(ir)go</seg>
-		       <orig>̇vgo</orig>
+		       <orig>v̇go</orig>
 		       <reg>virgo</reg>
 	     </choice> 
 	     <choice>
@@ -45,18 +45,17 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">v(ir)tute(m)</seg>
-		       <orig>̇vtute</orig>
+		       <orig>v̇tutē</orig>
 		       <reg>virtutem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(contra) </seg>
-		       <orig> </orig>
-	           <!-- having trouble finding a unicode character -->
+		       <orig>ɔ̈</orig>
 		       <reg>contra </reg>
 	     </choice> hostes tuos; 
 	<choice>
 		       <seg type="lucas">Or(ati)o.</seg>
-		       <orig>Oṙo.</orig>
+		       <orig>Or̄o.</orig>
 		       <reg>Oratio.</reg>
 	     </choice>
       <lb/>
@@ -73,12 +72,12 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">regi(n)a</seg>
-		       <orig>regiā</orig>
+		       <orig>regīa</orig>
 		       <reg>regina</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">celor(um)</seg>
-		       <orig>celor⋮</orig>
+		       <orig>celoꝝ</orig>
 		       <reg>celorum</reg>
 	     </choice> ave 
 	<choice>
@@ -94,7 +93,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um)</seg>
-		       <orig>r⋮</orig>
+		       <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> salve radix 
 	<choice>
@@ -120,7 +119,7 @@
 	     </choice> orta gaude 
 	<choice>
 		       <seg type="lucas">glo(rio)sa</seg>
-		       <orig>gl̇osa</orig>
+		       <orig>gl͘osa</orig>
 		       <reg>gloriosa</reg>
 	     </choice>
       <lb/>
@@ -157,19 +156,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christum) </seg>
-		       <orig>rp̄⋮</orig>
-	           <!-- letters don't exist in unicode nor the transcription -->
+		       <orig>xp̄⋮</orig>
 		       <reg>christum </reg>
 	     </choice> exo
 <lb break="no"/>ra. 
 	<choice>
 		       <seg type="lucas">V(ersiculus)</seg>
-		       <orig>V</orig>
+		       <orig>V̇</orig>
 		       <reg>Versiculus</reg>
-	     </choice> Ora 
+	     </choice> Ora <!-- should this be in a choice? check transcription -->
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-	                <orig>ꝓ</orig>
+	          <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -200,7 +198,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(ro)tege.</seg>
-		       <orig>Ptege.</orig>
+		       <orig>Ꝓtege.</orig>
 		       <reg>Protege.</reg>
 	     </choice>
       <lb/>
@@ -221,18 +219,18 @@
 	     </choice> O 
 	<choice>
 		       <seg type="lucas">lume(n)</seg>
-		       <orig>luṁē</orig>
+		       <orig>lumē</orig>
 		       <reg>lumen</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eccl(esi)e</seg>
-		       <orig>eccl̇e</orig>
+		       <orig>eccl͘e</orig>
 		       <reg>ecclesie</reg>
 	     </choice>
       <lb/>doctor 
 	<choice>
 		       <seg type="lucas">v(er)itatis</seg>
-		       <orig>̇vitatis</orig>
+		       <orig>v̇itatis</orig>
 		       <reg>veritatis</reg>
 	     </choice> rosa 
 	<choice>

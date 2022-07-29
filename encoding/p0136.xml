@@ -76,8 +76,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)ificet(ur)</seg>
-		       <orig>sc̄ificet݃</orig>
-		       <reg>sanctificetur</reg> <!-- check -->
+		      <orig>sctifcet݃</orig>
+		       <reg>sanctificetur</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nom(en)</seg>
@@ -124,7 +124,7 @@
 <lb break="no"/>lo 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -134,7 +134,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra.</seg>
-		       <orig>t͘ra.</orig>
+		       <orig>t͘ra.</orig> <!-- not sure if macron or dot -->
 		       <reg>terra.</reg>
 	     </choice> 
 	     <choice>
@@ -184,7 +184,10 @@
 		       <seg type="lucas">dimittim(us)</seg>
 	       	<orig>dimittimꝰ</orig>
 		       <reg>dimittimus</reg>
-	     </choice> †debi⸗†
+	     </choice> 
+   	<supplied>
+   	debi⸗
+   	</supplied>
 <lb/>
 	     <choice>
 		       <seg type="lucas">torib(us)</seg>
@@ -209,7 +212,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">te(m)ptat(i)o(nem).</seg>
-	     	  <orig>tēptatō⋮.</orig> <!-- check if there is a dot over the e or a macron -->
+	     	  <orig>tēptatō⋮.</orig> 
 		       <reg>temptationem.</reg>
 	     </choice> 
 	     <choice>

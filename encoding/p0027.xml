@@ -17,7 +17,7 @@
 	     </choice> Esto 
 	<choice>
 		       <seg type="lucas">nob(is)</seg>
-		       <orig>noḃ</orig>
+		       <orig>nob͘</orig>
 		       <reg>nobis</reg>
 	     </choice> 
 	     <choice>
@@ -55,9 +55,8 @@
 	     </choice>
       <lb/>tuos 
 	<choice>
-	      <!-- check transcription -->
-		       <seg type="lucas">s(u)bsid(y)s</seg>
-		       <orig>sḃsids</orig>
+	      	       <seg type="lucas">s(u)bsidys</seg>
+		       <orig>sb͘sidys</orig>
 		       <reg>subsidys</reg>
 	     </choice> pacis :
 <lb/>
@@ -131,9 +130,9 @@
 		       <reg>preces</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, placat -->
+	           
 		       <seg type="lucas">placarat(us)</seg>
-		       <orig>placaratꝰ</orig>
+		       <orig>placatꝰ</orig>
 		       <reg>placaratus</reg>
 	     </choice> admit
 <lb break="no"/>te : ut destructis 
@@ -171,12 +170,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>ṫ</orig>
+		       <orig>t͘</orig>
 		       <reg>tibi</reg>
 	     </choice> serviat 
 	<choice>
 		       <seg type="lucas">lib(er)tate</seg>
-		       <orig>liḃtate</orig>
+		       <orig>lib͘tate</orig>
 		       <reg>libertate</reg>
 	     </choice> : 
 	<choice>

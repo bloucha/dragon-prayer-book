@@ -12,9 +12,9 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Q(u)i</seg>
-		       <orig>Qi</orig>
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
-	           <!-- don't see a diacritic here -->
+	           
 	     </choice> posuit fines tuos
 <lb/>
 	     <choice>
@@ -35,14 +35,14 @@
       <lb/>satiat te. 
 	<choice>
 		       <seg type="lucas">Q(u)i</seg>
-		       <orig>Qi</orig>
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
-	      <!-- do not see diacritic here -->
+	      
 	     </choice> emittit elo
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">q(ui)u(m)</seg>
-		       <orig>q̇ū</orig>
+		       <orig>q͘ū</orig>
 		       <reg>quium</reg>
 	     </choice> 
 	     <choice>
@@ -53,8 +53,7 @@
 	     <choice>
 		       <seg type="lucas">t(er)re:</seg>
 		       <orig>t͘re:</orig>
-	           <!-- not sure if dot right or above -->
-		       <reg>terre:</reg>
+	 	       <reg>terre:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">velocit(er)</seg>
@@ -69,9 +68,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(u)i</seg>
-		       <orig>Qi</orig>
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
-	           <!-- don't see a diacritic -->
+	           
 	     </choice> dat ni
 <lb break="no"/>
 	     <choice>
@@ -202,8 +201,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(u)i</seg>
-		       <orig>Qi</orig>
-	           <!-- no diacritic seen -->
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
 	     </choice>
       <lb/>
@@ -241,7 +239,7 @@
 	     </choice> fecit 
 	<choice>
 		       <seg type="lucas">talit(er)</seg>
-		       <orig>taliṫ</orig>
+		       <orig>talit͘</orig>
 		       <reg>taliter</reg>
 	     </choice> 
 	     <choice>

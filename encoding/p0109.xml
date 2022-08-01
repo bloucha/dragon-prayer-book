@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vob(is)</seg>
-		       <orig>voḃ</orig>
+		       <orig>vob͘</orig>
 		       <reg>vobis</reg>
 	     </choice> 
 	     <choice>
@@ -38,9 +38,7 @@
 <lb break="no"/>gite 
 	<choice>
 		       <seg type="lucas">postq(uam)</seg>
-		       <orig>postq̈</orig>
-		<!-- there appears to be a mark between the q and the next word, not sure what it is
-			or how to represent it, there are no unicode characters I find satisfactory -->
+		       <orig>postq̈ˢ</orig>
 		       <reg>postquam</reg>
 	     </choice> sederitis 
 	<choice>
@@ -104,8 +102,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ve(n)t(ri)s.</seg>
-		       <orig>vēṫs.</orig>
-	     	<!-- not sure if dot above or dot above right -->
+		       <orig>vēt͘s.</orig>
 		       <reg>ventris.</reg>
 	     </choice> 
 	     <choice>
@@ -132,7 +129,7 @@
 <lb/>filii 
 	<choice>
 		       <seg type="lucas">excussor(um).</seg>
-		       <orig>excussoꝝ.</orig>
+		       <orig>excussor⋮.</orig>
 		       <reg>excussorum.</reg>
 	     </choice> 
 	     <choice>
@@ -176,8 +173,7 @@
 		       <seg type="lucas">(con)fu(n)det(ur)</seg>
 		       <orig>ɔfūdet݃</orig>
 		       <reg>confundetur</reg>
-	     	<!-- the transcription has this as two words but it is clearly
-	     		supposed to be one so I fixed it -->
+	     	
 	     </choice>
 	     <choice>
 		       <seg type="lucas">cu(m)</seg>
@@ -203,7 +199,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(um):</seg>
-		       <orig>dn͘⋮:</orig>
+		       <orig>dn̄⋮:</orig>
 		       <reg>dominum:</reg>
 	     </choice> laud
 <lb break="no"/>da 
@@ -235,13 +231,13 @@
       <lb break="no"/>fortavit seras 
 	<choice>
 		       <seg type="lucas">portar(um)</seg>
-		       <orig>portaꝝ</orig>
+		       <orig>portar⋮</orig>
 		       <reg>portarum</reg>
 	     </choice> tu
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ar(um)</seg>
-		       <orig>aꝝ</orig>
+		       <orig>ar⋮</orig>
 		       <reg>arum</reg>
 	     </choice> : 
 	<choice>

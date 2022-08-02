@@ -96,9 +96,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(er)va</seg>
-		       <orig>s͘va</orig>
+		       <orig>sv̇a</orig>
 		       <reg>serva</reg>
-	         <!-- could be macron over s -->
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -134,7 +133,7 @@
 	     </choice> katholica 
 	<choice>
 		       <seg type="lucas">h(ec)</seg>
-		       <orig>h</orig>
+		       <orig>hᶜ</orig>
 		       <reg>hec</reg>
 	    <!-- I've never really seen something like this character before -->
 	     </choice>
@@ -146,12 +145,12 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">unu(m)</seg>
-		       <orig>ūnu</orig>
+		       <orig>unū</orig>
 		       <reg>unum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">deu(m)</seg>
-		       <orig>deu</orig>
+		       <orig>deū</orig>
 		       <reg>deum</reg>
 	     </choice> 
 	     <choice>
@@ -161,7 +160,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)nitate</seg>
-		       <orig>t͘nitate</orig>
+		       <orig>ṫnitate</orig>
 		       <reg>trinitate</reg>
 	     </choice> 
 	     <choice>
@@ -171,7 +170,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)</seg>
-		       <orig>t͘</orig>
+		       <orig>ṫ</orig>
 		       <reg>tri</reg>
 	     </choice>
       <lb break="no"/>
@@ -192,7 +191,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vene(re)mur.</seg>
-		       <orig>venēmur.</orig>
+		       <orig>venėmur.</orig>
 		       <reg>veneremur.</reg>
 	     </choice>
       <lb/>
@@ -202,18 +201,13 @@
 		       <reg>Neque</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fu(n)de(n)tes</seg>
-		       <orig>fūdētes</orig>
-		       <reg>fundentes</reg>
+		       <orig>ɔfūdētes</orig>
+		       <reg>confundentes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)so(n)as:</seg>
-		       <orig>ꝑsōas:</orig>
+		       <orig>ꝑsōas:</orig> 
 		       <reg>personas:</reg>
 	     </choice> ne
 <lb break="no"/>
@@ -229,7 +223,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sep(er)a(n)tes.</seg>
-		       <orig>seꝑātes.</orig>
+		       <orig>seꝑātes.</orig> 
 		       <reg>seperantes.</reg>
 	     </choice> Alia
 <lb/>
@@ -245,7 +239,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)so(n)a</seg>
-		       <orig>ꝑsoā</orig>
+		       <orig>ꝑsōa</orig>
 		       <reg>persona</reg>
 	     </choice> 
 	     <choice>
@@ -305,7 +299,7 @@
 		       <seg type="lucas">coet(er)na</seg>
 		       <orig>coet͘na</orig>
 		       <reg>coeterna</reg>
-	     </choice> <supplied>†maies⸗†</supplied>
+	     </choice> <supplied>maies⸗</supplied>
 
 
 </ab>

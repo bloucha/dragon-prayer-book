@@ -55,7 +55,7 @@
 	     <choice>
 	         <!-- A770 not appearing correctly -->
 		       <seg type="lucas">i(n)creat(us)</seg>
-		       <orig>īcreatꝰ</orig>
+		       <orig>īcreatꝰ</orig> 
 		       <reg>increatus</reg>
 	     </choice> 
 	     <choice>
@@ -64,9 +64,8 @@
 		       <reg>filius:</reg>
 	     </choice> 
 	     <choice>
-	         <!-- A770 not appearing correctly -->
 		       <seg type="lucas">i(n)creat(us)</seg>
-		       <orig>īcreatꝰ</orig>
+		       <orig>īcreatꝰ</orig> 
 		       <reg>increatus</reg>
 	     </choice> 
 	     <choice>
@@ -81,7 +80,6 @@
 		       <reg>sanctus.</reg>
 	     </choice> 
 	     <choice>
-	         <!-- A770 not appearing correctly -->
 		       <seg type="lucas">Imme(n)s(us)</seg>
 		       <orig>Immēsꝰ</orig>
 		       <reg>Immensus</reg>
@@ -103,9 +101,8 @@
 		       <reg>filius:</reg>
 	     </choice> 
 	     <choice>
-	         <!-- A770 not appearing correctly -->
 		       <seg type="lucas">i(m)me(n)s(us)</seg>
-		       <orig>īmēsꝰ</orig>
+		       <orig>īmēsꝰ</orig> 
 		       <reg>immensus</reg>
 	     </choice> 
 	     <choice>
@@ -119,9 +116,8 @@
 		       <reg>sanctus.</reg>
 	     </choice> 
 	     <choice>
-	         <!-- A770 not appearing correctly -->
 		       <seg type="lucas">Et(er)n(us)</seg>
-		       <orig>Eṫnꝰ</orig>
+		       <orig>Eṫnꝰ</orig> 
 		       <reg>Eternus</reg>
 	     </choice>
       <lb/>
@@ -131,9 +127,8 @@
 		       <reg>pater</reg>
 	     </choice> 
 	     <choice>
-	         <!-- A770 not appearing correctly -->
 		       <seg type="lucas">et(er)n(us)</seg>
-		       <orig>eṫnꝰ</orig>
+		       <orig>eṫnꝰ</orig> 
 		       <reg>eternus</reg>
 	     </choice> 
 	     <choice>
@@ -141,11 +136,9 @@
 		       <orig>filiꝰ:</orig>
 		       <reg>filius:</reg>
 	     </choice> 
-	     <choice>
-	         <!-- A770 not appearing correctly -->
-	         
+	     <choice>	         
 		       <seg type="lucas">et(er)n(us)</seg>
-		       <orig>eṫnꝰ</orig>
+		       <orig>eṫnꝰ</orig> 
 		       <reg>eternus</reg>
 	     </choice> 
 	     <choice>
@@ -185,12 +178,10 @@
 		       <reg>unus</reg>
 	     </choice>
       <lb/>
-	     <choice>
-	         <!-- A770 not appearing correctly -->
-	         
+	     <choice>	         
 		       <seg type="lucas">et(er)n(us).</seg>
 		       <orig>eṫnꝰ.</orig>
-		       <reg>eternus.</reg>
+		       <reg>eternus.</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Sic(ut)</seg>
@@ -228,11 +219,9 @@
 		       <orig>unꝰ</orig>
 		       <reg>unus</reg>
 	     </choice> 
-	     <choice>
-	         <!-- A770 not appearing correctly -->
-	         
+	     <choice>	         
 		       <seg type="lucas">i(n)creat(us)</seg>
-		       <orig>īcreatꝰ</orig>
+		       <orig>īcreatꝰ</orig> 
 		       <reg>increatus</reg>
 	     </choice>
       <lb/>
@@ -246,12 +235,9 @@
 		       <orig>unꝰ</orig>
 		       <reg>unus</reg>
 	     </choice> 
-	     <choice>
-	         <!-- check transcription, looks like imes -->
-	         <!-- A770 not appearing correctly -->
-	         
+	     <choice>	         
 		       <seg type="lucas">i(m)m(en)s(us).</seg>
-		       <orig>īmsꝰ.</orig>
+		       <orig>īmēsꝰ.</orig>
 		       <reg>immensus.</reg>
 	     </choice> 
 	     <choice>

@@ -44,7 +44,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	           <orig> +</orig>
+	           <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -91,7 +91,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	           <orig> + </orig>
+	           <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -160,7 +160,7 @@
 	     </choice> tua: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	           <orig> +</orig>
+	           <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -209,7 +209,7 @@
 <lb break="no"/>tue 
 	<choice>
 		       <seg type="lucas">s(er)vo</seg>
-	           <orig>sv̇o</orig>
+	           <orig>sv̄o</orig>
 		       <reg>servo</reg>
 	     </choice> tuo 
 	<choice>
@@ -227,43 +227,47 @@
 	           <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice>
-      <lb/>†
+      <lb/><supplied>
 	<choice>
-		       <seg type="lucas">ti(m)ore†</seg>
-	           <orig>tīore†</orig>
-		       <reg>timore†</reg>
-	     </choice> tuo. Amputa †
+		       <seg type="lucas">ti(m)or†</seg>
+	           <orig>tīore</orig>
+		       <reg>timore</reg>
+	</choice>
+	tuo. Amputa 
 	<choice>
-		       <seg type="lucas">obp(ro)⸗†</seg>
-	           <orig>obꝓ⸗†</orig>
-		       <reg>obpro⸗†</reg>
+		       <seg type="lucas">obp(ro)⸗</seg>
+	           <orig>obꝓ⸗</orig>
+		       <reg>obpro⸗</reg>
 	     </choice>
-      <lb/>†
+      <lb/> 
 	<choice>
 		       <seg type="lucas">b(i)u(m)</seg>
 	           <orig>ḃū</orig>
 		       <reg>bium</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">meu(m)†</seg>
-	           <orig>meū†</orig>
-		       <reg>meum†</reg>
+		       <seg type="lucas">meu(m)</seg>
+	           <orig>meū</orig>
+		       <reg>meum</reg>
 	     </choice> 
+      </supplied>
 	     <choice>
 		       <seg type="lucas">q(uo)d</seg>
 	           <orig>q̇ḋ</orig>
 		       <reg>quod</reg>
 	     </choice> 
+       
 	     <choice>
 		       <seg type="lucas">suspicat(us)</seg>
 	           <orig>suspicatꝰ</orig>
 		       <reg>suspicatus</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
-		       <seg type="lucas">su(m):†</seg>
-	           <orig>sū:†</orig>
-		       <reg>sum:†</reg>
+		       <seg type="lucas">su(m):</seg>
+	           <orig>sū:</orig>
+		       <reg>sum:</reg>
 	     </choice>
+	     </supplied>
    </ab>
 
    <ab type="translation"

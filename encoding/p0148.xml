@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">post(er)ius;</seg>
-		       <orig>postius;</orig>
+		       <orig>posṫius;</orig>
 		       <reg>posterius;</reg>
 	     </choice> nichil 
 	<choice>
@@ -38,7 +38,7 @@
 	     </choice> tote tres 
 	<choice>
 		       <seg type="lucas">p(er)so(n)e</seg>
-		       <orig>ꝑsōe</orig>
+		       <orig>ꝑsōe</orig> 
 		       <reg>persone</reg>
 	     </choice> co
 <lb break="no"/>
@@ -112,8 +112,8 @@
       <lb break="no"/>te 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
-		       <reg>et </reg>
+		       <orig>+</orig>
+		       <reg>et</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)nitas</seg>
@@ -129,7 +129,6 @@
 		       <seg type="lucas">u(n)itate</seg>
 		       <orig>ūitate</orig>
 		       <reg>unitate</reg>
-	           <!-- the prayer book symbol looks closer to "v" than a "u" -->
 	     </choice> vene
 <lb break="no"/>
 	     <choice>
@@ -147,7 +146,6 @@
 		       <seg type="lucas">v(us)</seg>
 		       <orig>vꝰ</orig>
 		       <reg>vus</reg>
-	           <!-- v or a u? check transcription -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(ss)e:</seg>
@@ -193,7 +191,7 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">i(n)carnat(i)o(n)e(m)</seg>
-		       <orig>icarnatōe⋮</orig>
+		       <orig>īcarnatōe⋮</orig>
 		       <reg>incarnationem</reg>
 	     </choice> 
       <lb/>
@@ -214,15 +212,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(es)u</seg>
-		       <orig>iu</orig>
+		       <orig>ih̄u</orig>
 		       <reg>iesu</reg>
-	           <!-- looks like there are more letters than iu in book -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ)i</seg>
-		       <orig>i</orig>
+		       <orig>xⁱ</orig>
 		       <reg>christi</reg>
-	           <!-- check transcription -->
 	     </choice> fide
 <lb break="no"/>
 	     <choice>
@@ -245,21 +241,16 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>+ </orig>
 		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+	     </choice>      
 	     <choice>
 		       <seg type="lucas">fiteam(ur):</seg>
-		       <orig>fiteam̄:</orig>
-		       <reg>fiteamur:</reg>
+		       <orig>ɔfiteam̄:</orig>
+		       <reg>confiteamur:</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -274,15 +265,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(e)s(us)</seg>
-		       <orig>is</orig>
+		       <orig>ih̄s</orig>
 		       <reg>iesus</reg>
-	           <!-- check transription -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christus) </seg>
-		       <orig>rꝰ</orig>
+		       <orig>xꝰ</orig>
 		       <reg>christus </reg>
-	           <!-- check transcription -->
 	     </choice> dei 
 	<choice>
 		       <seg type="lucas">fili(us)</seg>
@@ -292,7 +281,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
-		       <orig>ds</orig>
+		       <orig>ḋs</orig>
 		       <reg>deus</reg>
 	     </choice> 
 	     <choice>

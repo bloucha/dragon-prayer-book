@@ -70,7 +70,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nob(is)</seg>
-	             <orig>noḃ</orig>
+	             <orig>nob͘</orig>
 		       <reg>nobis</reg>
 	     </choice> 
 	     <choice>
@@ -102,7 +102,7 @@
       <lb/>a 
 	<choice>
 		       <seg type="lucas">nob(is).</seg>
-	             <orig>noḃ.</orig>
+	             <orig>nob͘.</orig>
 		       <reg>nobis.</reg>
 	     </choice> Ab hac 
 	<choice>
@@ -180,11 +180,17 @@
 <lb/>gaudia 
 	<choice>
 		       <seg type="lucas">nob(is).</seg>
-	             <orig>noḃ.</orig>
+	             <orig>nob͘.</orig>
 		       <reg>nobis.</reg>
 	     </choice> 
-         <!-- V might be Vespers, there is a diacritic -->
-         V. Ora. 
+         
+         <choice>
+               <seg type="lucas">V(espers).</seg>
+               <orig>V̇.</orig>
+               <reg>Vespers.</reg>
+         </choice>
+         
+         Ora. 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
 	             <orig>ꝑ</orig>
@@ -193,7 +199,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">nob(is)</seg>
-	             <orig>noḃ</orig>
+	             <orig>nob͘</orig>
 		       <reg>nobis</reg>
 	     </choice> 
 	     <choice>
@@ -203,7 +209,7 @@
 	     </choice> dei 
 	<choice>
 		       <seg type="lucas">ge(n)it(ri)x.</seg>
-	             <orig>gēiṫx.</orig>
+	             <orig>gēit͘x.</orig>
 		       <reg>genitrix.</reg>
 	     </choice> Ut 
 	<choice>
@@ -218,14 +224,13 @@
 		       <reg>efficiamur</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, there is no "us" -->
-		       <seg type="lucas">p(ro)missio(n)ibus</seg>
+	           <seg type="lucas">p(ro)missio(n)ib(us)</seg>
 	             <orig>ꝑmissiōib⋮</orig>
 		       <reg>promissionibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ)i</seg>
-		       <orig>i</orig> <!-- not sure about this abbreviation -->
+		       <orig>xⁱ</orig> 
 		       <reg>christi</reg>
 	     </choice> 
 

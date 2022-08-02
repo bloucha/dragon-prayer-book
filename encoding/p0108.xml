@@ -54,8 +54,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(e)r(usa)l(em):</seg>
-		       <orig>irl͘⋮:</orig>
-	           <!-- check transcription it looks like there's an h here that isn't documented -->
+		       <orig>ihrl͘⋮:</orig>
+	           <!-- check transcription and translation -->
 		       <reg>ierusalem:</reg>
 	     </choice> 
 	     <choice>
@@ -71,7 +71,7 @@
          <!-- no marking for this here, seems to replace h? -->
 	     <choice>
 		       <seg type="lucas">u(n)da(n)cia</seg>
-		       <orig>ūndācia</orig>
+		       <orig>hūndācia</orig>
 		       <reg>undancia</reg>
 	           <!-- h and n not originally included -->
 	     </choice> di
@@ -117,7 +117,7 @@
 	     </choice> tuis. 
 	<choice>
 		       <seg type="lucas">Propt(er)</seg>
-		       <orig>Propṫ</orig>
+		       <orig>Propt͘</orig>
 	      
 		       <reg>Propter</reg>
 	     </choice> 
@@ -150,7 +150,7 @@
 	     </choice> de te. 
 	<choice>
 		       <seg type="lucas">Propt(er)</seg>
-		       <orig>Propṫ</orig>
+		       <orig>Propt͘</orig>
 		       <reg>Propter</reg>
 	     </choice>
       <lb/>
@@ -192,7 +192,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi).</seg>
-		       <orig>ṫ.</orig>
+		       <orig>t͘.</orig>
 		       <reg>tibi.</reg>
 	     </choice>
       <lb/>edificaverit 
@@ -211,7 +211,8 @@
 		       <seg type="lucas">vanu(m)</seg>
 		       <orig>vanū</orig>
 		       <reg>vanum</reg>
-	           <!-- these two (in and vanum) look like one word on the page, check transcription -->
+	           <!-- these two (in and vanum) look like one word on the page, check transcription 
+	           maybe looking at the translation might help-->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">laboraver(un)t</seg>
@@ -220,7 +221,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> edi
 <lb break="no"/>
@@ -253,7 +254,7 @@
 <lb break="no"/>lat 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> custodit 
 	<choice>

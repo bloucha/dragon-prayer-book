@@ -14,7 +14,7 @@
 		       <seg type="lucas">g(ratias).</seg>
 		       <orig>g̈.</orig>
 		       <reg>gratias.</reg>
-	      <!-- a g with two dots doesn't exist in unicode, so I used ̇̇ġ for now -->
+	      
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Fideliu(m)</seg>
@@ -39,7 +39,7 @@
 	     </choice> dei 
 	<choice>
 		       <seg type="lucas">req(ui)esca(n)t</seg>
-		       <orig>req̇escāt</orig>
+		       <orig>req͘escāt</orig>
 		       <reg>requiescant</reg>
 	     </choice> 
 	     <choice>
@@ -58,8 +58,13 @@
 		       <orig>vs̈</orig>
 		       <reg>vesperas</reg>
 	     </choice> 
-         <!-- check transcription, there is a diacritic -->
-         a(ntiphon/amen?) Ave 
+         
+         <choice>
+               <seg type="lucas">a(ntiphon/amen?)</seg>
+               <orig>ä</orig>
+               <reg>Ave</reg>
+         </choice>
+         
 	<choice>
 		       <seg type="lucas">v(ir)ginu(m)</seg>
 		       <orig>v̇ginū</orig>
@@ -86,9 +91,9 @@
 		       <seg type="lucas">regu(m)</seg>
 		       <orig>regū</orig>
 		       <reg>regum</reg>
-	      <!-- u with a dot above not inputting correctly -->
-	     </choice> 
-	     <choice> <!-- check transcription, the o is in the text -->
+	      	     </choice> 
+         
+	     <choice> 
 		       <seg type="lucas">gl(orio)sa</seg>
 		       <orig>gl͘osa</orig>
 		       <reg>gloriosa</reg>
@@ -98,28 +103,32 @@
 		       <seg type="lucas">(christ)i</seg>
 		       <orig>xp̄i</orig>
 		       <reg>christi</reg>
-	      <!-- this segment needs some looking at -->
+	      
 	     </choice> hostia tua ve
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">n(er)antib(us)</seg>
-		       <orig>nantib⋮</orig>
+		       <orig>n͘antib⋮</orig>
 		       <reg>nerantibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(at)rocinia</seg>
 		       <orig>pr̄ocinia</orig>
 		       <reg>patrocinia</reg>
-	           <!-- macron not combining with r -->
-	     </choice> 
+	    </choice> 
 	     <choice>
 		       <seg type="lucas">i(m)pet(ra)</seg>
 		       <orig>īpeẗ</orig>
 		       <reg>impetra</reg>
-	           <!-- t has two combing dots  -->
+	           
 	     </choice>
       <lb break="no"/>ta 
-         <!-- the n has a diacritic -->non deneges suffragia. 
+         
+         <seg type="lucas">n(on)</seg>
+         <orig>n̄</orig>
+         <reg>non</reg>
+         
+         deneges suffragia. 
 <lb/>
 	     <choice>
 		       <seg type="lucas">V(espers)</seg>
@@ -130,13 +139,13 @@
 		       <seg type="lucas">An(tiphona)</seg>
 		       <orig>An̈</orig>
 		       <reg>Antiphona</reg>
-	      <!-- two dots on the n -->
+	      
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(agnifica?)t.</seg>
 		       <orig>mẗ.</orig>
 		       <reg>magnifica?t.<!--  check expansion --></reg>
-	           <!-- two dots on t -->
+	           
 	     </choice> 
  
 	     <choice>
@@ -147,7 +156,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>+</orig>n
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -178,7 +187,7 @@
 	     </choice> illo 
 	<choice>
 		       <seg type="lucas">q(ue)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>que</reg>
 	     </choice> te elegit de 
 <lb/>
@@ -191,7 +200,6 @@
 		       <seg type="lucas">q(uam)</seg>
 		       <orig>q̈ˢ</orig>
 		       <reg>quam</reg>
-	           <!-- two dots on q -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">pulch(ra)</seg>
@@ -203,14 +211,14 @@
 		       <seg type="lucas">q(uam)</seg>
 		       <orig>q̈ˢ</orig>
 		       <reg>quam</reg>
-	           <!-- two dots on q -->
+	           
 	     </choice> mirabi
 <lb break="no"/>lis 
 	<choice>
 		       <seg type="lucas">qu(an)ta</seg>
 		       <orig>q̈uta</orig>
 		       <reg>quanta</reg>
-	      <!-- two dots on q -->
+	      
 	     </choice> luce 
 	<choice>
 		       <seg type="lucas">spectabil(is)</seg>
@@ -220,7 +228,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">int(er)</seg>
-		       <orig>inṫ</orig>
+		       <orig>int͘</orig>
 		       <reg>inter</reg>
 	     </choice> 
 	     <choice>
@@ -229,7 +237,7 @@
 		       <reg>syon</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, first letter may not be j -->
+	           
 		       <seg type="lucas">juve(n)c(u)las</seg>
 		       <orig>juvēcl͘as</orig>
 		       <reg>juvenculas</reg>

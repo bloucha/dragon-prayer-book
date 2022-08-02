@@ -40,7 +40,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">ge(n)it(ri)x</seg>
-		       <orig>gėiṫx</orig>
+		       <orig>gėit͘x</orig>
 		       <reg>genitrix</reg>
 	     </choice> 
 	     <choice>
@@ -55,18 +55,18 @@
 	     </choice> maria 
 	<choice>
 		       <seg type="lucas">i(n)t(er)ce</seg>
-		       <orig>īṫce</orig>
+		       <orig>īt͘ce</orig>
 		       <reg>interce</reg>
 	     </choice>
       <lb break="no"/>de 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝓ</orig>
+		       <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nob(is)</seg>
-		       <orig>noḃ</orig>
+		       <orig>nob͘</orig>
 		       <reg>nobis</reg>
 	     </choice> ad 
 	<choice>
@@ -151,14 +151,13 @@
 	     </choice>
 	     <choice>
 		       <seg type="lucas">y(mnus)</seg>
-		       <orig>y</orig>
+		       <orig>ȳpꝰ</orig>
 		       <reg>ymnus</reg>
-	     	<!-- these two choices (lines 147 - 155) do not reflect what is going on 
-	     		on the actual page, it looks like ȳpꝰ not a separate h, check transcription-->
+	     
 	     </choice>        ris. 
 	<choice>
 		       <seg type="lucas">D(eo).</seg>
-		       <orig>D.</orig>
+		       <orig>Ḋ.</orig>
 		       <reg>Deo.</reg>
 	     </choice>
       <lb/>stella dei 
@@ -189,9 +188,8 @@
    		<orig>Sumēs</orig>
    		<reg>Sumens</reg>	
    	</choice>
-   	<!-- went ahead and added a choice 187 - 191 because it is clearly a 
-   		missed abbreviation -->
-	<choice>
+
+   	<choice>
 		       <seg type="lucas">ill(u)d</seg>
 		       <orig>illḋ</orig>
 		       <reg>illud</reg>
@@ -200,7 +198,6 @@
 	     <choice>
 		       <seg type="lucas">b(ri)el(is)</seg>
 		       <orig>b͘el͘</orig>
-	     	<!-- used dot above right in both placed, not sure if correct -->
 		       <reg>brielis</reg>
 	     </choice> ore 
 	<choice>
@@ -232,12 +229,12 @@
 	     </choice> reis 
 	<choice>
 		       <seg type="lucas">p(ro)fer</seg>
-		       <orig>ꝓfer</orig>
+		       <orig>ꝑfer</orig>
 		       <reg>profer</reg>
-	     </choice> l[
-	<choice>
-		       <seg type="lucas">ume(n)]</seg>
-		       <orig>umē]</orig>
+	     </choice> 
+   	<choice>
+		       <seg type="lucas">l[ume(n)]</seg>
+		       <orig>lumē]</orig>
 		<!-- educated guess at this abbrevation -->
 		       <reg>umen]</reg>
 	     </choice>

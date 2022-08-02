@@ -142,7 +142,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)t(er)cessio(n)e</seg>
-	                 <orig>īṫcessiōe</orig>
+	                 <orig>īt͘cessiōe</orig>
 		       <reg>intercessione</reg>
 	     </choice> ; ad
 <lb/>
@@ -153,7 +153,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̄</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -201,7 +201,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">ih(eseu)m</seg>
-		       <orig>iḣm</orig>
+		       <orig>ih͘m</orig>
 		       <reg>iheseum</reg>
 	     </choice> 
 	     <choice>
@@ -256,8 +256,7 @@
 		       <seg type="lucas">d(eu)s</seg>
 	                 <orig>ḋs</orig>
 		       <reg>deus</reg>
-	     </choice> : Per 
-         <!-- Per is repeated -->
+	     </choice> :                   
                   <choice>
                         <seg> type="lucas">P(er)</seg>
                         <orig>Ꝑ</orig> 
@@ -296,8 +295,7 @@
 <lb/>clamor. 
 	<choice>
 		       <seg type="lucas">Benedicam(us)</seg> 
-	      <!-- check transcription, should be bndicam -->
-	                 <orig>Bn̄dicamꝰ</orig>
+	      	       <orig>Bn̄dicamꝰ</orig>
 		       <reg>Benedicamus</reg>
 	     </choice> 
 	     <choice>

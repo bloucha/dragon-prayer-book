@@ -54,7 +54,7 @@
 	     </choice> mea 
 	<choice>
 		       <seg type="lucas">desid(er)are</seg>
-		       <orig>desidare</orig>
+		       <orig>desiḋare</orig>
 		       <reg>desiderare</reg>
 	     </choice> iusti
 <lb break="no"/>
@@ -81,7 +81,7 @@
 <lb break="no"/>crepasti 
 	<choice>
 		       <seg type="lucas">s(upe)rbos:</seg>
-		       <orig>sṙbos:</orig>
+		       <orig>sr̄bos:</orig>
 		       <reg>superbos:</reg>
 	     </choice> 
 	     <choice>
@@ -91,7 +91,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice>
       <lb/>
@@ -108,7 +108,7 @@
 <lb/>Aufer a me 
 	<choice>
 		       <seg type="lucas">obp(ro)b(ri)u(m)</seg>
-		       <orig>obpḃū</orig>
+		       <orig>obꝓḃū</orig>
 		       <reg>obprobrium</reg>
 	     </choice> 
 	     <choice>
@@ -129,7 +129,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -139,7 +139,7 @@
 	     </choice> tua 
 	<choice>
 		       <seg type="lucas">exq(ui)</seg>
-		       <orig>eẋq</orig>
+		       <orig>exq̇</orig>
 		       <reg>exqui</reg>
 	     </choice>
       <lb break="no"/>sivi. 
@@ -171,18 +171,18 @@
 	     </choice> me 
 	<choice>
 		       <seg type="lucas">loq(ue)ba(n)t(ur):</seg>
-		       <orig>lȯqbāt:</orig>
+		       <orig>loq̄bāt݃:</orig>
 		       <reg>loquebantur:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(er)v(us)</seg>
-		       <orig>ṡvꝰ</orig>
+		       <orig>sv̇ꝰ</orig>
 		       <reg>servus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">a(u)t(em)</seg>
-		       <orig>at</orig>
+		       <orig>at̄</orig>
 		       <reg>autem</reg>
 	     </choice> 
 	     <choice>
@@ -192,7 +192,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ex(er)cebat(ur)</seg>
-		       <orig>eẋcebat</orig>
+		       <orig>eẋcebat݃</orig>
 		       <reg>exercebatur</reg>
 	     </choice> 
 	     <choice>
@@ -229,7 +229,7 @@
 	     </choice> mea 
 	<choice>
 		       <seg type="lucas">e(st):</seg>
-		       <orig>ė:</orig>
+		       <orig>ē:</orig>
 		       <reg>est:</reg>
 	     </choice>
       <lb/>
@@ -237,17 +237,11 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>+ </orig>
 		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-	           <!-- check transcription -->
-		       <reg>con</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">siliu(m)</seg>
-		       <orig>siliū</orig>
-		       <reg>silium</reg>
+		       <orig>ɔsiliū</orig>
+		       <reg>consilium</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">meu(m)</seg>
@@ -259,12 +253,14 @@
 		       <orig>iustificatōes</orig>
 		       <reg>iustificationes</reg>
 	     </choice>
-      <lb/>tue. Adhesit †
+      <lb/>tue. Adhesit 
+         <supplied>
 	<choice>
-		       <seg type="lucas">pavime(n)to†</seg>
-		       <orig>pavimēto†</orig>
-		       <reg>pavimento†</reg>
-	     </choice>
+		       <seg type="lucas">pavime(n)to</seg>
+		       <orig>pavimēto</orig>
+		       <reg>pavimento</reg>
+	     </choice>        
+         </supplied>
    </ab>
 
    <ab type="translation"

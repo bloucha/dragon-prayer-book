@@ -13,8 +13,8 @@
 <lb/>adivuat me: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> + </orig>
-		       <reg>et </reg>
+	             <orig>+</orig>
+		       <reg>et</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(u)s</seg>
@@ -45,7 +45,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>t͘</orig> <!-- check -->
+		       <orig>t̄</orig> 
 		       <reg>tibi</reg>
 	     </choice> : 
 	<choice>
@@ -97,13 +97,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)bulat(i)o(n)e</seg>
-	             <orig>ṫbulatōe</orig> <!-- check t abbreviation -->
+	             <orig>ṫbulatōe</orig> 
 		       <reg>tribulatione</reg>
 	     </choice> eripu
 <lb break="no"/>isti me : 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> + </orig>
+	             <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -118,7 +118,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">meo(s)</seg>
-	             <orig>meoᶜ</orig> <!-- check? -->
+	             <orig>meoˢ</orig> 
 		       <reg>meos</reg>
 	     </choice>
       <lb/>despexit 
@@ -182,7 +182,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">scruta(n)t(ur)</seg>
-	             <orig>scrutāt݃</orig> <!-- is this correct for the two raised dots after the t? -->
+	             <orig>scrutāt݃</orig> 
 		       <reg>scrutantur</reg>
 	     </choice> 
 	     <choice>
@@ -234,7 +234,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)iq(ui)tate(m):</seg>
-	             <orig>īiq̇tatė:</orig>
+	             <orig>īiq̇tatē:</orig>
 		       <reg>iniquitatem:</reg>
 	     </choice> 
 	     <choice>
@@ -264,7 +264,9 @@
 	             <orig>mādata</orig>
 		       <reg>mandata</reg>
 	     </choice> tua custodiri ni
-<lb break="no"/>†mis. 
+<lb break="no"/>
+         <supplied>
+         mis. 
 	<choice>
 		       <seg type="lucas">Utina(m)</seg>
 	             <orig>Utinā</orig>
@@ -274,7 +276,8 @@
 		       <seg type="lucas">diriga(n)t(ur)</seg>
 	             <orig>dirigāt݃</orig>
 		       <reg>dirigantur</reg>
-	     </choice> vie†
+	     </choice> vie
+         </supplied>
 
 
 </ab>

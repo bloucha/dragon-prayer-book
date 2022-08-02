@@ -38,7 +38,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tua(s).</seg>
-		       <orig>tua.</orig> <!-- how do I do the s abbreviation? -->
+		       <orig>tuaˢ.</orig> 
 		       <reg>tuas.</reg>
 	     </choice> In
 <lb/>labiis meis: 
@@ -103,7 +103,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> + </orig>
+	             <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -153,7 +153,7 @@
 <lb break="no"/>fica me 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> +</orig>
+	             <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -179,14 +179,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sid(er)abo</seg>
-	             <orig>siḋabo</orig>
-		       <reg>siderabo</reg>
+	             <orig>ɔsiḋabo</orig>
+		       <reg>considerabo</reg>
 	     </choice> mira
 <lb break="no"/>bilia de lege tua. Incola
 

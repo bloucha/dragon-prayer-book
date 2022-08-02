@@ -33,14 +33,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fu(n)dar:</seg>
-		       <orig>fudar:</orig>
-		       <reg>fundar:</reg>
+		       <orig>ɔfudar:</orig>
+		       <reg>confundar:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cu(m)</seg>
@@ -49,7 +44,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)spex(er)o</seg>
-		       <orig>ꝑspexo</orig>
+		       <orig>ꝑspex̄o</orig>
 		       <reg>perspexero</reg>
 	     </choice> 
 	     <choice>
@@ -86,7 +81,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">direct(i)o(n)e</seg>
-		       <orig>directȯe</orig>
+		       <orig>directōe</orig>
 		       <reg>directione</reg>
 	     </choice> cordis: 
 	<choice>
@@ -96,7 +91,7 @@
 	     </choice> eo 
 	<choice>
 		       <seg type="lucas">q(uod)</seg>
-		       <orig>q'</orig>
+		       <orig>ȹ</orig>
 		       <reg>quod</reg>
 	     </choice>
       <lb/>didici iudicia iusticie tue.
@@ -124,7 +119,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">usq(ue)q(ua)</seg>
-		       <orig>usq⋮q̈</orig>
+		       <orig>usq⋮q̈</orig> <!-- check transcription these seem like separate words -->
 		       <reg>usquequa</reg>
 	     </choice> 
 	     <choice>
@@ -178,7 +173,8 @@
 		       <reg>mandatis</reg>
 	     </choice>
       <lb/>tuis. In corde meo ab
-<lb break="no"/>†
+<lb break="no"/>
+         <supplied>
 	<choice>
 		       <seg type="lucas">sco(n)di</seg>
 		       <orig>scȯdi</orig>
@@ -186,7 +182,7 @@
 	     </choice> elo 
 	<choice>
 		       <seg type="lucas">q(ui)a</seg>
-		       <orig>̇qa</orig>
+		       <orig>q̇a</orig>
 		       <reg>quia</reg>
 	     </choice> tua: ut 
 	<choice>
@@ -195,10 +191,11 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">pe(c)⸗†</seg>
-		       <orig>pe⸗†</orig>
-		       <reg>pec⸗†</reg>
+		       <seg type="lucas">pe(c)⸗</seg>
+		       <orig>pe⸗</orig>
+		       <reg>pec⸗</reg>
 	     </choice>
+         </supplied>
    </ab>
 
    <ab type="translation"

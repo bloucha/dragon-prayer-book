@@ -56,7 +56,6 @@
 		       <seg type="lucas">eiusq(ue)</seg>
 		       <orig>eiusq⋮</orig>
 		       <reg>eiusque</reg>
-	           <!-- looks totally wrong to me but what do i know -->
 	     </choice> so
 <lb break="no"/>li filio 
 	<choice>
@@ -66,7 +65,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(irit)u</seg>
-		       <orig>spū</orig>
+		       <orig>sp̄u</orig>
 		       <reg>spiritu</reg>
 	     </choice> 
 	     <choice>
@@ -207,15 +206,15 @@
 		       <seg type="lucas">a(n)i(m)am</seg>
 		       <orig>aīam</orig>
 		       <reg>animam</reg>
-	           <!-- the lucas type here was done incorretly 
-	                 there are more letters here than the lucas type says -->
 	     </choice>
-      <lb/>†
+      <lb/>
+       <supplied>
 	<choice>
 		       <seg type="lucas">mea(m):</seg>
 		       <orig>meā:</orig>
 		       <reg>meam:</reg>
 	     </choice> 
+       </supplied>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
@@ -228,7 +227,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)posuer(un)t</seg>
-		       <orig>ꝓposuer̄t</orig>
+		       <orig>ꝓposuer̄t</orig> 
 		       <reg>proposuerunt</reg>
 	     </choice> deu 
 	<choice>
@@ -239,14 +238,9 @@
       <lb/>
        <supplied>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(tu)m</seg>
-		       <orig>spcm̄</orig>
-		       <reg>spectum</reg>
+		       <orig>ɔspcm̄</orig>
+		       <reg>conspectum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">suu(m).</seg>

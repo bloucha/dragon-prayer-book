@@ -33,15 +33,12 @@
       <lb break="no"/>ECce 
 	<choice>
 		       <seg type="lucas">q(uam)⸗</seg>
-		       <orig>q̈⸗</orig>
-	      <!-- there appears to be a mark next to the q, no idea what it is -->
+		       <orig>q̈ˢ⸗</orig>
 		       <reg>quam⸗</reg>
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">P(salm?).</seg>
 		       <orig>P̈.</orig>
-	           <!-- the dots are there but do not appear above the P
-	           nvm they do on github just not on oxygen -->
 		       <reg>Psalm?.<!--  check expansion --></reg>
 	     </choice> 
         
@@ -63,8 +60,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig>
-	           <!-- maybe use a q with hook tail for these quams? 024B -->
+		       <orig>q̈ˢ</orig>
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
@@ -127,7 +123,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">barba(m)</seg>
-		       <orig>barba</orig>
+		       <orig>barbā</orig>
 		       <reg>barbam</reg>
 	     </choice> 
 	     <choice>
@@ -180,13 +176,11 @@
 	<choice>
 		       <seg type="lucas">h(er)mo(n)</seg>
 		       <orig>h́mō</orig>
-	      <!-- this looks like a dash to me but it should be double checked -->
 		       <reg>hermon</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
-	           <!-- not sure if dot above or dot right --> 
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -276,7 +270,6 @@
 	     <choice>
 		       <seg type="lucas">d(omi)n†u(m)†</seg>
 		       <orig>dn̄†u†</orig>
-	           <!-- what exactly is going on here, check trasncription I only see a semicolon -->
 		       <reg>domin†um†</reg>
 	     </choice> :
 <lb/>
@@ -297,9 +290,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(u)i</seg>
-		       <orig>Qi</orig>
-	           <!-- I don't see a diacritic here -->
-		       <reg>Qui</reg>
+		       <orig>Qⁱ</orig>
+	                 <reg>Qui</reg>
 	     </choice> statis 
 	<choice>
 		       <seg type="lucas">i(n)</seg>

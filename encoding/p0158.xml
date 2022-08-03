@@ -26,14 +26,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">solat(us)</seg>
-		       <orig>solatꝰ</orig>
-		       <reg>solatus</reg>
+		       <orig>ɔsolatꝰ</orig>
+		       <reg>consolatus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">su(m)</seg>
@@ -48,7 +43,7 @@
 	     </choice> tenuit me 
 	<choice>
 		       <seg type="lucas">p(re)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pre</reg>
 	     </choice> 
 	     <choice>
@@ -69,7 +64,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">lege(m)</seg>
-		       <orig>lēgē</orig>
+		       <orig>legē</orig>
 		       <reg>legem</reg>
 	     </choice> 
 	     <choice>
@@ -105,9 +100,8 @@
 		       <reg>in</reg>
 	     </choice> loco 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)eg(ri)</seg>
-		       <orig>ꝑeġ</orig>
+		       <orig>ꝑeġ</orig> 
 		       <reg>peregri</reg>
 	     </choice>
       <lb break="no"/>
@@ -165,9 +159,8 @@
 		       <reg>mihi:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code, looks like qr -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -231,7 +224,7 @@
 <lb break="no"/>to corde meo: 
 	<choice>
 		       <seg type="lucas">misere(re)</seg>
-		       <orig>miserē</orig>
+		       <orig>miserė</orig>
 		       <reg>miserere</reg>
 	     </choice> mei
 <lb/>
@@ -257,14 +250,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">v(er)ti</seg>
-		       <orig>v̇ti</orig>
-		       <reg>verti</reg>
+		       <orig>ɔv̇ti</orig>
+		       <reg>converti</reg>
 	     </choice> pe⸗
 
 

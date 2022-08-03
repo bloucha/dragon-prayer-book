@@ -21,9 +21,8 @@
 		       <reg>scientiam</reg>
 	     </choice> doce me: 
 	<choice>
-	      <!-- looks like "qr" -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -36,6 +35,7 @@
 	      <!-- unsure if it is a small raised s, but it was the closest symbol-->
 		       <seg type="lucas">Priusq(uam)</seg>
 		       <orig>Priusq̈ˢ</orig>
+	      <!-- pls can we settle on quam -->
 		       <reg>Priusquam</reg>
 	     </choice> 
 	     <choice>
@@ -51,7 +51,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pt(er)ea</seg>
-		       <orig>ꝑpṫea</orig>
+		       <orig>ꝓpṫea</orig> 
 		       <reg>propterea</reg>
 	     </choice> 
 	     <choice>
@@ -124,15 +124,14 @@
 		       <reg>iniquitas</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like Srbo -->
 		       <seg type="lucas">s(er)bo</seg>
-		       <orig>sbo</orig>
+		       <orig>sr̄bo</orig>
 		       <reg>serbo</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um):</seg>
-		       <orig>r⋮:</orig>
+		       <orig>ꝝ:</orig>
 		       <reg>rum:</reg>
 	     </choice> ego 
 	<choice>
@@ -169,7 +168,7 @@
 	     </choice> lac cor 
 	<choice>
 		       <seg type="lucas">eor(um):</seg>
-		       <orig>eor⋮:</orig>
+		       <orig>eoꝝ:</orig>
 		       <reg>eorum:</reg>
 	     </choice> e
 <lb break="no"/>go 
@@ -210,9 +209,8 @@
 		       <reg>mihi</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -242,23 +240,23 @@
 		       <orig>ṁ</orig>
 		       <reg>mihi</reg>
 	     </choice> lex oris
-<lb/>†tui: 
+<lb/><supplied>tui: 
 	<choice>
 		       <seg type="lucas">s(upe)r</seg>
 		       <orig>sr̄</orig>
 		       <reg>super</reg>
-	     </choice> milia auri† 
+	     </choice> milia auri </supplied>
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
-	     </choice> †
+	     </choice> 
 	<choice>
-	      <!-- smudged, can't see an abbreviation -->
-		       <seg type="lucas">arge(n)ti.†</seg>
-		       <orig>argeti.†</orig>
-		       <reg>argenti.†</reg>
+		       <seg type="lucas">arge(n)ti.</seg>
+		       <orig>argēti.</orig>
+		       <reg>argenti.</reg>
 	     </choice>
+	     
    </ab>
 
    <ab type="translation"

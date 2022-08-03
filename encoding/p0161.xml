@@ -22,7 +22,7 @@
 	     </choice> me 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> + </orig>
+	             <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> plas
 <lb/>
@@ -41,7 +41,7 @@
 	             <orig>ītellc̄m</orig>
 		       <reg>intellectum</reg>
 	     </choice>
-      <lb/>et ut <!-- is this correct? -->
+      <lb/>et ut <!-- check transcription is this correct? -->
 	<choice>
 		       <seg type="lucas">disca(m)</seg>
 	             <orig>discā</orig>
@@ -54,7 +54,7 @@
 	     </choice> tua. 
 	<choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig> <!-- unsure  -->
+		       <orig>Q</orig> <!-- check transcription - unsure  -->
 		       <reg>Qui</reg>
 	     </choice>
       <lb/>
@@ -70,7 +70,7 @@
 	     </choice> me 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> + </orig>
+	             <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> leta
 <lb break="no"/>
@@ -81,7 +81,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q:</orig> <!-- check -->
+		       <orig>q:</orig> 
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -112,7 +112,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q:</orig> <!-- check -->
+		       <orig>q:</orig> 
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -123,7 +123,7 @@
       <lb break="no"/>tas iudicia tua: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> + </orig>
+	             <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -148,15 +148,10 @@
 	             <orig>mīa</orig>
 		       <reg>miserocordia</reg>
 	     </choice> tua ut 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">solet(ur)</seg>
-		       <orig>solet݃</orig>
-		       <reg>soletur</reg>
+		       <orig>ɔsolet݃</orig>
+		       <reg>consoletur</reg>
 	     </choice> me:
 <lb/>
 	     <choice>
@@ -192,13 +187,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mis(er)at(i)o(ne)s</seg>
-	             <orig>misȧtōs</orig>
+	             <orig>miṡatōs</orig>
 		       <reg>miserationes</reg>
 	     </choice> tue
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> + </orig>
+	             <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -219,7 +214,7 @@
 	     </choice> mea 
 	<choice>
 		       <seg type="lucas">e(st).</seg>
-	             <orig>ė.</orig>
+	             <orig>ē.</orig>
 		       <reg>est.</reg>
 	     </choice> 
 	     <choice>

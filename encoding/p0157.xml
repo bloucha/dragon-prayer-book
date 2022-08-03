@@ -16,14 +16,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spcū</orig>
-		       <reg>spectu</reg>
+		       <seg type="lucas">(con)sp(e)c(t)u</seg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">regu(m):</seg>
@@ -42,14 +37,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fu(n)debar.</seg>
-		       <orig>fūdebar.</orig>
-		       <reg>fundebar.</reg>
+		       <orig>ɔfūdebar.</orig>
+		       <reg>confundebar.</reg>
 	     </choice> Et medita
 <lb break="no"/>bar 
 	<choice>
@@ -130,7 +120,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(ihi)</seg>
-		       <orig>m̄</orig>
+		       <orig>ṁ</orig>
 		       <reg>mihi</reg>
 	     </choice> 
 	     <choice>
@@ -161,9 +151,8 @@
 	     </choice>
       <lb break="no"/>litate mea: 
 	<choice>
-		<!-- this looks like qr, not sure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> elo 
 	<choice>
@@ -203,7 +192,7 @@
 		       <seg type="lucas">q(ue):</seg>
 		       <orig>q̈q⋮:</orig>
 		       <reg>que:</reg>
-	     </choice> a †le⸗†
+	     </choice> a<supplied> le⸗ </supplied>
 <lb/>ge 
 	<choice>
 		       <seg type="lucas">aut(em)</seg>
@@ -223,14 +212,14 @@
 	     </choice> fui 
 	<choice>
 		       <seg type="lucas">iudic(i)or(um)</seg>
-		       <orig>iudicōr⋮</orig>
+		       <orig>iudicōꝝ</orig>
 		       <reg>iudiciorum</reg>
-	     </choice> †
+	     </choice> <supplied> 
 	<choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor⋮</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
-	     </choice> a†
+	     </choice> a </supplied>
 
 
 </ab>

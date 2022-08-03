@@ -47,14 +47,15 @@
 		       <reg>sum</reg>
 	     </choice> 
 	     <choice>
+	        
 		       <seg type="lucas">t(ur)</seg>
-		       <orig>t݃</orig>
-		       <reg>tur</reg>
-	     </choice> batus:
+		       <orig>t݃batus:</orig>
+		       <reg>turbatus:</reg>
+	     </choice>
 <lb/>ut 
 	<choice>
 		       <seg type="lucas">custodia(m)</seg>
-		       <orig>custodiā</orig>
+		       <orig>custodiā</orig>  
 		       <reg>custodiam</reg>
 	     </choice> 
 	     <choice>
@@ -65,7 +66,7 @@
 <lb/>Funes 
 	<choice>
 		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
-		       <orig>pct̄or⋮</orig>
+		       <orig>pct̄oꝝ</orig>
 		       <reg>peccatorum</reg>
 	     </choice> 
 	     <choice>
@@ -118,14 +119,9 @@
 	     </choice> ad
 <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">fite(n)du(m)</seg>
-		       <orig>fitēdū</orig>
-		       <reg>fitendum</reg>
+		       <seg type="lucas">(con)(fite(n)du(m)</seg>
+		       <orig>ɔfitēdū</orig>
+		       <reg>confitendum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi):</seg>
@@ -142,7 +138,7 @@
 		       <seg type="lucas">ficat(i)o(n)is</seg>
 		       <orig>ficatōis</orig>
 		       <reg>ficationis</reg>
-	     </choice> tue. Par†ticeps†
+	     </choice> tue. Par<supplied>ticeps</supplied>
 <lb/>ego 
 	<choice>
 		       <seg type="lucas">su(m)</seg>
@@ -158,7 +154,7 @@
 		       <seg type="lucas">tim(en)tiu(m)</seg>
 		       <orig>tim̄tiū</orig>
 		       <reg>timentium</reg>
-	     </choice> †te†: 
+	     </choice> <supplied>te</supplied>: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
@@ -195,17 +191,17 @@
 		       <seg type="lucas">e(st)</seg>
 		       <orig>ē</orig>
 		       <reg>est</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">t(er)ra:</seg>
 		       <orig>ṫra:</orig>
 		       <reg>terra:</reg>
-	     </choice> ius⸗†
+	</choice> ius⸗</supplied>
 <lb/>
 	     <choice>
 		       <seg type="lucas">tificat(i)o(n)e†s†</seg>
-		       <orig>tificatōe†s†</orig>
-		       <reg>tificatione†s†</reg>
+		       <orig>tificatōe<supplied>s</supplied></orig>
+		       <reg>tificatione<supplied>s</supplied></reg>
 	     </choice> tuas doce me.
 <lb/>
 	     <choice>
@@ -220,7 +216,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(er)vo</seg>
-		       <orig>s͘vo</orig>
+		       <orig>sv̇o</orig>
 		       <reg>servo</reg>
 	     </choice>
       <lb/>tuo 

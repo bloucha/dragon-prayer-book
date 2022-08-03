@@ -87,7 +87,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">iugit(re)</seg>
-		       <orig>iugit</orig>
+		       <orig>iugit͘</orig>
 		       <reg>iugitre</reg>
 	     </choice>
       <lb/>
@@ -100,8 +100,9 @@
 		       <seg type="lucas">P(er).</seg>
 		       <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
-	     </choice> do. Via? 
-         <!-- check transcription -->
+	     </choice> do. 
+         Via? <!-- check transcription -->
+         
 	<choice>
 		       <seg type="lucas">an(tiphon).</seg>
 		       <orig>an̈.</orig>
@@ -126,7 +127,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">rib(us)</seg>
-		       <orig>rib</orig>
+		       <orig>rib⋮</orig>
 		       <reg>ribus</reg>
 	     </choice> 
 	     <choice>

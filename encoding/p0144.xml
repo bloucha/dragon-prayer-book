@@ -17,7 +17,7 @@
 	     </choice> mea: vivifica me 
 	<choice>
 		       <seg type="lucas">s(e)c(un)d(um)</seg>
-		       <orig>scd͘⋮</orig>
+		       <orig>scḋ⋮</orig>
 		       <reg>secundum</reg>
 	     </choice>
       <lb/>
@@ -61,9 +61,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um)</seg>
-		       <orig>tuaꝝ</orig>
-	           <!-- this might be a different scribe bc the rum 
-	                 looks different? -->
+		       <orig>tuar⋮</orig>
 		       <reg>tuarum</reg>
 	     </choice> 
 	     <choice>
@@ -127,7 +125,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)iq(ui)tatis</seg>
-		       <orig>īiq̇tatis</orig>
+		       <orig>īiq͘tatis</orig>
 		       <reg>iniquitatis</reg>
 	     </choice>
       <lb/>amove a me: 
@@ -140,8 +138,6 @@
 	     <choice>
 		       <seg type="lucas">misere(re)</seg>
 		       <orig>miserė</orig>
-	           <!-- if betting money from context this should be a macron
-	                 but it looks like a dot?? -->
 		       <reg>miserere</reg>
 	     </choice> mei. 
 	<choice>
@@ -187,7 +183,7 @@
 		       <orig>ɔfūdere</orig>
 		       <reg>confundere</reg>
 	     </choice>
-	    <!-- eliminated a choice here bc these are definitley one word -->
+
       <lb/>
 	     <choice>
 		       <seg type="lucas">Via(m)</seg>
@@ -196,12 +192,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ma(n)dator(um)</seg>
-		       <orig>madatoꝝ</orig>
+		       <orig>mādator⋮</orig>
 		       <reg>mandatorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuoꝝ</orig>
+		       <orig>tuor⋮</orig>
 		       <reg>tuorum</reg>
 	     </choice> 
      <supplied> 

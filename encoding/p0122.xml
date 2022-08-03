@@ -44,8 +44,7 @@
 	<choice>
 		       <seg type="lucas">d(omi)n[[o]]</seg>
 		       <orig>dn̄[[ō]]</orig>
-	    <!-- page is smudged which I assume is the reason for the brackets but check
-	        transcription anyways, also diacritic over the smudged o? -->
+	    <!-- double check brackets -->
 	   
 		       <reg>domin[[o]]</reg>
 	     </choice> 
@@ -114,7 +113,6 @@
 	     <choice>
 		       <seg type="lucas">si(mi)lis</seg>
 		       <orig>sil͘i̇s</orig>
-	         <!-- it looks like dot to the right of the l but I'm not sure -->
 		       <reg>similis</reg>
 	     </choice> na
 <lb break="no"/>ta 
@@ -130,7 +128,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)t(er)</seg>
-		       <orig>īṫ</orig>
+		       <orig>īt͘</orig>
 		       <reg>inter</reg>
 	     </choice> 
 	     <choice>
@@ -157,7 +155,7 @@
       <lb/>ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝓ</orig>
+		       <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -215,7 +213,6 @@
 	     <choice>
 		       <seg type="lucas">ag(ni)</seg>
 		       <orig>aġ</orig>
-	         <!-- maybe supposed to be a dot? I'm not sure -->
 		       <reg>agni</reg>
 	     </choice>
       <lb break="no"/>
@@ -241,8 +238,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R͘.</orig>
-	         <!-- this looks like a dot to the right but i'm not sure --> 
+		       <orig>℞.</orig> 
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -253,7 +249,7 @@
       <lb break="no"/>cede 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝓ</orig>
+		       <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>

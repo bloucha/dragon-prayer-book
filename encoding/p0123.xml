@@ -17,12 +17,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)t(er)cede</seg>
-		       <orig>īṫcede</orig>
+		       <orig>īt͘cede</orig>
 		       <reg>intercede</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝓ</orig>
+		       <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -43,7 +43,7 @@
 	     </choice> dimittis 
 	<choice>
 		       <seg type="lucas">s(er)vu(m)</seg>
-		       <orig>sv̇u</orig>
+		       <orig>sv̇ū</orig>
 		       <reg>servum</reg>
 	     </choice> 
 	     <choice>
@@ -127,7 +127,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)lor(um).</seg>
-		       <orig>ppl͘oꝝ.</orig>
+		       <orig>ppl͘or⋮.</orig>
 		       <reg>populorum.</reg>
 	     </choice> Lu
 <lb break="no"/>
@@ -217,7 +217,7 @@
 	     </choice> dei 
 	<choice>
 		       <seg type="lucas">ge(n)it(ri)x</seg>
-		       <orig>gēiṫx</orig>
+		       <orig>gēit͘x</orig>
 		       <reg>genitrix</reg>
 	     </choice>
       <lb/>
@@ -246,8 +246,7 @@
 		       <seg type="lucas">s(ed)</seg>
 		       <orig>s⋮</orig>
 		       <reg>sed</reg>
-	           <!-- @lucas I know this isnt correct but the most conventional way to interpret
-	                 s⋮ would be "sus" [the transcription is correct I am making a joke @anyone looking at this] -->
+
 	     </choice> a 
 	<choice>
 		       <seg type="lucas">p(er)icul(is)</seg>
@@ -306,7 +305,7 @@
 		       <seg type="lucas">f(ra)⸗</seg>
 		       <orig>f͘⸗</orig>
 		       <reg>f͘ra⸗</reg>
-	           <!-- this is faded but looks like a dot to the right -->
+
 	     </choice>
    </ab>
 

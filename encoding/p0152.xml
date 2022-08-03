@@ -29,8 +29,6 @@
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q:</orig>
 		       <reg>quia</reg>
-	           <!-- unfamilair diacritic next to the q
-	                used a colon per lucas' suggestion --> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ma(n)da</seg>
@@ -109,8 +107,6 @@
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q:</orig>
-	           <!-- unfamilair diacritic next to the q 
-	           used a colon per lucas' suggestion -->
 		       <reg>quia</reg>
 	     </choice> peccavi nimis cogi
 <lb break="no"/>
@@ -126,7 +122,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">op(er)e</seg>
-		       <orig>oaꝑe</orig>
+		       <orig>oꝑe</orig>
 		       <reg>opere</reg>
 	     </choice> 
 	     <choice>
@@ -173,7 +169,7 @@
 	     </choice> orare 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝓ</orig>
+		       <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb/>me. 
@@ -271,7 +267,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">et(er)na(m).</seg>
-		       <orig>etnā.</orig>
+		       <orig>et͘nā.</orig>
 		       <reg>eternam.</reg>
 	     </choice> 
 	     <choice>

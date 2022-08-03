@@ -12,12 +12,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>ṫ</orig>
+		       <orig>t͘</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)nitas</seg>
-		       <orig>ṫnitas</orig>
+		       <orig>t͘nitas</orig>
 		       <reg>trinitas</reg>
 	     </choice> 
 	     <choice>
@@ -61,12 +61,11 @@
 	             <orig>īꝑpetuū.</orig>
 		       <reg>inperpetuum.</reg>
 	     </choice> 
-	  <!-- corrected transcription problem here, inperpetuum is clearly one word 
-	        but was written as two -->
-      <lb/>REgi 
+
+         <lb/>REgi 
 	<choice>
 		       <seg type="lucas">s(e)c(u)lor(um)</seg>
-		       <orig>scl͘or</orig>
+		       <orig>scl͘or⋮</orig>
 		       <reg>seculorum</reg>
 	     </choice> im⸗        
 	<choice>
@@ -103,7 +102,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i̇</orig>
+		       <orig>i̇̄</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
@@ -113,7 +112,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(u)lor(um)</seg>
-		       <orig>scl͘oꝝ</orig>
+		       <orig>scl͘or⋮</orig>
 		       <reg>seculorum</reg>
 	     </choice> A
 <lb break="no"/>
@@ -135,21 +134,17 @@
  
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
-	           <!-- this R looks a bit strange but I can't tell what diacritic this
-	                 is supposed to be -->
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">I(es)u(e)</seg>
 		       <orig>Iḣu</orig>
-	           <!-- there's an h in this letter missing from the transcription, check expansion -->
-		       <reg>Iesue</reg>
+		       <reg>Iesue <!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ)e</seg>
 		       <orig>xp̄e</orig>
-	           <!-- there is more than the e on the page -->
 		       <reg>christe</reg>
 	     </choice> fili
 <lb/>dei vivi. 
@@ -170,13 +165,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q̇</orig>
+		       <orig>Q̇͘</orig>
 		       <reg>Qui</reg>
 	     </choice>
       <lb/>sedes ad 
 	<choice>
 		       <seg type="lucas">dext(er)a(m)</seg>
-		       <orig>dexṫa⋮</orig>
+		       <orig>dext͘a⋮</orig>
 		       <reg>dexteram</reg>
 	     </choice> 
 	     <choice>
@@ -198,8 +193,7 @@
 	     <choice>
 		       <seg type="lucas">I(es)u(e).</seg>
 		       <orig>Iḣu.</orig>
-	           <!-- missing h from the lucas seg -->
-		       <reg>Iesue.</reg>
+		       <reg>Iesue<!-- check expansion -->.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(ersiculus).</seg>
@@ -220,7 +214,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝓpṫ</orig>
+		       <orig>ꝑpt͘</orig>
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>

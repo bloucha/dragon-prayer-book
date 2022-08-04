@@ -29,8 +29,6 @@
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q:</orig>
 		       <reg>quia</reg>
-	           <!-- unfamilair diacritic next to the q
-	                used a colon per lucas' suggestion --> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ma(n)da</seg>
@@ -109,8 +107,6 @@
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q:</orig>
-	           <!-- unfamilair diacritic next to the q 
-	           used a colon per lucas' suggestion -->
 		       <reg>quia</reg>
 	     </choice> peccavi nimis cogi
 <lb break="no"/>
@@ -126,7 +122,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">op(er)e</seg>
-		       <orig>oaꝑe</orig>
+		       <orig>oꝑe</orig>
 		       <reg>opere</reg>
 	     </choice> 
 	     <choice>
@@ -173,7 +169,7 @@
 	     </choice> orare 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝓ</orig>
+		       <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb/>me. 
@@ -271,7 +267,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">et(er)na(m).</seg>
-		       <orig>etnā.</orig>
+		       <orig>et͘nā.</orig>
 		       <reg>eternam.</reg>
 	     </choice> 
 	     <choice>
@@ -280,9 +276,9 @@
 		       <reg>Amen.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versicle</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Dig(na)</seg>
@@ -309,6 +305,39 @@
 
    <ab type="translation"
        xml:id="p0152_translation"
-       corresp="#p0152_transcription"> I have gone astray like a sheep that is lost: seek thy servant, because I have not forgotten thy commandments. </ab>
+       corresp="#p0152_transcription"> I have gone astray like a sheep that is lost: seek thy servant, because I have not forgotten thy commandments.  I believe
+         [in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, His only Son, our Lord, 
+         Who was conceived by the power of the Holy Spirit and born of the Virgin Mary, suffered under Pontius Pilate, 
+         was crucified, died, and was buried; He descended into hell; on the third day He rose again from the dead; 
+         He ascended into heaven and is seated at the right hand of God, the Father Almighty; from there He will come to judge the living and the dead. 
+         I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, 
+         and the life everlasting. Amen.]
+         [O poor man of
+         Christ, the chastening of the] flesh, [the
+         martyrdom of mind,
+         the activity of the
+         tongue filling the
+         world, procure for
+         thee, after the contest, the reward of life.] <!-- not sure if that's the right creed and right prayer to use for 'carnis'! -->
+         I confess to Almighty God, and to blessed Mary, and to blessed Dominic, and
+        to all the
+         saints, that I have
+         sinned exceedingly in
+         thought, word, deed,
+         and omission, through
+         my fault: I beseech
+         you, blessed Mary and all the saints, pray for me.
+         May almighty God
+         have mercy on me,
+         and may He forgive
+         me all my sins;
+         may He free me
+         from all evil, save and
+         strengthen me in
+         every good work and
+         may He lead me to
+         eternal life. Versicle. Vouchsafe, O Lord,
+         this day: to keep us
+         without sin. <!-- cont. to next page oBVM 46 --> </ab>
 
 </div>

@@ -34,7 +34,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eq(ui)tate</seg>
-		       <orig>eq̇tate</orig>
+		       <orig>eq͘tate</orig>
 		       <reg>equitate</reg>
 	     </choice> tua vivifica
 <lb/>me. Et 
@@ -72,7 +72,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">eloq(ui)u(m)</seg>
-	             <orig>eloq̇ū</orig>
+	             <orig>eloq͘ū</orig>
 		       <reg>eloquium</reg>
 	     </choice> 
 	     <choice>
@@ -88,7 +88,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">p(ro)b(ra)ntib(us)</seg>
-	           <orig>ꝓḃṅtib⋮</orig> <!-- I put a b with a dot and an n with a dot, check if it is a diacritic rather than two separate abbreviations -->
+	           <orig>ꝑb̈ntib⋮</orig> 
 		       <reg>probrantibus</reg>
 	     </choice> 
 	     <choice>
@@ -103,7 +103,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q:</orig> <!-- check -->
+		       <orig>q:</orig> 
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -141,7 +141,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q:</orig> <!-- check -->
+		       <orig>q:</orig> 
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -220,7 +220,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q:</orig> <!-- check -->
+		       <orig>q:</orig> 
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -231,7 +231,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">q(ue)sivi.</seg>
-		       <orig>q̇sivi.</orig>
+		       <orig>q͘sivi.</orig>
 		       <reg>quesivi.</reg>
 	     </choice> Et 
 	<choice>

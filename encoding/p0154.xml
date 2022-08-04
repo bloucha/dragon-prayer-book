@@ -43,13 +43,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)ceda(n)t</seg>
-		       <orig>ꝓcedāt</orig>
+		       <orig>ꝑcedāt</orig>
 		       <reg>procedant</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eloq(uia)</seg>
-		       <orig>eloq:</orig>
-	       <!-- Lucas said a colon here is chill -->
+		       <orig>eloq:</orig>	       
 		       <reg>eloquia</reg>
 	     </choice> di
 <lb break="no"/>
@@ -61,8 +60,6 @@
 	     <choice>
 		       <seg type="lucas">cogitat(i)o(n)es</seg>
 		       <orig>cogitatōes</orig>
-	       <!-- not positive if there's a diacritic here or 
-	         if it's part of the hook on the p above it, I think it's the hook from context -->
 		       <reg>cogitationes</reg>
 	     </choice> 
 	     <choice>
@@ -99,15 +96,14 @@
 	     </choice> ad. 
 	<choice>
 		       <seg type="lucas">(h)y(mnus)</seg>
-		       <orig>ȳpn⋮</orig>
+		       <orig>ȳpnꝰ</orig>
 		       <reg>hymnus</reg>
 	     </choice>
-	<!-- edited transcription here because hymnus always trips up the automation --> 
+ 
       <lb/>
 	     <choice>
 		       <seg type="lucas">NU(n)c</seg>
 		       <orig>NUc̄</orig>
-	       <!-- not sure about the placement of this macron -->
 		       <reg>NUnc</reg>
 	     </choice> 
 	     <choice>
@@ -148,7 +144,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)m</seg>
-		       <orig>ꝓm</orig>
+		       <orig>ꝑm</orig>
 		       <reg>prom</reg>
 	     </choice>
       <lb break="no"/>
@@ -170,7 +166,6 @@
 	     <choice>
 		       <seg type="lucas">r(e)fus(us)</seg>
 		       <orig>r̄fusꝰ</orig>
-	       <!-- lmao "usus" -->
 		       <reg>refusus</reg>
 	     </choice> 
 	     <choice>
@@ -202,7 +197,7 @@
 	     </choice>
 	     <choice>
 		       <seg type="lucas">p(er)so(n)e(n)t</seg>
-		       <orig>ꝑsoet</orig>
+		       <orig>ꝑsōet</orig>
 		       <reg>personent</reg>
 	     </choice> 
 	     <choice>
@@ -219,13 +214,12 @@
 	     <choice>
 		       <seg type="lucas">ardo(r)</seg>
 		       <orig>ardȯ</orig>
-	       <!-- I think this is a dot but I'm not sure -->
 		       <reg>ardor</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)xi(m)os.</seg>
-		       <orig>pxīos.</orig>
+		       <orig>ꝑxīos.</orig>
 		       <reg>proximos.</reg>
 	     </choice> 
 	     <choice>
@@ -254,9 +248,8 @@
 	     <choice>
 		       <seg type="lucas">(com)par</seg>
 		       <orig>ɔpar</orig>
-		       <reg>compar</reg>
-	       <!-- are we sure this is compar and not conpar?
-	         it very well might be com just want to double check -->
+		       <reg>compar <!-- check expansion --></reg>
+
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">u(n)ice</seg>
@@ -302,7 +295,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(u)l(um).</seg>
-		       <orig>scl⋮.</orig>
+		       <orig>scl͘⋮.</orig>
 		       <reg>seculum.</reg>
 	     </choice>
       <lb/>
@@ -312,17 +305,15 @@
 		       <orig>Amē.</orig>
 		       <reg>Amen.</reg>
 	     </choice> laus.
-       <!-- everything below this comment should probably be checked to make sure I did the diacritics right
-         also what are all these words -->
 	<choice>
 		       <seg type="lucas">ii(?).</seg>
-		       <orig>ii݃.</orig>
+		       <orig>iiⁱ.</orig>
 		       <reg>ii?.<!--  check expansion --></reg>
 	     </choice> 
  Deduc me. 
 	<choice>
 		       <seg type="lucas">ii(?).</seg>
-		       <orig>ii݃.</orig>
+		       <orig>iiⁱ.</orig>
 		       <reg>ii?.<!--  check expansion --></reg>
 	     </choice> 
      </supplied>

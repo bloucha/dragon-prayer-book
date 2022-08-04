@@ -26,9 +26,8 @@
 		       <reg>prius</reg>
 	     </choice> 
 	     <choice>
-	           <!-- no unicode character assigned for a small elevated c -->
 		       <seg type="lucas">a(c)</seg>
-		       <orig>a</orig>
+		       <orig>aᶜ</orig>
 		       <reg>ac</reg>
 	     </choice> 
 	     <choice>

@@ -135,9 +135,8 @@
 		       <reg>Sicut</reg>
 	     </choice> 
 	     <choice>
-	           <!-- no unicode character for a small riased t -->
 		       <seg type="lucas">iurav(it)</seg>
-	             <orig>iurav</orig>
+	             <orig>iuravᵗ</orig>
 		       <reg>iuravit</reg>
 	     </choice>
       <lb/>

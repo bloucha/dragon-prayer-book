@@ -11,14 +11,16 @@
 
       <lb/>cies de 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)seq(ue)ntib(us)</seg>
-		       <orig>ꝑseq̄ntib⋮</orig>
+		       <orig>ꝑseq̄ntib⋮</orig> 
 		       <reg>persequentibus</reg>
 	     </choice> me iudi
 <lb break="no"/>
-         <!-- check transcription, looks like macron on u -->
-         cium. 
+         <choice>
+               <seg type="lucas"> ciu(m)</seg>
+               <orig>ciū.</orig>
+               <reg>cium.</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">Narraver(un)t</seg>
 		       <orig>Narraver̄t</orig>
@@ -79,25 +81,19 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(un)t</seg>
-		       <orig>st̄</orig>
+		       <orig>sṫ</orig>
 		       <reg>sunt</reg>
 	     </choice> me adiuva
-<lb/>me. Paulo 
+<lb/>me. 
 	<choice>
-	      <!-- check transcription, it looks like Paulo is connected to min -->
 		       <seg type="lucas">min(us)</seg>
-		       <orig>minꝰ</orig>
-		       <reg>minus</reg>
+		       <orig>Paulominꝰ</orig>
+		       <reg>Paulominus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">su(mm)a</seg>
-		       <orig>sūa</orig>
-		       <reg>summa</reg>
+		       <orig>ɔsūa</orig>
+		       <reg>consumma</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -117,7 +113,7 @@
 	     </choice> ego 
 	<choice>
 		       <seg type="lucas">a(u)t(em)</seg>
-		       <orig>āt</orig>
+		       <orig>at̄</orig>
 		       <reg>autem</reg>
 	     </choice> 
 	     <choice>
@@ -128,7 +124,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">de(re)liq(ui)</seg>
-		       <orig>dēliq̄</orig>
+		       <orig>dēliq̇</orig>
 		       <reg>dereliqui</reg>
 	     </choice> 
 	     <choice>
@@ -171,7 +167,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Inet(er)nu(m)</seg>
-		       <orig>Inet̄nū</orig>
+		       <orig>Ineṫnū</orig>
 		       <reg>Ineternum</reg>
 	     </choice> 
 	     <choice>
@@ -191,9 +187,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)ma(n)et</seg>
-		       <orig>ꝑmāet</orig>
+		       <orig>ꝑmāet</orig> 
 		       <reg>permanet</reg>
 	     </choice> 
 	     <choice>
@@ -230,12 +225,13 @@
 <lb/>†
 	<choice>
 		       <seg type="lucas">fu(n)dasti†</seg>
-		       <orig>fūdasti†</orig>
-		       <reg>fundasti†</reg>
+		       <orig>fūdasti</orig>
+		       <reg>fundasti</reg>
 	     </choice> 
+         <supplied>
 	     <choice>
 		       <seg type="lucas">t(er)ra(m)</seg>
-		       <orig>trā</orig>
+		       <orig>ṫrā</orig>
 		       <reg>terram</reg>
 	     </choice> 
 	     <choice>
@@ -244,23 +240,21 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
-		       <seg type="lucas">p(er)ma(n)et.</seg>
+	           <seg type="lucas">p(er)ma(n)et.</seg>
 		       <orig>ꝑmāet.</orig>
 		       <reg>permanet.</reg>
 	     </choice> Or
-<lb break="no"/>†
+<lb break="no"/></supplied>
 	<choice>
 		       <seg type="lucas">dinat(i)o(n)e</seg>
 		       <orig>dinatōe</orig>
 		       <reg>dinatione</reg>
 	     </choice> tua 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)sev(er)at</seg>
 		       <orig>ꝑsev̇at</orig>
 		       <reg>perseverat</reg>
-	     </choice> [dies]†
+	     </choice> <supplied>dies</supplied>
 
 
 </ab>

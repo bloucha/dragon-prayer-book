@@ -11,10 +11,9 @@
 
       <lb/>datis tuis. 
 	<choice>
-	      <!-- 0743 not appeaering ccorrectly -->
 		       <seg type="lucas">Co(n)v(er)ta(n)t(ur)</seg>
 		       <orig>Cōv̇tāt݃</orig>
-		       <reg>Convertantur</reg>
+	 	       <reg>Convertantur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(ihi)</seg>
@@ -76,14 +75,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fu(n)dar.</seg>
-		       <orig>fūdar.</orig>
-		       <reg>fundar.</reg>
+		       <orig>ɔfūdar.</orig>
+		       <reg>confundar.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Fi(?)a</seg>
@@ -106,21 +100,22 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">se(m)ita†</seg>
-		       <orig>seīta†</orig>
-		       <reg>semita†</reg>
+		       <orig>sēita</orig>
+		       <reg>semita</reg>
 	     </choice>
+	     </supplied>
       <lb/>
 	     <choice>
 		       <seg type="lucas">ma(n)dator(um)</seg>
-		       <orig>mādator⋮</orig>
+		       <orig>mādatoꝝ</orig> 
 		       <reg>mandatorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um).</seg>
-		       <orig>tuor⋮.</orig>
+		       <orig>tuoꝝ.</orig>
 		       <reg>tuorum.</reg>
 	     </choice> 
 	     <choice>
@@ -168,9 +163,8 @@
 		       <reg>Deo.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium)</seg>
-		       <orig>R</orig>
+		       <orig>℞</orig>
 		       <reg>Responsorium</reg>
 	     </choice> Sana 
 	<choice>
@@ -187,7 +181,7 @@
 	     <choice>
 	           
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> peccavi 
 	<choice>
@@ -208,13 +202,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">misere(re)</seg>
-		       <orig>miserē</orig>
+		       <orig>miserė</orig>
 		       <reg>miserere</reg>
 	     </choice> mei. 
 	<choice>
 	      
 		       <seg type="lucas">Q(ui)a.</seg>
-		       <orig>Q͘a.</orig>
+		       <orig>Q̇a.</orig>
 		       <reg>Quia.</reg>
 	     </choice> G.
 <lb/>Sana. 
@@ -225,8 +219,9 @@
 	     </choice> 
 	     <choice>
 	           <!-- check trancription, not sure this is the right abbreviation -->
+	           <!-- I'm not sure this is an abbreviation -->
 		       <seg type="lucas">Adiuto(r).</seg>
-		       <orig>Adiuto͘.</orig>
+		       <orig>Adiutor.</orig>
 		       <reg>Adiutor.</reg>
 	     </choice> 
 	     <choice>
@@ -234,7 +229,7 @@
 		       <orig>ms</orig>
 		       <reg>meus</reg>
 	     </choice> es
-<lb break="no"/>†to 
+<lb break="no"/><supplied>to 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
 		       <orig>dn̄e</orig>
@@ -245,7 +240,7 @@
 		       <orig>dēlīq̈s</orig>
 		       <reg>derelinquas</reg>
 	     </choice> me. Ne⸗
-
+</supplied>
 
 </ab>
 

@@ -25,8 +25,11 @@
 		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
-         <!-- check transcription, there is a dot over the g -->
-         ig(?=ni)
+         <choice>
+               <seg type="lucas">ig(?=ni)</seg>
+               <orig>iġ⸗</orig>
+               <reg>igni</reg>
+         </choice>
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">b(us)</seg>
@@ -77,7 +80,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">corpor(um)</seg>
-		       <orig>corpor⋮</orig>
+		       <orig>corpoꝝ</orig>
 		       <reg>corporum</reg>
 	     </choice>
       <lb/>
@@ -98,7 +101,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Pr(est)a.</seg>
-		       <orig>Prā.</orig>
+		       <orig>Pr̄a.</orig>
 		       <reg>Presta.</reg>
 	     </choice>  
       <lb/>DEfe
@@ -116,7 +119,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(ater?).</seg>
-		       <orig>m݃.</orig>
+		       <orig>mⁱ.</orig>
 		       <reg>mater?.<!--  check expansion --></reg>
 	     </choice> 
  Adiviname.
@@ -154,9 +157,8 @@
 	     </choice> 
 	     <choice>
 	           <!-- check transcription, looks like sr are separate -->
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">s(upe)rsp(er)avi.</seg>
-		       <orig>sr̄sꝑavi.</orig>
+		       <orig>sr̄sꝑavi.</orig> 
 		       <reg>supersperavi.</reg>
 	     </choice> 
 	     <choice>
@@ -197,18 +199,13 @@
 		       <reg>quando</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">solab(er)is</seg>
-		       <orig>solaḃis</orig>
+		       <orig>ɔsolaḃis</orig>
 		       <reg>solaberis</reg>
 	     </choice> me. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice>
       <lb/>
@@ -273,17 +270,17 @@
 		       <seg type="lucas">s(un)t</seg>
 		       <orig>sṫ</orig>
 		       <reg>sunt</reg>
-	     </choice> dies †
+	     </choice> dies <supplied>
 	<choice>
 		       <seg type="lucas">s(er)vi</seg>
-		       <orig>s͘vi</orig>
+		       <orig>sv̇i</orig>
 		       <reg>servi</reg>
 	     </choice> tui: 
 	<choice>
 		       <seg type="lucas">qu(ando)</seg>
 		       <orig>qū</orig>
 		       <reg>quando</reg>
-	     </choice> fa⸗†
+	     </choice> fa⸗</supplied>
 
 
 </ab>

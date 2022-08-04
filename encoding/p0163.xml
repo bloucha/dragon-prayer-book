@@ -49,7 +49,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)he(n)nis</seg>
-		       <orig>ꝑhēnis</orig>
+		       <orig>ꝑhēnis</orig> 
 		       <reg>perhennis</reg>
 	     </choice> 
 	     <choice>
@@ -112,7 +112,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> caritas 
 	<choice>
@@ -168,9 +168,8 @@
 		       <reg>in</reg>
 	     </choice> eo; 
 	<choice>
-	      <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -272,21 +271,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ve(r)ax</seg>
-		       <orig>vēax</orig>
+		       <orig>vėax</orig>
 		       <reg>verax</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription -->
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
-	           <!-- check transcription, ypm? -->
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">y(m)n(us).</seg>
-		       <orig>ȳnꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <orig>ȳpnꝰ.</orig> <!-- double check transcription, this might be an m instead of an n -->
+		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -306,7 +297,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">rer(um)</seg>
-		       <orig>rer⋮</orig>
+		       <orig>reꝝ</orig>
 		       <reg>rerum</reg>
 	     </choice> vices
 

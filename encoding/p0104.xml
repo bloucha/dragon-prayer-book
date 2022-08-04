@@ -241,7 +241,6 @@
 		       <reg>dominus</reg>
 	     </choice> 
 	     <choice>
-	           <!-- the U + 0308 is not working over the P -->
 		       <seg type="lucas">PS(alm).</seg>
 		       <orig>P̈S.</orig>
 		       <reg>PSalm.</reg>
@@ -249,7 +248,7 @@
 	     <choice>
 		       <seg type="lucas">Do(mini?):</seg>
 		       <orig>Doᵉ:</orig>
-		       <reg>Domini?:<!--  check expansion --></reg>
+		       <reg>Domine:</reg>
 	     </choice> 
       <lb/>
 	     <choice>

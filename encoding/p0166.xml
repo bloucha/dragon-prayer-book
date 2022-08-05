@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mn)ia</seg>
-		       <orig>oī a</orig>
+		       <orig>oīa</orig>
 		       <reg>omnia</reg>
 	     </choice> 
 	     <choice>
@@ -32,15 +32,14 @@
 	     </choice> Nisi 
 	<choice>
 		       <seg type="lucas">q(uod)</seg>
-		       <orig>q</orig>
-	      <!-- what exactly is this diacritic, is it just a semicolon?
-	      Discussed with lucas, marked for review -->
+		       <orig>qˢ</orig>
+	      <!-- review -->
 		       <reg>quod</reg>
 	     </choice>
       <lb/>lex tua 
 	<choice>
 		       <seg type="lucas">meditat(i)o</seg>
-		       <orig>meditatȯ</orig>
+		       <orig>meditatō</orig>
 		       <reg>meditatio</reg>
 	     </choice> mea 
 	<choice>
@@ -72,7 +71,7 @@
       <lb/>mea. 
 	<choice>
 		       <seg type="lucas">Inet(er)nu(m)</seg>
-		       <orig>Ineṫnū</orig>
+		       <orig>Inet͘nū</orig>
 		       <reg>Ineternum</reg>
 	     </choice> 
 	     <choice>
@@ -132,7 +131,7 @@
 <lb break="no"/>as 
 	<choice>
 		       <seg type="lucas">exq(ui)sivi.</seg>
-		       <orig>exq̇sivi.</orig>
+		       <orig>exq͘sivi.</orig>
 		       <reg>exquisivi.</reg>
 	     </choice> Me expecta
 <lb break="no"/>
@@ -148,7 +147,7 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">p(er)de(re)nt</seg>
-		       <orig>ꝑdėnt</orig>
+		       <orig>ꝑde͘nt</orig>
 		       <reg>perderent</reg>
 	     </choice> me:
 <lb/>
@@ -196,9 +195,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nimi(s).</seg>
-		       <orig>nimi.</orig>
-	           <!-- another strange diacritic here, it kind of looks like a question mark,
-	                 pay attention on review -->
+		       <orig>nimiˢ.</orig>
 		       <reg>nimis.</reg>
 	     </choice>
       <lb/>

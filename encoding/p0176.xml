@@ -50,7 +50,7 @@
 	     </choice> tuas 
 	<choice>
 		       <seg type="lucas">req(ui)ra(m).</seg>
-		       <orig>req̇rā.</orig>
+		       <orig>req͘rā.</orig>
 		       <reg>requiram.</reg>
 	     </choice>
       <lb/>
@@ -132,7 +132,7 @@ ia 8 te
 <lb break="no"/>ditarer 
 	<choice>
 		       <seg type="lucas">eloq(ui)a</seg>
-		       <orig>eloq̇a</orig>
+		       <orig>eloq͘a</orig>
 		       <reg>eloquia</reg>
 	     </choice> tua. 
 	<choice>
@@ -174,7 +174,7 @@ ia 8 te
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(un)d(um)</seg>
-		       <orig>scd⋮</orig>
+		       <orig>scḋ⋮</orig>
 		       <reg>secundum</reg>
 	     </choice> 
 	     <choice>
@@ -190,7 +190,7 @@ ia 8 te
 <lb break="no"/>vifica me. 
 	<choice>
 		       <seg type="lucas">Ap(ro)pi(n)q(ua)ver(un)t</seg>
-		       <orig>Aꝓpīq̈vert</orig>
+		       <orig>Aꝑpīq̈ver̄t</orig>
 		       <reg>Apropinquaverunt</reg>
 	     </choice> 
 	     <choice>
@@ -208,7 +208,7 @@ ia 8 te
                </supplied> me 
 	<choice>
 		       <seg type="lucas">i(n)iq(ui)tati:</seg>
-		       <orig>īiqtati:</orig>
+		       <orig>īiq̇tati:</orig>
 		       <reg>iniquitati:</reg>
 	     </choice> a lege
 

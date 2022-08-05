@@ -113,14 +113,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">aur(um)</seg>
-		       <orig>aur⋮</orig>
+		       <orig>auꝝ</orig>
 		       <reg>aurum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
-	     </choice> to[r/p]a
+	     </choice> to[r/p]a <!-- check transcription -->
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">zio(n).</seg>
@@ -142,7 +142,7 @@
 		       <orig>mā</orig>
 		       <reg>man</reg>
 	     </choice>
-      <lb break="no"/>data tua diri[p/g]ebar: 
+      <lb break="no"/>data tua diri[p/g]ebar: <!-- check transcription -->
 	<choice>
 		       <seg type="lucas">o(mn)e(m)</seg>
 		       <orig>oē⋮</orig>
@@ -183,7 +183,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Alt(er)</seg>
-		       <orig>Alt̄</orig>
+		       <orig>Alṫ</orig>
 		       <reg>Alter</reg>
 	     </choice> al⸗        
 	<choice>
@@ -200,7 +200,7 @@
 	     <choice>
 	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">t(er)i(us)</seg>
-		       <orig>t̄iꝰ</orig>
+		       <orig>t̄iꝰ</orig> 
 		       <reg>terius</reg>
 	     </choice> 
 	     <choice>
@@ -215,10 +215,8 @@
 	     </choice> sic
 <lb/>
 	     <choice>
-	           <!-- A751 not appearing correctly -->
-	           <!-- check transcription because the p is per-->
 		       <seg type="lucas">adi(m)plebitis</seg>
-		       <orig>adīꝑlebitis</orig>
+		       <orig>adīplebitis</orig> 
 		       <reg>adimplebitis</reg>
 	     </choice> 
 	     <choice>
@@ -227,15 +225,13 @@
 		       <reg>legem</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code, looks like x with a raised i -->
 		       <seg type="lucas">(christi).</seg>
-		       <orig>.</orig>
+		       <orig>xⁱ.</orig>
 		       <reg>christi.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium)</seg>
-		       <orig>R</orig>
+		       <orig>℞</orig>
 		       <reg>Responsorium</reg>
 	     </choice> 
 	     <choice>
@@ -245,7 +241,6 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-	           <!-- unclear because bar looks like it's attached to p or over a -->
 		       <seg type="lucas">dic(t)a</seg>
 		       <orig>dicā</orig>
 		       <reg>dicta</reg>

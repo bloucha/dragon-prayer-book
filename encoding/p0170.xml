@@ -32,9 +32,8 @@
 	     </choice>
       <lb break="no"/>tes a iustitiis tuis: 
 	<choice>
-	      <!-- check transcription, qr -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -55,7 +54,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> Preva
 <lb break="no"/>
@@ -111,7 +110,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>+</orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -134,6 +133,7 @@
 	           <!-- check transcription, doesn't look right -->
 		       <seg type="lucas">calu(m)nia(n)tib(us)</seg>
 		       <orig>calūniātib⋮</orig>
+	           <!-- agreed it look like a there's a p in here -->
 		       <reg>calumniantibus</reg>
 	     </choice> me. Susci
 <lb break="no"/>pe 
@@ -164,9 +164,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- 0743 not working, check transcription too -->
+	           <!-- check transcription (it also looks like there's a p here) -->
 		       <seg type="lucas">calu(m)nie(n)t(ur)</seg>
-		       <orig>calūniēt݃</orig>
+		        <orig>calūniēt݃</orig>
 		       <reg>calumnientur</reg>
 	     </choice> me 
 	<choice>

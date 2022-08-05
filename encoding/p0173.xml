@@ -18,7 +18,7 @@
  
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -32,16 +32,9 @@
 		       <reg>adiunt.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription -->
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">y(m)n(us).</seg>
-		       <orig>ȳnꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <orig>ȳpnꝰ.</orig> 
+		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -56,9 +49,8 @@
 	     </choice> tenax vigor
 <lb/>
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">i(m)mot(us)</seg>
-		       <orig>īmotꝰ</orig>
+		       <orig>īmotꝰ</orig> 
 		       <reg>immotus</reg>
 	     </choice> 
 	     <choice>
@@ -67,13 +59,10 @@
 		       <reg>in</reg>
 	     </choice> te 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)mane(n)s</seg>
-		       <orig>ꝑmanēs</orig>
+		       <orig>ꝑmanēs</orig> 
 		       <reg>permanens</reg>
-	     </choice>
-         
-         
+	     </choice>      
       <lb/>lucis diurna 
 	<choice>
 		       <seg type="lucas">t(em)p(or)a</seg>
@@ -94,7 +83,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">clar(um)</seg>
-		       <orig>clar⋮</orig>
+		       <orig>claꝝ</orig>
 		       <reg>clarum</reg>
 	     </choice> 
 	     <choice>
@@ -104,9 +93,9 @@
 	     </choice> quo vita nus
 <lb break="no"/>
 	     <choice>
-	           <!-- check the small raised s, that's the closest symbol I could find -->
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈ˢ</orig>
+		       <orig>q̈</orig>
+	           <!-- pls quam -->
 		       <reg>quam</reg>
 	     </choice> decidat 
 	<choice>
@@ -121,9 +110,8 @@
 	     </choice> mortis
 <lb/>sacre 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)he(n)nis</seg>
-		       <orig>ꝑhēnis</orig>
+		       <orig>ꝑhēnis</orig> 
 		       <reg>perhennis</reg>
 	     </choice> 
 	     <choice>
@@ -141,15 +129,14 @@
 <lb break="no"/>bi
 <lb break="no"/>lia testi⸗        Exquo. 
 	<choice>
-	      <!-- unsure how to code the small raised i -->
 		       <seg type="lucas">v(?).</seg>
-		       <orig>v.</orig>
+		       <orig>vⁱ.</orig>
 		       <reg>v?.<!--  check expansion --></reg>
 	     </choice> 
  Aspice. 
 	<choice>
 		       <seg type="lucas">viii(?).</seg>
-		       <orig>viii.</orig>
+		       <orig>viiiⁱ.</orig>
 		       <reg>viii?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -173,26 +160,26 @@
 		       <seg type="lucas">a(n)i(m)a</seg>
 		       <orig>aīa</orig>
 		       <reg>anima</reg>
-	     </choice> mea.† 
+	     </choice> mea.<supplied>
 	<choice>
 		       <seg type="lucas">Declarat(i)o</seg>
-		       <orig>Declarat̄o</orig>
+		       <orig>Declaratō</orig>
 		       <reg>Declaratio</reg>
-	     </choice> †
+	</choice> </supplied> 
 	<choice>
 		       <seg type="lucas">s(er)mo⸗†</seg>
-		       <orig>s͘mo⸗†</orig>
+		       <orig>sṁo⸗</orig>
 		       <reg>sermo⸗†</reg>
 	     </choice>
-      <lb/>†
+      <lb/><supplied>
 	<choice>
 		       <seg type="lucas">nu(m)†</seg>
-		       <orig>nū†</orig>
-		       <reg>num†</reg>
-	     </choice> 
+		       <orig>nū</orig>
+		       <reg>num</reg>
+	</choice> </supplied>
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor⋮</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> 
 	     <choice>

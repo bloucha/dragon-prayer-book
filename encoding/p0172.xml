@@ -104,7 +104,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)li</seg>
-		       <orig>ꝑli</orig>
+		       <orig>ꝓli</orig>
 		       <reg>proli</reg>
 	     </choice> 
 	     <choice>
@@ -118,16 +118,14 @@
 		       <reg>sancto</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ar)it(er)</seg>
-		       <orig>ꝑiṫ</orig>
+		       <orig>ꝑiṫ</orig> 
 		       <reg>pari̇ter</reg>
 	     </choice> resultet
 <lb/>laude 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)he(n)ni.</seg>
-		       <orig>ꝑhēni.</orig>
+		       <orig>ꝑhēni.</orig> 
 		       <reg>perhenni.</reg>
 	     </choice>        
 	     <choice>
@@ -152,15 +150,13 @@
 		       <reg>nostri</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, doesn't seem right -->
 		       <seg type="lucas">i(e)su</seg>
-		       <orig>isu</orig>
+		       <orig>iḣu</orig>
 		       <reg>iesu</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription looks like xpi-->
 		       <seg type="lucas">(christ)i</seg>
-		       <orig>i</orig>
+		       <orig>xp̄i</orig>
 		       <reg>christi</reg>
 	     </choice> 
 	     <choice>
@@ -175,19 +171,13 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, "con"? -->
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">mu(n)icat(i)o</seg>
-		       <orig>mūicat̄o</orig>
-		       <reg>municatio</reg>
+		       <orig>ɔmūicat̄o</orig>
+		       <reg>communicatio</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>s͘ci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice>
       <lb/>
@@ -223,16 +213,16 @@
 		       <reg>Deo.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to transcribe -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
-		       <seg type="lucas">Inet(er)nu(m)†</seg>
-		       <orig>Ineṫnū†</orig>
-		       <reg>Ineternum†</reg>
+		       <seg type="lucas">Inet(er)nu(m)</seg>
+		       <orig>Ineṫnū</orig>
+		       <reg>Ineternum</reg>
 	     </choice> 
+	     </supplied>
 	     <choice>
 		       <seg type="lucas">d(omi)ne.</seg>
 		       <orig>dn̄e.</orig>
@@ -241,7 +231,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">P(er)ma(n)et</seg>
-		       <orig>Ꝑmāet</orig>
+		       <orig>Ꝑmāet</orig> 
 		       <reg>Permanet</reg>
 	     </choice> 
 	     <choice>

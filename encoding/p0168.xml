@@ -16,8 +16,8 @@
 		       <reg>viam</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">i(n)q(ui)tatis.</seg>
-	             <orig>īq̇tatis.</orig> <!-- looks like there are two "i"s here -->
+	           <seg type="lucas">i(n)q(ui)tatis.<!-- looks like there are two "i"s here --></seg>
+	             <orig>īq͘tatis.</orig> 
 		       <reg>inquitatis.</reg>
 	     </choice> 
 	     <choice>
@@ -205,7 +205,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">ma(n)datis</seg>
-	           <orig>mādatis</orig> <!-- macron above a is blocked by "p", but I believe it is there -->
+	           <orig>mādatis</orig> 
 		       <reg>mandatis</reg>
 	     </choice> tuis 
 	<choice>

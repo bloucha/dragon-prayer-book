@@ -53,13 +53,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(un)t.</seg>
-		       <orig>sṫ.</orig>
+		       <orig>st͘.</orig>
 		       <reg>sunt.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
-	           <!-- I don't see any diacritics -->
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -92,7 +91,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">req(ui)ra(m).</seg>
-		       <orig>req̇rā.</orig>
+		       <orig>req͘rā.</orig>
 		       <reg>requiram.</reg>
 	     </choice> Ex. 
 	<choice>
@@ -114,8 +113,7 @@
 	<choice>
 		       <seg type="lucas">vs(?)</seg>
 		       <orig>v̈s</orig>
-	      <!-- check expansion -->
-		       <reg>vs?</reg>
+	      <reg>vs?<!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ps(alm).</seg>
@@ -170,7 +168,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um).</seg>
-		       <orig>tuoꝝ.</orig>
+		       <orig>tuor⋮.</orig>
 		       <reg>tuorum.</reg>
 	     </choice> 
 	     <choice>
@@ -214,12 +212,12 @@
          <supplied>
 	<choice>
 		       <seg type="lucas">cor(um)</seg>
-		       <orig>coꝝ</orig>
+		       <orig>cor⋮</orig>
 		       <reg>corum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um).</seg>
-		       <orig>tuoꝝ.</orig>
+		       <orig>tuor⋮.</orig>
 		       <reg>tuorum.</reg>
 	     </choice> 
 	     <choice>

@@ -53,7 +53,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eq(ui)tate.</seg>
-		       <orig>eq̇tate.</orig>
+		       <orig>eq͘tate.</orig>
 		       <reg>equitate.</reg>
 	     </choice> 
 	     <choice>
@@ -64,15 +64,12 @@
          <lb/> <supplied>misit</supplied>
          <choice>
                <seg type="lucas"> d(omi)n(u)s</seg>
-               <orig>dn̄a</orig>
+               <orig>dn̄s</orig>
                <reg>dominus</reg>
          </choice>
-         <!-- this was missed in the transcription Lucas
-               how does it feel to know that I'm better than you again
-               (also thank you for your help on this choice <3) -->
 	<choice>
 		       <seg type="lucas">p(o)p(u)lo</seg>
-		       <orig>ꝑplo</orig>
+		       <orig>ppl͘o</orig>
 		       <reg>populo</reg>
 	     </choice> suo: 
 	<choice>
@@ -83,7 +80,7 @@
       <lb break="no"/>davit 
 	<choice>
 		       <seg type="lucas">i(n)et(er)nu(m)</seg>
-		       <orig>īeṫnu</orig>
+		       <orig>īeṫnū</orig>
 		       <reg>ineternum</reg>
 	     </choice> 
 	     <choice>
@@ -109,7 +106,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ribile</seg>
-		       <orig>ṫribile</orig>
+		       <orig>t͘ribile</orig>
 		       <reg>terribile</reg>
 	     </choice> 
 	     <choice>
@@ -162,7 +159,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">e(n)tib(us)</seg>
-		       <orig>etib⋮</orig>
+		       <orig>ētib⋮</orig>
 		       <reg>entibus</reg>
 	     </choice> 
 	     <choice>
@@ -203,7 +200,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon).</seg>
-		       <orig>än.</orig>
+		       <orig>an̈.</orig>
 		       <reg>antiphon.</reg>
 	     </choice> Fidelia 
 	<choice>
@@ -230,7 +227,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">s(e)c(u)l(um)</seg>
-		       <orig>scl⋮</orig>
+		       <orig>scl͘⋮</orig>
 		       <reg>seculum</reg>
 	     </choice> 
 	     <choice>
@@ -251,7 +248,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice>
       <lb/>
@@ -272,7 +269,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vii(?).</seg>
-		       <orig>vii݃.</orig>
+		       <orig>viiⁱ.</orig>
 		       <reg>vii?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -299,7 +296,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra</seg>
-		       <orig>ṫra</orig>
+		       <orig>t͘ra</orig>
 		       <reg>terra</reg>
 	     </choice> erit <supplied>semen</supplied>
 

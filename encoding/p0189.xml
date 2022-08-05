@@ -102,7 +102,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig>Q͘d</orig> <!-- need help, the capital covers the dot-->
+		       <orig>Q͘d</orig> 
 		       <reg>Quid</reg>
 	     </choice> 
 	     <choice>
@@ -112,13 +112,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-	             <orig>ṫ</orig>
+	             <orig>͘</orig>
 		       <reg>tibi</reg>
 	     </choice>
       <lb/>mare 
 	<choice>
 		       <seg type="lucas">q(uod)</seg>
-		       <orig>q</orig> <!-- abbreviation has not been established yet  -->
+		       <orig>qˢ</orig> 
 		       <reg>quod</reg>
 	     </choice> fugisti: 
 	<choice>
@@ -202,18 +202,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra:</seg>
-	             <orig>ṫra:</orig>
+	             <orig>t͘ra:</orig>
 		       <reg>terra:</reg>
 	     </choice>
       <lb/>a facie dei iacob. 
 	<choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig> <!-- need help with this unicode -->
+		       <orig>Qⁱ</orig> 
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">co(n)</seg>
-	             <orig>cȯ</orig> <!-- dot or macron? -->
+	             <orig>cō</orig> 
 		       <reg>con</reg>
 	     </choice>
       <lb break="no"/>
@@ -239,7 +239,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">aq(ua)r(um):</seg>
-	             <orig>aq̈rꝝ:</orig>
+	             <orig>aq̈r⋮:</orig>
 		       <reg>aquarum:</reg>
 	     </choice> 
 	     <choice>
@@ -265,7 +265,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">aquar(um).</seg>
-	             <orig>aquaꝝ.</orig>
+	             <orig>aquar⋮.</orig>
 		       <reg>aquarum.</reg>
 	     </choice> 
 	     <choice>

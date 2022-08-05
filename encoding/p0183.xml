@@ -17,7 +17,7 @@
 	     </choice> die 
 	<choice>
 		       <seg type="lucas">v(ir)tutis</seg>
-		       <orig>̇vtutis</orig>
+		       <orig>v̇tutis</orig>
 		       <reg>virtutis</reg>
 	     </choice> tue 
 	<choice>
@@ -38,12 +38,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um):</seg>
-		       <orig>scōr:</orig>
+		       <orig>scōr⋮:</orig>
 		       <reg>sanctorum:</reg>
 	     </choice> ex 
 	<choice>
 		       <seg type="lucas">ut(er)o</seg>
-		       <orig>uṫo</orig>
+		       <orig>ut͘o</orig>
 		       <reg>utero</reg>
 	     </choice> 
 	     <choice>
@@ -53,7 +53,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">lucifer(um)</seg>
-		       <orig>lucifer</orig>
+		       <orig>lucifer⋮</orig>
 		       <reg>luciferum</reg>
 	     </choice>
       <lb/>genui te. Iuravit 
@@ -91,12 +91,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)et(er)nu(m)</seg>
-		       <orig>īeṫnū</orig>
+		       <orig>īet͘nū</orig>
 		       <reg>ineternum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(un)d(um)</seg>
-		       <orig>scd⋮</orig>
+		       <orig>scḋ⋮</orig>
 		       <reg>secundum</reg>
 	     </choice> 
 	     <choice>
@@ -112,13 +112,13 @@
 	     </choice> a 
 	<choice>
 		       <seg type="lucas">dext(ri)s</seg>
-		       <orig>dexṫs</orig>
+		       <orig>dexṫ͘s</orig>
 		       <reg>dextris</reg>
 	     </choice> tu
 <lb break="no"/>is: 
 	<choice>
 		       <seg type="lucas">(con)fregit</seg>
-		       <orig>fregit</orig>
+		       <orig>ɔfregit</orig>
 		       <reg>confregit</reg>
 	     </choice> 
 	     <choice>
@@ -166,12 +166,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra</seg>
-		       <orig>tṙa</orig>
+		       <orig>t͘ra</orig>
 		       <reg>terra</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(u)ltor(um).</seg>
-		       <orig>ml̇tor.</orig>
+		       <orig>ml̇͘tor⋮.</orig>
 		       <reg>multorum.</reg>
 	     </choice> De
 <lb/>
@@ -187,13 +187,13 @@
 	     </choice> via bibet: 
 	<choice>
 		       <seg type="lucas">p(ro)pt(er)ea</seg>
-		       <orig>ppṫea</orig>
+		       <orig>ꝑpt͘ea</orig>
 		       <reg>propterea</reg>
 	     </choice>
       <lb/>exaltabit caput. 
 	<choice>
 		       <seg type="lucas">a(lleluia).</seg>
-		       <orig>a.</orig>
+		       <orig>ä.</orig>
 		       <reg>alleluia.</reg>
 	     </choice> Dixit
 <lb/>
@@ -210,18 +210,18 @@
 <lb break="no"/>de a 
 	<choice>
 		       <seg type="lucas">dext(ri)s</seg>
-		       <orig>dexṫs</orig>
+		       <orig>dext͘s</orig>
 		       <reg>dextris</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mei(s).</seg>
-		       <orig>mei.</orig>
+		       <orig>meiˢ.</orig>
 		       <reg>meis.</reg>
 	     </choice>
       <lb/>COnfitebor 
 	<choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>ṫ</orig>
+		       <orig>t͘</orig>
 		       <reg>tibi</reg>
 	     </choice>                   †Fidelia. m[[*]]†
 

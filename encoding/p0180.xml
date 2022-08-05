@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eloq(ui)u(m)</seg>
-		       <orig>eloq̇ū</orig>
+		       <orig>eloq͘ū</orig>
 		       <reg>eloquium</reg>
 	     </choice> 
 	     <choice>
@@ -31,15 +31,15 @@
 		       <orig>Eructab̄t</orig>
 		       <reg>Eructabunt</reg>
 	     </choice> labia mea 
-	<choice> <!-- weird abbreviation, unsure how to handle -->
+	<choice> <!-- Lucas pls check the h -->
 		       <seg type="lucas">(h)</seg>
 		       <orig/>
 		       <reg>h</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">y(m)</seg>
-		       <orig>y</orig>
-		       <reg>ym</reg>
+		       <orig>ȳp</orig>
+		       <reg>ym<!-- check expansion --></reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -102,7 +102,7 @@
 	     </choice> tua 
 	<choice>
 		       <seg type="lucas">eq(ui)</seg>
-		       <orig>eq̇</orig>
+		       <orig>eq͘</orig>
 		       <reg>equi</reg>
 	     </choice>
       <lb break="no"/>tas. Fiat 
@@ -190,7 +190,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)iit:</seg>
-		       <orig>ṗiit:</orig>
+		       <orig>ꝑiit:</orig>
 		       <reg>periit:</reg>
 	     </choice> †
 	<choice>
@@ -208,11 +208,11 @@
 		       <seg type="lucas">tuu(m)</seg>
 		       <orig>tuū</orig>
 		       <reg>tuum</reg>
-	     </choice> [
+	     </choice> 
 	<choice>
-		       <seg type="lucas">d(omi)ne]</seg>
-		       <orig>dn̄e]</orig>
-		       <reg>domine]</reg>
+		       <seg type="lucas">[d(omi)ne]</seg>
+		       <orig>[dn̄e]</orig>
+		       <reg>[domine]</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>

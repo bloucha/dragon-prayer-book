@@ -22,19 +22,19 @@
 		</choice> dixi 
 		<choice>
 			<seg type="lucas">t(ibi):</seg>
-			<orig>ṫ:</orig>
+			<orig>t͘:</orig>
 			<reg>tibi:</reg>
 		</choice> 
 		<choice>
 			<seg type="lucas">s(upe)r</seg>
-			<orig>sr ̄</orig>
+			<orig>sr̄</orig>
 			<reg>super</reg>
 		</choice> iu
 		<lb break="no"/>dicia iustitie tue. Pax
 		<lb/>
 		<choice>
 			<seg type="lucas">m(u)lta</seg>
-			<orig>mlta</orig>
+			<orig>ml͘ta</orig>
 			<reg>multa</reg>
 		</choice> 
 		<choice>
@@ -60,7 +60,7 @@
 		</choice> 
 		<choice>
 			<seg type="lucas">n(on)</seg>
-			<orig>n</orig>
+			<orig>n̄</orig>
 			<reg>non</reg>
 		</choice> 
 		<choice>
@@ -104,7 +104,9 @@
 			<seg type="lucas">ma(n)data</seg>
 			<orig>mādata</orig>
 			<reg>mandata</reg>
-		</choice> tua dilexi. Cu
+		</choice> tua dilexi. 
+		<!-- abbreviation on the u and line continuation with the stodivit -->
+		Cu
 		<lb break="no"/>stodivit 
 		<choice>
 			<seg type="lucas">a(n)i(m)a</seg>
@@ -113,7 +115,7 @@
 		</choice> mea 
 		<choice>
 			<seg type="lucas">testi(m)o(n)ia</seg>
-			<orig>testiōīa</orig>
+			<orig>testiōia</orig>
 			<reg>testimonia</reg>
 		</choice>
 		<lb/>tua: 
@@ -144,10 +146,10 @@
 			<orig>testoōia</orig>
 			<reg>testomonia</reg>
 		</choice> tu[e/a]: 
-		<!-- confused about the [e/a] encoding -->
+		
 		<choice>
 			<seg type="lucas">q(uia)</seg>
-			<orig>q</orig>
+			<orig>q:</orig>
 			<reg>quia</reg>
 		</choice> 
 		<choice>
@@ -168,18 +170,18 @@
 		</choice>
 		<choice>
 			<seg type="lucas">sp(ec)tu</seg>
-			<orig>sptu</orig>
+			<orig>sptū</orig>
 			<reg>spectu</reg>
 		</choice> tuo. Ap
 		<lb break="no"/>
 		<choice>
 			<seg type="lucas">p(ro)pi(n)q(ue)t</seg>
-			<orig>ꝓpīq̄t</orig>
+			<orig>ꝑpīq̄t</orig>
 			<reg>propinquet</reg>
 		</choice> 
 		<choice>
 			<seg type="lucas">dep(re)cat(i)o</seg>
-			<orig>dep͘catō</orig>
+			<orig>dep̄catō</orig>
 			<reg>deprecatio</reg>
 		</choice> mea 
 		<choice>
@@ -205,7 +207,7 @@
 		</choice> iuxta 
 		<choice>
 			<seg type="lucas">eloq(ui)u(m)</seg>
-			<orig>eloq̇ū</orig>
+			<orig>eloq͘ū</orig>
 			<reg>eloquium</reg>
 		</choice> 
 		<choice>
@@ -229,7 +231,7 @@
 		<supplied>
 			<choice>
 				<seg type="lucas">stulat(i)o</seg>
-				<orig>stulato</orig>
+				<orig>stulatō</orig>
 				<reg>stulatio</reg>
 			</choice> 
 		</supplied> mea 
@@ -247,8 +249,8 @@
 			<seg type="lucas">sp(e)c(t)u</seg>
 			<orig>spcū</orig>
 			<reg>spectu</reg>
-		</choice> tuo:†
-		<!-- i'm not sure if this cross is meant to be here? -->
+		</choice> tuo:
+
 		
 		
 	</ab>

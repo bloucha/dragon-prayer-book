@@ -27,7 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Fi(?)a</seg>
-		       <orig>Fi̇a</orig> <!-- how do i right a dot above the i if there is already one? -->
+		       <orig>Fi̇̄a</orig> 
 		       <reg>Fi?a<!--  check expansion --></reg>
 	     </choice> 
  
@@ -103,7 +103,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig> <!-- unsure of character -->
+		       <orig>℞.</orig> 
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -119,7 +119,7 @@
       <lb/>Et 
 	<choice>
 		       <seg type="lucas">misere(re)</seg>
-		       <orig>miserė</orig> <!-- i believe (re) is an e with a dot -->
+		       <orig>miser̄e</orig> 
 		       <reg>miserere</reg>
 	     </choice> mei. 
 	<choice>
@@ -235,7 +235,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uem)</seg>
-		       <orig>q</orig> <!-- please add when we discover a unicode character -->
+		       <orig>q̄ˢ</orig> 
 		       <reg>quem</reg>
 	     </choice> 
 	     <choice>
@@ -287,12 +287,12 @@
       <lb/>TRes 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
-		       <orig>sṫ</orig>
+		       <orig>st͘</orig>
 		       <reg>sunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>

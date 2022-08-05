@@ -12,7 +12,7 @@
       <lb/>nia tua 
 	<choice>
 		       <seg type="lucas">i(n)et(er)nu(m):</seg>
-		       <orig>īeṫnū:</orig>
+		       <orig>īet͘nū:</orig>
 		       <reg>ineternum:</reg>
 	     </choice> 
 	     <choice>
@@ -33,7 +33,7 @@
 	     </choice> mei 
 	<choice>
 		       <seg type="lucas">s(un)t.</seg>
-		       <orig>sṫ.</orig> <!-- check -->
+		       <orig>st͘.</orig> 
 		       <reg>sunt.</reg>
 	     </choice> Inclinavi
 <lb/>cor 
@@ -55,17 +55,17 @@
 	     </choice> tuas 
 	<choice>
 		       <seg type="lucas">i(n)et(er)nu(m):</seg>
-		       <orig>īeṫnū:</orig>
+		       <orig>īet͘nū:</orig>
 		       <reg>ineternum:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pt(er)</seg>
-	     	  <orig>ꝓpṫ</orig>
+	     	  <orig>ꝑpt͘</orig>
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ret(ri)</seg>
-	     	  <orig>reṫ</orig>
+	     	  <orig>ret͘</orig>
 		       <reg>retri</reg>
 	     </choice>
       <lb break="no"/>IN 
@@ -177,7 +177,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eloq(ui)u(m)</seg>
-	     	  <orig>eloq̇ū</orig>
+	     	  <orig>eloq͘ū</orig>
 		       <reg>eloquium</reg>
 	     </choice>
       <lb/>

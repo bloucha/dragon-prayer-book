@@ -27,9 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">meo(s)</seg>
-		       <orig>meo</orig>
-	           <!-- diacritic from before that kinda looks like an s, should 
-	                 this be like superscript s? -->
+		       <orig>meoˢ</orig>
 		       <reg>meos</reg>
 	     </choice>
       <lb/>
@@ -141,7 +139,7 @@
 	     </choice> via mala 
 	<choice>
 		       <seg type="lucas">p(ro)hibui</seg>
-		       <orig>ꝓhibui</orig>
+		       <orig>ꝑhibui</orig>
 		       <reg>prohibui</reg>
 	     </choice> pe
 <lb break="no"/>des meos: ut 
@@ -170,8 +168,6 @@
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q:</orig>
-	           <!-- edited lucas' version here to more accuratley reflect what was on the 
-	                 page (was written as q(ui)a not q(uia) with a : -->
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -198,7 +194,7 @@
 	     </choice> meis 
 	<choice>
 		       <seg type="lucas">eloq(ui)a</seg>
-		       <orig>eloq̇a</orig>
+		       <orig>eloq͘a</orig>
 		       <reg>eloquia</reg>
 	     </choice> tua: 
 	<choice>
@@ -220,8 +216,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pt(er)ea</seg>
-		       <orig>ꝓpt̄ea</orig>
-	           <!-- not sure if dot or diacritic over the t -->
+		       <orig>ꝑpt͘ea</orig>
 		       <reg>propterea</reg>
 	     </choice> odivi 
          <supplied>

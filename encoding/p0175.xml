@@ -81,7 +81,7 @@
 <lb break="no"/>liti 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
-	           <orig>sṫ</orig>
+	           <orig>st͘</orig>
 		       <reg>sunt</reg>
 	     </choice> 
 	     <choice>
@@ -97,7 +97,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eloq(ui)u(m)</seg>
-	           <orig>eloq̇ū</orig>
+	           <orig>eloq͘ū</orig>
 		       <reg>eloquium</reg>
 	     </choice> 
 	     <choice>
@@ -108,7 +108,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">me(n)t(er):</seg>
-	          <orig>mēṫ:</orig>
+	          <orig>mēt͘:</orig>
 		       <reg>menter:</reg>
 	     </choice> 
 	     <choice>
@@ -129,7 +129,7 @@
 <lb break="no"/>lud. 
 	<choice>
 		       <seg type="lucas">Adolesce(n)t(u)l(u)s</seg>
-	           <orig>Adolēscētl͘s</orig>
+	           <orig>Adolescētl͘s</orig>
 		       <reg>Adolescentulus</reg>
 	     </choice> 
 	     <choice>
@@ -177,7 +177,7 @@
 <lb/>tua iustitia 
 	<choice>
 		       <seg type="lucas">i(n)et(er)nu(m):</seg>
-	           <orig>īeṫnū:</orig>
+	           <orig>īet͘nū:</orig>
 		       <reg>ineternum:</reg>
 	     </choice> 
 	     <choice>
@@ -204,7 +204,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)vener(un)t</seg>
-	           <orig>īvener̄t</orig> <!-- i think the r has a macron over it because i was looking in common abbreviations and r with macron is r(un)  -->
+	           <orig>īvener̄t</orig> 
 		       <reg>invenerunt</reg>
 	     </choice> me: 
 	<choice>
@@ -226,17 +226,17 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Eq(ui)tas</seg>
-		       <orig>Eq̇tas</orig>
+		       <orig>Eq͘tas</orig>
 		       <reg>Equitas</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">testi(m)o(n)ia</seg>
-	          <orig>testīoia</orig> <!-- check if macron is over i or o -->
+	          <orig>testīoia</orig> 
 		       <reg>testimonia</reg>
 	     </choice> tua 
 	<choice>
 		       <seg type="lucas">i(n)et(er)nu(m):</seg>
-	           <orig>īeṫnū:</orig>
+	           <orig>īet͘nū:</orig>
 		       <reg>ineternum:</reg>
 	     </choice>
    </ab>

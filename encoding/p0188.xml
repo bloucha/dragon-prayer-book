@@ -48,7 +48,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)s</seg>
-		       <orig>Q͘s</orig>
+		       <orig>Q̇s</orig>
 		       <reg>Quis</reg>
 	     </choice> 
 	     <choice>
@@ -115,7 +115,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra.</seg>
-		       <orig>t̄ra.</orig>
+		       <orig>ṫra.</orig>
 		       <reg>terra.</reg>
 	     </choice> Sus
 <lb break="no"/>
@@ -195,7 +195,7 @@
 	<choice>
 	      <!-- transcription question -->
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig>
+		       <orig>Qi</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -222,7 +222,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">lior(um)</seg>
-		       <orig>lior⋮</orig>
+		       <orig>lioꝝ</orig>
 		       <reg>liorum</reg>
 	     </choice> 
 	     <choice>
@@ -271,7 +271,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vivim(us).</seg>
-		       <orig>vivimº.</orig>
+		       <orig>vivimꝰ.</orig>
 		       <reg>vivimus.</reg>
 	     </choice> 
 	     <choice>

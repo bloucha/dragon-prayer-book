@@ -57,15 +57,14 @@
 		       <reg>tuam:</reg>
 	     </choice> 
 	     <choice>
-		       <!-- looks like a colon, unsure how to code -->
 	           <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)n(u)s</seg>
-		       <orig>dn͘s</orig>
+		       <orig>dn̄s</orig>
 		       <reg>dominus</reg>
 	     </choice> 
 	     <choice>
@@ -80,7 +79,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig> 
 		       <reg>Quia</reg>
 	     </choice> eri
 <lb break="no"/>puit 
@@ -125,7 +124,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um).</seg>
-		       <orig>r⋮.</orig>
+		       <orig>ꝝ.</orig>
 		       <reg>rum.</reg>
 	     </choice> 
 	     <choice>
@@ -162,7 +161,7 @@
       <lb/>CRedidi 
 	<choice>
 		       <seg type="lucas">p(ro)p</seg>
-		       <orig>ꝑp</orig>
+		       <orig>ꝓp</orig>
 		       <reg>prop</reg>
 	     </choice>
       <lb break="no"/>ter 
@@ -183,9 +182,8 @@
 		       <reg>autem</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">hu(m)iliat(us)</seg>
-		       <orig>hūiliatꝰ</orig>
+		       <orig>hūiliatꝰ</orig> 
 		       <reg>humiliatus</reg>
 	     </choice> 
 	     <choice>
@@ -217,7 +215,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig>Q͘d</orig>
+		       <orig>Q̇d</orig>
 		       <reg>Quid</reg>
 	     </choice>
       <lb/>
@@ -233,7 +231,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>

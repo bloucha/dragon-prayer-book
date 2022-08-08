@@ -126,9 +126,8 @@
 		       <reg>vivimus</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">b(e)n(e)dicim(us)</seg>
-		       <orig>bn̄dicimꝰ</orig>
+		       <orig>bn̄dicimꝰ</orig> 
 		       <reg>benedicimus</reg>
 	     </choice>
       <lb/>
@@ -185,9 +184,8 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-	           <!-- check transcription, looks like dicim, no s -->
-		       <seg type="lucas">dicim(u)s</seg>
-		       <orig>dicimsꝰ</orig>
+		       <seg type="lucas">dicim(us)</seg>
+		       <orig>dicimꝰ</orig> 
 		       <reg>dicimus</reg>
 	     </choice> 
 	     <choice>
@@ -234,30 +232,24 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- check transcription, looks like xpi -->
 		       <seg type="lucas">pacia(m)</seg>
 		       <orig>paciā</orig>
 		       <reg>paciam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ)i.</seg>
-		       <orig>i.</orig>
+		       <orig>xp̄i.</orig>
 		       <reg>christi.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eo).</seg>
-		       <orig>D͘.</orig>
+		       <orig>Ḋ.</orig>
 		       <reg>Deo.</reg>
 	     </choice> 
+	     
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
-	           <!-- check transcription, looks like ypn -->
 		       <seg type="lucas">y(m)n(us).</seg>
-		       <orig>yn.</orig>
+		       <orig>ȳpnꝰ.</orig>
 		       <reg>ymnus.</reg>
 	     </choice>
       <lb/>LUcis creator 
@@ -274,13 +266,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dier(um)</seg>
-		       <orig>dier⋮</orig>
+		       <orig>dieꝝ</orig>
 		       <reg>dierum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)fere(n)s</seg>
-		       <orig>ꝑferēs</orig>
+		       <orig>ꝓferēs</orig> 
 		       <reg>proferens</reg>
 	     </choice> 
 	     <choice>

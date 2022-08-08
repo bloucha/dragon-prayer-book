@@ -24,7 +24,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -62,7 +62,7 @@
 	     </choice> mee. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig> 
 		       <reg>Quia</reg>
 	     </choice> in
 <lb break="no"/>
@@ -115,9 +115,8 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)ic(u)la</seg>
-		       <orig>ꝑicl͘a</orig>
+		       <orig>ꝑicl͘a</orig> 
 		       <reg>pericula</reg>
 	     </choice> 
 	     <choice>
@@ -149,8 +148,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)ve†n†i:</seg>
-		       <orig>īve†n†i:</orig>
-		       <reg>inve†n†i:</reg>
+		       <orig>īve<supplied>n</supplied>i:</orig>
+		       <reg>inve<supplied>n</supplied>i:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -233,7 +232,7 @@
 	     <choice>
 	           <!-- 0743 not appearing correctly-->
 		       <seg type="lucas">mise(re)t(ur).</seg>
-		       <orig>misėt݃.</orig>
+		       <orig>misėt݃.</orig> 
 		       <reg>miseretur.</reg>
 	     </choice> Custodi
 <lb break="no"/>
@@ -255,7 +254,7 @@
 	     <choice>
 	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">hu(m)iliat(us)</seg>
-		       <orig>hūiliatꝰ</orig>
+		       <orig>hūiliatꝰ</orig> 
 		       <reg>humiliatus</reg>
 	     </choice>
    </ab>

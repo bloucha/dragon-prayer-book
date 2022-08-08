@@ -55,7 +55,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">tr(um)</seg>
-		       <orig>tr⋮</orig>
+		       <orig>tꝝ</orig>
 		       <reg>trum</reg>
 	     </choice> chaos 
 	<choice>
@@ -107,9 +107,8 @@
 		       <reg>dum</reg>
 	     </choice> nil 
 	<choice>
-	    <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)he(n)ne</seg>
-		       <orig>ꝑhēne</orig>
+		       <orig>ꝑhēne</orig> 
 		       <reg>perhenne</reg>
 	     </choice> co
 <lb break="no"/>gitat 
@@ -121,7 +120,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Celor(um)</seg>
-		       <orig>Celor⋮</orig>
+		       <orig>Celoꝝ</orig>
 		       <reg>Celorum</reg>
 	     </choice> pulset 
 	<choice>
@@ -168,7 +167,6 @@
 		       <reg>pessimum.</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure if there is a macron over the a -->
 		       <seg type="lucas">Pr(est)a</seg>
 		       <orig>Prā</orig>
 		       <reg>Presta</reg>
@@ -273,13 +271,8 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)ctu</seg>
-		       <orig>spc̄tu</orig>
+		       <orig>ɔspc̄tu</orig>
 		       <reg>spectu</reg>
 	     </choice>
    </ab>

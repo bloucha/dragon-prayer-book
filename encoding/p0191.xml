@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -64,7 +64,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um)</seg>
-	             <orig>ꝝ</orig>
+	             <orig>r⋮</orig>
 		       <reg>rum</reg>
 	     </choice> 
 	     <choice>
@@ -74,12 +74,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)tector</seg>
-	             <orig>ꝓtector</orig>
+	             <orig>ꝑtector</orig>
 		       <reg>protector</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eoꝝ</orig>
+	             <orig>eor⋮</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -100,7 +100,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(er)avit</seg>
-		       <orig>spavit</orig>
+		       <orig>sꝑavit</orig>
 		       <reg>speravit</reg>
 	     </choice> 
 	     <choice>
@@ -116,7 +116,7 @@
 <lb break="no"/>tor 
 	<choice>
 		       <seg type="lucas">eor(um)</seg>
-	              <orig>eoꝝ</orig>
+	              <orig>eor⋮</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -131,19 +131,19 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eoꝝ</orig>
+	             <orig>eor⋮</orig>
 		       <reg>eorum</reg>
 	     </choice> est.
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig> <!-- unsure of abbreviation -->
+		       <orig>Qⁱ</orig> 
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">time(n)t</seg>
-		       <orig>timėt̄</orig> <!-- check -->
-		       <reg>timent</reg>
+		       <orig>timet̄̄</orig> 
+	                <reg>timent</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(um)</seg>
@@ -168,7 +168,7 @@
 	     </choice> adiutor 
 	<choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eoꝝ</orig>
+	             <orig>eor⋮</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -178,13 +178,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)te</seg>
-	             <orig>ꝓte</orig>
+	             <orig>ꝑte</orig>
 		       <reg>prote</reg>
 	     </choice>
       <lb break="no"/>ctor 
 	<choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eoꝝ</orig>
+	             <orig>eor⋮</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -199,7 +199,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">me(m)or</seg>
-	              <orig>mēor</orig> <!-- I believe the dot above the "o" is becuase of the p above it? -->
+	              <orig>mēor</orig> 
 		       <reg>memor</reg>
 	     </choice> fu
 <lb break="no"/>it 
@@ -221,12 +221,12 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">B(e)n(e)dixit</seg>
-		       <orig>Bndixit</orig>
+		       <orig>Bn̄dixit</orig>
 		       <reg>Benedixit</reg>
 	     </choice> domui 
 	<choice>
 		       <seg type="lucas">isr(ae)l:</seg>
-		       <orig>isrl:</orig>
+		       <orig>isrl͘:</orig>
 		       <reg>israel:</reg>
 	     </choice> 
 	     <choice>
@@ -253,7 +253,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>

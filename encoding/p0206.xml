@@ -12,7 +12,7 @@
       <lb/>sua. 
 	<choice>
 		       <seg type="lucas">Venie(n)tes</seg>
-	             <orig>Veniėtes</orig>
+	             <orig>Veniētes</orig>
 		       <reg>Venientes</reg>
 	     </choice> 
 	     <choice>
@@ -83,12 +83,12 @@
  
 	     <choice>
 		       <seg type="lucas">Exultav(it)</seg>
-		       <orig>Exultav</orig> <!-- need help -->
+		       <orig>Exultavᵗ</orig> 
 		       <reg>Exultavit</reg>
 	     </choice>          Exultavit. 
 	<choice>
 		       <seg type="lucas">iiii(?).</seg>
-		       <orig>iiii.</orig> <!-- help -->
+		       <orig>iiiⁱi.</orig> 
 		       <reg>iiii?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -169,7 +169,7 @@
  
 	     <choice>
 		       <seg type="lucas">viii(?).</seg>
-		       <orig>viii.</orig> <!-- i am confused on this abbreviation -->
+		       <orig>viiⁱi.</orig> 
 		       <reg>viii?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -191,7 +191,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -223,7 +223,7 @@
 	     </choice> †vigilat 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> cust†odit 
 	<choice>

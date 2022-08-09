@@ -65,7 +65,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um).</seg>
-	             <orig>ꝝ.</orig>
+	             <orig>r⋮.</orig>
 		       <reg>rum.</reg>
 	     </choice> 
 	     <choice>
@@ -118,7 +118,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">aur(um):</seg>
-	            <orig>auꝝ:</orig>
+	            <orig>aur⋮:</orig>
 		       <reg>aurum:</reg>
 	     </choice> 
 	     <choice>
@@ -222,7 +222,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">odorab(un)t</seg>
-		       <orig>odorab̄t</orig> <!-- chose to but macron over the b, and followed through with it for the rest of the page-->
+		       <orig>odorab̄t</orig> 
 		       <reg>odorabunt</reg>
 	     </choice> Ma
 <lb break="no"/>
@@ -311,7 +311,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>

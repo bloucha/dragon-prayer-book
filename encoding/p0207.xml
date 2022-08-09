@@ -43,7 +43,7 @@
 	     </choice> surgite 
 	<choice>
 		       <seg type="lucas">postq(uam)</seg>
-		       <orig>postq̈</orig>  <!-- we haven't decided a good unicode character for this ye -->
+		       <orig>postq̈ˢ</orig>  
 		       <reg>postquam</reg>
 	     </choice> se
 <lb break="no"/>deritis 
@@ -76,8 +76,8 @@
 	     </choice> suis 
 	<choice>
 		       <seg type="lucas">so(m)nu(m):</seg>
-	             <orig>sōnū:</orig>
-		       <reg>somnum:</reg> <!-- i think there is supposed to be a p in here? -->
+	             <orig>sōpnū:</orig>
+		       <reg>somnum:</reg> 
 	     </choice> ecce 
 	<choice>
 		       <seg type="lucas">he(re)</seg>
@@ -103,7 +103,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ve(n)t(ri)s.</seg>
-	             <orig>vēṫs.</orig>
+	             <orig>vēt͘s.</orig>
 		       <reg>ventris.</reg>
 	     </choice> 
 	     <choice>
@@ -130,7 +130,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">cussor(um).</seg>
-	             <orig>cussoꝝ.</orig>
+	             <orig>cussor⋮.</orig>
 		       <reg>cussorum.</reg>
 	     </choice> 
 	     <choice>
@@ -145,7 +145,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -192,7 +192,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">loq(ue)t(ur)</seg>
-		       <orig> loq̇t݃</orig>
+		       <orig> loq̄t݃</orig>
 		       <reg>loquetur</reg>
 	     </choice> 
 	     <choice>
@@ -224,7 +224,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̄</orig>  <!-- is this a macron or a dot -->
+		       <orig>q͘</orig>  
 	             <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -263,8 +263,7 @@
 		       <seg type="lucas">ii(?).
 
 </seg>
-		       <orig>ii. <!-- two dots do not fit over the "i" correctly -->
-
+		       <orig>iⁱi. 
 </orig>
 		       <reg>ii?.
 

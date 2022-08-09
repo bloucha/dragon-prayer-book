@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -54,12 +54,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">tuar(um)</seg>
-	             <orig>tuaꝝ</orig>
+	             <orig>tuar⋮</orig>
 		       <reg>tuarum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -69,7 +69,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(ea)tus</seg>
-	             <orig>btūs</orig> <!-- macron is above both, I chose to put it over the u -->
+	             <orig>bt̄us</orig> 
 		       <reg>beatus</reg>
 	     </choice>
       <lb/>es 
@@ -85,7 +85,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-	             <orig>ṫ</orig>
+	             <orig>t͘</orig>
 		       <reg>tibi</reg>
 	     </choice> erit. Uxor tua
 <lb/>
@@ -96,7 +96,7 @@
 	     </choice> vitis 
 	<choice>
 		       <seg type="lucas">(ab)</seg>
-		       <orig> h </orig> <!-- confused -->
+		       <orig> h </orig> 
 		       <reg>ab</reg>
 	     </choice>
 	     <choice>
@@ -111,7 +111,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">lat(er)ib(us)</seg>
-	             <orig>laṫib⋮</orig>
+	             <orig>lat͘ib⋮</orig>
 		       <reg>lateribus</reg>
 	     </choice>
       <lb/>
@@ -128,7 +128,7 @@
       <lb/>novelle 
 	<choice>
 		       <seg type="lucas">olivar(um):</seg>
-	             <orig>olivaꝝ:</orig>
+	             <orig>olivar⋮:</orig>
 		       <reg>olivarum:</reg>
 	     </choice> 
 	     <choice>
@@ -138,7 +138,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">c(ir)cuiti</seg>
-	              <orig>ċcuiti</orig> <!-- are there two "i"s at the end or u possibly? -->
+	              <orig>ċcuiti</orig> <!-- are there two "i"s at the end or u -->
 		       <reg>circuiti</reg>
 	     </choice>
       <lb/>
@@ -165,7 +165,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -186,7 +186,7 @@
       <lb break="no"/>cat 
 	<choice>
 		       <seg type="lucas">t(ibi)</seg>
-	             <orig>ṫ</orig>
+	             <orig>t͘</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
@@ -212,7 +212,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(e)r(usa)l(em)</seg>
-	           <orig>irl͘⋮</orig> <!-- unsure of second abbreviation. We have not decided the unicode for it yet -->
+	           <orig>ihrl͘⋮</orig> 
 		       <reg>ierusalem</reg>
 	     </choice> 
 	     <choice>
@@ -229,12 +229,12 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">filior(um)</seg>
-	             <orig>filioꝝ</orig>
+	             <orig>filior⋮</orig>
 		       <reg>filiorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um):</seg>
-	             <orig>tuoꝝ:</orig>
+	             <orig>tuor⋮:</orig>
 		       <reg>tuorum:</reg>
 	     </choice> 
 	     <choice>
@@ -270,7 +270,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice>
       <lb/>
@@ -281,7 +281,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(um).</seg>
-	             <orig>dn⋮̄.</orig>
+	             <orig>dn̄⋮.</orig>
 		       <reg>dominum.</reg>
 	     </choice>        
 	     <choice>
@@ -293,7 +293,7 @@
 		       <seg type="lucas">viii(?).
 
 </seg>
-		       <orig>viii. <!-- confused on the abbreviation over the i, I don't think we decided one for it yet. -->
+		       <orig>viiⁱi.
 
 </orig>
 		       <reg>viii?.

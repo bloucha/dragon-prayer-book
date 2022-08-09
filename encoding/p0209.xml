@@ -93,18 +93,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tores:</seg>
-		       <orig>pct̄ores:</orig> <!-- put macron over t not o -->
+		       <orig>pct̄ores:</orig> 
 		       <reg>peccatores:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)lo(n)gaver(un)t</seg>
-	              <orig>plōgaver̄t</orig>
+	              <orig>ꝑlōgaver̄t</orig>
 		       <reg>prolongaverunt</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)iq(ui)tate(m)</seg>
-	             <orig>īiq̇tatē</orig>
+	             <orig>īiq͘tatē</orig>
 		       <reg>iniquitatem</reg>
 	     </choice> 
 	     <choice>
@@ -135,7 +135,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um):</seg>
-	             <orig>pct̄oꝝ:</orig>
+	             <orig>pct̄or⋮:</orig>
 		       <reg>peccatorum:</reg>
 	     </choice> 
 	     <choice>
@@ -182,7 +182,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -213,7 +213,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tector(um):</seg>
-	             <orig>tectoꝝ:</orig>
+	             <orig>tector⋮:</orig>
 		       <reg>tectorum:</reg>
 	     </choice> 
 	     <choice>
@@ -223,7 +223,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ri)usq(uam)</seg>
-		       <orig>ṗusq̈</orig> <!-- we have not decided a unicode for quam yet -->
+		       <orig>ṗusq̈ˢ</orig> 
 	           <reg>priusquam</reg>
 	     </choice> evel
 <lb break="no"/>
@@ -255,7 +255,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> me
 <lb break="no"/>tet: 
@@ -276,7 +276,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>

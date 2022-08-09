@@ -17,9 +17,8 @@
 		       <reg>dominum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like os -->
 		       <seg type="lucas">o(mn)es</seg>
-		       <orig>ōes</orig>
+		       <orig>ōs</orig>
 		       <reg>omnes</reg>
 	     </choice>
       <lb/>
@@ -35,9 +34,8 @@
 		       <reg>eum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like os -->
 		       <seg type="lucas">o(mn)es</seg>
-		       <orig>ōes</orig>
+		       <orig>ōs</orig>
 		       <reg>omnes</reg>
 	     </choice> 
 	     <choice>
@@ -50,16 +48,12 @@
 		       <orig>Qm̄</orig>
 		       <reg>Quoniam</reg>
 	     </choice> 
+
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-	           <!-- check unicode character, closest guess -->
 		       <seg type="lucas">f(ir)ma</seg>
-		       <orig>fˢma</orig>
-		       <reg>firma</reg>
+		       <orig>ɔf͘ma</orig> 
+	           <!-- is this supposed to be a dot? -->
+		       <reg>confirma</reg>
 	     </choice>
       <lb break="no"/>ta 
 	<choice>
@@ -192,7 +186,7 @@
       <lb break="no"/>ua dolosa. 
 	<choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig>Q͘d</orig>
+		       <orig>Q̇d</orig>
 		       <reg>Quid</reg>
 	     </choice> 
 	     <choice>

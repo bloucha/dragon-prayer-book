@@ -65,9 +65,8 @@
 		       <reg>dominus</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)tect(i)o</seg>
-		       <orig>ꝑtectō</orig>
+		       <orig>ꝓtectō</orig> 
 		       <reg>protectio</reg>
 	     </choice> tua 
 	<choice>

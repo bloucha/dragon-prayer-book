@@ -106,9 +106,8 @@
 		       <reg>in</reg>
 	     </choice> atriis tuis 
 	<choice>
-	      <!-- check transcription, looks like ihrlm -->
 		       <seg type="lucas">i(e)r(usa)l(e)m.</seg>
-		       <orig>irl͘m.</orig>
+		       <orig>ihrl͘m.</orig>
 		       <reg>ierusalem.</reg>
 	     </choice>
       <lb/>
@@ -134,9 +133,8 @@
 		       <reg>cuius</reg>
 	     </choice> 
 	     <choice>
-	           <!-- cannot tell if there is a bar on the p -->
 		       <seg type="lucas">p(ar)ticipat(i)o</seg>
-		       <orig>pticipatō</orig>
+		       <orig>ꝑticipatō</orig> 
 		       <reg>participatio</reg>
 	     </choice> 
 	     <choice>
@@ -173,12 +171,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)b(us)</seg>
-		       <orig>t̄b⋮</orig>
+		       <orig>ṫb⋮</orig>
 		       <reg>tribus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)b(us)</seg>
-		       <orig>t̄b⋮</orig>
+		       <orig>ṫb⋮</orig>
 		       <reg>tribus</reg>
 	     </choice> 
 	     <choice>
@@ -202,15 +200,10 @@
 		       <orig>isrl͘:</orig>
 		       <reg>israel:</reg>
 	     </choice> ad 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fite(n)du(m)</seg>
-		       <orig>fitēdū</orig>
-		       <reg>fitendum</reg>
+		       <orig>ɔfitēdū</orig>
+		       <reg>confitendum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nomi(ni)</seg>
@@ -283,6 +276,7 @@
 	     </choice> 
 	     <choice>
 	           <!-- unsure how to code, looks like an h -->
+	           <!-- so true what is happening here -->
 		       <seg type="lucas">(ab)</seg>
 		       <orig/>
 		       <reg>ab</reg>

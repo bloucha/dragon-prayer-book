@@ -27,9 +27,8 @@
 		       <reg>mihi</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like qr -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -49,9 +48,8 @@
 		       <reg>meus</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 and A770 not appearing correctly -->
 		       <seg type="lucas">p(ro)lo(n)gat(us)</seg>
-		       <orig>ꝑlōgatꝰ</orig>
+		       <orig>ꝓlōgatꝰ</orig> 
 		       <reg>prolongatus</reg>
 	     </choice> 
 	     <choice>
@@ -262,14 +260,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">mot(i)o(nem)</seg>
-		       <orig>motō⋮</orig>
-		       <reg>motionem</reg>
+		       <orig>ɔmotō⋮</orig>
+		       <reg>conmotionem</reg>
 	     </choice>
    </ab>
 

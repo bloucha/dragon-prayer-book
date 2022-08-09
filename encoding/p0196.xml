@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Calice(m)</seg>
-		       <orig>Calicė</orig>
+		       <orig>Calicē</orig>
 		       <reg>Calicem</reg>
 	     </choice> saluta
 <lb break="no"/>ris 
@@ -42,10 +42,9 @@
 		       <reg>nomen</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, parenthesis not needed in orig or reg -->
-		       <seg type="lucas">d(omi)ni)</seg>
-		       <orig>dn̄i)</orig>
-		       <reg>domini)</reg>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -96,14 +95,10 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spcū</orig>
-		       <reg>spectu</reg>
+		       <orig>ɔspcū</orig>
+		       <reg>comspectu</reg>
+	           <!-- I would surmise that this is conspectum, check transcription -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ni</seg>
@@ -113,7 +108,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>sc̄or⋮</orig>
+		       <orig>sc̄oꝝ</orig> 
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
@@ -127,16 +122,14 @@
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
-	           <!-- looks like qr -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> ego
 <lb/>
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">s(er)v(us)</seg>
-		       <orig>sv̇ꝰ</orig>
+		       <orig>sv̇ꝰ</orig> 
 		       <reg>servus</reg>
 	     </choice> 
 	     <choice>
@@ -145,9 +138,8 @@
 		       <reg>tuus:</reg>
 	     </choice> ego 
 	<choice>
-	      <!-- A770 not appearing correctly -->
 		       <seg type="lucas">s(er)v(us)</seg>
-		       <orig>sv̇ꝰ</orig>
+		       <orig>sv̇ꝰ</orig> 
 		       <reg>servus</reg>
 	     </choice> 
 	     <choice>
@@ -236,14 +228,10 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spcū</orig>
-		       <reg>spectu</reg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
+	           <!-- conspectum? check transcription -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">om(n)is</seg>
@@ -283,9 +271,8 @@
 		       <reg>in</reg>
 	     </choice> medio tui 
 	<choice>
-	      <!-- check transcription, looks like ihrl -->
 		       <seg type="lucas">i(e)r(usa)l(um).</seg>
-		       <orig>irl͘⋮.</orig>
+		       <orig>ihrl͘⋮.</orig>
 		       <reg>ierusalum.</reg>
 	     </choice> 
 	     <choice>
@@ -295,9 +282,8 @@
 	     </choice>
       <lb/>Credidi 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝑpṫ</orig>
+		       <orig>ꝓpṫ</orig> 
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>

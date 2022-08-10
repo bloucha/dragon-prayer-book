@@ -80,7 +80,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>scī</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
@@ -102,14 +102,14 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)duca(m)</seg>
-	             <orig>ꝓducā</orig>
+	             <orig>ꝑducā</orig>
 		       <reg>producam</reg>
 	     </choice> cornu david: 
 	<choice>
 		       <seg type="lucas">p(ar)avi</seg>
 	             <orig>ꝑavi</orig>
 		       <reg>paravi</reg>
-	      <!-- not quite sure, unusual use of ꝑ -->
+	      
 	     </choice>
       <lb/>
 	     <choice>
@@ -137,7 +137,7 @@
 	           <seg type="lucas">(con)fusio(n)e:</seg>
 	           <orig>ɔfusiōe:</orig>
 	           <reg>confusione:</reg>
-	           <!-- confusione was listed as two words, i combined them, but that may have been wrong -->
+
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(upe)r</seg>
@@ -157,7 +157,7 @@
 	     </choice> efflorebit 
 	<choice>
 		       <seg type="lucas">s(an)c(t)ificat(i)o</seg>
-		       <orig>sc̄ificatō</orig>
+		       <orig>sc̄ificat̄o</orig>
 		       <reg>sanctificatio</reg>
 	     </choice> mea.
 <lb/>
@@ -184,7 +184,7 @@
       <lb/>ECce 
 	<choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig>
+		       <orig>q̈ˢ</orig>
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
@@ -200,7 +200,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig>
+		       <orig>q̈ˢ</orig>
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
@@ -211,7 +211,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">h(ab)itare</seg>
-		       <orig>hītare</orig>
+		       <orig>h̄itare</orig>
 		       <reg>habitare</reg>
 	     </choice> 
 	     <choice>

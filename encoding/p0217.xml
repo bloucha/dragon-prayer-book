@@ -11,15 +11,14 @@
 
       <lb/>ego 
 	<choice>
-	      <!-- unsure how to encode -->
+	      
 		       <seg type="lucas">(cog)novi</seg>
-		       <orig>novi</orig>
+		       <orig>ɔgnovi</orig>
 		       <reg>cognovi</reg>
 	     </choice> 
 	     <choice>
-	           <!-- abbreviation not yet established -->
-		       <seg type="lucas">q(uod)</seg>
-		       <orig>q</orig>
+	                 <seg type="lucas">q(uod)</seg>
+		       <orig>qˢ</orig>
 		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
@@ -97,7 +96,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra:</seg>
-		       <orig>ṫra:</orig>
+		       <orig>t͘ra:</orig>
 		       <reg>terra:</reg>
 	     </choice> 
 	     <choice>
@@ -123,7 +122,7 @@
 	     </choice> abissis. 
 	<choice>
 		       <seg type="lucas">Educe(n)s</seg>
-		       <orig>Educės</orig>
+		       <orig>Educēs</orig>
 		       <reg>Educens</reg>
 	     </choice> nu
 <lb break="no"/>bes ab 
@@ -134,12 +133,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)re:</seg>
-		       <orig>ṫre:</orig>
+		       <orig>t͘re:</orig>
 		       <reg>terre:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fulgu(r)a</seg>
-		       <orig>fulgu̇a</orig>
+		       <orig>fulgu͘a</orig>
 		       <reg>fulgura</reg>
 	     </choice>
       <lb/>
@@ -160,7 +159,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)ducit</seg>
-		       <orig>ṗducit</orig>
+		       <orig>ꝑducit</orig>
 		       <reg>producit</reg>
 	     </choice>
       <lb/>
@@ -176,12 +175,12 @@
 	     </choice> suis: 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)</seg>
-		       <orig>p</orig>
+		       <orig>ꝑ</orig>
 		       <reg>per</reg>
 	     </choice>
       <lb break="no"/>cussit 
@@ -198,7 +197,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">usq(ue)</seg>
-		       <orig>us̄q⋮</orig>
+		       <orig>usq⋮</orig>
 		       <reg>usque</reg>
 	     </choice> ad 
 	<choice>
@@ -219,7 +218,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)digia</seg>
-		       <orig>pdigia</orig>
+		       <orig>ꝑdigia</orig>
 		       <reg>prodigia</reg>
 	     </choice> 
 	     <choice>
@@ -259,14 +258,14 @@
 		       <orig>eiꝰ.</orig>
 		       <reg>eius.</reg>
 	     </choice> 
-	     <choice><!-- dot in the center of the q, not sure how to encode -->
+	     <choice>
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)cussit</seg>
-		       <orig>pcussit</orig>
+		       <orig>ꝑcussit</orig>
 		       <reg>percussit</reg>
 	     </choice>
       <lb/>

@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">reor(um);</seg>
-	             <orig>reoꝝ;</orig>
+	             <orig>reor⋮;</orig>
 		       <reg>reorum;</reg>
 	     </choice> 
 	     <choice>
@@ -49,12 +49,12 @@
 <lb break="no"/>dit 
 	<choice>
 		       <seg type="lucas">t(er)ra(m)</seg>
-	             <orig>ṫrā</orig>
+	             <orig>t͘rā</orig>
 		       <reg>terram</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eoꝝ</orig>
+	             <orig>eor⋮</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -101,7 +101,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)et(er)nu(m):</seg>
-	             <orig>īeṫnū:</orig>
+	             <orig>īet͘nū:</orig>
 		       <reg>ineternum:</reg>
 	     </choice> 
 	     <choice>
@@ -143,12 +143,12 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">t(i)o(nem).</seg>
-	             <orig>tȯ⋮.</orig>
+	             <orig>tō⋮.</orig>
 		       <reg>tionem.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Qa</orig> <!-- the dot when i try to add it is covered by the Q -->
+		       <orig>Q͘a</orig> 
 		       <reg>Quia</reg>
 	     </choice> iudicabit 
 	<choice>
@@ -185,7 +185,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">p(re)cabit(ur).</seg>
-		       <orig>pcabit݃.</orig>
+		       <orig>p̄cabit݃.</orig>
 		       <reg>precabitur.</reg>
 	     </choice> 
 	     <choice>
@@ -195,9 +195,10 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ge(n)tiu(m)</seg>
-	             <orig>gētiū/orig>
+	             <orig>gētiū</orig>
 		       <reg>gentium</reg>
 	     </choice> ar
+         
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ge(n)tu(m)</seg>
@@ -211,7 +212,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">aur(um):</seg>
-	             <orig>auꝝ:</orig>
+	             <orig>aur⋮:</orig>
 		       <reg>aurum:</reg>
 	     </choice> 
 	     <choice>
@@ -232,7 +233,7 @@
 	     </choice> Os 
 	<choice>
 		       <seg type="lucas">h(abe)nt</seg>
-		       <orig>hnt̄</orig>
+		       <orig>hn̄t</orig>
 		       <reg>habent</reg>
 	     </choice> 
 	     <choice>
@@ -277,7 +278,7 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">videbu(n)t.</seg> <!-- originally this was written as videb(un)t, i changed it to videbu(n)t, but check to make sure it is correct -->
+		       <seg type="lucas">videbu(n)t.</seg> 
 	            <orig>videbūt.</orig>
 		       <reg>videbunt.</reg>
 	     </choice>
@@ -351,7 +352,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>

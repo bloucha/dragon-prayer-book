@@ -58,7 +58,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice>
       <lb/>
@@ -111,7 +111,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -131,7 +131,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(u)l(u)m.</seg>
-		       <orig>scl̇m.</orig>
+		       <orig>scl̇͘m.</orig>
 		       <reg>seculum.</reg>
 	     </choice> 
 	     <choice>
@@ -142,7 +142,7 @@
       <lb/>Ecce 
 	<choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig>
+		       <orig>q̈ˢ</orig>
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
@@ -152,12 +152,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig>
+		       <orig>q̈ˢ</orig>
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
@@ -180,7 +180,7 @@
 <lb break="no"/>date 
 	<choice>
 		       <seg type="lucas">s(er)vi</seg>
-		       <orig>ṡvi</orig>
+		       <orig>sv̇i</orig>
 		       <reg>servi</reg>
 	     </choice> 
 	     <choice>
@@ -190,7 +190,7 @@
 	     </choice>        Omnia. 
 	<choice>
 		       <seg type="lucas">iii(?).</seg>
-		       <orig>iiį.</orig>
+		       <orig>iiįⁱ.</orig>
 		       <reg>iii?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -233,7 +233,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -270,13 +270,13 @@
 	     </choice> iacob elegit sibi 
 	<choice>
 		       <seg type="lucas">d(omi)n(us):</seg>
-		       <orig>dn̄ꝰ:</orig>
+		       <orig>dn̄ˢ:</orig>
 		       <reg>dominus:</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">isr(ae)l</seg>
-		       <orig>isrl</orig>
+		       <orig>isrl͘</orig>
 		       <reg>israel</reg>
 	     </choice> 
 	     <choice>
@@ -291,7 +291,7 @@
 	     </choice> sibi. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q̇a</orig>
+		       <orig>Q͘a</orig>
 		       <reg>Quia</reg>
 	     </choice>
    </ab>

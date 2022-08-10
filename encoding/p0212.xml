@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">hu(m)ilit(er)</seg>
-		       <orig>hūiliṫ</orig>
+		       <orig>hūilit͘</orig>
 		       <reg>humiliter</reg>
 	     </choice> 
 	     <choice>
@@ -60,7 +60,7 @@
 <lb break="no"/>ta 
 	<choice>
 		       <seg type="lucas">ret(ri)but(i)o</seg>
-		       <orig>reṫbutō</orig>
+		       <orig>ret͘butō</orig>
 		       <reg>retributio</reg>
 	     </choice> 
 	     <choice>
@@ -76,7 +76,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">p(er)et</seg>
-		       <orig>pėt</orig>
+		       <orig>ꝑet</orig>
 		       <reg>peret</reg>
 	     </choice> 
 	     <choice>
@@ -127,9 +127,9 @@
 	     </choice> 
 	     <choice> 
 	  
-	          <!-- no visible abbreviation, appears just as spet, just leave it like this? -->
+	          
 		       <seg type="lucas">Sp(er)et</seg>
-		       <orig>Spet</orig>
+		       <orig>Sꝑet</orig>
 		       <reg>Speret</reg>
 	     </choice> 
 	     <choice>
@@ -166,9 +166,9 @@
 		       <reg>humilitatem</reg>
 	     </choice>        Respexisti. 
 	<choice>
-	      <!-- no clue what to do here -->
+	      
 		       <seg type="lucas">v(?).</seg>
-		       <orig>v.</orig>
+		       <orig>vⁱ.</orig>
 		       <reg>v?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -193,7 +193,7 @@
 		       <reg>meus.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- On page looks like "K. E." not sure how to handle-->
+	           
 		       <seg type="lucas">K(yrie eleison).</seg>
 		       <orig>K.</orig>
 		       <reg>Kyrie eleison.</reg>
@@ -201,7 +201,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Pfi(?)c?tag</seg>
-		       <orig>Pfic?tag</orig>
+		       <orig>Pfīc?tag</orig>
 		       <reg>Pfi?c?tag<!--  check expansion --></reg>
 	     </choice> 
  
@@ -240,7 +240,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">iiii(?).</seg>
-		       <orig>iiii.</orig>
+		       <orig>iiiiⁱ.</orig>
 		       <reg>iiii?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -280,9 +280,9 @@
 		       <orig>Sic̄</orig>
 		       <reg>Sicut</reg>
 	     </choice> 
-	     <choice><!-- unsure how to encode this, last character looks like et with a tail on the page  -->
+	     <choice>
 		       <seg type="lucas">iurav(it)</seg>
-		       <orig>iurav</orig>
+		       <orig>iuravᵗ</orig>
 		       <reg>iuravit</reg>
 	     </choice>
    </ab>

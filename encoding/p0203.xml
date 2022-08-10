@@ -12,7 +12,7 @@
       <lb/>furor 
 	<choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -53,9 +53,8 @@
 		       <reg>rentem</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)t(ra)nsivit</seg>
-		       <orig>ꝑẗnsivit</orig>
+		       <orig>ꝑẗnsivit</orig> 
 		       <reg>pertransivit</reg>
 	     </choice> 
 	     <choice>
@@ -76,9 +75,8 @@
 		       <reg>sitan</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)t(ra)nsisset</seg>
-		       <orig>ꝑẗnsisset</orig>
+		       <orig>ꝑẗnsisset</orig> 
 		       <reg>pertransisset</reg>
 	     </choice> 
 	     <choice>
@@ -141,7 +139,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
@@ -187,14 +185,8 @@
 		       <reg>Laqueus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">t(ri)t(us)</seg>
-		       <orig>ṫtꝰ</orig>
+		       <orig>ɔṫtꝰ</orig> 
 		       <reg>tritus</reg>
 	     </choice> 
 	     <choice>
@@ -262,7 +254,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra(m).</seg>
-		       <orig>t̄rā.</orig>
+		       <orig>ṫrā.</orig>
 		       <reg>terram.</reg>
 	     </choice> 
 	     <choice>

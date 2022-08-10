@@ -10,14 +10,9 @@
        corresp="#p0205_translation">
 
       <lb/>IN 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">v(er)te(n)do</seg>
-		       <orig>v̇tēdo</orig>
+		       <orig>ɔv̇tēdo</orig>
 		       <reg>vertendo</reg>
 	     </choice> 
 	     <choice>
@@ -156,7 +151,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">f(a)c(t)i</seg>
-		       <orig>f̄ci</orig>
+		       <orig>fc̄i</orig>
 		       <reg>facti</reg>
 	     </choice> 
 	     <choice>

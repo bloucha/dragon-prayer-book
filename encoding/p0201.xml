@@ -66,7 +66,7 @@
 	     <choice>
 	           <!-- check transcription, looks like there is only one r -->
 		       <seg type="lucas">fr(at)res</seg>
-		       <orig>frrēs</orig>
+		       <orig>frēs</orig>
 		       <reg>fratres</reg>
 	     </choice> me
 <lb break="no"/>os 
@@ -76,9 +76,8 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)xi(m)os</seg>
-		       <orig>ꝑxīos</orig>
+		       <orig>ꝓxīos</orig>
 		       <reg>proximos</reg>
 	     </choice> meos: 
 	<choice>
@@ -88,7 +87,6 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- unsure if there is a macron on the e, could just be the bar attached to the p -->
 		       <seg type="lucas">pace(m)</seg>
 		       <orig>pace⋮</orig>
 		       <reg>pacem</reg>
@@ -161,12 +159,12 @@
 	<choice>
 	      <!-- check abbreviation, it is either a small raise s or e -->
 		       <seg type="lucas">oc(u)lo(s)</seg>
-		       <orig>ocl͘oᵉ</orig>
+		       <orig>ocl͘oˢ</orig>
 		       <reg>oculos</reg>
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -208,7 +206,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(er)vor(um):</seg>
-		       <orig>sv̇or⋮:</orig>
+		       <orig>sv̇oꝝ:</orig> 
 		       <reg>servorum:</reg>
 	     </choice> 
 	     <choice>
@@ -224,12 +222,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)nor(um)</seg>
-		       <orig>dn̄or⋮</orig>
+		       <orig>dn̄oꝝ</orig> 
 		       <reg>dominorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">suor(um).</seg>
-		       <orig>suor⋮.</orig>
+		       <orig>suoꝝ.</orig>
 		       <reg>suorum.</reg>
 	     </choice> 
 	     <choice>

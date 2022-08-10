@@ -16,10 +16,9 @@
 		       <reg>nostrum</reg>
 	     </choice> donec 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">mise(re)at(ur)</seg>
 		       <orig>misėat݃</orig>
-		       <reg>misereatur</reg>
+		       <reg>misereatur</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(ost)ri.</seg>
@@ -54,9 +53,8 @@
 		       <reg>nostri:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -77,7 +75,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig> 
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -135,9 +133,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">sup(er)b(is).</seg>
-		       <orig>suꝑḃ.</orig>
+		       <orig>suꝑḃ.</orig> 
 		       <reg>superbis.</reg>
 	     </choice> 
 	     <choice>
@@ -147,7 +144,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -178,9 +175,8 @@
 	     </choice>  
       <lb/>NIsi 
 	<choice>
-	      <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> do
 <lb break="no"/>
@@ -222,9 +218,8 @@
 		       <reg>nisi</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -258,7 +253,7 @@
 		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice>
-      <lb/>nos: forte vivos †deglu⸗†
+         <lb/>nos: forte vivos <supplied>deglu⸗</supplied>
 <lb/>†
 	<choice>
 		       <seg type="lucas">tisse(n)t</seg>
@@ -270,12 +265,13 @@
 		       <orig>Cū</orig>
 		       <reg>Cum</reg>
 	     </choice> 
+         <supplied>
 	     <choice>
-		       <seg type="lucas">irasce(re)t(ur)†</seg>
-		       <orig>irascėt̄†</orig>
-		       <reg>irasceretur†</reg>
+		       <seg type="lucas">irasce(re)t(ur)</seg>
+		       <orig>irascėt̄</orig>
+		       <reg>irasceretur</reg>
 	     </choice>
-   </ab>
+   </ab></supplied>
 
    <ab type="translation"
        xml:id="p0202_translation"

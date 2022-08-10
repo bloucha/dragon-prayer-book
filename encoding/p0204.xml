@@ -10,14 +10,9 @@
        corresp="#p0204_translation">
 
       <lb/>QUi 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fid(en)t</seg>
-		       <orig>fid̄t</orig>
+		       <orig>ɔfid̄t</orig>
 		       <reg>fident</reg>
 	     </choice> 
 	     <choice>
@@ -59,7 +54,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)et(er)nu(m)</seg>
-		       <orig>īet̄nū</orig>
+		       <orig>īeṫnū</orig>
 		       <reg>ineternum</reg>
 	     </choice> 
 	     <choice>
@@ -126,7 +121,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)li</seg>
-		       <orig>ppli</orig>
+		       <orig>ppl͘i</orig>
 		       <reg>populi</reg>
 	     </choice> sui ex hoc 
 	<choice>
@@ -157,7 +152,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig> 
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -183,7 +178,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
-		       <orig>pct̄or⋮</orig>
+		       <orig>pct̄oꝝ</orig>  
 		       <reg>peccatorum</reg>
 	     </choice> 
 	     <choice>
@@ -199,7 +194,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">iustor(um):</seg>
-		       <orig>iustor⋮:</orig>
+		       <orig>iustoꝝ:</orig> 
 		       <reg>iustorum:</reg>
 	     </choice> ut 
 	<choice>
@@ -283,9 +278,8 @@
 		       <reg>cum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">op(er)a(n)tib(us)</seg>
-		       <orig>oꝑātib⋮</orig>
+		       <orig>oꝑātib⋮</orig> 
 		       <reg>operantibus</reg>
 	     </choice> 
 	     <choice>

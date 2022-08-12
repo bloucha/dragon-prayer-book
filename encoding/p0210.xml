@@ -47,11 +47,9 @@
 		       <orig>sr̄</orig>
 		       <reg>super</reg>
 	     </choice> vos: 
-	<choice>
-	      <!-- A770 not appearing correctly -->
-	      
+	<choice>	      
 		       <seg type="lucas">b(e)n(e)dixim(us)</seg>
-		       <orig>bn̄diximꝰ</orig>
+		       <orig>bn̄diximꝰ</orig> 
 		       <reg>benediximus</reg>
 	     </choice> vo
 <lb break="no"/>bis 
@@ -99,9 +97,8 @@
 	     </choice>  
       <lb/>
 	     <choice>
-	           <!-- check trancription, looks like noie -->
 		       <seg type="lucas">n(om)i(n)e</seg>
-		       <orig>nīe</orig>
+		       <orig>noīe</orig>
 		       <reg>nomine</reg>
 	     </choice> 
 	     <choice>
@@ -111,15 +108,13 @@
 	     </choice>
       <lb/>DE 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)fu(n)⸗</seg>
-		       <orig>ꝑfū⸗</orig>
+		       <orig>ꝓfū⸗</orig> 
 		       <reg>profun⸗</reg>
 	     </choice>          De 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)fu(n)d(is).</seg>
-		       <orig>ꝑfūḋ.</orig>
+		       <orig>ꝓfūḋ.</orig> 
 		       <reg>profundis.</reg>
 	     </choice> viii.
 <lb/>dis 
@@ -211,7 +206,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig> 
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -220,9 +215,8 @@
 		       <reg>apud</reg>
 	     </choice> te 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)pitiat(i)o</seg>
-		       <orig>ꝑpitiatō</orig>
+		       <orig>ꝓpitiatō</orig> 
 		       <reg>propitiatio</reg>
 	     </choice> 
 	     <choice>
@@ -237,7 +231,6 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)pt(er)</seg>
 		       <orig>ꝑpṫ</orig>
 		       <reg>propter</reg>

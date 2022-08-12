@@ -26,14 +26,9 @@
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fid(en)t</seg>
-		       <orig>fid̄t</orig>
-		       <reg>fident</reg>
+		       <orig>ɔfid̄t</orig>
+		       <reg>confident</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -193,7 +188,7 @@
 		       <seg type="lucas">q(uonia)m</seg>
 		       <orig>qm̄</orig>
 		       <reg>quoniam</reg>
-	     </choice>  | 
+	     </choice>  |<!-- check transcription, does this line need to be here? --> 
 	<choice>
 		       <seg type="lucas">Quonia(m).</seg>
 		       <orig>Quoniā.</orig>
@@ -233,19 +228,14 @@
 	     </choice> deo 
 	<choice>
 		       <seg type="lucas">deor(um).</seg>
-		       <orig>deor⋮.</orig>
+		       <orig>deoꝝ.</orig>
 		       <reg>deorum.</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">Co(n)</seg>
-		       <orig>Cō</orig>
-		       <reg>Con</reg>
-	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">fitemi(ni)</seg>
-		       <orig>fitemī</orig>
-		       <reg>fitemini</reg>
+		       <orig>Cōfitemī</orig>
+		       <reg>Confitemini</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)no</seg>
@@ -254,11 +244,10 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)nor(um).</seg>
-		       <orig>dn̄or⋮.</orig>
+		       <orig>dn̄oꝝ.</orig> 
 		       <reg>dominorum.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure if this needs an abbreviation -->
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
 		       <reg>Qui</reg>

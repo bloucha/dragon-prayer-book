@@ -26,7 +26,6 @@
 		       <reg>aquas.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- no obvious abbreviation -->
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
 		       <reg>Qui</reg>
@@ -39,7 +38,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mag(na).</seg>
-		       <orig>maġ.</orig>
+		       <orig>mag̈.</orig>
 		       <reg>magna.</reg>
 	     </choice> 
 	     <choice>
@@ -108,7 +107,7 @@
       <lb break="no"/>tis 
 	<choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
@@ -129,7 +128,7 @@
       <lb/>medio 
 	<choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> In 
 	<choice>
@@ -171,7 +170,7 @@
 	     </choice> divi
 <lb break="no"/>
 	     <choice>
-	           <!-- check transcription, looks like an f -->
+	           <!-- check transcription, looks like an s -->
 		       <seg type="lucas">dio(n)es.</seg>
 		       <orig>diōes.</orig>
 		       <reg>diones.</reg>

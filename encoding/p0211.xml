@@ -96,7 +96,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -175,9 +175,8 @@
 	     </choice> 
  De 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)fu(n)d(is)</seg>
-		       <orig>ꝑfūḋ</orig>
+		       <orig>ꝓfūḋ</orig> 
 		       <reg>profundis</reg>
 	     </choice> 
 	     <choice>
@@ -223,7 +222,7 @@
 		       <seg type="lucas">neq(ue)</seg>
 		       <orig>neq⋮</orig>
 		       <reg>neque</reg>
-	     </choice> elati 
+	     </choice> elati
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
 		       <orig>sṫ</orig>

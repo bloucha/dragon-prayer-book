@@ -114,7 +114,7 @@
 	     </choice> tenebit me 
 	<choice>
 		       <seg type="lucas">dext(er)a</seg>
-		       <orig>dext̄a</orig>
+		       <orig>dexṫa</orig>
 		       <reg>dextera</reg>
 	     </choice>
       <lb/>tua. Et dixi 
@@ -124,15 +124,10 @@
 		       <reg>forsitan</reg>
 	     </choice> tene
 <lb break="no"/>bre 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">culcab(un)t</seg>
-		       <orig>culcab̄t</orig>
-		       <reg>culcabunt</reg>
+		       <orig>ɔculcab̄t</orig>
+		       <reg>conculcabunt</reg>
 	     </choice> me: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
@@ -141,9 +136,8 @@
 	     </choice> nox
 <lb/>
 	     <choice>
-	     	<!-- unsure if it goes on the u or i -->
 		       <seg type="lucas">illu(m)i(n)at(i)o</seg>
-		       <orig>illūiatō</orig>
+		       <orig>illuīatō</orig>
 		       <reg>illuminatio</reg>
 	     </choice> mea 
 	<choice>
@@ -154,7 +148,7 @@
 <lb break="no"/>is. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> tenebre 
 	<choice>
@@ -164,11 +158,10 @@
 	     </choice> obscu
 <lb break="no"/>
 	     <choice>
-	     	<!-- 0743 not appearing correctly -->
 		       <seg type="lucas">rabu(n)t(ur)</seg>
 		       <orig>rabūt݃</orig>
-		       <reg>rabuntur</reg>
-	     </choice> a te[r] 
+		       <reg>rabuntur</reg> 
+	     </choice> a te<supplied>r</supplied>
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
@@ -181,9 +174,8 @@
 	     </choice> dies
 <lb/>
 	     <choice>
-	     	<!-- 0743 not appearing correctly -->
 		       <seg type="lucas">illu(m)i(n)abit(ur):</seg>
-		       <orig>illuīabit݃:</orig>
+		       <orig>illuīabit݃:</orig> 
 		       <reg>illuminabitur:</reg>
 	     </choice> 
 	     <choice>
@@ -214,7 +206,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> tu pos⸗
 

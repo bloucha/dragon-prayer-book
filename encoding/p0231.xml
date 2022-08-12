@@ -202,14 +202,9 @@
 		       <reg>verunt</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ra)</seg>
-		       <orig>ẗ</orig>
-		       <reg>tra</reg>
+		       <orig>ɔẗ</orig>
+		       <reg>contra</reg>
 	     </choice> me ne 
 	<choice>
 		       <seg type="lucas">de(re)linq(ua)s</seg>
@@ -218,32 +213,30 @@
 	     </choice>
       <lb/>me ne forte 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">exalte(n)t(ur).</seg>
 		       <orig>exaltēt݃.</orig>
-		       <reg>exaltentur.</reg>
+		       <reg>exaltentur.</reg> 
 	     </choice> Ca
 <lb break="no"/>put 
 	<choice>
-	      <!-- A770 not appearing correctly -->
 		       <seg type="lucas">c(ir)cuit(us)</seg>
-		       <orig>c̄cuitꝰ</orig>
+		       <orig>c̄cuitꝰ</orig> 
 		       <reg>circuitus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um):</seg>
-		       <orig>eor⋮:</orig>
+		       <orig>eoꝝ:</orig>
 		       <reg>eorum:</reg>
 	     </choice> labor la
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">bior(um)</seg>
-		       <orig>bior⋮</orig>
+		       <orig>bioꝝ</orig>
 		       <reg>biorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ip(s)or(um)</seg>
-		       <orig>ip̄or⋮</orig>
+		       <orig>ip̄oꝝ</orig>
 		       <reg>ipsorum</reg>
 	     </choice> 
 	     <choice>

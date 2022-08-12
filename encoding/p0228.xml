@@ -33,9 +33,8 @@
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -45,9 +44,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-	     	<!-- A770 not appearing correctly -->
 		       <seg type="lucas">mag(ni)ficat(us)</seg>
-		       <orig>maġficatꝰ</orig>
+		       <orig>maġficatꝰ</orig> 
 		       <reg>magnificatus</reg>
 	     </choice> es: mirabilia
 <lb/>
@@ -127,11 +125,10 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)re.</seg>
-		       <orig>t̄re.</orig>
+		       <orig>ṫre.</orig>
 		       <reg>terre.</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- A751 not appearing correctly -->
 		       <seg type="lucas">Imp(er)f(e)c(tu)m</seg>
 		       <orig>Imꝑfcm̄</orig>
 		       <reg>Imperfectum</reg>
@@ -169,17 +166,15 @@
 		       <reg>omnes</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- 0743 not appearing correctly -->
 		       <seg type="lucas">scribe(n)t(ur):</seg>
 		       <orig>scribēt݃:</orig>
-		       <reg>scribentur:</reg>
+		       <reg>scribentur:</reg> 
 	     </choice> dies
 <lb/>
 	     <choice>
-	     	<!-- 0743 not appearing correctly -->
 		       <seg type="lucas">formabu(n)t(ur)</seg>
 		       <orig>formabūt݃</orig>
-		       <reg>formabuntur</reg>
+		       <reg>formabuntur</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -214,15 +209,10 @@
 		       <reg>deus:</reg>
 	     </choice> ni
 <lb break="no"/>mis 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fortat(us)</seg>
-		       <orig>fortatꝰ</orig>
-		       <reg>fortatus</reg>
+		       <orig>ɔfortatꝰ</orig>
+		       <reg>confortatus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
@@ -230,10 +220,9 @@
 		       <reg>est</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- A770 not appearing correctly -->
 		       <seg type="lucas">p(ri)ncipat(us)</seg>
 		       <orig>ṗncipatꝰ</orig>
-		       <reg>principatus</reg>
+		       <reg>principatus</reg> 
 	     </choice>
    </ab>
 

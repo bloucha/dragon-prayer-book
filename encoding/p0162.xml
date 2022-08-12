@@ -190,9 +190,9 @@
 		       <reg>tibi.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versicle</reg>
 	     </choice> Ego di
 <lb break="no"/>xi 
 	<choice>
@@ -213,13 +213,14 @@
 	     </choice> G.
 <lb/>Sana. 
 	<choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> 
 	     <choice>
 	           <!-- check trancription, not sure this is the right abbreviation -->
 	           <!-- I'm not sure this is an abbreviation -->
+	           <!-- the OBVM says Adjutor so the r looks right! -->
 		       <seg type="lucas">Adiuto(r).</seg>
 		       <orig>Adiutor.</orig>
 		       <reg>Adiutor.</reg>
@@ -247,6 +248,16 @@
    <ab type="translation"
        xml:id="p0162_translation"
        corresp="#p0162_transcription">in thy commandments. Let them that fear thee turn to me and they that know thy testimonies. 
-         Let my heart be undefiled in thy justifications, that I may not be confounded.</ab>
+         Let my heart be undefiled in thy justifications, that I may not be confounded. <!-- ps 118 --> 
+         Fi?a Antiphon. O Lord, lead me in the way of your commandments. <!-- Savannah's translation, couldn't find anything. --> Chapter. 
+         Heal me, O Lord, and I shall be healed: save me, and I shall be saved, for thou art my praise. <!-- jeremiah 17:14--> [Thanks be to] God. Response. 
+         Heal my soul,for
+         I have sinned against
+         Thee.  Versicle. I said, Lord, be
+         Thou merciful unto
+         me. For I have sinned against Thee. G. Heal my soul,
+         O Lord, for I have
+         sinned against Thee. Versicle. <!--obvm 430 --> Be Thou my help-
+         er: forsake me not, neither <!-- obvm 418 cont --> </ab>
 
 </div>

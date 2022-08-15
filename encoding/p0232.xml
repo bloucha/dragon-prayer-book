@@ -53,9 +53,8 @@
 		       <reg>subsistent.</reg>
 	     </choice> Vir 
 	<choice>
-	      <!-- A770 not appearing correctly -->
 		       <seg type="lucas">li(n)guos(us)</seg>
-		       <orig>līguosꝰ</orig>
+		       <orig>līguosꝰ</orig> 
 		       <reg>linguosus</reg>
 	     </choice>
       <lb/>
@@ -81,7 +80,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vir(um)</seg>
-		       <orig>vir⋮</orig>
+		       <orig>viꝝ</orig>
 		       <reg>virum</reg>
 	     </choice> 
 	     <choice>
@@ -113,9 +112,8 @@
 	     </choice>
       <lb/>Cognovi 
 	<choice>
-	      <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> faciet 
 	<choice>
@@ -147,7 +145,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">pauper(um).</seg>
-		       <orig>pauper⋮.</orig>
+		       <orig>paupeꝝ.</orig>
 		       <reg>pauperum.</reg>
 	     </choice> 
 	     <choice>
@@ -157,15 +155,9 @@
 	     </choice> iusti
 <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-	           <!-- 0743 not appearing correctly -->
-		       <seg type="lucas">fitebu(n)t(ur)</seg>
-		       <orig>fitebūt݃</orig>
-		       <reg>fitebuntur</reg>
+		       <seg type="lucas">(con)fitebu(n)t(ur)</seg>
+		       <orig>ɔfitebūt݃</orig>
+		       <reg>confitebuntur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">no(m)i(ni)</seg>

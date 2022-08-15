@@ -21,10 +21,9 @@
 		       <reg>tuam</reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">loq(ue)nt(ur).</seg>
 		       <orig>loq̄nt݃.</orig>
-		       <reg>loquentur.</reg>
+		       <reg>loquentur.</reg> 
 	     </choice> Ut
 <lb/>
 	     <choice>
@@ -102,20 +101,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(u)lor(um):</seg>
-		       <orig>scl͘or⋮:</orig>
+		       <orig>scl͘oꝝ:</orig> 
 		       <reg>seculorum:</reg>
-	     </choice> 
-	     <choice>
-	           <!-- no abbreviation, spelled out et in text -->
-		       <seg type="lucas">(et)</seg>
-		       <orig/>
-		       <reg>et</reg>
-	     </choice>
+	     </choice> et
       <lb/>
 	     <choice>
 	           <!-- check transcription, looking like dnato -->
 		       <seg type="lucas">d(omin)at(i)o</seg>
-		       <orig>datō</orig>
+		       <orig>dn̄atō</orig>
 		       <reg>dominatio</reg>
 	     </choice> tua 
 	<choice>
@@ -245,9 +238,8 @@
 	     </choice> in te
 <lb/>
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">sp(er)a(n)t</seg>
-		       <orig>sꝑāt</orig>
+		       <orig>sꝑāt</orig> 
 		       <reg>sperant</reg>
 	     </choice> 
 	     <choice>
@@ -268,7 +260,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">lor(um)</seg>
-		       <orig>lor⋮</orig>
+		       <orig>loꝝ</orig>
 		       <reg>lorum</reg>
 	     </choice> 
 	     <choice>
@@ -282,7 +274,6 @@
 		       <reg>tempore</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">op(or)tu(n)o.</seg>
 		       <orig>oꝑtūo.</orig>
 		       <reg>oportuno.</reg>

@@ -37,14 +37,10 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spcū</orig>
-		       <reg>spectu</reg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
+	           <!-- conspectum? check transcription -->
 	     </choice> tuo: ele
 <lb break="no"/>
 	     <choice>
@@ -59,12 +55,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mear(um)</seg>
-		       <orig>mear⋮</orig>
+		       <orig>meaꝝ</orig>
 		       <reg>mearum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sac(ri)</seg>
-		       <orig>sac̄</orig>
+		       <orig>saċ</orig>
 		       <reg>sacri</reg>
 	     </choice>
       <lb break="no"/>
@@ -74,9 +70,8 @@
 		       <reg>ficium</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">vesp(er)tinu(m).</seg>
-		       <orig>vesꝑtinū.</orig>
+		       <orig>vesꝑtinū.</orig> 
 		       <reg>vespertinum.</reg>
 	     </choice> 
 	     <choice>
@@ -173,7 +168,7 @@
 	     <choice>
 	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">op(er)a(n)tib(us)</seg>
-		       <orig>oꝑātib⋮</orig>
+		       <orig>oꝑātib⋮</orig> 
 		       <reg>operantibus</reg>
 	     </choice> 
 	     <choice>
@@ -198,14 +193,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">mu(n)icabo</seg>
-		       <orig>mūicabo</orig>
-		       <reg>municabo</reg>
+		       <seg type="lucas">(com)mu(n)icabo</seg>
+		       <orig>ɔmūicabo</orig>
+		       <reg>communicabo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cu(m)</seg>
@@ -220,7 +210,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> Corripiet me
 <lb/>

@@ -12,12 +12,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Dinu(mer)abo</seg>
-		       <orig>Dinūabo</orig>
+		       <orig>Dinu̇abo</orig>
 		       <reg>Dinumerabo</reg>
 	     </choice> eos 
 	<choice>
@@ -37,10 +37,9 @@
 		       <reg>arenam</reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">m(u)ltiplicabu(n)t(ur):</seg>
 		       <orig>ml͘tiplicabūt݃:</orig>
-		       <reg>multiplicabuntur:</reg>
+		       <reg>multiplicabuntur:</reg> 
 	     </choice> ex
 <lb break="no"/>urrexi 
 	<choice>
@@ -70,9 +69,8 @@
 		       <reg>deus</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like pcf -->
 		       <seg type="lucas">p(ec)c(a)tores:</seg>
-		       <orig>pctores:</orig>
+		       <orig>pct̄ores:</orig>
 		       <reg>peccatores:</reg>
 	     </choice> vi
 <lb break="no"/>ri 
@@ -89,7 +87,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> dicitis 
 	<choice>

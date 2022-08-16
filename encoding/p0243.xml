@@ -127,7 +127,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> exau
 <lb break="no"/>diet: 
@@ -248,9 +248,8 @@
 	     </choice> in  
 <lb/>
 	     <choice>
-	           <!-- check transcription, looks like sclm -->
 		       <seg type="lucas">s(e)c(u)l(um)</seg>
-		       <orig>scl͘</orig>
+		       <orig>scl͘m</orig>
 		       <reg>seculum</reg>
 	     </choice> 
 	     <choice>

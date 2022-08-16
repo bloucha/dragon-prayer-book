@@ -16,10 +16,9 @@
 		       <reg>Sacerdotes</reg>
 	     </choice> tui 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">i(n)dua(n)t(ur)</seg>
 		       <orig>īduāt݃</orig>
-		       <reg>induantur</reg>
+		       <reg>induantur</reg> 
 	     </choice>
       <lb/>iustitia: 
 	<choice>
@@ -29,7 +28,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(anc)ti</seg>
-		       <orig>st̄i</orig>
+		       <orig>st̄i</orig> <!-- check transcription. This is usually sci? -->
 		       <reg>sancti</reg>
 	     </choice> tui 
 	<choice>
@@ -70,9 +69,8 @@
 		       <reg>faciem</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code, looks like x with a macron -->
 		       <seg type="lucas">(christi) </seg>
-		       <orig> </orig>
+		       <orig>xⁱ </orig>
 		       <reg>christi </reg>
 	     </choice> tui. Iu
 <lb break="no"/>ravit 
@@ -98,10 +96,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">frust(ra)bit(ur)</seg>
 		       <orig>frusẗbit݃</orig>
-		       <reg>frustrabitur</reg>
+		       <reg>frustrabitur</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eu(m):</seg>
@@ -170,7 +167,7 @@
 <lb/>Et filii 
 	<choice>
 		       <seg type="lucas">eor(um):</seg>
-		       <orig>eor⋮:</orig>
+		       <orig>eoꝝ:</orig>
 		       <reg>eorum:</reg>
 	     </choice> 
 	     <choice>

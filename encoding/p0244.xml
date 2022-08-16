@@ -40,22 +40,18 @@
 	<choice>
 		       <seg type="lucas">q(uam)</seg>
 		       <orig>q̈</orig>
+	      <!-- pls quam -->
 		       <reg>quam</reg>
 	     </choice>
       <lb break="no"/>diu 
 	<choice>
 		       <seg type="lucas">fu(er)o.</seg>
-		       <orig>fūo.</orig>
+		       <orig>fu̇o.</orig>
 		       <reg>fuero.</reg>
 	     </choice> Nolite 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fide(re)</seg>
-		       <orig>fidė</orig>
+		       <orig>ɔfidė</orig>
 		       <reg>fidere</reg>
 	     </choice> 
 	     <choice>
@@ -126,7 +122,7 @@
 	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">rev(er)tet(ur)</seg>
 		       <orig>rev̇tet݃</orig>
-		       <reg>revertetur</reg>
+		       <reg>revertetur</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -152,7 +148,7 @@
 	<choice>
 	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)ib(un)t</seg>
-		       <orig>ꝑib̄t</orig>
+		       <orig>ꝑib̄t</orig> 
 		       <reg>peribunt</reg>
 	     </choice> 
 	     <choice>
@@ -168,7 +164,7 @@
       <lb break="no"/>nes 
 	<choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
@@ -191,7 +187,8 @@
 		       <seg type="lucas">ei(us);</seg>
 		       <orig>eiꝰ;</orig>
 		       <reg>eius;</reg>
-	     </choice> spes 
+	     </choice> spes <!-- check transcription, this looks like sꝑes -->
+ 
 	<choice>
 		       <seg type="lucas">ei(us)</seg>
 		       <orig>eiꝰ</orig>
@@ -210,7 +207,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(e)o</seg>
-		       <orig>d̄o</orig>
+		       <orig>ḋo</orig>
 		       <reg>deo</reg>
 	     </choice> 
 	     <choice>
@@ -266,9 +263,8 @@
 		       <reg>sunt.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code, just looks like Qi -->
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig>
+		       <orig>Qi</orig>
 		       <reg>Qui</reg>
 	     </choice> custodit 
 	<choice>

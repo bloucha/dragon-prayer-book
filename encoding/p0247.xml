@@ -47,7 +47,6 @@
 		       <reg>hominum.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
 		       <reg>Qui</reg>
@@ -65,7 +64,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ip(s)or(um):</seg>
-		       <orig>ip̄or⋮:</orig>
+		       <orig>ip̄oꝝ:</orig>
 		       <reg>ipsorum:</reg>
 	     </choice> 
 	     <choice>
@@ -81,7 +80,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">vor(um)</seg>
-		       <orig>vor⋮</orig>
+		       <orig>voꝝ</orig>
 		       <reg>vorum</reg>
 	     </choice> 
 	     <choice>
@@ -140,9 +139,8 @@
          (t?)ibiis viri
 <lb/>
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">b(e)n(e)placitu(m)</seg>
-		       <orig>bn̄ꝑlacitū</orig>
+		       <orig>bn̄placitū</orig> 
 		       <reg>beneplacitum</reg>
 	     </choice> erit ei. 
 	<choice>
@@ -198,9 +196,8 @@
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">sp(er)a(n)t</seg>
-		       <orig>sꝑāt</orig>
+		       <orig>sꝑāt</orig> 
 		       <reg>sperant</reg>
 	     </choice> 
 	     <choice>
@@ -281,12 +278,12 @@
       <lb break="no"/>vit seras 
 	<choice>
 		       <seg type="lucas">portar(um)</seg>
-		       <orig>portar⋮</orig>
+		       <orig>portaꝝ</orig>
 		       <reg>portarum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um):</seg>
-		       <orig>tuar⋮:</orig>
+		       <orig>tuaꝝ:</orig>
 		       <reg>tuarum:</reg>
 	     </choice>
    </ab>

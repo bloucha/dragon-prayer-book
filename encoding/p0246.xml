@@ -42,32 +42,20 @@
 		       <reg>israelis</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-	         <!-- unsure unicode for small raised t -->
 		       <seg type="lucas">gregab(it).</seg>
-		       <orig>gregab.</orig>
-		       <reg>gregabit.</reg>
+		       <orig>ɔgregabᵗ.</orig>
+		       <reg>congregabit.</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure how to code -->
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
 		       <reg>Qui</reg>
 	     </choice>
       <lb/>sanat 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">t(ri)tos</seg>
-		       <orig>ṫtos</orig>
-		       <reg>tritos</reg>
+		       <orig>ɔṫtos</orig>
+		       <reg>contritos</reg>
 	     </choice> corde: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
@@ -75,23 +63,18 @@
 		       <reg>et </reg>
 	     </choice> alli
 <lb break="no"/>gat 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">t(ri)to(n)es</seg>
-		       <orig>ṫtōes</orig>
-		       <reg>tritones</reg>
+		       <orig>ɔṫtōes</orig>
+		       <reg>contritones</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure how to code -->
+	         
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
 		       <reg>Qui</reg>
@@ -109,7 +92,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">stellar(um):</seg>
-		       <orig>stellar⋮:</orig>
+		       <orig>stellaꝝ:</orig>
 		       <reg>stellarum:</reg>
 	     </choice>
       <lb/>
@@ -130,8 +113,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">voca(t)[s].</seg>
-		       <orig>vocā[s].</orig>
-		       <reg>vocat[s].</reg>
+		       <orig>vocā<supplied>s</supplied>.</orig>
+	         <reg>vocat<supplied>s</supplied>.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -255,14 +238,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fessio(n)e:</seg>
-		       <orig>fessioe:</orig>
-		       <reg>fessione:</reg>
+		       <orig>ɔfessioe:</orig>
+		       <reg>confessione:</reg>
 	     </choice> psal
 <lb break="no"/>lite deo 
 	<choice>
@@ -281,7 +259,6 @@
 		       <reg>cithara.</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure how to code -->
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
 		       <reg>Qui</reg>
@@ -325,7 +302,6 @@
 		       <reg>pluviam.</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure how to code -->
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
 		       <reg>Qui</reg>

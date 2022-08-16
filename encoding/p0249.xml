@@ -26,7 +26,7 @@
         <lb/>
         <choice>
             <seg type="lucas">(et) </seg>
-            <orig> + </orig>
+            <orig>+ </orig>
             <reg>et </reg>
         </choice> iudicia sua <choice>
             <seg type="lucas">n(on)</seg>
@@ -65,18 +65,20 @@
         </choice>
         <choice>
             <seg type="lucas">(et) </seg>
-            <orig> + </orig>
+            <orig>+ </orig>
             <reg>et </reg>
         </choice>
         <choice>
             <seg type="lucas">p(ate)r</seg>
             <orig>pr̄</orig>
             <reg>pater</reg>
-        </choice> [ <choice>
-            <seg type="lucas">d(omi)ni]</seg>
-            <orig>dn̄i]</orig>
-            <reg>domini]</reg>
+        </choice> <supplied>
+        <choice>
+            <seg type="lucas">d(omi)ni</seg>
+            <orig>dn̄i</orig>
+            <reg>domini</reg>
         </choice>
+        </supplied> 
         <lb/>
         <choice>
             <seg type="lucas">d(omi)ni</seg>
@@ -95,7 +97,7 @@
         </choice>
         <choice>
             <seg type="lucas">(christi);</seg>
-            <orig>ẋ;</orig> <!-- check -->
+            <orig>xⁱ;</orig> 
             <reg>christi;</reg>
         </choice>
         <choice>
@@ -116,7 +118,7 @@
         </choice>
         <choice>
             <seg type="lucas">(et) </seg>
-            <orig> + </orig>
+            <orig>+ </orig>
             <reg>et </reg>
         </choice>
         <choice>
@@ -130,14 +132,9 @@
             <reg>totius</reg>
         </choice>
         <choice>
-            <seg type="lucas">(con)</seg>
-            <orig> ɔ</orig>
-            <reg>con</reg>
-        </choice>
-        <choice>
             <seg type="lucas">solat(i)o(n)is:</seg>
-            <orig>solatōis:</orig>
-            <reg>solationis:</reg>
+            <orig>ɔsolatōis:</orig>
+            <reg>consolationis:</reg>
         </choice>
         <choice>
             <seg type="lucas">q(ui)</seg>
@@ -146,14 +143,9 @@
         </choice>
         <lb/>
         <choice>
-            <seg type="lucas">(con)</seg>
-            <orig> ɔ </orig>
-            <reg>con</reg>
-        </choice>
-        <choice>
             <seg type="lucas">solat(ur)</seg>
-            <orig>solat݃</orig>
-            <reg>solatur</reg>
+            <orig>ɔsolat݃</orig>
+            <reg>consolatur</reg>
         </choice> nos <choice>
             <seg type="lucas">i(n)</seg>
             <orig>ī</orig>
@@ -180,14 +172,9 @@
             <reg>tibi</reg>
         </choice>
         <choice>
-            <seg type="lucas">(h)</seg>
-            <orig/> <!-- I do not see this on the page??? -->
-            <reg>h</reg>
-        </choice>
-        <choice>
             <seg type="lucas">y(m)n(us).</seg>
-            <orig>ȳnꝰ.</orig>
-            <reg>ymnus.</reg>
+            <orig>ȳnꝰ.</orig> 
+            <reg>hymnus.</reg>
         </choice>
         <choice>
             <seg type="lucas">n(ost)ra.</seg>
@@ -201,7 +188,7 @@
         </choice>
         <lb/>vitas <choice>
             <seg type="lucas">(et) </seg>
-            <orig> + </orig>
+            <orig>+ </orig>
             <reg>et </reg>
         </choice>
         <choice>
@@ -256,7 +243,7 @@
         <choice>
             <seg type="lucas">p(re)cem(ur)</seg>
             <orig>p̄cem݃</orig>
-            <reg>precemur</reg>
+            <reg>precemur</reg> 
         </choice>
         <choice>
             <seg type="lucas">vesp(er)i</seg>
@@ -299,7 +286,7 @@
             <orig>eiꝰ</orig>
             <reg>eius</reg>
         </choice>
-    </ab>
+    </ab> 
 
     <ab type="translation" xml:id="p0249_translation" corresp="#p0249_transcription"/>
 

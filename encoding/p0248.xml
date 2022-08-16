@@ -11,7 +11,7 @@
             </choice> filiis tuis in te. <lb/>
             <choice>
                   <seg type="lucas">Q(u)i</seg>
-                  <orig>Qi</orig> <!-- not sure of how to represent this abbreviation -->
+                  <orig>Qi</orig> 
                   <reg>Qui</reg>
             </choice> posuit fines tuos <lb/>
             <choice>
@@ -21,7 +21,7 @@
             </choice>
             <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> + </orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice> adipe <choice>
                   <seg type="lucas">frume(n)ti</seg>
@@ -30,7 +30,7 @@
             </choice>
             <lb/>satiat te. <choice>
                   <seg type="lucas">Q(u)i</seg>
-                  <orig>Qi</orig> <!-- same abbreviation as before -->
+                  <orig>Qi</orig> 
                   <reg>Qui</reg>
             </choice> emittit elo <lb break="no"/>
             <choice>
@@ -45,7 +45,7 @@
             </choice>
             <choice>
                   <seg type="lucas">t(er)re:</seg>
-                  <orig> ṫre:</orig>
+                  <orig>ṫre:</orig>
                   <reg>terre:</reg>
             </choice>
             <choice>
@@ -54,7 +54,7 @@
                   <reg>velociter</reg>
             </choice> cur <lb break="no"/>rit <choice>
                   <seg type="lucas">s(er)mo</seg>
-                  <orig>s͘mo</orig>
+                  <orig>ṡmo</orig>
                   <reg>sermo</reg>
             </choice>
             <choice>
@@ -64,7 +64,7 @@
             </choice>
             <choice>
                   <seg type="lucas">Q(u)i</seg>
-                  <orig>Qi</orig> <!-- same abbreviation as before -->
+                  <orig>Qi</orig> 
                   <reg>Qui</reg>
             </choice> dat <choice>
                   <seg type="lucas">nive(m)</seg>
@@ -103,8 +103,8 @@
                   <reg>spargit.</reg>
             </choice> Mittit <choice>
                   <seg type="lucas">c(ry)†s†tallu(m)</seg>
-                  <orig>ċ†s†tallū</orig>
-                  <reg>cry†s†tallum</reg>
+                  <orig>ċ<supplied>s</supplied>tallū</orig>
+                  <reg>cry<supplied>s</supplied>tallum</reg>
             </choice>
             <lb/>
             <choice>
@@ -153,7 +153,7 @@
             <lb/>
             <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> +  </orig>
+                  <orig>+  </orig>
                   <reg>et </reg>
             </choice>
             <choice>
@@ -173,7 +173,7 @@
             </choice>
             <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> + </orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice>
             <choice>
@@ -188,7 +188,7 @@
             </choice>
             <choice>
                   <seg type="lucas">Q(u)i</seg>
-                  <orig>Qi</orig> <!-- same abbreviation unsure about -->
+                  <orig>Qi</orig> 
                   <reg>Qui</reg>
             </choice>
             <choice>
@@ -207,7 +207,7 @@
                   <reg>suum</reg>
             </choice> iacob: iusti <lb break="no"/>tias <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> + </orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice> iudicia sua <choice>
                   <seg type="lucas">isr(ae)l.</seg>

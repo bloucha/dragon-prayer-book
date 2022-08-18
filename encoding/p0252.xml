@@ -44,11 +44,10 @@
       <lb/>te ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> me. 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">Mise(re)at(ur)</seg>
 		       <orig>Misėat݃</orig>
 		       <reg>Misereatur</reg>
@@ -198,7 +197,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>

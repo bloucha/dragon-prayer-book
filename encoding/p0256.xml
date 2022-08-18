@@ -16,9 +16,8 @@
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">sp(er)ab(is).</seg>
-		       <orig>sꝑaḃ.</orig>
+		       <orig>sꝑaḃ.</orig> 
 		       <reg>sperabis.</reg>
 	     </choice> Scuto 
 	<choice>
@@ -55,7 +54,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">noct(ur)no.</seg>
-		       <orig>noct̄no.</orig>
+		       <orig>noct݃no.</orig>
 		       <reg>nocturno.</reg>
 	     </choice> A sagitta
 <lb/>
@@ -145,9 +144,8 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">ap(ro)pi(n)q(ua)</seg>
-		       <orig>aꝑpīq̈</orig>
+		       <orig>aꝓpīq̈</orig> 
 		       <reg>apropinqua</reg>
 	     </choice>
       <lb break="no"/>bit. 
@@ -162,15 +160,11 @@
 		       <reg>oculis</reg>
 	     </choice> tuis
 <lb/>
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+	   
 	     <choice>
 		       <seg type="lucas">sid(er)ab(is):</seg>
-		       <orig>siḋaḃ:</orig>
-		       <reg>siderabis:</reg>
+		       <orig>ɔsiḋaḃ:</orig>
+		       <reg>considerabis:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -184,7 +178,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
-		       <orig>pct̄or⋮</orig>
+		       <orig>pct̄oꝝ</orig>
 		       <reg>peccatorum</reg>
 	     </choice>
       <lb/>
@@ -220,7 +214,7 @@
 		       <orig>tuū.</orig>
 		       <reg>tuum.</reg>
 	     </choice> Non
-<lb/>†accedet† ad te 
+<lb/><supplied>accede</supplied> ad te 
 	<choice>
 		       <seg type="lucas">malu(m):</seg>
 		       <orig>malū:</orig>

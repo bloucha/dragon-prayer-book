@@ -21,9 +21,8 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">ap(ro)pi(n)q(ua)bit</seg>
-		       <orig>aꝑpīq̈bit</orig>
+		       <orig>aꝓpīq̈bit</orig> 
 		       <reg>apropinquabit</reg>
 	     </choice> 
 	     <choice>
@@ -134,14 +133,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">culcab(is)</seg>
-		       <orig>culcaḃ</orig>
-		       <reg>culcabis</reg>
+		       <orig>ɔculcaḃ</orig>
+		       <reg>conculcabis</reg>
 	     </choice> le
 <lb break="no"/>
 	     <choice>
@@ -186,9 +180,8 @@
 		       <reg>eum:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)tega(m)</seg>
-		       <orig>ꝑtegā</orig>
+		       <orig>ꝓtegā</orig>
 		       <reg>protegam</reg>
 	     </choice>
       <lb/>
@@ -215,8 +208,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Cla(ma)[[b]]it</seg>
-		       <orig>Clä[[b]]it</orig>
-		       <reg>Clama[[b]]it</reg>
+		       <orig>Clä<supplied>b</supplied>it</orig>
+	           <reg>Clama<supplied>b</supplied>it</reg>
 	     </choice> ad me 
 	<choice>
 		       <seg type="lucas">(et) </seg>
@@ -264,23 +257,23 @@
 		       <seg type="lucas">eu(m)</seg>
 		       <orig>eū</orig>
 		       <reg>eum</reg>
-	     </choice> †et†
+	     </choice> <supplied>et</supplied>
 <lb/>†
 	<choice>
 		       <seg type="lucas">gl(or)ificabo†</seg>
-		       <orig>gl͘ificabo†</orig>
-		       <reg>glorificabo†</reg>
-	     </choice> 
+		       <orig>gl͘ificabo</orig>
+		       <reg>glorificabo</reg>
+	     </choice><supplied>
 	     <choice>
 		       <seg type="lucas">eu(m).</seg>
 		       <orig>eū.</orig>
 		       <reg>eum.</reg>
-	     </choice> †
+	     </choice> 
 	<choice>
-		       <seg type="lucas">Lo(n)gitudi(n)e†</seg>
-		       <orig>Lōgitudīe†</orig>
-		       <reg>Longitudine†</reg>
-	     </choice>
+		       <seg type="lucas">Lo(n)gitudi(n)e</seg>
+		       <orig>Lōgitudīe</orig>
+		       <reg>Longitudine</reg>
+	</choice></supplied>
    </ab>
 
    <ab type="translation"

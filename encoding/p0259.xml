@@ -58,15 +58,10 @@
 		       <orig>Gl͘a.</orig>
 		       <reg>Gloria.</reg>
 	     </choice> In. 
-	<choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/> <!-- confused on this abbreviation -->
-		       <reg>h</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
 	             <orig>ȳpnꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>TE lucis 
 	<choice>
@@ -115,7 +110,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -140,14 +135,9 @@
 		       <reg>nostrum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(com)</seg>
-	             <orig> ɔ </orig>
-		       <reg>com</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">p(ri)me</seg>
-	             <orig>ṗme</orig>
-		       <reg>prime</reg>
+	             <orig>ɔṗme</orig>
+		       <reg>comprime</reg>
 	     </choice> ne
 <lb/>
 	     <choice>
@@ -188,7 +178,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christum) </seg>
-	             <orig>  xp̄m</orig>
+	             <orig>xp̄⋮</orig>
 		       <reg>christum </reg>
 	     </choice> 
 	     <choice>
@@ -216,7 +206,7 @@
 		       <seg type="lucas">reg(na)t</seg>
 		       <orig>reg̈t</orig>
 		       <reg>regnat</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">cu(m)</seg>
 	             <orig>cū</orig>
@@ -228,10 +218,10 @@
 		       <reg>sancto</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">sp(irit)u†</seg>
-		       <orig>sp̄u†</orig>
-		       <reg>spiritu†</reg>
-	     </choice>
+		       <seg type="lucas">sp(irit)u</seg>
+		       <orig>sp̄u</orig>
+		       <reg>spiritu</reg>
+	     </choice></supplied>
       <lb/>
 	     <choice>
 		       <seg type="lucas">Ame(n).</seg>
@@ -245,20 +235,20 @@
 	     </choice> Custodi †nos 
 	<choice>
 		       <seg type="lucas">d(omi)ne†</seg>
-		       <orig>dn̄e†</orig>
-		       <reg>domine†</reg>
-	     </choice>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
+	     </choice><supplied>
       <lb/>ut 
 	<choice>
 		       <seg type="lucas">pupilla(m)</seg>
 	             <orig>pupillā</orig>
 		       <reg>pupillam</reg>
-	     </choice> †
+	</choice> </supplied>
 	<choice>
 		       <seg type="lucas">oc(u)li.</seg>
 		       <orig>ocl͘i.</orig>
 		       <reg>oculi.</reg>
-	     </choice> 
+	     </choice> <supplied>
 	     <choice>
 		       <seg type="lucas">S(u)b</seg>
 	           <orig>Sḃ</orig> <!-- check, it is hard to see -->
@@ -266,10 +256,10 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">umb(ra)†</seg>
-	             <orig>umḃ†</orig> <!-- !!! hard to see -->
-		       <reg>umbra†</reg>
+	             <orig>umb̈</orig> <!-- !!! hard to see -->
+		       <reg>umbra</reg>
 	     </choice>
-      <lb/>†
+      <lb/>
 	<choice>
 		       <seg type="lucas">alar(um)</seg>
 	             <orig>alaꝝ</orig>
@@ -284,7 +274,7 @@
 		       <seg type="lucas">p(ro)tege</seg>
 	             <orig>ꝓtege</orig>
 		       <reg>protege</reg>
-	     </choice> nos.†
+	     </choice> nos.</supplied>
 
 
 </ab>

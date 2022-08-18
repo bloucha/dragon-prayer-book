@@ -94,9 +94,8 @@
 		       <reg>vobis</reg>
 	     </choice> sorores 
 	<choice>
-	      <!-- unsure how to code, looks like qr -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> peccavi
 <lb/>nimis 
@@ -281,9 +280,8 @@
 		       <reg>mater</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> peccavi nimis co⸗
 
@@ -295,7 +293,6 @@
 		       <reg>det?</reg>
 	     </choice> g??
 	<choice>
-	      <!-- faded unsure how to code -->
 		       <seg type="lucas">idu(?)s</seg>
 		       <orig>idu̇s</orig>
 		       <reg>idu?s<!--  check expansion --></reg>

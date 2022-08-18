@@ -20,7 +20,7 @@
 		       <orig>enuṫes</orig>
 		       <reg>enutries</reg>
 	     </choice> me. Edu⸗
-hoc   2 ces me de 
+hoc   2 ces me de <!-- check transcription here I think there's something missing -->
 	<choice>
 		       <seg type="lucas">laq(ue)o+que(m)</seg>
 		       <orig>laq̄o+quē</orig>
@@ -44,7 +44,7 @@ hoc   2 ces me de
 	     </choice> tu es 
 	<choice>
 		       <seg type="lucas">p(ro)tec</seg>
-		       <orig>ꝑtec</orig>
+		       <orig>ꝓtec</orig>
 		       <reg>protec</reg>
 	     </choice>
       <lb break="no"/>tor 
@@ -60,14 +60,9 @@ hoc   2 ces me de
 	     </choice> tuas
 <lb/>
 	     <choice>
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">me(n)do</seg>
-		       <orig>mēdo</orig>
-		       <reg>mendo</reg>
+		       <orig>ɔmēdo</orig>
+		       <reg>commendo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(iritu)m</seg>
@@ -118,15 +113,10 @@ hoc   2 ces me de
 		       <reg>protectione</reg>
 	     </choice>
       <lb/>dei celi 
-	<choice>
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">morabit(ur).</seg>
-		       <orig>morabit̄.</orig>
-		       <reg>morabitur.</reg>
+		       <orig>ɔmorabit̄.</orig>
+		       <reg>commorabitur.</reg>
 	     </choice> Dicet
 <lb/>
 	     <choice>
@@ -245,11 +235,10 @@ hoc   2 ces me de
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- do not see an abbreviation -->
 		       <seg type="lucas">s(u)b</seg>
 		       <orig>sb</orig>
 		       <reg>sub</reg>
-	     </choice> †pennis†
+	     </choice> <supplied>pennis</supplied>
 
 
 </ab>

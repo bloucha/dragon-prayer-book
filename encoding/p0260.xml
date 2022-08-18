@@ -33,7 +33,6 @@
                   <reg>cum</reg>
             </choice>
             <choice>
-                  <!-- check trancription, added xp -->
                   <seg type="lucas">(christ)o</seg>
                   <orig>xp̄o</orig>
                   <reg>christo</reg>
@@ -59,20 +58,22 @@
                   <orig>ī</orig>
                   <reg>in</reg>
             </choice> pace. <choice>
-                  <!-- unsure how to code transcription -->
                   <seg type="lucas">K(yrie eleison).</seg>
                   <orig>K.</orig>
                   <reg>Kyrie eleison.</reg>
-            </choice> (Christi eleison). <choice>
-                  <!-- unsure how to code transcription -->
+            </choice> 
+            <choice>
+                  <orig>X.</orig>
+                  <reg>Christi eleison.</reg>
+            </choice>
+            <choice>
                   <seg type="lucas">K(yrie eleison).</seg>
                   <orig>K.</orig>
                   <reg>Kyrie eleison.</reg>
             </choice>
             <choice>
-                  <!-- 0304 doesn't shpw because of the capital letler -->
                   <seg type="lucas">P(ate)r</seg>
-                  <orig>P̄r</orig>
+                  <orig>Pr̄</orig> 
                   <reg>Pater</reg>
             </choice>
             <choice>
@@ -183,20 +184,20 @@
                   <orig>īi</orig>
                   <reg>ini</reg>
             </choice>
-            <lb break="no"/>†mici ab† ea <choice>
+            <lb break="no"/><supplied>mici ab</supplied> ea <choice>
                   <seg type="lucas">lo(n)ge</seg>
                   <orig>lōge</orig>
                   <reg>longe</reg>
-            </choice> repelle: <lb/>† <choice>
+            </choice> repelle: <lb/><supplied><choice>
                   <seg type="lucas">(et) </seg>
                   <orig>+</orig>
                   <reg>et </reg>
             </choice>
             <choice>
                   <seg type="lucas">a(n)g(e)li†</seg>
-                  <orig>āgl͘i†</orig>
-                  <reg>angeli†</reg>
-            </choice> tui <choice>
+                  <orig>āgl͘i</orig>
+                  <reg>angeli</reg>
+            </choice></supplied>  tui <choice>
                   <seg type="lucas">s(an)c(t)i</seg>
                   <orig>sc̄i</orig>
                   <reg>sancti</reg>

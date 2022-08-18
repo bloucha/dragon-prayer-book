@@ -14,7 +14,7 @@
 		       <seg type="lucas">q(ue)</seg>
 	             <orig>q⋮</orig>
 		       <reg>que</reg>
-	     </choice> soli †filio† 
+	     </choice> soli <supplied>filio</supplied>
 	<choice>
 		       <seg type="lucas">cu(m)</seg>
 	             <orig>cū</orig>
@@ -33,7 +33,7 @@
       <lb break="no"/>to 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -43,7 +43,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -123,7 +123,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -133,7 +133,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)f(e)c(tu)m;</seg>
-	           <orig> ꝑfc̄m;</orig>
+	             <orig>ꝑfc̄m;</orig> 
 		       <reg>perfectum;</reg>
 	     </choice> 
 	     <choice>
@@ -154,7 +154,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -176,7 +176,7 @@
 <lb/>estote 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> vigilate; 
 	<choice>
@@ -187,7 +187,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">v(er)sari(us)</seg>
-	             <orig>v̇sariꝰ</orig>
+	             <orig>v̇sariꝰ</orig> 
 		       <reg>versarius</reg>
 	     </choice> 
 	     <choice>
@@ -202,7 +202,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ta(m)q(uam)</seg>
-	           <orig>tāq̈</orig> <!-- we have no decided the abbreviation for quam -->
+	             <orig>tāq̈</orig> <!-- we have no decided the abbreviation for quam -->
 		       <reg>tamquam</reg>
 	     </choice>
       <lb/>leo 
@@ -261,15 +261,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ni;
-
-
 *Domine
 mise-
 rere
-nostri.</seg>
+nostri.
+		     </seg>
 		       <orig>dn̄i;
-
-
 *Domine
 mise-
 rere

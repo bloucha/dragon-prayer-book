@@ -12,131 +12,131 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Aff(er)te</seg>
-		       <orig>Affte</orig>
+		       <orig>Affṫe</orig>
 		       <reg>Afferte</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">do(mino)</seg>
-		       <orig>do</orig>
+		       <orig>doᵒ</orig>
 		       <reg>domino</reg>
 	     </choice> filii 
 	<choice>
 		       <seg type="lucas">d(e)i:</seg>
-		       <orig>di:</orig>
+		       <orig>ḋi:</orig>
 		       <reg>dei:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(?)</seg>
-		       <orig>p</orig>
+		       <orig>p¨</orig>
 		       <reg>p?</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">et(er)nu(m).</seg>
-		       <orig>etnu.</orig>
+		       <orig>eṫnū.</orig>
 		       <reg>eternum.</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">aff(er)te</seg>
-		       <orig>affte</orig>
+		       <orig>affṫe</orig>
 		       <reg>afferte</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">do(mino)</seg>
-		       <orig>do</orig>
+		       <orig>doᵒ</orig>
 		       <reg>domino</reg>
 	     </choice> filios 
 	<choice>
 		       <seg type="lucas">arietu(m).</seg>
-		       <orig>arietu.</orig>
+		       <orig>arietū.</orig>
 		       <reg>arietum.</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">Aff(er)te</seg>
-		       <orig>Affte</orig>
+		       <orig>Afft¨e</orig>
 		       <reg>Afferte</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)no</seg>
-		       <orig>dno</orig>
+		       <orig>dn̄o</orig>
 		       <reg>domino</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gl(ori)a(m)</seg>
-		       <orig>gla</orig>
+		       <orig>gl͘a⋮</orig>
 		       <reg>gloriam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ho(no)re(m);</seg>
-		       <orig>hore;</orig>
+		       <orig>hōrē;</orig>
 		       <reg>honorem;</reg>
 	     </choice> af
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">f(er)te</seg>
-		       <orig>fte</orig>
+		       <orig>fṫe</orig>
 		       <reg>ferte</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)no</seg>
-		       <orig>dno</orig>
+		       <orig>dn̄o</orig>
 		       <reg>domino</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gl(ori)a(m)</seg>
-		       <orig>gla</orig>
+		       <orig>gl͘a⋮</orig>
 		       <reg>gloriam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">no(min)i</seg>
-		       <orig>noi</orig>
+		       <orig>nōi</orig>
 		       <reg>nomini</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us):</seg>
-		       <orig>ei:</orig>
+		       <orig>eiꝰ:</orig>
 		       <reg>eius:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ado(r)ate</seg>
-		       <orig>adoate</orig>
+		       <orig>adȯate</orig>
 		       <reg>adorate</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)n(um)</seg>
-		       <orig>dn</orig>
+		       <orig>dn̄⋮</orig>
 		       <reg>dominum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">at(ri)o</seg>
-		       <orig>ato</orig>
+		       <orig>aṫo</orig>
 		       <reg>atrio</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)o</seg>
-		       <orig>sco</orig>
+		       <orig>sc̄o</orig>
 		       <reg>sancto</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us).</seg>
-		       <orig>ei.</orig>
+		       <orig>eiꝰ.</orig>
 		       <reg>eius.</reg>
 	     </choice> Vox 
 	<choice>

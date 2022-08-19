@@ -74,9 +74,8 @@
 	     </choice> 
  
 	     <choice>
-	         <!-- unicode character not defined, small raised i -->
 		       <seg type="lucas">do(mini?)</seg>
-		       <orig>do</orig>
+		       <orig>doⁱ</orig>
 		       <reg>domini?</reg>
 	     </choice> 
 	     <choice>
@@ -160,7 +159,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">aur(um)</seg>
-		       <orig>aur⋮</orig>
+		       <orig>auꝝ</orig>
 		       <reg>aurum</reg>
 	     </choice>
       <lb/>
@@ -302,18 +301,12 @@
 		       <reg>Deo.</reg>
 	     </choice>
       <lb/>AUdi benigne         
-	<choice>
-	    <!-- check transcription -->
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
 	     <choice>
 	         <!-- check transcription, looks like ypm -->
 		       <seg type="lucas">y(m)n(us).</seg>
-		       <orig>ynꝰ.</orig>
-		       <reg>ymnus.</reg>
-	     </choice>
+		       <orig>yp̄nꝰ.</orig>
+		       <reg>hymnus.</reg>
+	     </choice> 
    </ab>
 
    <ab type="translation"

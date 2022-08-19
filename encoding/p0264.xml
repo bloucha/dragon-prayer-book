@@ -66,7 +66,7 @@
 	     <choice>
 	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> In pace
 <lb/>
@@ -144,17 +144,11 @@
 		       <orig>Gl͘a.</orig>
 		       <reg>Gloria.</reg>
 	     </choice> In. 
-	<choice>
-	      <!-- check transcription -->
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
+	
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">y(m)n(us).</seg>
-		       <orig>ȳnꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <orig>ȳnꝰ.</orig> 
+		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>CRiste 
 	<choice>

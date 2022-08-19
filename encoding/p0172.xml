@@ -32,9 +32,9 @@
 		       <reg>Benedicto.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)n(u)s</seg>
@@ -240,9 +240,9 @@
 		       <reg>verbum</reg>
 	     </choice> tuu. 
 	<choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> In ce
 <lb break="no"/>lo 
 	<choice>
@@ -282,9 +282,9 @@
 		       <reg>Gloria.</reg>
 	     </choice> in. 
 	<choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)n(u)s</seg>
@@ -297,6 +297,19 @@
 
    <ab type="translation"
        xml:id="p0172_translation"
-       corresp="#p0172_transcription"/>
+       corresp="#p0172_transcription">His praise shall be
+         always in my mouth. <!-- OBVM 469 --> Unto the ages of ages. <!-- this was just the prompt 'In.' - in saecula saeculorum?? -->
+         Glory [be to the Father, and to the Son, and to the Holy Spirit, as it was
+   in the beginning, is now, and ever shall be, world without end. Amen.] Blessed be. <!-- this was just Benedicto, need to double check if its for a full prayer -->
+         Versicle. The Lord ruleth me: and I shall want nothing. He hath set me in a place of pasture. <!-- Psalm 22 DRB --> 
+         Lord have mercy, Christ have mercy, Lord have mercy. 
+         Sunday antiphon. The glory of praise resounds in all mouths, the Father 
+         and begotten children of the Holy Spirit will equally result in everlasting praise. <!-- Google translate :( --> Chapter. 
+         The grace of our Lord Jesus Christ, and the charity of God, and the communication of the Holy Ghost be with you all. Amen. <!-- 2 Cor. 13 13 -->
+         Thanks be to God. Response. For ever, O Lord, thy word standeth firm. <!-- DRB psalm 118 verse 89 (approx.) -->
+         Versicle. Your truth is in heaven and endures forevermore. <!-- google/my transl/psalm 88--> Through [Christ our Lord].
+         Glory [be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.]
+         Versicle. The Lord ruleth me. <!-- Psalm 22 DRB -->
+   </ab>
 
 </div>

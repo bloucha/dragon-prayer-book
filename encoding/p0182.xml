@@ -100,9 +100,9 @@
 		       <reg>Gloria.</reg>
 	     </choice> Cla. 
 	<choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> Ab
 <lb/>occultis. 
 	<choice>
@@ -113,7 +113,7 @@
 	<choice>
 		       <seg type="lucas">vs(?)</seg>
 		       <orig>v̈s</orig>
-	      <reg>vs?<!-- check expansion --></reg>
+	      <reg>vs?<!-- check expansion Savannah: I think it's ad vesperas--> </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ps(alm).</seg>
@@ -235,6 +235,16 @@
 
    <ab type="translation"
        xml:id="p0182_translation"
-       corresp="#p0182_transcription"/>
+       corresp="#p0182_transcription">in heaven, the Father, the Word, and the Holy Ghost. And these three are one. Response. 
+         I cried with my whole heart, hear me, O Lord. Versicle. I will seek thy justifications. Hear me, O Lord. 
+         Glory [be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end.]
+         I cried with my whole heart. Versiculus. From my
+         secret ones cleanse
+         Thou me: and from
+         the sins of others,
+         spare Thy servant. Sunday at Vespers. Psalm.
+         The Lord said to my Lord: Sit thou at my right hand: Until I make thy enemies thy footstool. 
+         The Lord will send forth the sceptre of thy power out of Sion: rule thou in the midst of thy enemies. 
+         With thee is the principality <!-- psalm 109 drb cont --> </ab>
 
 </div>

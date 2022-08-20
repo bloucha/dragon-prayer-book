@@ -17,9 +17,8 @@
 	     </choice> 
 	     <choice>
 	     	<!-- check transcription, looks like sopn -->
-	     	<!-- A770 not appearing correctly -->
 		       <seg type="lucas">so(m)n(us)</seg>
-		       <orig>sōnꝰ</orig>
+		       <orig>sōnꝰ</orig> 
 		       <reg>somnus</reg>
 	     </choice> irruat
 <lb/>
@@ -39,15 +38,10 @@
 		       <orig>nᶜ</orig>
 		       <reg>nec</reg>
 	     </choice> caro illi 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">se(n)tie(n)s</seg>
-		       <orig>sētiēs</orig>
-		       <reg>sentiens</reg>
+		       <orig>ɔsētiēs</orig>
+		       <reg>consentiens</reg>
 	     </choice> nos 
 	<choice>
 		       <seg type="lucas">t(ibi)</seg>
@@ -90,7 +84,7 @@
 	     </choice> tua 
 	<choice>
 		       <seg type="lucas">p(ro)tegat</seg>
-		       <orig>ꝑtegat</orig>
+		       <orig>ꝓtegat</orig>
 		       <reg>protegat</reg>
 	     </choice> fa
 <lb break="no"/>
@@ -143,9 +137,8 @@
 		       <reg>sanguine</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- A770 not appearing correctly -->
 		       <seg type="lucas">m(er)cat(us)</seg>
-		       <orig>ṁcatꝰ</orig>
+		       <orig>ṁcatꝰ</orig> 
 		       <reg>mercatus</reg>
 	     </choice> es.
 <lb/>

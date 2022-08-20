@@ -117,14 +117,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fu(n)dar</seg>
-		       <orig>fūdar</orig>
-		       <reg>fundar</reg>
+		       <orig>ɔfūdar</orig>
+		       <reg>confundar</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -182,7 +177,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)tectore(m);</seg>
-		       <orig>ꝑtectore;</orig>
+		       <orig>ꝓtectore;</orig>
 		       <reg>protectorem;</reg>
 	     </choice> 
 	     <choice>
@@ -206,18 +201,18 @@
 		       <orig>salvū</orig>
 		       <reg>salvum</reg>
 	     </choice>
-      <lb/>†me† facias. 
+      <lb/> <supplied>me</supplied> facias. 
 	<choice>
 		       <seg type="lucas">Q(uonia)m</seg>
 		       <orig>Qm̄</orig>
 		       <reg>Quoniam</reg>
 	     </choice> fortitudo
-<lb/>†mea 
+<lb/><supplied>mea
 	<choice>
 		       <seg type="lucas">(et)†</seg>
-		       <orig>+†</orig>
-		       <reg>et†</reg>
-	     </choice> 
+		       <orig>+</orig>
+		       <reg>et</reg>
+	     </choice></supplied>
 	     <choice>
 		       <seg type="lucas">refugiu(m)</seg>
 		       <orig>refugiū</orig>
@@ -228,17 +223,16 @@
 		       <orig>meū</orig>
 		       <reg>meum</reg>
 	     </choice> es tu:
-<lb/>†
+<lb/><supplied>
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	     	<!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝑpṫ</orig>
-		       <reg>propter</reg>
+		       <orig>ꝓpṫ</orig>
+		       <reg>propter</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nom(en)</seg>
@@ -249,7 +243,7 @@
 		       <seg type="lucas">tuu(m)</seg>
 		       <orig>tuū</orig>
 		       <reg>tuum</reg>
-	     </choice> deduces
+	     </choice></supplied> deduces
 
 
 </ab>

@@ -179,16 +179,11 @@
 		       <seg type="lucas">v(est)ris</seg>
 		       <orig>v̄ris</orig>
 		       <reg>vestris</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">pugimi(ni).</seg>
-		       <orig>pugimī.</orig>
-		       <reg>pugimini.</reg>
+		       <orig>ɔpugimī.</orig>
+		       <reg>conpugimini.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Sac(ri)fica</seg>
@@ -209,8 +204,8 @@
 	     <choice>
 	           <!-- check transcription -->
 		       <seg type="lucas">sp(er)†ate†</seg>
-		       <orig>sꝑ†ate†</orig>
-		       <reg>sper†ate†</reg>
+		       <orig>sꝑ<supplied>ate</supplied></orig>
+		       <reg>sper<supplied>ate</supplied></reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -238,13 +233,13 @@
 		       <seg type="lucas">q(ui)s</seg>
 		       <orig>q̇s</orig>
 		       <reg>quis</reg>
-	     </choice> †oste⸗†
-*nobis 14 †dit* 
+	     </choice> <supplied>oste⸗</supplied>
+*nobis 14 <supplied>dit* 
 	<choice>
 		       <seg type="lucas">bo(na).†</seg>
-		       <orig>bö.†</orig>
-		       <reg>bona.†</reg>
-	     </choice> 
+		       <orig>bö.</orig>
+		       <reg>bona.</reg>
+	     </choice></supplied>
 	     <choice>
 		       <seg type="lucas">Sig(na)tu(m)</seg>
 		       <orig>Sig̈tū</orig>
@@ -270,12 +265,12 @@
 		       <seg type="lucas">vult(us)</seg>
 		       <orig>vultꝰ</orig>
 		       <reg>vultus</reg>
-	     </choice> tui †
+	     </choice> tui <supplied>
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
 		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
-	     </choice> dedis⸗†
+	     </choice> dedis⸗</supplied>
 
 
 </ab>

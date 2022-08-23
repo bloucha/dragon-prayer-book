@@ -27,7 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-	             <orig>ℜ.</orig> <!-- suggested to use, can change -->
+	             <orig>℞.</orig> <!-- suggested to use, can change -->
 		       <reg>Responsorium.</reg>
 	     </choice> Hec dies
 <lb/>
@@ -49,7 +49,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -161,7 +161,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)nabit(ur);</seg>
-		       <orig>dn̄abit݃ ;  </orig>
+		       <orig>dn̄abit݃ ;  </orig> 
 		       <reg>dominabitur;</reg>
 	     </choice> 
 	     <choice>
@@ -207,7 +207,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uod)</seg>
-		       <orig>q</orig> <!-- we haven't decided on a unicode for this yet -->
+		       <orig>ȹ</orig> 
 		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
@@ -218,12 +218,12 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">v(it)</seg>
-		       <orig>v</orig> <!-- raised +? -->
+		       <orig>vᵗ</orig>
 		       <reg>vit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">viv(it)</seg>
-		       <orig>viv</orig> <!-- same unicode as above, not sure what to use? -->
+		       <orig>vivᵗ</orig> <!-- same unicode as above, not sure what to use? -->
 		       <reg>vivit</reg>
 	     </choice> 
 	     <choice>
@@ -237,14 +237,9 @@
 		       <reg>Deo.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-	             <orig> </orig> <!-- ?? -->
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
 	             <orig>ȳpnꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>AD 
 	<choice>
@@ -260,7 +255,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

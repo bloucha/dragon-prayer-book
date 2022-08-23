@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)bas</seg>
-		       <orig>ꝑbas</orig>
+		       <orig>ꝓbas</orig>
 		       <reg>probas</reg>
 	     </choice> renes 
 	<choice>
@@ -68,17 +68,10 @@
 		       <reg>domine.</reg>
 	     </choice>
       <lb/>VExilla        
-	<choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
 	     <choice>
-	     	<!-- check transcription, looks like ypm -->
-	     	<!-- A770 not appearing correctly -->
 		       <seg type="lucas">y(m)n(us)</seg>
-		       <orig>ȳnꝰ</orig>
-		       <reg>ymnus</reg>
+		       <orig>ȳpnꝰ</orig>
+		       <reg>hymnus</reg>
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
@@ -97,9 +90,8 @@
 	     </choice>
       <lb/>regis 
 	<choice>
-		<!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)deu(n)t</seg>
-		       <orig>ꝑdeūt</orig>
+		       <orig>ꝓdeūt</orig>
 		       <reg>prodeunt</reg>
 	     </choice> fulget
 <lb/>crucis 
@@ -115,9 +107,8 @@
 		       <reg>conditor</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- A770 not appearing correctly -->
 		       <seg type="lucas">suspe(n)s(us)</seg>
-		       <orig>suspēsꝰ</orig>
+		       <orig>suspēsꝰ</orig> 
 		       <reg>suspensus</reg>
 	     </choice> est
 <lb/>
@@ -127,14 +118,12 @@
 		       <reg>patibulo.</reg>
 	     </choice> Quo 
 	<choice>
-		<!-- A770 not appearing correctly -->
 		       <seg type="lucas">vuln(er)at(us)</seg>
-		       <orig>vulṅatꝰ</orig>
+		       <orig>vulṅatꝰ</orig> 
 		       <reg>vulneratus</reg>
 	     </choice>
       <lb/>
 	     <choice>
-	     	<!-- A751 not appearing correctly -->
 		       <seg type="lucas">i(n)sup(er)</seg>
 		       <orig>īsuꝑ</orig>
 		       <reg>insuper</reg>

@@ -12,7 +12,7 @@
       <lb/>regis 
 	<choice>
 		       <seg type="lucas">purp(ur)a</seg>
-		       <orig>purp̄a</orig>
+		       <orig>purp݃a</orig>
 		       <reg>purpura</reg>
 	     </choice> 
 	     <choice>
@@ -58,7 +58,6 @@
 		       <reg>brachiis</reg>
 	     </choice> 
 	     <choice>
-	           <!-- do not see an abbreviation -->
 		       <seg type="lucas">sec(u)li</seg>
 		       <orig>secli</orig>
 		       <reg>seculi</reg>
@@ -219,7 +218,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">glo(rio)se</seg>
-		       <orig>glose</orig>
+		       <orig>gl͘ose</orig>
 		       <reg>gloriose</reg>
 	     </choice> 
 	     <choice>

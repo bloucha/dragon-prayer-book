@@ -21,16 +21,14 @@
 		       <reg>callidus</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- check transcription, looks like tep -->
 		       <seg type="lucas">te(n)</seg>
-		       <orig>tē</orig>
+		       <orig>tēp</orig>
 		       <reg>ten</reg>
 	     </choice>
       <lb break="no"/>tator 
 	<choice>
-		<!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> tu 
 	<choice>
@@ -50,9 +48,8 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-	     	<!-- A770 not appearing correctly -->
 		       <seg type="lucas">t(er)n(us)</seg>
-		       <orig>ṫnꝰ</orig>
+		       <orig>ṫnꝰ</orig> 
 		       <reg>ternus</reg>
 	     </choice> adiutor. Ad 
 	<choice>
@@ -79,9 +76,8 @@
 		       <reg>quem</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- A770 not appearing correctly -->
 		       <seg type="lucas">q(ue)rim(us)</seg>
-		       <orig>q̄rimꝰ</orig>
+		       <orig>q̄rimꝰ</orig> 
 		       <reg>querimus</reg>
 	     </choice> 
 	     <choice>
@@ -90,9 +86,9 @@
 		       <reg>adiutorem</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- check character -->
+	     	<!-- check character, ask in meeting -->
 		       <seg type="lucas">n(isi)</seg>
-		       <orig>ṅ</orig>
+		       <orig>n</orig>
 		       <reg>nisi</reg>
 	     </choice> te
 <lb/>
@@ -108,7 +104,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -124,7 +120,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">irasc(er)is.</seg>
-		       <orig>iras͘cis.</orig>
+		       <orig>irasċis.</orig>
 		       <reg>irasceris.</reg>
 	     </choice> 
 	     <choice>
@@ -177,7 +173,7 @@
       <lb/>Ne 
 	<choice>
 		       <seg type="lucas">p(ro)iicias</seg>
-		       <orig>ꝑiicias</orig>
+		       <orig>ꝓiicias</orig>
 		       <reg>proiicias</reg>
 	     </choice> nos 
 	<choice>
@@ -191,7 +187,6 @@
 		       <reg>tempere</reg>
 	     </choice> sene
 <lb break="no"/>
-   	<!-- check transcription, looks like abbreviation on second t -->
    	ctutis. 
 	<choice>
 		       <seg type="lucas">Cu(m)</seg>
@@ -207,19 +202,21 @@
 		       <seg type="lucas">v(ir)t(us)</seg>
 		       <orig>vtꝰ</orig>
 		       <reg>virtus</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		<!-- check transcription, looks like me or nie-->
-		       <seg type="lucas">(nostr)⸗†</seg>
-		       <orig>⸗†</orig>
-		       <reg>nostr⸗†</reg>
+		       <seg type="lucas">(nostr)⸗</seg>
+		       <orig>nīe⸗</orig>
+		       <reg>nostr⸗</reg>
 	     </choice> 
+	     </supplied>
       <lb/>a ne 
 	<choice>
 		       <seg type="lucas">de(re)li(n)q(ua)s</seg>
 		       <orig>dėlīq̈s</orig>
 		       <reg>derelinquas</reg>
-	     </choice> †nos†? 
+		<!-- check transcription -->
+	     </choice> <supplied>nos?</supplied>
 	<choice>
 		       <seg type="lucas">d(omi)ne.</seg>
 		       <orig>dn̄e.</orig>

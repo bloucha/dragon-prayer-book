@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -65,7 +65,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)l(um)</seg>
-	             <orig>pꝑl͘⋮</orig>
+	             <orig>ppl͘⋮</orig>
 		       <reg>populum</reg>
 	     </choice> 
 	     <choice>
@@ -102,7 +102,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -186,7 +186,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mni)p(oten)s</seg>
-	             <orig>ōp̄s</orig>
+	             <orig>op̄s</orig>
 		       <reg>omnipotens</reg>
 	     </choice> 
 	     <choice>
@@ -224,7 +224,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> vita 
 	<choice>

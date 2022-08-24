@@ -35,12 +35,12 @@
             </choice>
             <choice>
                   <seg type="lucas">ip(s)o</seg>
-                  <orig>ip぀o</orig>
+                  <orig>ip̄o</orig>
                   <reg>ipso</reg>
             </choice>
             <choice>
                   <seg type="lucas">i(n)</seg>
-                  <orig>i぀</orig>
+                  <orig>ī</orig>
                   <reg>in</reg>
             </choice>
             <choice>
@@ -50,14 +50,13 @@
             </choice>
             <choice>
                   <seg type="lucas">D(e)o.</seg>
-                  <orig>Ḋo.</orig>
+                  <orig>Ḋ.</orig>
                   <reg>Deo.</reg>
             </choice>
             <lb/>
             <choice>
-                  <!-- unsure how to code -->
                   <seg type="lucas">R(esponsorium).</seg>
-                  <orig>R.</orig>
+                  <orig>℞.</orig>
                   <reg>Responsorium.</reg>
             </choice> Surrexit <choice>
                   <seg type="lucas">d(omi)n(u)s</seg>
@@ -75,12 +74,12 @@
             </choice>
             <choice>
                   <seg type="lucas">Q(ui)</seg>
-                  <orig>Q͘</orig>
+                  <orig>Q̆</orig>
                   <reg>Qui</reg>
             </choice>
             <choice>
                   <seg type="lucas">p(ro)</seg>
-                  <orig>ꝑ</orig>
+                  <orig>ꝓ</orig>
                   <reg>pro</reg>
             </choice>
             <choice>
@@ -138,7 +137,7 @@
             <choice>
                   <!-- check transcription, loks like j with a unicode character -->
                   <seg type="lucas">(prima) </seg>
-                  <orig> </orig>
+                  <orig>j̈ </orig>
                   <reg>prima </reg>
             </choice>
             <choice>
@@ -187,8 +186,7 @@
                   <reg>fidelibus</reg>
             </choice> tu <lb break="no"/>is <choice>
                   <seg type="lucas">p(er)petua(m)</seg>
-                  <!-- A751 not appearing correctly -->
-                  <orig>ꝑpetuā</orig>
+                  <orig>ꝑpetuā</orig> 
                   <reg>perpetuam</reg>
             </choice>
             <choice>
@@ -245,9 +243,9 @@
                   <orig>errātib⋮</orig>
                   <reg>errantibus</reg>
             </choice> ut <choice>
-                  <!-- unsure how to code -->
+                  <!-- check transcription with this implied word -->
                   <seg type="lucas">(secunda) </seg>
-                  <orig> </orig>
+                  <orig>n </orig>
                   <reg>secunda </reg>
             </choice>
             <choice>

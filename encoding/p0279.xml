@@ -17,7 +17,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">a(lleluia?).</seg>
-                  <orig>ā.</orig>
+                  <orig>ä.</orig>
                   <reg>alleluia?.<!--  check expansion --></reg>
             </choice> 
             
@@ -65,7 +65,7 @@
             <lb break="no"/>
             <choice>
                   <seg type="lucas">c(u)li</seg>
-                  <orig>cli</orig>
+                  <orig>cl͘i</orig>
                   <reg>culi</reg>
             </choice> mei salutare 
             <choice>
@@ -128,8 +128,8 @@
             <lb/>
             <choice>
                   <seg type="lucas">vo(ca)bit(ur)</seg>
-                  <orig>vöbitˢ</orig>
-                  <reg>vocabitur</reg>
+                  <orig>vöbit݃</orig>
+                  <reg>vocabitur</reg> 
             </choice> 
             <choice>
                   <seg type="lucas">nom(en)</seg>
@@ -159,7 +159,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">do(mini)</seg>
-                  <orig>do݃</orig>
+                  <orig>doi</orig>
                   <reg>domini</reg>
             </choice>
             <lb/>fiat 
@@ -170,7 +170,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">s(e)c(un)d(um)</seg>
-                  <orig>scd⋮</orig>
+                  <orig>scḋ⋮</orig>
                   <reg>secundum</reg>
             </choice> 
             <choice>
@@ -228,9 +228,8 @@
             </choice> 
             <choice>
                   <seg type="lucas">(christo) </seg>
-                  <orig> </orig>
+                  <orig>xº</orig>
                   <reg>christo </reg>
-                  <!-- i don't know how to abbreviate this -->
             </choice> 
             <choice>
                   <seg type="lucas">canam(us)</seg>

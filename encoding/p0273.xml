@@ -37,15 +37,13 @@
 	     </choice> 
       <lb/>
 	     <choice>
-	           <!-- check transcription, looks like xpc -->
 		       <seg type="lucas">(Christ) </seg>
-		       <orig> </orig>
+		       <orig>xp̄c </orig>
 		       <reg>Christ </reg>
 	     </choice> re. 
 	<choice>
-	      <!-- unsure how to code abbreviation -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> Resurrexit 
 	<choice>
@@ -177,9 +175,8 @@
 		       <reg>querite.</reg>
 	     </choice> ubi 
 	<choice>
-	      <!-- check transcription, looks like x -->
 		       <seg type="lucas">(christ)us</seg>
-		       <orig>usꝰ</orig>
+		       <orig>xꝰ</orig>
 		       <reg>christus</reg>
 	     </choice> 
 	     <choice>
@@ -245,9 +242,8 @@
 		       <reg>Deo.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice>
       <lb/>Surrexit 
@@ -335,18 +331,17 @@
 		       <orig>at̄</orig>
 		       <reg>autem</reg>
 	     </choice> 
-         <!-- check transcription, xpc -->
-         (christu?)c appa⸗ 
+         <choice>
+               <orig>xp̄c</orig>
+               <reg>Christ</reg>
+         </choice>
+        appa⸗ 
 	<choice>
 		       <seg type="lucas">Cap(ite?).
 
 </seg>
-		       <orig>Cap̄.
-
-</orig>
-		       <reg>Capite?.
-
-<!--  check expansion --></reg>
+		   <orig>Cap̄.</orig>
+		      <reg>Capite?.<!--  check expansion --></reg>
 	     </choice> 
    </ab>
 

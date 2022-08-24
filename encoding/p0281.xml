@@ -23,7 +23,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> suscitabo
 <lb/>david 
@@ -39,7 +39,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -50,7 +50,7 @@
       <lb break="no"/>bit rex 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -60,7 +60,7 @@
 	     </choice> erit: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig> \+ </orig>
 		       <reg>et </reg>
 	     </choice> fa
 <lb break="no"/>ciet 
@@ -71,7 +71,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -90,15 +90,10 @@
 		       <reg>ter</reg>
 	     </choice>
       <lb break="no"/>COnditor        
-	<choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/> <!-- ?? -->
-		       <reg>h</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
 	             <orig>ȳpnꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <reg>hymnus.</reg>
 	     </choice>        ra; 
 	<choice>
 		       <seg type="lucas">D(eo).</seg>
@@ -150,18 +145,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig> <!-- help -->
+		       <orig>Qi</orig> 
 		       <reg>Qui</reg>
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">dole(n)s</seg>
-	             <orig>dolēs</orig>
+	             <orig>ɔdolēs</orig>
 		       <reg>dolens</reg>
 	     </choice> 
 	     <choice>

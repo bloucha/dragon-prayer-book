@@ -30,13 +30,11 @@
 		       <seg type="lucas">q(ue)</seg>
 		       <orig>q̄</orig>
 		       <reg>que</reg>
-	           <!-- wasn't sure if this was a dot ot diacritic -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">r(e)c(t)a</seg>
 		       <orig>rc̄a</orig>
 		       <reg>recta</reg>
-	           <!-- wasn't sure if this was a dot ot diacritic -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(un)t.</seg>
@@ -132,12 +130,13 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">sole(m)nitatis</seg>
-		       <orig>solēnitatis</orig>
+		       <orig>solēpnitatis</orig>
+	           <!-- check transcription, there's a p in here -->
 		       <reg>solemnitatis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fut(ur)e</seg>
-		       <orig>fut͘e</orig>
+		       <orig>fut݃e</orig>
 		       <reg>future</reg>
 	     </choice> 
 	     <choice>
@@ -148,7 +147,7 @@
       <lb/>auctor 
 	<choice>
 		       <seg type="lucas">i(n)gress(us)</seg>
-		       <orig>īgressꝰ</orig>
+		       <orig>īgressꝰ</orig> 
 		       <reg>ingressus</reg>
 	     </choice> 
 	     <choice>
@@ -183,15 +182,9 @@
 		       <reg>pergit</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig> 
-		       <reg>con</reg>
-	     </choice>
-         <!-- check to see if these are really two words, i feel like not -->
-	     <choice>
 		       <seg type="lucas">v(er)sat(i)o(n)e</seg>
-		       <orig>v̇satōe</orig>
-		       <reg>versatione</reg>
+		       <orig>ɔv̇satōe</orig>
+		       <reg>conversatione</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)</seg>
@@ -204,7 +197,6 @@
 	             <orig>Ꝑ</orig>
 		       <reg>Per</reg>
 	     </choice> 
-         <!-- check to make sure these are also separate words -->
 	     <choice>
 		       <seg type="lucas">e(umdum).</seg>
 		       <orig>e.</orig>
@@ -216,14 +208,9 @@
 		       <reg>conplet?.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
-	             <orig>ȳnꝰ.</orig>
-		       <reg>ymnus.</reg>
+	             <orig>ypnꝰ.</orig>
+		       <reg>hymnus.</reg> 
 	     </choice>
       <lb/>
 	     <choice>
@@ -282,7 +269,6 @@
 		       <seg type="lucas">t(e)mp(orum).</seg>
 		       <orig>tꝑm.</orig>
 		       <reg>temporum.</reg>
-	           <!-- i added m to the orig cause it's there, but check in case it's not -->
 	     </choice> Que te vicit 
 	<choice>
 		       <seg type="lucas">cleme(n)</seg>

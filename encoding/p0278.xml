@@ -28,17 +28,17 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> da 
 	<choice>
 		       <seg type="lucas">q(ui)eta</seg>
-		       <orig>̇qeta</orig>
+		       <orig>q̇eta</orig>
 		       <reg>quieta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(em)p(or)a.</seg>
-		       <orig>tpa.</orig>
+		       <orig>tꝑa.</orig>
 		       <reg>tempora.</reg>
 	     </choice>
       <lb/>Sit laus 
@@ -60,7 +60,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">si(mu)l</seg>
-		       <orig>si̇l</orig>
+		       <orig>sil͘</orig>
 		       <reg>simul</reg>
 	     </choice> 
 	     <choice>
@@ -81,7 +81,7 @@
 	     </choice> carisma 
 	<choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>scī</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
@@ -112,7 +112,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ps(alm?)</seg>
-		       <orig>ṗṡ</orig>
+		       <orig>p̈s</orig>
 		       <reg>psalm?</reg>
 	     </choice> 
 	     <choice>
@@ -123,12 +123,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">All(elui)a.</seg>
-		       <orig>All̇a.</orig>
+		       <orig>All͘a.</orig>
 		       <reg>Alleluia.</reg>
 	     </choice> Ad 
 	<choice>
 		       <seg type="lucas">n(un)c</seg>
-		       <orig>n̄c</orig>
+		       <orig>nc̄</orig>
 		       <reg>nunc</reg>
 	     </choice> 
 	     <choice>
@@ -138,7 +138,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">All(eluia).</seg>
-		       <orig>All̇.</orig>
+		       <orig>All͘.</orig>
 		       <reg>Alleluia.</reg>
 	     </choice> Ascen
 <lb break="no"/>
@@ -149,7 +149,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christus) </seg>
-		       <orig>✝ꝰ </orig>
+		       <orig>xꝰ </orig>
 		       <reg>christus </reg>
 	     </choice> 
 	     <choice>
@@ -164,7 +164,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">all(eluia)</seg>
-		       <orig>al̇l</orig>
+		       <orig>all͘</orig>
 		       <reg>alleluia</reg>
 	     </choice> 
 	     <choice>
@@ -180,7 +180,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">all(eluia).</seg>
-		       <orig>al̇l.</orig>
+		       <orig>all͘.</orig>
 		       <reg>alleluia.</reg>
 	     </choice> a. In
 <lb/>die 
@@ -208,7 +208,7 @@
  
 	     <choice>
 		       <seg type="lucas">All(elui)a.</seg>
-		       <orig>All̇a.</orig>
+		       <orig>All͘a.</orig>
 		       <reg>Alleluia.</reg>
 	     </choice> 
 	     <choice>
@@ -225,7 +225,7 @@
  
 	     <choice>
 		       <seg type="lucas">All(elui)a</seg>
-		       <orig>All̇a</orig>
+		       <orig>All͘a</orig>
 		       <reg>Alleluia</reg>
 	     </choice> 
 	     <choice>
@@ -235,12 +235,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ar)aclit(us)</seg>
-		       <orig>paclitꝰ</orig>
+		       <orig>ꝑaclitꝰ</orig>
 		       <reg>paraclitus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">all(eluia)</seg>
-		       <orig>al̇l</orig>
+		       <orig>all͘</orig>
 		       <reg>alleluia</reg>
 	     </choice>
       <lb/>docebit vos 
@@ -251,7 +251,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">all(eluia).</seg>
-		       <orig>all̇.</orig>
+		       <orig>all͘.</orig>
 		       <reg>alleluia.</reg>
 	     </choice> In fes
 <lb break="no"/>to 
@@ -262,12 +262,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ)i</seg>
-		       <orig>ī</orig>
+		       <orig>xp̄ī</orig>
 		       <reg>christi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -277,7 +277,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">oct(av)a(m)</seg>
-		       <orig>oc̈ta</orig>
+		       <orig>ocẗa</orig>
 		       <reg>octavam</reg>
 	     </choice> ad
 <lb/>
@@ -294,12 +294,12 @@
  
 	     <choice>
 		       <seg type="lucas">All(elui)a</seg>
-		       <orig>All̇a</orig>
+		       <orig>All͘a</orig>
 		       <reg>Alleluia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(er)bu(m).</seg>
-		       <orig>̇vbū.</orig>
+		       <orig>v̇bū.</orig>
 		       <reg>verbum.</reg>
 	     </choice> In purifi
 <lb break="no"/>
@@ -326,7 +326,7 @@
  
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>S̄ca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> dei 
 	<choice>

@@ -48,9 +48,8 @@
 	     </choice> 
       <lb/>Ecce dies. 
 	<choice>
-	      <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> Veni ad li
 <lb break="no"/>
@@ -205,7 +204,7 @@
 	     <choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
-		       <reg>et </reg>
+		       <reg>et</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ve(n)i</seg>
@@ -257,14 +256,9 @@
 		       <reg>habitabit</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fide(n)t(er):</seg>
-		       <orig>fidēṫ:</orig>
-		       <reg>fidenter:</reg>
+		       <orig>ɔfidēṫ:</orig>
+		       <reg>confidenter:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -316,7 +310,7 @@
 	     <choice>
 	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>

@@ -60,7 +60,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">an(te)q(uam)</seg>
-                  <orig>an̄ɋ</orig>
+                  <orig>an̄q</orig> 
                   <reg>antequam</reg>
             </choice> 
             <choice>
@@ -102,13 +102,13 @@
             </choice> 
             <choice>
                   <seg type="lucas">Or(ratio).</seg>
-                  <orig>Or.</orig>
+                  <orig>Or̄.</orig>
                   <reg>Orratio.</reg>
             </choice>
             <lb/>
             <choice>
                   <seg type="lucas">O(mni)P(oten)s</seg>
-                  <orig>OPs</orig>
+                  <orig>OP̄s</orig>
                   <reg>OmniPotens</reg>
             </choice> 
             <choice>
@@ -213,7 +213,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">s(un)t</seg>
-                  <orig>st</orig>
+                  <orig>sṫ</orig>
                   <reg>sunt</reg>
             </choice> 
             <choice>

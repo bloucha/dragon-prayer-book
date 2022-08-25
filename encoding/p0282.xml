@@ -50,7 +50,7 @@
       <lb break="no"/>dita. Te 
 	<choice>
 		       <seg type="lucas">dep(re)cam(ur)</seg>
-		       <orig>dep̄cam݃ </orig>
+		       <orig>dep̄cam݃ </orig> 
 		       <reg>deprecamur</reg>
 	     </choice> agye
 <lb/>
@@ -65,14 +65,9 @@
 		       <reg>seculi</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">s(er)va</seg>
-	             <orig>sv̇a</orig>
-		       <reg>serva</reg>
+	             <orig>ɔsv̇a</orig>
+		       <reg>conserva</reg>
 	     </choice> nos
 <lb/>
 	     <choice>
@@ -166,7 +161,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> nubes
 <lb/>
@@ -193,7 +188,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -220,7 +215,7 @@
  Veni 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -241,7 +236,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig> <!-- have not decided on a unicode -->
+		       <orig>℞.</orig> 
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -256,7 +251,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig> <!-- confused about this unicode  -->
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>

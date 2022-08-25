@@ -12,27 +12,27 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">ei(us).</seg>
-		       <orig>ei.</orig>
+		       <orig>eiꝰ.</orig>
 		       <reg>eius.</reg>
 	     </choice> Ad 
 	<choice>
 		       <seg type="lucas">vesp(er)(?)</seg>
-		       <orig>vesp</orig>
+		       <orig>vesꝑ⋮</orig>
 		       <reg>vesper?</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">de(m)orabi(ur)</seg>
-		       <orig>deorabi</orig>
+		       <orig>dēorabi˸</orig>
 		       <reg>demorabiur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">flet(us):</seg>
-		       <orig>flet:</orig>
+		       <orig>fletꝰ:</orig>
 		       <reg>fletus:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig/>
+		       <orig>+ </orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>ad 

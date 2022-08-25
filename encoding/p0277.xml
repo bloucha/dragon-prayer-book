@@ -73,12 +73,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ar)ce(n)do</seg>
-	             <orig>pc̄edo</orig>
+	             <orig>ꝑc̄edo</orig> 
 		       <reg>parcendo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> voti 
 	<choice>
@@ -89,7 +89,7 @@
 <lb/>tuo vultu saties. 
 	<choice>
 		       <seg type="lucas">Q(uesumu)s</seg>
-		       <orig>Q̄s</orig> <!-- capital Q covers macron  -->
+		       <orig>Q̄s</orig> 
 		       <reg>Quesumus</reg>
 	     </choice> ac
 <lb break="no"/>tor. 
@@ -184,7 +184,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Gl(ori)a</seg>
-	             <orig>Glā</orig>
+	             <orig>Gl͘a</orig>
 		       <reg>Gloria</reg>
 	     </choice> 
 	     <choice>
@@ -261,7 +261,7 @@
 	             <orig>pectȯa</orig>
 		       <reg>pectora</reg>
 	     </choice>
-   </ab>
+   </ab> 
 
    <ab type="translation"
        xml:id="p0277_translation"

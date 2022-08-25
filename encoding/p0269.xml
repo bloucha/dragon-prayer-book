@@ -8,7 +8,7 @@
    <ab type="transcription"
        xml:id="p0269_transcription"
        corresp="#p0269_translation">
- → new scribe?
+ <!-- → new scribe? -->
 <lb/>es 
 	<choice>
 		       <seg type="lucas">laudabil(is)</seg>
@@ -222,9 +222,8 @@
 		       <reg>infunde</reg>
 	     </choice> ut 
 	<choice>
-	      <!-- check transcription, looks like qs -->
 		       <seg type="lucas">q(uos)</seg>
-		       <orig>qº</orig>
+		       <orig>qºs</orig>
 		       <reg>quos</reg>
 	     </choice>
       <lb/>

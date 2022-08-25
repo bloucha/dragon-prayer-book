@@ -20,7 +20,7 @@
 	     <choice>
 		       <seg type="lucas">v(ersu)s.</seg>
 		       <orig>v̈s.</orig>
-		       <reg>versus.</reg>
+		       <reg>versus.</reg> <!-- should this be vesperas ? -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
@@ -261,6 +261,13 @@
 
    <ab type="translation"
        xml:id="p0194_translation"
-       corresp="#p0194_transcription"/>
+       corresp="#p0194_transcription">in Your sight, O Lord. Monday vespers. Incline unto my aid, O God. 
+         I have loved, because the Lord will hear the voice of my prayer. 
+         Because he hath inclined his ear unto me: and in my days I will call upon him. 
+         The sorrows of death have encompassed me: and the perils of hell have found me. I met with trouble and sorrow:
+         And I called upon the name of the Lord. O Lord, deliver my soul. 
+         The Lord is merciful and just, and our God sheweth mercy. 
+         The Lord is the keeper of little ones: I was little  
+        <!-- psalm 114 cont --> </ab>
 
 </div>

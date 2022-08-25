@@ -44,15 +44,13 @@
                   <reg>qui</reg>
             </choice>
             <choice>
-                  <!-- check transcription, looks like xana -->
                   <seg type="lucas">(christi)ana</seg>
-                  <orig>ana</orig>
+                  <orig>xⁱana</orig>
                   <reg>christiana</reg>
             </choice>
             <choice>
-                  <!-- A751 not appearing correctly -->
                   <seg type="lucas">p(ro)fessio(n)e</seg>
-                  <orig>ꝑfessiōe</orig>
+                  <orig>ꝓfessiōe</orig> 
                   <reg>professione</reg>
             </choice>
             <choice>
@@ -62,9 +60,8 @@
             </choice>
             <lb break="no"/>
             <choice>
-                  <!-- 0743 not appearing correctly -->
                   <seg type="lucas">se(n)t(ur).</seg>
-                  <orig>sēt݃.</orig>
+                  <orig>sēt݃.</orig> 
                   <reg>sentur.</reg>
             </choice>
             <choice>
@@ -119,9 +116,9 @@
                   <reg>Dominica.</reg>
             </choice>
             <choice>
-                  <!-- unsure how to code, looks like in with 0308 -->
+                  <!-- check transcription unsure how to code, looks like in with 0308 -->
                   <seg type="lucas">(terica).</seg>
-                  <orig>.</orig>
+                  <orig>in̈.</orig>
                   <reg>terica.</reg>
             </choice>
             <choice>
@@ -186,7 +183,7 @@
             </choice>
             <choice>
                   <seg type="lucas">p(ro)mit</seg>
-                  <orig>ꝑmit</orig>
+                  <orig>ꝓmit</orig>
                   <reg>promit</reg>
             </choice>
             <lb break="no"/>tis: ut <choice>
@@ -235,7 +232,7 @@
             <choice>
                   <!-- check transcription, looks like im  -->
                   <seg type="lucas">(quarta).</seg>
-                  <orig>.</orig>
+                  <orig>im.</orig>
                   <reg>quarta.</reg>
             </choice>
             <choice>
@@ -255,11 +252,10 @@
                   <reg>cuncta</reg>
             </choice>
             <choice>
-                  <!-- A751 not appearing correctly -->
                   <seg type="lucas">p(ro)ced(un)t:</seg>
-                  <orig>ꝑced̄t:</orig>
+                  <orig>ꝓced̄t:</orig>
                   <reg>procedunt:</reg>
-            </choice> lar⸗ </ab>
+            </choice> lar⸗ </ab> 
 
       <ab type="translation" xml:id="p0275_translation" corresp="#p0275_transcription"/>
 

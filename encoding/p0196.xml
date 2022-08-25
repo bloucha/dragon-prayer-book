@@ -287,9 +287,9 @@
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">q(ui)d</seg>
+		       <seg type="lucas">q(uo)d</seg>
 		       <orig>qḋ</orig>
-		       <reg>quid</reg>
+		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">locut(us)</seg>

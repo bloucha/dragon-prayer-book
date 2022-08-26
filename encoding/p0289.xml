@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -43,7 +43,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -93,12 +93,12 @@
 		       <seg type="lucas">q(ue)</seg>
 		       <orig>q̄</orig>
 		       <reg>que</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">p(ro)†</seg>
-		       <orig>ꝑ†</orig>
-		       <reg>pro†</reg>
-	     </choice>
+		       <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	</choice></supplied>
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tis</seg>
@@ -122,9 +122,8 @@
 		       <reg>iuvante</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">vi(n)cam(us).</seg>
-		       <orig>vīcamꝰ.</orig>
+		       <orig>vīcamꝰ.</orig> 
 		       <reg>vincamus.</reg>
 	     </choice> 
 	     <choice>
@@ -285,7 +284,7 @@
 	     <choice>
 	           <!-- check transcription -->
 		       <seg type="lucas">iiii(?).</seg>
-		       <orig>iiii.</orig>
+		       <orig>iïii.</orig>
 		       <reg>iiii?.<!--  check expansion --></reg>
 	     </choice> 
  
@@ -295,15 +294,9 @@
 		       <reg>Peccata.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Or(ati?)o.
-
-</seg>
-		       <orig>Or̄o.
-
-</orig>
-		       <reg>Orati?o.
-
-<!--  check expansion --></reg>
+		       <seg type="lucas">Or(ati?)o.</seg>
+		       <orig>Or̄o.</orig>
+		       <reg>Orati?o.<!--  check expansion --></reg>
 	     </choice> 
    </ab>
 

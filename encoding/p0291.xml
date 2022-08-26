@@ -160,12 +160,12 @@
 <lb break="no"/>di: ut 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̄</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> iuste 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -186,7 +186,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> tui 
 	<choice>
@@ -207,8 +207,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">libe(re)m(ur).</seg>
-	           <!-- 0743 not appearing correctly -->
-		       <orig>libėm݃.</orig>
+		       <orig>libėm݃.</orig> 
 		       <reg>liberemur.</reg>
 	     </choice> 
 	     <choice>
@@ -254,13 +253,11 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)ge(n)ie.</seg>
-		       <orig>ꝑgēie.</orig>
+		       <orig>ꝑgēie.</orig> 
 		       <reg>progenie.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, it looks like a b -->
 		       <seg type="lucas">V(?)</seg>
 		       <orig>V̇</orig>
 		       <reg>V?</reg>
@@ -289,7 +286,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">celor(um)</seg>
-		       <orig>celor⋮</orig>
+		       <orig>celo</orig>
 		       <reg>celorum</reg>
 	     </choice> 
 	     <choice>
@@ -314,15 +311,10 @@
 		       <reg>primo</reg>
 	     </choice> ma
 <lb break="no"/>ne 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">duce(re)</seg>
-		       <orig>ducē</orig>
-		       <reg>ducere</reg>
+		       <orig>ɔducē</orig>
+		       <reg>conducere</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">op(er)arios</seg>

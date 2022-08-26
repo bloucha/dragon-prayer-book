@@ -11,13 +11,8 @@
 
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">v(er)sa</seg>
-		       <orig>̇vsa</orig>
+		       <orig>ɔv̇sa</orig>
 		       <reg>versa</reg>
 	     </choice> 
 	     <choice>
@@ -27,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">all(eluia).</seg>
-		       <orig>all̇.</orig>
+		       <orig>all͘.</orig>
 		       <reg>alleluia.</reg>
 	     </choice> 
 	     <choice>
@@ -100,7 +95,7 @@
 	     </choice> ad 
 	<choice>
 		       <seg type="lucas">p(ro)te</seg>
-		       <orig>ꝓte</orig>
+		       <orig>ꝓte</orig> 
 		       <reg>prote</reg>
 	     </choice>
       <lb break="no"/>
@@ -111,7 +106,7 @@
 	     </choice> nos 
 	<choice>
 		       <seg type="lucas">dext(er)a(m)</seg>
-		       <orig>deẋta⋮</orig>
+		       <orig>dexṫa⋮</orig>
 		       <reg>dexteram</reg>
 	     </choice> tue ma
 <lb break="no"/>iestatis 
@@ -127,7 +122,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(?)</seg>
-		       <orig>̇v</orig>
+		       <orig>v̇</orig>
 		       <reg>v?</reg>
 	     </choice> 
 	     <choice>
@@ -144,7 +139,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">a(u)t(em)</seg>
-		       <orig>āt</orig>
+		       <orig>at̄</orig>
 		       <reg>autem</reg>
 	     </choice> 
 	     <choice>
@@ -191,7 +186,7 @@
 	     </choice> si 
 	<choice>
 		       <seg type="lucas">vi(s)</seg>
-		       <orig>viꝰ</orig>
+		       <orig>viˢ</orig>
 		       <reg>vis</reg>
 	     </choice>
       <lb/>potes me 
@@ -202,7 +197,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -234,7 +229,7 @@
       <lb/>volo 
 	<choice>
 		       <seg type="lucas">mu(n)dare.</seg>
-		       <orig>mud̄are.</orig>
+		       <orig>mūdare.</orig>
 		       <reg>mundare.</reg>
 	     </choice> 
 	     <choice>
@@ -262,7 +257,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> ait 
 	<choice>
@@ -283,7 +278,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(tercia).</seg>
-		       <orig>ṅj.</orig>
+		       <orig>ṅj.</orig><!-- check expansion -->
 		       <reg>tercia.</reg>
 	     </choice> 
 	     <choice>
@@ -295,12 +290,8 @@
 		       <seg type="lucas">Or(ati?)o.
 
 </seg>
-		       <orig>Or̄o.
-
-</orig>
-		       <reg>Orati?o.
-
-<!--  check expansion --></reg>
+		       <orig>Or̄o.</orig>
+		       <reg>Orati?o.<!--  check expansion --></reg>
 	     </choice> 
    </ab>
 

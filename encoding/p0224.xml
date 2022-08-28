@@ -22,7 +22,7 @@
 	     </choice>  (Christi eleison). Freitag 
 	<choice>
 		       <seg type="lucas">v(er)s(us).</seg>
-	             <orig>v̇ṡ.</orig> <!-- should this be separated dots, or a diacritic? -->
+	             <orig>v̈s.</orig> 
 		       <reg>versus.</reg>
 	     </choice>
       <lb/>
@@ -50,7 +50,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-	             <orig>ṫ</orig>
+	             <orig>t͘</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
@@ -93,7 +93,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">a(n)g(e)lor(um)</seg>
-	             <orig>āgl͘oꝝ</orig>
+	             <orig>āgl͘or⋮</orig>
 		       <reg>angelorum</reg>
 	     </choice> 
 	     <choice>
@@ -103,7 +103,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi):</seg>
-	             <orig>ṫ:</orig>
+	             <orig>t͘:</orig>
 		       <reg>tibi:</reg>
 	     </choice> adorabo
 <lb/>ad 
@@ -113,8 +113,8 @@
 		       <reg>templum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">s(an)ct(u)m</seg> <!-- is the t in the actual text or is it an abbreviation? -->
-		       <orig>sctm̄</orig>
+		       <seg type="lucas">s(an)c(tu)m</seg>
+		       <orig>scm̄</orig>
 		       <reg>sanctum</reg>
 	     </choice> 
 	     <choice>
@@ -144,8 +144,8 @@
 		       <reg>Super</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">mi(sericord)ia</seg> <!-- I do not see two "i"s  -->
-	             <orig>miīa</orig> 
+		       <seg type="lucas">mi(sericord)a</seg> 
+	             <orig>mīa</orig> 
 		       <reg>misericordia</reg>
 	     </choice> 
 	     <choice>
@@ -256,7 +256,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-	             <orig>ṫ</orig>
+	             <orig>t͘</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
@@ -271,7 +271,7 @@
 	     </choice> reges 
 	<choice>
 		       <seg type="lucas">t(er)re:</seg>
-	             <orig>ṫre:</orig>
+	             <orig>t͘re:</orig>
 		       <reg>terre:</reg>
 	     </choice>
    </ab>

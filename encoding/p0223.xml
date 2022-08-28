@@ -23,7 +23,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">filior(um)</seg>
-		       <orig>filior</orig>
+		       <orig>filior⋮</orig>
 		       <reg>filiorum</reg>
 	     </choice> 
 	     <choice>
@@ -39,7 +39,7 @@
 	     </choice> die 
 	<choice>
 		       <seg type="lucas">i(e)r(usa)l(em).</seg>
-		       <orig>irl⋮.</orig>
+		       <orig>irl͘⋮.</orig>
 		       <reg>ierusalem.</reg>
 	     </choice> 
 	     <choice>
@@ -77,7 +77,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mis(er)a:</seg>
-		       <orig>misa:</orig>
+		       <orig>mis͘a:</orig>
 		       <reg>misera:</reg>
 	     </choice> 
 	     <choice>
@@ -87,7 +87,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -98,7 +98,7 @@
       <lb break="no"/>et 
 	<choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>ṫ</orig>
+		       <orig>t͘</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
@@ -134,18 +134,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> te
 <lb break="no"/>nebit: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> allidet 
 	<choice>
 		       <seg type="lucas">p(ar)vulos</seg>
-		       <orig>pvulos</orig>
+		       <orig>ꝑvulos</orig>
 		       <reg>parvulos</reg>
 	     </choice>
       <lb/>suos ad 
@@ -161,7 +161,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(h)ym</seg>
-		       <orig>ym</orig>
+		       <orig>ymp</orig>
 		       <reg>hym</reg>
 	     </choice> 
       <lb/>
@@ -199,7 +199,7 @@
 	     <choice>
 		       <seg type="lucas">a(?).</seg>
 		       <orig>ä.</orig>
-		       <reg>a?.<!--  check expansion --></reg>
+		       <reg>a?.<!--  check expansion, alleluia? --></reg>
 	     </choice> 
  Deposuit 
 	<choice>
@@ -215,13 +215,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)seq(ue)n</seg>
-		       <orig>pseq̄n</orig>
+		       <orig>ꝑseq̄n</orig>
 		       <reg>persequen</reg>
 	     </choice>
       <lb break="no"/>tes 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> exaltavit
 <lb/>
@@ -232,7 +232,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christu)m</seg>
-		       <orig>m</orig>
+		       <orig>xp̄m</orig>
 		       <reg>christum</reg>
 	     </choice> 
 	     <choice>

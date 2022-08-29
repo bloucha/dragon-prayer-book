@@ -28,7 +28,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">m(u)lier(um)</seg>
-	                  <orig>ml͘ieꝝ</orig>
+	                  <orig>ml͘ieꝝ</orig> 
 		       <reg>mulierum</reg>
 	     </choice> 
 	     <choice>
@@ -76,9 +76,8 @@
 		       <reg>retrorsum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- ? not sure how to code -->
 		       <seg type="lucas">n(e)c</seg>
-		       <orig>nc</orig>
+		       <orig>nᶜ</orig>
 		       <reg>nec</reg>
 	     </choice> 
 	     <choice>
@@ -157,7 +156,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">a(n)gelu(m)</seg>
-	                 <orig>āgelū</orig>
+	              <orig>āgelū</orig>
 		       <reg>angelum</reg>
 	     </choice> 
 	     <choice>
@@ -199,7 +198,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)d</seg>
-		       <orig>q݃d</orig>
+		       <orig>q̇d</orig>
 		       <reg>quid</reg>
 	     </choice> 
 	     <choice>
@@ -219,16 +218,14 @@
 		       <reg>Montes</reg>
 	     </choice> gelboe 
 	<choice>
-	      <!-- again unsure of how to code -->
 		       <seg type="lucas">n(ec)</seg>
-		       <orig>n</orig>
+		       <orig>nᶜ</orig>
 		       <reg>nec</reg>
 	     </choice> ros
 <lb/>
 	     <choice>
-	           <!-- again unsure of how to code -->
 		       <seg type="lucas">n(ec)</seg>
-		       <orig>n</orig>
+		       <orig>nᶜ</orig>
 		       <reg>nec</reg>
 	     </choice> pluvia 
 	<choice>
@@ -238,13 +235,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sup(er)</seg>
-		       <orig>suṗ</orig>
+		       <orig>suꝑ</orig>
 		       <reg>super</reg>
 	     </choice>
       <lb/>vos 
 	<choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q;</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> ibi 
 	<choice>
@@ -254,7 +251,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
-		       <orig>e</orig>
+		       <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice> cly
 <lb break="no"/>

@@ -75,7 +75,7 @@
  
 	     <choice>
 		       <seg type="lucas">D(omi)n(us)</seg>
-		       <orig>Dn̄ꝰ</orig>
+		       <orig>Dn̄ˢ</orig>
 		       <reg>Dominus</reg>
 	     </choice> pos
 <lb break="no"/>sedit me 
@@ -146,11 +146,11 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">qu(ando)</seg>
+	           <!-- check transcription, this looks like qn̄ -->
 		       <orig>qū</orig>
 		       <reg>quando</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure about little hook to right, just use regular hook p? -->
 		       <seg type="lucas">p(re)p(ar)a</seg>
 	           <orig>p̄ꝑa</orig>
 		       <reg>prepara</reg>
@@ -196,7 +196,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">tissi(mi)s</seg>
-		       <orig>tissis̄</orig>
+		       <orig>tissīs</orig>
 		       <reg>tissimis</reg>
 	     </choice> 
 	     <choice>
@@ -222,7 +222,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">colu(m)na</seg>
-		       <orig>colūna</orig>
+		       <orig>colup̄na</orig>
 		       <reg>columna</reg>
 	     </choice> 
 	     <choice>
@@ -248,7 +248,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-	                 <orig>ℜ.</orig>
+	                 <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -282,7 +282,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">aq(ue)</seg>
-		       <orig>āq</orig>
+		       <orig>aq̄</orig>
 		       <reg>aque</reg>
 	     </choice> sic 
 	<choice>
@@ -298,7 +298,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q;</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -313,7 +313,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ti(m)eba(m)</seg>
-		       <orig>tĩeba䀰</orig>
+		       <orig>tĩebā</orig>
 		       <reg>timebam</reg>
 	     </choice> evenit
 

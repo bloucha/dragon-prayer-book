@@ -65,7 +65,7 @@
       <lb/>
 	     <choice>
 	          <seg type="lucas">s(upe)r</seg>
-		       <orig>sr</orig>
+		       <orig>sr̄</orig>
 		       <reg>super</reg>
 	     </choice> me 
 	<choice>
@@ -147,7 +147,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">nu(n)cior(um)</seg>
-	                  <orig>nūcioꝝ</orig>
+	              <orig>nūcioꝝ</orig> 
 		       <reg>nunciorum</reg>
 	     </choice> 
 	     <choice>
@@ -174,7 +174,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">m(us)</seg>
-	                  <orig>mꝰ</orig>
+	              <orig>mꝰ</orig>
 		       <reg>mus</reg>
 	     </choice> de manu 
 	<choice>
@@ -200,7 +200,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">susti(n)eam(us)</seg>
-		       <orig>sustīeamꝰ</orig>
+		       <orig>sustīeamꝰ</orig> 
 		       <reg>sustineamus</reg>
 	     </choice> 
 	     <choice>
@@ -242,14 +242,9 @@
 		       <reg>aliquid</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	                  <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ra)</seg>
-		       <orig>ẗ</orig>
-		       <reg>tra</reg>
+		       <orig>ɔẗ</orig>
+		       <reg>contra</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">deu(m)</seg>

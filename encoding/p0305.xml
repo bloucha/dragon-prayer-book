@@ -105,7 +105,7 @@
 		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
-         <!-- check transcription, missing an i -->
+         <!-- check transcription, missing an i, probably ī(n) -->
 	     <choice>
 		       <seg type="lucas">p(re)ceptis</seg>
 		       <orig>p̄ceptis</orig>
@@ -155,9 +155,8 @@
 		       <reg>nostris</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -188,7 +187,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>

@@ -41,7 +41,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">stultu(m)</seg>
-		       <orig>stultuȃ</orig>
+		       <orig>stultū</orig>
 		       <reg>stultum</reg>
 	     </choice> 
 	     <choice>
@@ -50,14 +50,9 @@
 		       <reg>quid</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ra)</seg>
-		       <orig>ẗ</orig>
-		       <reg>tra</reg>
+		       <orig>ɔẗ</orig>
+		       <reg>contra</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">deu(m)</seg>
@@ -87,13 +82,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">septe(m)b(ri?)s</seg>
-		       <orig>septēb̈s</orig>
+		       <orig>septēḃs</orig>
 		       <reg>septembri?s</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-	                 <orig>ℜ.</orig>
+	                 <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -264,7 +259,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">s(em)p(er)</seg>
-		       <orig>ꝑp</orig>
+		       <orig>sꝑ</orig>
 		       <reg>semper</reg>
 	     </choice> sit cui thobias ait 
 	<choice>

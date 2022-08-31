@@ -15,7 +15,7 @@
             </choice>
             <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> + </orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice>
             <choice>
@@ -59,14 +59,9 @@
                   <reg>supant</reg>
             </choice>
             <choice>
-                  <seg type="lucas">(con)</seg>
-                  <orig> ɔ</orig>
-                  <reg>con</reg>
-            </choice>
-            <choice>
                   <seg type="lucas">seq(ua)m(ur).</seg>
-                  <orig>seq̈m݃.</orig>
-                  <reg>sequamur.</reg>
+                  <orig>ɔseq̈m݃.</orig> 
+                  <reg>consequamur.</reg>
             </choice>
             <lb/>
             <choice>
@@ -153,7 +148,7 @@
             </choice>
             <lb break="no"/>te alcare <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> + </orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice>
             <choice>
@@ -217,7 +212,7 @@
                   <reg>ante</reg>
             </choice> alta <lb break="no"/>re <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> + </orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice> vade <choice>
                   <seg type="lucas">p(ri)us</seg>
@@ -236,7 +231,7 @@
                   <reg>fratri</reg>
             </choice> tuo <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> + </orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice>
             <choice>
@@ -267,7 +262,7 @@
                   <seg type="lucas">Do(minica?)</seg>
                   <orig>Dö</orig>
                   <reg>Dominica?</reg>
-            </choice> (septima?) <lb/>
+            </choice> (septima?) <lb/> <!-- is there a choice needed here? check transcription -->
             <choice>
                   <seg type="lucas">D(eu)s</seg>
                   <orig>Ḋs</orig>

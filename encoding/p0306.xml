@@ -12,7 +12,8 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈ˢ</orig>
+		       <orig>q̈</orig>
+	           <!-- pls quam -->
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
@@ -38,7 +39,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>sc̄or⋮</orig>
+		       <orig>sc̄oꝝ</orig> 
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
@@ -94,7 +95,7 @@
 	     <choice>
 	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">reco(n)ciliet(ur)</seg>
-		       <orig>recōciliet݃</orig>
+		       <orig>recōciliet݃</orig>  
 		       <reg>reconcilietur</reg>
 	     </choice> 
 	     <choice>
@@ -131,9 +132,8 @@
 		       <reg>noviembri?s.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> Aspice 
 	<choice>
@@ -233,7 +233,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> regis 
 	<choice>

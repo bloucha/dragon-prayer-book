@@ -159,12 +159,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)imicor(um)</seg>
-	                 <orig>īimicorꝝ</orig>
+	                 <orig>īimicor⋮</orig>
 		       <reg>inimicorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">meor(um)</seg>
-	                 <orig>meorꝝ</orig>
+	                 <orig>meor⋮</orig>
 		       <reg>meorum</reg>
 	     </choice> 
 	     <choice>
@@ -192,11 +192,11 @@
 		       <seg type="lucas">salvu(m)</seg>
 		       <orig>salvū</orig>
 		       <reg>salvum</reg>
-	     </choice> me <!-- on the scan of the book it looks like there is another word after this that isn't in the transcription -->
+	     </choice> me 
 <lb/>fecit 
 	<choice>
 		       <seg type="lucas">dext(r)a</seg>
-		       <orig>dexṫa</orig>
+		       <orig>dext͘a</orig>
 		       <reg>dextra</reg>
 	     </choice> tua. 
 	<choice>
@@ -206,13 +206,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ret(ri)</seg>
-		       <orig>reṫ</orig>
+		       <orig>ret͘</orig>
 		       <reg>retri</reg>
 	     </choice>
       <lb break="no"/>buet 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-	                  <orig>ꝓ</orig>
+	                  <orig>ꝑ</orig>
 		       <reg>pro</reg>
 	     </choice> me: 
 	<choice>
@@ -238,7 +238,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">op(er)a</seg>
-		       <orig>oṗa</orig>
+		       <orig>oꝑa</orig>
 		       <reg>opera</reg>
 	     </choice> 
 	     <choice>
@@ -248,7 +248,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um)</seg>
-	                 <orig>tuaꝝ</orig>
+	                 <orig>tuar⋮</orig>
 		       <reg>tuarum</reg>
 	     </choice> ne
 <lb/>despicias. 
@@ -270,7 +270,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)g(u)lor(um)</seg>
-	                 <orig>āgl͘orꝝ</orig>
+	                 <orig>āgl͘or⋮</orig>
 		       <reg>angulorum</reg>
 	     </choice> ps
 <lb break="no"/>
@@ -281,7 +281,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>ṫ</orig>
+		       <orig>t͘</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>

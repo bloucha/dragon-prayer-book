@@ -54,10 +54,8 @@
 	     </choice>
       <lb/>celestis 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
-	      <!-- check transcription, looks like initit -->
 		       <seg type="lucas">i(n)itit(ur);</seg>
-		       <orig>īitit݃;</orig>
+		       <orig>īnitit݃;</orig> 
 		       <reg>inititur;</reg>
 	     </choice> tua 
 	<choice>
@@ -67,7 +65,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb break="no"/>
@@ -79,7 +77,7 @@
 	     <choice>
 	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">mu(n)iat(ur).</seg>
-		       <orig>mūiat݃.</orig>
+		       <orig>mūiat݃.</orig> 
 		       <reg>muniatur.</reg>
 	     </choice> 
 	     <choice>
@@ -114,8 +112,11 @@
 		       <orig>bonū</orig>
 		       <reg>bonum</reg>
 	     </choice> semen
-         <!-- check transcription, there is an appreviation on seminasti -->
-<lb/>seminasti 
+         <choice>
+               <orig>sēiasti</orig>
+               <reg>seminasti</reg>
+         </choice>
+<lb/>
 	<choice>
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
@@ -175,7 +176,6 @@
 		       <seg type="lucas">p(ri)mu(m)</seg>
 		       <orig>ṗmū</orig>
 		       <reg>primum</reg>
-	           <!-- check transcription, abbreviation after i or the zizania above is incorrect -->
 	     </choice> zizania 
 	<choice>
 		       <seg type="lucas">(et) </seg>
@@ -187,16 +187,11 @@
 		       <seg type="lucas">fascic(u)los</seg>
 		       <orig>fasciclos</orig>
 		       <reg>fasciculos</reg>
-	     </choice> ad 
-	<choice>
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
+	     </choice> ad
 	     <choice>
 		       <seg type="lucas">bure(n)du(m)</seg>
-		       <orig>burēdū</orig>
-		       <reg>burendum</reg>
+		       <orig>ɔburēdū</orig>
+		       <reg>comburendum</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -238,7 +233,7 @@
 	     <choice>
 	           <!-- unsure how to code -->
 		       <seg type="lucas">(sexta).</seg>
-		       <orig>.</orig>
+		       <orig>un??.</orig>
 		       <reg>sexta.</reg>
 	     </choice> 
 	     <choice>
@@ -248,9 +243,8 @@
 	     </choice> 
  
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium)</seg>
-		       <orig>R</orig>
+		       <orig>℞</orig>
 		       <reg>Responsorium</reg>
 	     </choice> Igi
 <lb break="no"/>
@@ -260,9 +254,8 @@
 		       <reg>tur</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)f(e)c(t)i</seg>
-		       <orig>ꝑfc̄i</orig>
+		       <orig>ꝑfc̄i</orig> 
 		       <reg>perfecti</reg>
 	     </choice> 
 	     <choice>
@@ -298,18 +291,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">plevitq(ue)</seg>
-		       <orig>plevitq⋮</orig>
-		       <reg>plevitque</reg>
+		       <orig>ɔplevitq⋮</orig>
+		       <reg>complevitque</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>

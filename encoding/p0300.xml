@@ -31,9 +31,9 @@
             </choice>
             <choice>
                   <seg type="lucas">s(ub)limiu(m)</seg>
-                  <orig>sl̈imiū</orig>
+                  <orig>sḃlimiū</orig>
                   <reg>sublimium</reg>
-            </choice> col/l\a <choice>
+            </choice> colla <choice>
                   <seg type="lucas">p(ro)p(ri)a</seg>
                   <orig>ꝓṗa</orig>
                   <reg>propria</reg>
@@ -55,7 +55,7 @@
             <lb/>
             <choice>
                   <seg type="lucas">altissi(mi)s</seg>
-                  <orig>altissis̄</orig>
+                  <orig>altissīs</orig>
                   <reg>altissimis</reg>
             </choice>
             <choice>
@@ -229,7 +229,7 @@
                   <reg>sublimium</reg>
             </choice> col <lb break="no"/>la "calcavi <choice>
                   <seg type="lucas">p(ro)p(ri)a</seg>
-                  <orig>ꝓṗa</orig>
+                  <orig>ꝓṗa</orig> 
                   <reg>propria</reg>
             </choice>
             <choice>

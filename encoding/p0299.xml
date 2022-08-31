@@ -97,7 +97,7 @@
 	     </choice> morte 
 	<choice>
 		       <seg type="lucas">q(uoque)</seg>
-		       <orig>q̊⋮</orig>
+		       <orig>qº⋮</orig>
 		       <reg>quoque</reg>
 	     </choice> 
 	     <choice>
@@ -112,7 +112,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sep(er)a</seg>
-	          	<orig>seꝑa</orig>
+	          <orig>seꝑa</orig>
 		       <reg>sepera</reg>
 	     </choice>
       <lb break="no"/>ti. 
@@ -129,7 +129,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">p(er)to</seg>
-	            	<orig>ꝑto</orig>
+	            <orig>ꝑto</orig>
 		       <reg>perto</reg>
 	     </choice> capite 
 	<choice>
@@ -172,7 +172,7 @@
 <lb/>ut ego moriar 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-	           	<orig>ꝓ</orig>
+	           <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> te fili
 <lb/>mi 
@@ -194,12 +194,12 @@
 <lb break="no"/>to. 
 	<choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-	            	<orig>ℜ.</orig>
+	            <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Gyr(um)</seg>
-	            	<orig>Gyꝝ</orig>
+	            <orig>Gyꝝ</orig>
 		       <reg>Gyrum</reg>
 	     </choice> celi 
 	<choice>
@@ -228,12 +228,12 @@
 		       <orig>ā</orig>
 		       <reg>am</reg>
 	     </choice>
-      <lb break="no"/>†
+      <lb break="no"/><supplied>
 	<choice>
-		       <seg type="lucas">b(u)lavi†</seg>
-		       <orig>bl͘avi†</orig>
-		       <reg>bulavi†</reg>
-	     </choice> 
+		       <seg type="lucas">b(u)lavi</seg>
+		       <orig>bl͘avi</orig>
+		       <reg>bulavi</reg>
+	</choice></supplied> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>

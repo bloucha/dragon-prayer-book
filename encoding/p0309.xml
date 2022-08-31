@@ -33,7 +33,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)da(m)</seg>
-		       <orig>q̄dā</orig>
+		       <orig>q̇dā</orig>
 		       <reg>quidam</reg>
 	     </choice> erat di
 <lb break="no"/>ves 
@@ -43,9 +43,8 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">i(n)duebat(ur)</seg>
-		       <orig>īduebat݃</orig>
+		       <orig>īduebat݃</orig>  
 		       <reg>induebatur</reg>
 	     </choice> purpura
 <lb/>
@@ -77,14 +76,13 @@
 	     </choice> erat 
 	<choice>
 		       <seg type="lucas">q(ui)da(m)</seg>
-		       <orig>q̄dā</orig>
+		       <orig>q̇dā</orig>
 		       <reg>quidam</reg>
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">me(n)dic(us)</seg>
-		       <orig>mēdicꝰ</orig>
+		       <orig>mēdicꝰ</orig> 
 		       <reg>mendicus</reg>
 	     </choice> 
 	     <choice>
@@ -99,7 +97,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̄</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> ia
 <lb break="no"/>cebat ad 
@@ -248,7 +246,7 @@
 	     </choice> mitte 
 	<choice>
 		       <seg type="lucas">lazar(um)</seg>
-		       <orig>lazar⋮</orig>
+		       <orig>lazaꝝ</orig>
 		       <reg>lazarum</reg>
 	     </choice> ut 
 	<choice>

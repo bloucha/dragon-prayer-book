@@ -49,7 +49,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">suspe(n)dim(us)</seg>
-		       <orig>suspedimꝰ</orig>
+		       <orig>suspēdimꝰ</orig>
 		       <reg>suspendimus</reg>
 	     </choice> orga
 <lb break="no"/>na 
@@ -60,7 +60,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q̇a</orig>
+		       <orig>Q̇͘a</orig>
 		       <reg>Quia</reg>
 	     </choice> illic 
 	<choice>
@@ -76,7 +76,7 @@
 	     </choice> nos 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> captivos
 <lb/>
@@ -103,7 +103,7 @@
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -171,7 +171,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra</seg>
-		       <orig>ṫra</orig>
+		       <orig>t͘ra</orig>
 		       <reg>terra</reg>
 	     </choice> aliena.
 <lb/>Si 
@@ -183,17 +183,11 @@
 	     <choice>
 		       <seg type="lucas">fu(er)o</seg>
 		       <orig>fu͘o</orig>
-	           <!-- normally we put the dot over the letter but 
-	                 since a dot over a u is so rare and usually means
-	                 a v I'm putting it to the right to avoid confusion
-	                 also it looks like it's to the right -->
 		       <reg>fuero</reg>
 	     </choice> tui 
 	<choice>
 		       <seg type="lucas">i(e)r(u)s(ale)m:</seg>
 		       <orig>ihrl͘m:</orig>
-	      <!-- corrected from irsm bc that's not what's written on the 
-	            page obligatory remind lucas I'm better than him -->
 		       <reg>ierusalem:</reg>
 	     </choice>
       <lb/>
@@ -209,13 +203,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dext(er)a</seg>
-		       <orig>dexṫa</orig>
+		       <orig>dext͘a</orig>
 		       <reg>dextera</reg>
 	     </choice> mea.
 <lb/>
 	     <choice>
 		       <seg type="lucas">Adh(er)eat</seg>
-		       <orig>Adḣeat</orig>
+		       <orig>Adh͘eat</orig>
 		       <reg>Adhereat</reg>
 	     </choice> 
 	     <choice>
@@ -247,8 +241,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)posu(er)o</seg>
-		       <orig>ꝓposu͘o</orig>
-	           <!-- not sure if macron or dot over the u -->
+		       <orig>ꝓposu͘o</orig> 
 		       <reg>proposuero</reg>
 	     </choice> 
 	     <choice>

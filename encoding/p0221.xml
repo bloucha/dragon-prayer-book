@@ -23,7 +23,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">amorreor(um).</seg>
-	             <orig>amorreorꝝ.</orig>
+	             <orig>amorreor⋮.</orig>
 		       <reg>amorreorum.</reg>
 	     </choice> Et og
 <lb/>
@@ -39,24 +39,24 @@
 	     </choice> Et dedit 
 	<choice>
 		       <seg type="lucas">t(er)ra(m)</seg>
-		       <orig>trā</orig>
+		       <orig>ṫrā</orig>
 		       <reg>terram</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eorꝝ</orig>
+	             <orig>eor⋮</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">he(re)ditate(m).</seg>
 		       <orig>h͘editatē.</orig>
 		       <reg>hereditatem.</reg>
-	           <!-- might be a dot above e, check -->
+	           
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">He(re)ditatem</seg>
-		       <orig>H͘͘editatem</orig>
+		       <orig>Hėditatem</orig>
 		       <reg>Hereditatem</reg>
 	     </choice>
       <lb/>
@@ -148,7 +148,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um):</seg>
-	             <orig>ꝝ:</orig>
+	             <orig>r⋮:</orig>
 		       <reg>rum:</reg>
 	     </choice> 
 	     <choice>
@@ -158,7 +158,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)et(er)nu(m)</seg>
-		       <orig>īeṫnū</orig>
+		       <orig>īet͘nū</orig>
 		       <reg>ineternum</reg>
 	     </choice> 
 	     <choice>
@@ -173,24 +173,24 @@
 	     </choice>
          <choice>
                <seg type="lucas">a(lleluia).</seg>
-               <orig>eiꝰ.</orig>
-               <reg>eius.</reg>
+               <orig>ä.</orig>
+               <reg>alleluia.</reg>
          </choice>
-         <!-- this alleluia was completely missing from the transcription  -->
+         
       <lb/>
 	     <choice>
 		       <seg type="lucas">Q(uonia)m</seg>
-		       <orig>Qm</orig>
+		       <orig>Qm̄</orig>
 		       <reg>Quoniam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">inet(er)nu(m)</seg>
-		       <orig>inetnū</orig>
+		       <orig>īnet͘nū</orig>
 		       <reg>ineternum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mi(sericordi)a</seg>
-		       <orig>miā</orig>
+		       <orig>mīa</orig>
 		       <reg>misericordia</reg>
 	     </choice> eius.
 <lb/>
@@ -216,7 +216,7 @@
 	             <orig>sedimꝰ</orig>
 		       <reg>sedimus</reg>
 	     </choice> et          
-         <!-- there was a random h here i deleted -->
+         
 	     <choice>
 		       <seg type="lucas">ymnu(s).</seg>
 		       <orig>ymnū.</orig>

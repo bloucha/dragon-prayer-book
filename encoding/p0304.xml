@@ -48,9 +48,8 @@
 	     </choice>
       <lb/>video cui 
 	<choice>
-	      <!-- A770 not appearing correctly -->
 		       <seg type="lucas">a(n)gel(us)</seg>
-		       <orig>āgelꝰ</orig>
+		       <orig>āgelꝰ</orig> 
 		       <reg>angelus</reg>
 	     </choice> 
 	     <choice>
@@ -70,9 +69,8 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)xi(m)o</seg>
-		       <orig>ꝑxīo</orig>
+		       <orig>ꝓxīo</orig>
 		       <reg>proximo</reg>
 	     </choice> 
 	     <choice>
@@ -104,15 +102,14 @@
 		       <reg>vel</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(are)ntu(m)</seg>
-		       <orig>ꝑntū</orig>
+		       <orig>ꝑntū</orig> 
 		       <reg>parentum</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">meor(um)</seg>
-		       <orig>meor⋮</orig>
+		       <orig>meoꝝ</orig>
 		       <reg>meorum</reg>
 	     </choice> 
 	     <choice>
@@ -193,12 +190,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">s(er)vor(um)</seg>
-		       <orig>s͘vor⋮</orig>
+		       <orig>s͘voꝝ</orig> 
 		       <reg>servorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um).</seg>
-		       <orig>tuor⋮.</orig>
+		       <orig>tuoꝝ.</orig>
 		       <reg>tuorum.</reg>
 	     </choice> 
 	     <choice>
@@ -217,7 +214,7 @@
 	     <choice>
 	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> Tua 
 	<choice>

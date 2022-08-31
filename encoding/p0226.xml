@@ -17,12 +17,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)basti</seg>
-		       <orig>pbasti</orig>
+		       <orig>ꝑbasti</orig>
 		       <reg>probasti</reg>
 	     </choice> me 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -39,7 +39,7 @@
       <lb break="no"/>sti 
 	<choice>
 		       <seg type="lucas">sessio(nem)</seg>
-		       <orig>sessīo⋮</orig>
+		       <orig>sessiō⋮</orig>
 		       <reg>sessionem</reg>
 	     </choice> 
 	     <choice>
@@ -49,7 +49,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> resurrec
 <lb break="no"/>
@@ -65,7 +65,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Intell(e)xisti</seg>
-		       <orig>Intell̇xisti</orig>
+		       <orig>Intell̇͘xisti</orig>
 		       <reg>Intellexisti</reg>
 	     </choice> cogi
 <lb break="no"/>
@@ -92,12 +92,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fu(n)ic(u)l(u)m</seg>
-		       <orig>fūiċlm</orig>
+		       <orig>fūicl͘m</orig>
 		       <reg>funiculum</reg>
 	     </choice> 
 	     <choice>
@@ -124,7 +124,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -139,7 +139,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(er)mo</seg>
-		       <orig>sṁo</orig>
+		       <orig>s͘mo</orig>
 		       <reg>sermo</reg>
 	     </choice> 
 	     <choice>
@@ -177,7 +177,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -187,7 +187,7 @@
 	     </choice> tu forimasti me 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
       <lb/>posuisti 
@@ -209,7 +209,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Mirabil(is)</seg>
-		       <orig>Mirabil̇</orig>
+		       <orig>Mirabil̇͘</orig>
 		       <reg>Mirabilis</reg>
 	     </choice> 
 	     <choice>
@@ -240,7 +240,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -250,7 +250,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">pot(er)o</seg>
-		       <orig>poṫo</orig>
+		       <orig>pot͘o</orig>
 		       <reg>potero</reg>
 	     </choice>
       <lb/>ad 

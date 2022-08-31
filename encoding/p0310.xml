@@ -24,7 +24,7 @@
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
 		       <reg>Dominica?</reg>
-	     </choice> (secunda?) 
+	     </choice> (secunda?) <!-- check transcription, there's a symbol here -->
 	<choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
@@ -58,9 +58,8 @@
 		       <reg>rem</reg>
 	     </choice> 
 	     <choice>
-	         <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ar)it(er)</seg>
-		       <orig>ꝑiṫ</orig>
+		       <orig>ꝑiṫ</orig> 
 		       <reg>pariter</reg>
 	     </choice> 
 	     <choice>
@@ -80,21 +79,20 @@
 		       <reg>habere</reg>
 	     </choice> 
 	     <choice>
-	         <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)petuu(m):</seg>
-		       <orig>ꝑpetuū:</orig>
+		       <orig>ꝑpetuū:</orig> 
 		       <reg>perpetuum:</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nu(m)q(uam)</seg>
-		       <orig>nūq̈ˢ</orig>
+		       <orig>nūq̈</orig>
 		       <reg>numquam</reg>
+	         <!-- pls quam -->
 	     </choice> tua
 <lb/>
 	     <choice>
@@ -210,9 +208,8 @@
 	     </choice>
       <lb break="no"/>tis ut veniret 
 	<choice>
-	    <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>

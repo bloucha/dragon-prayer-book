@@ -166,9 +166,8 @@
 		       <reg>et </reg>
 	     </choice> dixit 
 	<choice>
-	    <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> si 
 	<choice>
@@ -183,9 +182,8 @@
 		       <reg>et </reg>
 	     </choice> tu 
 	<choice>
-	    <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -247,14 +245,13 @@
 		       <reg>ram</reg>
 	     </choice> 
 	     <choice>
-	         <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)st(er)ne(n)t</seg>
-		       <orig>ꝑsṫnēt</orig>
+		       <orig>ꝓsṫnēt</orig> 
 		       <reg>prosternent</reg>
 	     </choice> te eo 
 	<choice>
 		       <seg type="lucas">q(uod)</seg>
-		       <orig>qˢ</orig>
+		       <orig>ȹ</orig> <!-- this character looks like quam, not quod, check transcription -->
 		       <reg>quod</reg>
 	     </choice> 
 	     <choice>

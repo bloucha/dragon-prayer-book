@@ -92,7 +92,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pici(us)</seg>
-		       <orig>ꝑpiciꝰ</orig>
+		       <orig>ꝓpiciꝰ</orig>
 		       <reg>propicius</reg>
 	     </choice> esto 
 	<choice>
@@ -145,6 +145,7 @@
 	     </choice> 
 	     <choice>
 	           <!-- unsure how to code, looks like h -->
+	           <!-- agreed what's going on here -->
 		       <seg type="lucas">(ab)</seg>
 		       <orig/>
 		       <reg>ab</reg>
@@ -204,15 +205,10 @@
 		       <reg>que</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sci(enti)a</seg>
-		       <orig>scīa</orig>
-		       <reg>scientia</reg>
-	     </choice> me[/t]uit;
+		       <orig>ɔscīa</orig>
+		       <reg>conscientia</reg>
+	     </choice> me<supplied>t</supplied>uit;
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>

@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)xim(us)</seg>
-		       <orig>ꝑximꝰ</orig>
+		       <orig>ꝓximꝰ</orig>
 		       <reg>proximus</reg>
 	     </choice> fuisse illi 
 	<choice>
@@ -84,7 +84,7 @@
 		       <reg>Dominica?</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcriptions, looks like xm -->
+	           <!-- check transcription -->
 		       <seg type="lucas">xiiii(?)</seg>
 		       <orig>xiiii</orig>
 		       <reg>xiiii?</reg>
@@ -96,7 +96,6 @@
 	     </choice> 
       <lb/>
 	     <choice>
-	           <!-- 0304 is there but not visible because the p is blocking it -->
 		       <seg type="lucas">O(mni)P(oten)s</seg>
 		       <orig>OP̄s</orig>
 		       <reg>OmniPotens</reg>
@@ -134,7 +133,6 @@
 		       <reg>et </reg>
 	     </choice> ut 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">me(re)am(ur)</seg>
 		       <orig>mėam݃</orig>
 		       <reg>mereamur</reg>
@@ -152,7 +150,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)mittis;</seg>
-		       <orig>ꝑmittis;</orig>
+		       <orig>ꝓmittis;</orig>
 		       <reg>promittis;</reg>
 	     </choice> fac nos ama
 <lb break="no"/>re 
@@ -217,9 +215,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">occ(ur)rer(un)t</seg>
-		       <orig>occ݃rer̄t</orig>
+		       <orig>occ݃rer̄t</orig>  
 		       <reg>occurrerunt</reg>
 	     </choice> ei 
 	<choice>
@@ -229,7 +226,7 @@
 	     </choice> viri 
 	<choice>
 		       <seg type="lucas">lep(ro)si</seg>
-		       <orig>leꝑsi</orig>
+		       <orig>leꝓsi</orig>
 		       <reg>leprosi</reg>
 	     </choice> 
 	     <choice>

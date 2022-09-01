@@ -38,7 +38,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -107,7 +107,7 @@
 <lb break="no"/>as. 
 	<choice>
 		       <seg type="lucas">P(er).</seg>
-	             <orig> Ꝑ.</orig>
+	             <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
 	     </choice> 
 	     <choice>
@@ -241,12 +241,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> fregit 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> dedit
 <lb/>
@@ -263,7 +263,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -273,7 +273,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)be</seg>
-	             <orig>ṫbe</orig> <!-- is this two or one dot? -->
+	             <orig>ṫbe</orig> 
 		       <reg>tribe</reg>
 	     </choice> 
 	     <choice>

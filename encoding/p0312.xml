@@ -38,7 +38,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -203,7 +203,7 @@
 <lb/>ergo 
 	<choice>
 		       <seg type="lucas">mi(seri)cordes</seg>
-		       <orig>m̄icordes</orig>
+		       <orig>mīcordes</orig>
 		       <reg>misericordes</reg>
 	     </choice> 
 	     <choice>

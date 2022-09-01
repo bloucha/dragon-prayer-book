@@ -54,7 +54,7 @@
       <lb/>ut 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -86,7 +86,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -247,7 +247,7 @@
 		       <seg type="lucas">Do(minica?)</seg>
 	           <orig>Dö</orig>
 		       <reg>Dominica?</reg>
-	     </choice> (sexta?). 
+	     </choice> (sexta?). <!-- check transcription, I think a choice needs to be opened here -->
 	<choice>
 		       <seg type="lucas">or(emus?).</seg>
 		       <orig>or̄.</orig>
@@ -272,7 +272,7 @@
       <lb break="no"/>lia 
 	<choice>
 		       <seg type="lucas">p(re)p(ar)asti;</seg>
-	           <orig>p̄ꝑasti;</orig>
+	           <orig>p̄ꝑasti;</orig> 
 		       <reg>preparasti;</reg>
 	     </choice> 
 	     <choice>

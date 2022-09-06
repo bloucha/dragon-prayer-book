@@ -12,7 +12,7 @@
       <lb/>delicta 
 	<choice>
 		       <seg type="lucas">p(o)p(u)lor(um):</seg>
-	             <orig>ppl͘oꝝ:</orig>
+	             <orig>ppl͘oꝝ:</orig> 
 		       <reg>populorum:</reg>
 	     </choice> ut a 
 	<choice>
@@ -47,15 +47,10 @@
 		       <reg>nostra</reg>
 	     </choice> fra
 <lb break="no"/>gilitate 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">t(ra)ximus;</seg>
-	           <orig>ẗximu̇s;</orig>
-		       <reg>traximus;</reg>
+	           <orig>ɔẗximu̇s;</orig>
+		       <reg>contraximus;</reg>
 	     </choice> tua be
 <lb break="no"/>
 	     <choice>
@@ -87,7 +82,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">loq(ue)nte</seg>
-		       <orig>loqn̄te</orig>
+		       <orig>loq̄nte</orig>
 		       <reg>loquente</reg>
 	     </choice> 
 	     <choice>
@@ -108,7 +103,7 @@
 	     </choice> accessit 
 	<choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>adoravit 
@@ -135,7 +130,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">defu(n)cta</seg>
-		       <orig>defuc̄ta</orig>
+		       <orig>defūcta</orig>
 		       <reg>defuncta</reg>
 	     </choice> 
 	     <choice>
@@ -215,7 +210,7 @@
       <lb/>fecit 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> sanata 
 	<choice>

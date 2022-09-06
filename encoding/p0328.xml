@@ -49,17 +49,11 @@
                   <seg type="lucas">dig(ni)</seg>
                   <orig>diġ</orig>
                   <reg>digni</reg>
-            </choice> ite <choice>
-                  <!-- unsure how to encode -->
-                  <seg type="lucas">(er)</seg>
-                  <orig>?</orig>                 
-                  <reg>er</reg>
-            </choice>
+            </choice> ite 
             <choice>
-                  <!-- unsure how to encode, just a dot above even though its hollow? -->
-                  <seg type="lucas">g(o)</seg>
-                  <orig>g</orig>
-                  <reg>go</reg>
+                  <seg type="lucas">(er)g(o)</seg>
+                  <orig>gº</orig>
+                  <reg>ergo</reg>
             </choice> ad <choice>
                   <seg type="lucas">exit(us)</seg>
                   <orig>exitꝰ</orig>
@@ -106,7 +100,7 @@
                   <reg>Dominica?</reg>
             </choice> xxi <choice>
                   <seg type="lucas">or(emus?).</seg>
-                  <orig>or:̄.</orig>
+                  <orig>or̄:.</orig>
                   <reg>oremus?.<!--  check expansion --></reg>
             </choice>
             <lb/>
@@ -156,7 +150,7 @@
             </choice>
             <choice>
                   <seg type="lucas">mu(n)de(n)t(ur)</seg>
-                  <orig>mūdēt݃</orig>
+                  <orig>mūdēt݃</orig> 
                   <reg>mundentur</reg>
             </choice>
             <choice>
@@ -222,7 +216,7 @@
             </choice>
             <choice>
                   <seg type="lucas">i(n)firmabat(ur)</seg>
-                  <orig>īfirmabat݃</orig>
+                  <orig>īfirmabat݃</orig> 
                   <reg>infirmabatur</reg>
             </choice> ca <lb break="no"/>
             <choice>
@@ -239,15 +233,14 @@
                   <seg type="lucas">cu(m)</seg>
                   <orig>cū</orig>
                   <reg>cum</reg>
-            </choice> [/audis] <choice>
+            </choice> <supplied>audis</supplied><choice>
                   <seg type="lucas">s(et)</seg>
                   <orig>s⋮</orig>
                   <reg>set</reg>
             </choice>
             <choice>
-                  <!-- unsure how to encode -->
                   <seg type="lucas">q(uia)</seg>
-                  <orig>q</orig>
+                  <orig>q:</orig><!-- this looks like quam, check transcription -->
                   <reg>quia</reg>
             </choice>
             <lb/>
@@ -306,4 +299,4 @@
 
       <ab type="translation" xml:id="p0328_translation" corresp="#p0328_transcription"/>
 
-</div>
+</div> 

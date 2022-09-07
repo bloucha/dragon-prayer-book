@@ -59,7 +59,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cu(m)</seg>
-	           <orig> cū</orig>
+	           <orig>cū</orig>
 		       <reg>cum</reg>
 	     </choice> 
 	     <choice>
@@ -182,7 +182,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -201,15 +201,11 @@
 		       <reg>in</reg>
 	     </choice>
       <lb/>
-	     <choice>
-		       <seg type="lucas">(com)</seg>
-	           <orig> ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
+	     
 	     <choice>
 		       <seg type="lucas">mot(i)o(nem)</seg>
-	           <orig>motō⋮</orig>
-		       <reg>motionem</reg>
+	           <orig>ɔmotō⋮</orig>
+		       <reg>commotionem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">pede(m)</seg>
@@ -251,7 +247,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">custod(it)</seg>
-	           <orig>custod ͭ</orig> <!-- used superscript t unicode (U+036D) -->
+	           <orig>custod ͭ</orig> 
 		       <reg>custodit</reg>
 	     </choice> 
 	     <choice>

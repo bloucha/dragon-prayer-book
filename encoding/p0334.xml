@@ -35,7 +35,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">vor(um).</seg>
-		       <orig>vor⋮.</orig>
+		       <orig>voꝝ.</orig>
 		       <reg>vorum.</reg>
 	     </choice> 
 	     <choice>
@@ -62,7 +62,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vivor(um).</seg>
-		       <orig>vivor⋮.</orig>
+		       <orig>vivoꝝ.</orig>
 		       <reg>vivorum.</reg>
 	     </choice>
       <lb/>AD 
@@ -127,7 +127,7 @@
 	     </choice> dolosa. 
 	<choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig>Q͘d</orig>
+		       <orig>Q̇d</orig>
 		       <reg>Quid</reg>
 	     </choice> 
 	     <choice>
@@ -174,7 +174,7 @@
 	     </choice> Sagitte 
 	<choice>
 		       <seg type="lucas">pote(n)tis</seg>
-		       <orig>pot̄etis</orig>
+		       <orig>potētis</orig>
 		       <reg>potentis</reg>
 	     </choice> acu
 <lb break="no"/>te: 
@@ -195,13 +195,11 @@
 		       <reg>mihi</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">i(n)colat(us)</seg>
 		       <orig>īcolatꝰ</orig>
 		       <reg>incolatus</reg>
@@ -212,9 +210,8 @@
 		       <reg>meus</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)lo(n)</seg>
-		       <orig>ꝑlō</orig>
+		       <orig>ꝓlō</orig>
 		       <reg>prolon</reg>
 	     </choice>
       <lb break="no"/>

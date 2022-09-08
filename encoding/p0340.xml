@@ -58,7 +58,6 @@
 		       <reg>Psalm?</reg>
 	     </choice>        
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">riu(n)t(ur).</seg>
 		       <orig>riūt݃.</orig>
 		       <reg>riuntur.</reg>
@@ -93,7 +92,7 @@
 	     </choice> meo 
 	<choice>
 		       <seg type="lucas">q(uam)diu</seg>
-		       <orig>q̈ˢdiu</orig>
+		       <orig>q̈<!-- pls quam --> diu</orig>
 		       <reg>quamdiu</reg>
 	     </choice> 
 	     <choice>
@@ -102,15 +101,10 @@
 		       <reg>fuero.</reg>
 	     </choice> Noli
 <lb break="no"/>te 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fide(re)</seg>
-		       <orig>fidė</orig>
-		       <reg>fidere</reg>
+		       <orig>ɔfidė</orig>
+		       <reg>confidere</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -177,8 +171,8 @@
 	     <choice>
 	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">rev(er)t[/et](ur)</seg>
-		       <orig>rev̇t[/et]݃</orig>
-		       <reg>revert[/et]ur</reg>
+		       <orig>rev̇t<supplied>et</supplied>݃</orig> 
+		       <reg>rever<supplied>et</supplied>tur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -202,7 +196,6 @@
 		       <reg>in</reg>
 	     </choice> illa die 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)ib(un)t</seg>
 		       <orig>ꝑib̄t</orig>
 		       <reg>peribunt</reg>
@@ -220,7 +213,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
@@ -261,7 +254,6 @@
 		       <reg>domino</reg>
 	     </choice> deo 
 	<choice>
-	      <!-- A770 not appearing correctly -->
 		       <seg type="lucas">ip(s)i(us):</seg>
 		       <orig>ip̄iꝰ:</orig>
 		       <reg>ipsius:</reg>
@@ -314,7 +306,6 @@
 		       <reg>sunt.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
 		       <reg>Qui</reg>

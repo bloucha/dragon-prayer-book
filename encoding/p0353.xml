@@ -98,11 +98,10 @@
 		       <orig>meū</orig>
 		       <reg>meum</reg>
 	     </choice> scru
-<lb break="no"/>teris:c Et scias 
+<lb break="no"/>teris:c <!-- raised c? --> Et scias 
 	<choice>
-	      <!-- not sure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> nichil 
 	<choice>
@@ -143,17 +142,16 @@
 		       <reg>eruere.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice>  
       <lb/>resuscitasti
-<lb/>[/a m]onu
+<lb/><supplied>a m</supplied>onu
 <lb break="no"/>Qui 
 	<choice>
 		       <seg type="lucas">lazar(um)</seg>
-		       <orig>lazar⋮</orig>
+		       <orig>lazaꝝ</orig>
 		       <reg>lazarum</reg>
 	     </choice>        
 	     <choice>
@@ -200,7 +198,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -271,12 +269,8 @@
 		       <seg type="lucas">m(?).
 
 </seg>
-		       <orig>m̈.
-
-</orig>
-		       <reg>m?.
-
-<!--  check expansion --></reg>
+		       <orig>m̈.</orig>
+		       <reg>m?.<!--  check expansion --></reg>
 	     </choice> 
    </ab>
 

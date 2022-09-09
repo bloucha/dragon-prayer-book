@@ -56,7 +56,7 @@
 		       <seg type="lucas">p(re)cipitas</seg>
 		       <orig>p̄cipitas</orig>
 		       <reg>precipitas</reg>
-	     </choice> me:c 
+	     </choice> me:c<!-- small raised c? -->
 	<choice>
 		       <seg type="lucas">Mem(en)</seg>
 		       <orig>Mem̄</orig>
@@ -70,7 +70,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uod)</seg>
-		       <orig>qˢ</orig>
+		       <orig>ȹ</orig>
 		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
@@ -230,7 +230,7 @@
 	     <choice>
 	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>

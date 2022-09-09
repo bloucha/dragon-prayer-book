@@ -59,14 +59,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spcū</orig>
-		       <reg>spectu</reg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
 	     </choice> meo 
 	<choice>
 		       <seg type="lucas">me(n)</seg>
@@ -80,7 +75,6 @@
 		       <reg>sam:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">adv(er)s(us)</seg>
 		       <orig>adv̄sꝰ</orig>
 		       <reg>adversus</reg>
@@ -136,12 +130,12 @@
 	     <choice>
 		       <seg type="lucas">q(uam)</seg>
 		       <orig>q̈ˢ</orig>
+	           <!-- quam and quod characters look real similar -->
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">p(re)clar(us)</seg>
-		       <orig>p̄clarꝰ</orig>
+		       <orig>p̄clarꝰ</orig> 
 		       <reg>preclarus</reg>
 	     </choice> 
 	     <choice>
@@ -156,9 +150,8 @@
 	     </choice>
       <lb/>tua 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">s(u)bseq(ue)nt(ur)</seg>
-		       <orig>sḃseq̄nt݃</orig>
+		       <orig>sḃseq̄nt݃</orig> 
 		       <reg>subsequentur</reg>
 	     </choice> me 
 	<choice>
@@ -201,7 +194,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">dier(um).</seg>
-		       <orig>dier⋮.</orig>
+		       <orig>dieꝝ.</orig>
 		       <reg>dierum.</reg>
 	     </choice> 
 	     <choice>

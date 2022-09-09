@@ -27,18 +27,13 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(er)</seg>
-		       <orig>ᵉ</orig>
-		       <reg>er</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">g(o)</seg>
-		       <orig>g</orig>
-		       <reg>go</reg>
+		       <seg type="lucas">(er)g(o)</seg>
+		       <orig>gº</orig>
+		       <reg>ergo</reg>
 	     </choice> oportuit 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> te 
 	<choice>
@@ -54,7 +49,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">s(er)vi</seg>
-		       <orig>ṡvi</orig>
+		       <orig>sv̇i</orig>
 		       <reg>servi</reg>
 	     </choice> tui 
 	<choice>
@@ -64,7 +59,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> ego tui miser
 <lb break="no"/>
@@ -116,24 +111,24 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig>✝</orig>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">v(ir)t(us);</seg>
-		       <orig>̇vt✝;</orig>
+		       <orig>v̇tꝰ;</orig> 
 		       <reg>virtus;</reg>
 	     </choice> adesto piis ec
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">cl(esi)e</seg>
-		       <orig>cl̇e</orig>
+		       <orig>cl͘e</orig>
 		       <reg>clesie</reg>
 	     </choice> tue 
 	<choice>
 		       <seg type="lucas">p(re)cib(us)</seg>
-		       <orig>ṗcib⋮</orig>
+		       <orig>p̄cib⋮</orig>
 		       <reg>precibus</reg>
 	     </choice> actor 
 	<choice>
@@ -144,12 +139,12 @@
 <lb break="no"/>tatis: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">pr(est)a</seg>
-		       <orig>p̄ra</orig>
+		       <orig>pr̄a</orig>
 		       <reg>presta</reg>
 	     </choice> ut 
 	<choice>
@@ -174,13 +169,8 @@
 		       <reg>efficaciter</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">seq(ua)m(ur).</seg>
-		       <orig>seq̈m'̇.</orig>
+		       <orig>ɔseq̈m݃.</orig> 
 		       <reg>sequamur.</reg>
 	     </choice>
       <lb/>
@@ -218,7 +208,7 @@
 <lb break="no"/>rax es 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -233,13 +223,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(er)itate</seg>
-		       <orig>̇vitate</orig>
+		       <orig>v̇itate</orig>
 		       <reg>veritate</reg>
 	     </choice>
       <lb/>doces 
 	<choice>
 		       <seg type="lucas">all(eluia).</seg>
-		       <orig>all̇.</orig>
+		       <orig>all͘.</orig>
 		       <reg>alleluia.</reg>
 	     </choice> 
 	     <choice>
@@ -255,14 +245,9 @@
  Reddite
 <lb/>
 	     <choice>
-		       <seg type="lucas">(er)</seg>
-		       <orig>ᵉ</orig>
-		       <reg>er</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">g(o)</seg>
-		       <orig>g</orig>
-		       <reg>go</reg>
+		       <orig>gº</orig>
+		       <reg>ergo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ue)</seg>
@@ -281,7 +266,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ue)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̄</orig>
 		       <reg>que</reg>
 	     </choice> 
 	     <choice>
@@ -297,7 +282,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">all(eluia).</seg>
-		       <orig>all̇.</orig>
+		       <orig>all͘.</orig>
 		       <reg>alleluia.</reg>
 	     </choice> 
 	     <choice>
@@ -328,9 +313,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
-	     </choice>
+	     </choice> 
    </ab>
 
    <ab type="translation"

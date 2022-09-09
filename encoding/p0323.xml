@@ -27,18 +27,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> rediret 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> daret
 <lb/>
 	     <choice>
 		       <seg type="lucas">gl(ori)a(m)</seg>
-		       <orig>gl̇a⋮</orig>
+		       <orig>gl͘a⋮</orig>
 		       <reg>gloriam</reg>
 	     </choice> deo 
 	<choice>
@@ -86,7 +86,7 @@
         
 	     <choice>
 		       <seg type="lucas">al(leluia?).</seg>
-		       <orig>al̇.</orig>
+		       <orig>al͘.</orig>
 		       <reg>alleluia?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -102,7 +102,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eccl(esi)a(m)</seg>
-		       <orig>eccl̇a⋮</orig>
+		       <orig>eccl͘a⋮</orig>
 		       <reg>ecclesiam</reg>
 	     </choice> 
 	     <choice>
@@ -128,7 +128,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -139,7 +139,7 @@
 <lb/>te 
 	<choice>
 		       <seg type="lucas">labit(ur)</seg>
-		       <orig>labiṫ</orig>
+		       <orig>labit݃</orig>
 		       <reg>labitur</reg>
 	     </choice> 
 	     <choice>
@@ -155,24 +155,24 @@
 	     </choice> auxiliis 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> ab
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">strahat(ur)</seg>
-		       <orig>strahaṫ</orig>
+		       <orig>strahat݃</orig>
 		       <reg>strahatur</reg>
 	     </choice> a noxiis 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> ad sa
 <lb break="no"/>lutaria 
 	<choice>
 		       <seg type="lucas">dirigat(ur).</seg>
-		       <orig>dirigaṫ.</orig>
+		       <orig>dirigat݃.</orig>
 		       <reg>dirigatur.</reg>
 	     </choice> 
 	     <choice>
@@ -204,7 +204,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)d</seg>
-		       <orig>̇qd</orig>
+		       <orig>q̇d</orig>
 		       <reg>quid</reg>
 	     </choice> 
 	     <choice>
@@ -214,7 +214,7 @@
 	     </choice> aut 
 	<choice>
 		       <seg type="lucas">q(ui)d</seg>
-		       <orig>̇qd</orig>
+		       <orig>q̇d</orig>
 		       <reg>quid</reg>
 	     </choice>
       <lb/>
@@ -241,7 +241,7 @@
 <lb break="no"/>tis 
 	<choice>
 		       <seg type="lucas">q(ui)d</seg>
-		       <orig>̇qd</orig>
+		       <orig>q̇d</orig>
 		       <reg>quid</reg>
 	     </choice> 
 	     <choice>
@@ -251,7 +251,7 @@
 	     </choice> necesse sit 
 	<choice>
 		       <seg type="lucas">all(eluia).</seg>
-		       <orig>all̇.</orig>
+		       <orig>all͘.</orig>
 		       <reg>alleluia.</reg>
 	     </choice>
       <lb/>

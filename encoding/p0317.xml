@@ -199,7 +199,7 @@
  
 	     <choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig> Q͘d</orig> <!-- capital Q covers dot, so i did dot to the side -->
+		       <orig>Q̇d</orig> 
 		       <reg>Quid</reg>
 	     </choice> 
 	     <choice>
@@ -226,7 +226,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">t(i)o(nem)</seg>
-	             <orig>tō</orig>
+	             <orig>tō⋮</orig>
 		       <reg>tionem</reg>
 	     </choice> 
 	     <choice>

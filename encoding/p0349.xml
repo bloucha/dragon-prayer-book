@@ -34,7 +34,7 @@
       <lb/>fortis 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -44,13 +44,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nu(m)q(ui)d</seg>
-		       <orig>nū̇qd</orig>
+		       <orig>nūq̇d</orig>
 		       <reg>numquid</reg>
 	     </choice> ira
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">scet(ur)</seg>
-		       <orig>sceṫ</orig>
+		       <orig>scet݃</orig>
 		       <reg>scetur</reg>
 	     </choice> 
 	     <choice>
@@ -60,23 +60,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sing(u)los</seg>
-		       <orig>singl̇os</orig>
+		       <orig>singl͘os</orig>
 		       <reg>singulos</reg>
 	     </choice> dies. Nisi
 <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">v(er)si</seg>
-		       <orig>̇vsi</orig>
-		       <reg>versi</reg>
+		       <orig>ɔv̇si</orig>
+		       <reg>conversi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fu(er)itis</seg>
-		       <orig>ḟuitis</orig>
+		       <orig>fu̇itis</orig>
 		       <reg>fueritis</reg>
 	     </choice> 
 	     <choice>
@@ -133,14 +128,14 @@
 	     </choice> eo 
 	<choice>
 		       <seg type="lucas">p(ar)av(it)</seg>
-		       <orig>ꝑavₜ</orig>
+		       <orig>ꝑavᵗ</orig> 
 		       <reg>paravit</reg>
 	     </choice>
       <lb/>vasa mortis: sagittas su
 <lb break="no"/>as 
 	<choice>
 		       <seg type="lucas">arde(n)tib(us)</seg>
-		       <orig>ardētib</orig>
+		       <orig>ardētib⋮</orig>
 		       <reg>ardentibus</reg>
 	     </choice> effecit. Ecce
 <lb/>
@@ -156,7 +151,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -172,7 +167,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -182,7 +177,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)iquitate(m).</seg>
-		       <orig>īiquitate.</orig>
+		       <orig>īiquitatē.</orig>
 		       <reg>iniquitatem.</reg>
 	     </choice>
       <lb/>
@@ -198,7 +193,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> effodit
 <lb/>
@@ -209,7 +204,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -235,7 +230,7 @@
       <lb/>fecit. 
 	<choice>
 		       <seg type="lucas">Co(n)v(er)tet(ur)</seg>
-		       <orig>Cō̇vteṫ</orig>
+		       <orig>Cōv̇teṫ</orig>
 		       <reg>Convertetur</reg>
 	     </choice> dolor 
 	<choice>
@@ -256,7 +251,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -266,7 +261,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(er)tice(m)</seg>
-		       <orig>̇vticē</orig>
+		       <orig>v̇ticē</orig>
 		       <reg>verticem</reg>
 	     </choice> 
 	     <choice>

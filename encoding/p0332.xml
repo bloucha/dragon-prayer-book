@@ -26,9 +26,8 @@
 		       <reg>fructum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)pe(n)si</seg>
-		       <orig>ꝑpēsi</orig>
+		       <orig>ꝓpēsi</orig>
 		       <reg>propensi</reg>
 	     </choice>
       <lb break="no"/>us 
@@ -39,7 +38,6 @@
 	     </choice> pietatis tue
 <lb/>remedia maiora 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)cipia(n)t.</seg>
 		       <orig>ꝑcipiāt.</orig>
 		       <reg>percipiant.</reg>
@@ -66,9 +64,8 @@
 		       <reg>Cum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like sbleuass -->
 		       <seg type="lucas">s(ub)levass(et)</seg>
-		       <orig>slevass⋮</orig>
+		       <orig>sḃlevass⋮</orig>
 		       <reg>sublevasset</reg>
 	     </choice> ocu
 <lb break="no"/>los 
@@ -159,9 +156,8 @@
 		       <reg>esset</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">f(a)c(t)ur(us).</seg>
-		       <orig>fc̄urꝰ.</orig>
+		       <orig>fc̄urꝰ.</orig> 
 		       <reg>facturus.</reg>
 	     </choice> 
 	     <choice>
@@ -245,9 +241,8 @@
 		       <reg>dicebant</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>

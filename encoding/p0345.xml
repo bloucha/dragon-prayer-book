@@ -65,14 +65,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ur)bata</seg>
-		       <orig>t݃bata</orig>
-		       <reg>turbata</reg>
+		       <orig>ɔt݃bata</orig>
+		       <reg>conturbata</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(un)t</seg>
@@ -144,9 +139,8 @@
 		       <reg>salvum</reg>
 	     </choice> me fac 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝑpṫ</orig>
+		       <orig>ꝓpṫ</orig>
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>
@@ -208,14 +202,9 @@
 		       <reg>quis</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fitebit(ur)</seg>
-		       <orig>fitebit݃</orig>
-		       <reg>fitebitur</reg>
+		       <orig>ɔfitebit݃</orig>
+		       <reg>confitebitur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi).</seg>

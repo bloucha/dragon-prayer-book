@@ -97,7 +97,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">voce(m)</seg>
-		       <orig>voc̄e</orig>
+		       <orig>vocē</orig>
 		       <reg>vocem</reg>
 	     </choice> 
 	     <choice>
@@ -150,13 +150,8 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">turbe(n)t(ur)</seg>
-	             <orig>turbēt݃</orig>
+	             <orig>ɔturbēt݃</orig>
 		       <reg>turbentur</reg>
 	     </choice> 
 	     <choice>
@@ -175,19 +170,14 @@
 	             <orig>īimici</orig>
 		       <reg>inimici</reg>
 	     </choice> mei: 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">v(er)ta(n)t(ur)</seg>
-	            <orig>v̇tāt݃</orig>
-		       <reg>vertantur</reg>
+	            <orig>ɔv̇tāt݃</orig>  
+		       <reg>convertantur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig> +</orig>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>

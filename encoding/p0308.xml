@@ -54,9 +54,8 @@
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -69,7 +68,7 @@
 		       <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice> de
-<lb break="no"/>solata civitas ple[/na] di
+<lb break="no"/>solata civitas ple<supplied>na</supplied> di
 <lb break="no"/>viciis sedet 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
@@ -108,14 +107,9 @@
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">solet(ur)</seg>
-		       <orig>solet݃</orig>
-		       <reg>soletur</reg>
+		       <orig>ɔsolet݃</orig>
+		       <reg>consoletur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ea(m)</seg>
@@ -142,7 +136,7 @@
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
 		       <reg>Dominica?</reg>
-	     </choice> (prima?) 
+	     </choice> (prima?) <!-- check transcription -->
 	<choice>
 		       <seg type="lucas">p(ost)</seg>
 		       <orig>pꝰ</orig>
@@ -176,15 +170,14 @@
 	     </choice> 
       <lb/>
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">sp(er)a(n)tiu(m)</seg>
-		       <orig>sꝑātiū</orig>
+		       <orig>sꝑātiū</orig> 
 		       <reg>sperantium</reg>
 	     </choice> fortitudo ad
 <lb break="no"/>esto 
 	<choice>
 		       <seg type="lucas">p(ro)pici(us)</seg>
-		       <orig>ꝑpiciꝰ</orig>
+		       <orig>ꝓpiciꝰ</orig>
 		       <reg>propicius</reg>
 	     </choice> 
 	     <choice>
@@ -204,9 +197,8 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> sine te nichil 
 	<choice>

@@ -22,13 +22,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">tect(i)o</seg>
-		       <orig>tectō</orig>
+		       <orig>tectō</orig> 
 		       <reg>tectio</reg>
 	     </choice> tua 
 	<choice>
@@ -202,9 +202,8 @@
 	     </choice>  
       <lb/>DE 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)fu(n)</seg>
-		       <orig>ꝑfū</orig>
+		       <orig>ꝓfū</orig>
 		       <reg>profun</reg>
 	     </choice>
       <lb break="no"/>dis 

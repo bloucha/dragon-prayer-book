@@ -123,9 +123,8 @@
 		       <reg>laudabiliter</reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">s(er)viat(ur);</seg>
-		       <orig>sv̇iat݃;</orig>
+		       <orig>sv̇iat݃;</orig> 
 		       <reg>serviatur;</reg>
 	     </choice>
       <lb/>
@@ -141,12 +140,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nob(is)</seg>
-		       <orig>nob</orig>
+		       <orig>noḃ</orig>
 		       <reg>nobis</reg>
 	     </choice> ut ad 
 	<choice>
 		       <seg type="lucas">p(ro)missi</seg>
-		       <orig>ꝑmissi</orig>
+		       <orig>ꝓmissi</orig>
 		       <reg>promissi</reg>
 	     </choice>
       <lb break="no"/>
@@ -285,7 +284,7 @@
  
 	     <choice>
 		       <seg type="lucas">Q(ui)s</seg>
-		       <orig>Q͘s</orig>
+		       <orig>Q̇s</orig>
 		       <reg>Quis</reg>
 	     </choice> 
 	     <choice>
@@ -294,13 +293,10 @@
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">videt(ur)
-(circle</seg>
-		       <orig>videt݃
-(circle</orig>
-		       <reg>videtur
-(circle</reg>
-	     </choice> in lower righthand margin)
+		       <seg type="lucas">videt(ur)</seg>
+		       <orig>videt݃</orig>
+		       <reg>videtur</reg>
+	     </choice> (circle in lower righthand margin) <!--check transcription does this need to be here -->
 
 
 </ab>

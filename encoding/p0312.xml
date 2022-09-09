@@ -38,7 +38,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -203,7 +203,7 @@
 <lb/>ergo 
 	<choice>
 		       <seg type="lucas">mi(seri)cordes</seg>
-		       <orig>m̄icordes</orig>
+		       <orig>mīcordes</orig>
 		       <reg>misericordes</reg>
 	     </choice> 
 	     <choice>
@@ -292,6 +292,10 @@
 
    <ab type="translation"
        xml:id="p0312_translation"
-       corresp="#p0312_transcription"/>
+       corresp="#p0312_transcription"> light a candle, and sweep the house, 
+         and seek diligently till she find it?  
+         
+         
+   </ab>
 
 </div>

@@ -28,7 +28,7 @@
 	     </choice> Peccavi. 
 	<choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig>Q͘d</orig>
+		       <orig>Q̇d</orig>
 		       <reg>Quid</reg>
 	     </choice>
       <lb/>
@@ -54,16 +54,11 @@
 		       <seg type="lucas">Q(ua)re</seg>
 		       <orig>Q̈re</orig>
 		       <reg>Quare</reg>
-	     </choice> [me] posuisti * 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+	     </choice> <supplied>me</supplied> posuisti *
 	     <choice>
 		       <seg type="lucas">t(ra)riu(m)</seg>
-		       <orig>ẗriū</orig>
-		       <reg>trarium</reg>
+		       <orig>ɔẗriū</orig>
+		       <reg>contrarium</reg>
 	     </choice> *me
 <lb/>
 	     <choice>
@@ -96,7 +91,7 @@
 		       <orig>ip̄i</orig>
 		       <reg>ipsi</reg>
 	     </choice> gra
-<lb break="no"/>vis:c Cur 
+<lb break="no"/>vis:c <!-- raised c? check transcription --> Cur 
 	<choice>
 		       <seg type="lucas">n(on)</seg>
 		       <orig>n̄</orig>
@@ -146,7 +141,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mea(m):c</seg>
-		       <orig>meā:c</orig>
+		       <orig>meā:c</orig> <!-- raised c? -->
 		       <reg>meam:c</reg>
 	     </choice> Ecce 
 	<choice>
@@ -189,7 +184,7 @@
 <lb/>Credo 
 	<choice>
 		       <seg type="lucas">q(uod)</seg>
-		       <orig>qˢ</orig>
+		       <orig>ȹ</orig>
 		       <reg>quod</reg>
 	     </choice> redem⸗                ||
 <lb/>ptor 
@@ -197,7 +192,7 @@
 		       <seg type="lucas">m(eu)s</seg>
 		       <orig>m̄s</orig>
 		       <reg>meus</reg>
-	     </choice> vivit [?]                ||Credo.
+	     </choice> vivit [?] <!-- check transcription -->                ||Credo.
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -247,7 +242,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ca(r)ne</seg>
-		       <orig>cāne</orig>
+		       <orig>cȧne</orig>
 		       <reg>carne</reg>
 	     </choice> mea
 <lb/>videbo 

@@ -33,22 +33,22 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(re)ve(n)iat</seg>
-		       <orig>p̄veiat</orig>
+		       <orig>p̄vēiat</orig>
 		       <reg>preveniat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">seq(ua)t(ur);</seg>
-		       <orig>seq̈t;</orig>
+		       <orig>seq̈t݃;</orig> 
 		       <reg>sequatur;</reg>
 	     </choice>
       <lb/>ac 
@@ -112,7 +112,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -134,12 +134,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ip(s)e</seg>
-		       <orig>iꝑ̄e</orig>
+		       <orig>iꝑ̄e</orig> 
 		       <reg>ipse</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(er)o</seg>
-		       <orig>̇vo</orig>
+		       <orig>v̇o</orig>
 		       <reg>vero</reg>
 	     </choice> 
 	     <choice>
@@ -182,7 +182,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">fu(er)is</seg>
-		       <orig>fuis</orig>
+		       <orig>fu̇is</orig>
 		       <reg>fueris</reg>
 	     </choice> ad nupcias 
 	<choice>
@@ -209,7 +209,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> te 
 	<choice>
@@ -227,7 +227,7 @@
 		       <seg type="lucas">sup(er)i(us)</seg>
 		       <orig>suꝑiꝰ</orig>
 		       <reg>superius</reg>
-	     </choice> (et?) erit 
+	     </choice> (et?)<!-- check transcription, what's going on here? --> erit 
 	<choice>
 		       <seg type="lucas">t(ibi)</seg>
 		       <orig>ṫ</orig>
@@ -245,7 +245,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">si(mu)l</seg>
-		       <orig>si̇l</orig>
+		       <orig>sil͘</orig>
 		       <reg>simul</reg>
 	     </choice>
       <lb/>
@@ -277,19 +277,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)lo</seg>
-		       <orig>ppl̇o</orig>
+		       <orig>ppl͘o</orig>
 		       <reg>populo</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">or(ati?)o.
-
-</seg>
-		       <orig>or̄o.
-
-</orig>
-		       <reg>orati?o.
-
-<!--  check expansion --></reg>
+		       <seg type="lucas">or(ati?)o.</seg>
+		       <orig>or̄o.</orig>
+		       <reg>orati?o.<!--  check expansion --></reg>
 	     </choice> 
    </ab>
 

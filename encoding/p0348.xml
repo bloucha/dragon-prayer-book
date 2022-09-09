@@ -44,7 +44,7 @@
 <lb/>tua: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> exaltare 
 	<choice>
@@ -65,12 +65,12 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">micor(um)</seg>
-		       <orig>micor</orig>
+		       <orig>micoꝝ</orig>
 		       <reg>micorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">meor(um).</seg>
-		       <orig>meor.</orig>
+		       <orig>meoꝝ.</orig>
 		       <reg>meorum.</reg>
 	     </choice> Et exur
 <lb break="no"/>ge 
@@ -112,13 +112,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> synagoga
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(o)p(u)lor(um)</seg>
-		       <orig>pplȯr</orig>
+		       <orig>pplȯꝝ</orig> 
 		       <reg>populorum</reg>
 	     </choice> 
 	     <choice>
@@ -131,12 +131,7 @@
 		       <orig>ꝓp</orig>
 		       <reg>prop</reg>
 	     </choice>
-      <lb break="no"/>
-	     <choice>
-		       <seg type="lucas">t(er)</seg>
-		       <orig>t</orig>
-		       <reg>ter</reg>
-	     </choice> 
+      <lb break="no"/>ter 
 	     <choice>
 		       <seg type="lucas">ha(n)c</seg>
 		       <orig>hāc</orig>
@@ -192,7 +187,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -218,7 +213,7 @@
 	     </choice> me. 
 	<choice>
 		       <seg type="lucas">Co(n)sumet(ur)</seg>
-		       <orig>Cōsumeṫ</orig>
+		       <orig>Cōsumet݃</orig>  
 		       <reg>Consumetur</reg>
 	     </choice> 
 	     <choice>
@@ -229,12 +224,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um):</seg>
-		       <orig>pct̄or:</orig>
+		       <orig>pct̄oꝝ:</orig>
 		       <reg>peccatorum:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> diriges iustum
 <lb/>
@@ -245,7 +240,7 @@
 	     </choice> corda 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> renes 
 	<choice>

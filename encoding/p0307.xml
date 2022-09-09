@@ -118,7 +118,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)te</seg>
-		       <orig>ꝑte</orig>
+		       <orig>ꝓte</orig>
 		       <reg>prote</reg>
 	     </choice>
       <lb break="no"/>ge nos 
@@ -145,24 +145,19 @@
  
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">celor(um)</seg>
-		       <orig>celor⋮</orig>
+		       <orig>celoꝝ</orig>
 		       <reg>celorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">ti(n)es</seg>
-		       <orig>tīes</orig>
-		       <reg>tines</reg>
+		       <orig>ɔtīes</orig>
+		       <reg>contines</reg>
 	     </choice> thronos 
 	<choice>
 		       <seg type="lucas">(et) </seg>
@@ -267,9 +262,8 @@
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A770 not appearing correctly  -->
 		       <seg type="lucas">q(ue)sivim(us)</seg>
-		       <orig>q̄sivimꝰ</orig>
+		       <orig>q̄sivimꝰ</orig> 
 		       <reg>quesivimus</reg>
 	     </choice> 
 	     <choice>
@@ -297,6 +291,6 @@
 
    <ab type="translation"
        xml:id="p0307_translation"
-       corresp="#p0307_transcription"/>
+       corresp="#p0307_transcription">and the whole earth was full of his majesty, and those who were under him filled the temple</ab>
 
 </div>

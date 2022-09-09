@@ -13,7 +13,7 @@
 	<choice>
 	      <!-- 0743 not appearing  -->
 		       <seg type="lucas">i(m)pleat(ur)</seg>
-		       <orig>īpleat݃</orig>
+		       <orig>īpleat݃</orig>  
 		       <reg>impleatur</reg>
 	     </choice> 
 	     <choice>
@@ -36,7 +36,7 @@
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
 		       <reg>Dominica?</reg>
-	     </choice> (tercia?) 
+	     </choice> (tercia?) <!-- check transcription, theres an abbrev here I think --> 
 	<choice>
 		       <seg type="lucas">or(emus?).</seg>
 		       <orig>or̄.</orig>
@@ -131,7 +131,7 @@
  
 	     <choice>
 		       <seg type="lucas">Q(ui)s</seg>
-		       <orig>Q͘s</orig>
+		       <orig>Q̇s</orig>
 		       <reg>Quis</reg>
 	     </choice> ex 
 	<choice>
@@ -253,7 +253,7 @@
  
 	     <choice>
 		       <seg type="lucas">Q(ue)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̄</orig>
 		       <reg>Que</reg>
 	     </choice> 
 	     <choice>

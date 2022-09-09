@@ -11,9 +11,8 @@
 
       <lb/>
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -105,7 +104,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -125,9 +124,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ar)ce(n)do</seg>
-		       <orig>ꝑcēdo</orig>
+		       <orig>ꝑcēdo</orig> 
 		       <reg>parcendo</reg>
 	     </choice> 
 	     <choice>
@@ -175,13 +173,13 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)missa</seg>
-		       <orig>ꝑmissa</orig>
+		       <orig>ꝓmissa</orig>
 		       <reg>promissa</reg>
 	     </choice> 
 	     <choice>
 	           <!-- check transcription, looks like cretes -->
 		       <seg type="lucas">c(ur)e(n)tes;</seg>
-		       <orig>c̄ētes;</orig>
+		       <orig>c݃ētes;</orig>  
 		       <reg>curentes;</reg>
 	     </choice> 
 	     <choice>
@@ -192,7 +190,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">nor(um)</seg>
-		       <orig>nor⋮</orig>
+		       <orig>noꝝ</orig>
 		       <reg>norum</reg>
 	     </choice> facias 
 	<choice>
@@ -259,7 +257,6 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">ph(ar)ise(us)</seg>
 		       <orig>pḣiseꝰ</orig>
 		       <reg>phariseus</reg>

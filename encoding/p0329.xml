@@ -21,9 +21,8 @@
 		       <reg>pater</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to encode -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> illa hora
 <lb/>erat 
@@ -86,7 +85,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">xxii(?)</seg>
-		       <orig>xxi̇i̇</orig>
+		       <orig>xxii</orig>
 		       <reg>xxii?</reg>
 	     </choice> 
 	     <choice>
@@ -140,7 +139,7 @@
 	     </choice> te 
 	<choice>
 		       <seg type="lucas">p(ro)tege(n)te</seg>
-		       <orig>ꝑtegēte</orig>
+		       <orig>ꝓtegēte</orig>
 		       <reg>protegente</reg>
 	     </choice> sit 
 	<choice>
@@ -214,7 +213,7 @@
 	     </choice> debes 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb break="no"/>
@@ -272,7 +271,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi).</seg>
-		       <orig>t̄.</orig>
+		       <orig>ṫ.</orig>
 		       <reg>tibi.</reg>
 	     </choice> 
 	     <choice>

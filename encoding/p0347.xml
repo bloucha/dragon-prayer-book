@@ -50,13 +50,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)seq(ue)ntib(us)</seg>
-	             <orig>ꝑseq̄ntib⋮</orig>
+	             <orig>ꝑseq̄ntib⋮</orig> 
 		       <reg>persequentibus</reg>
 	     </choice>
       <lb/>me 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -204,7 +204,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Perseq(ua)t(ur)</seg>
-		       <orig>Perseq̈t݃</orig>
+		       <orig>Perseq̈t݃</orig>  
 		       <reg>Persequatur</reg>
 	     </choice> 
 	     <choice>
@@ -225,18 +225,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(com)</seg>
-	             <orig> ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">p(re)he(n)dat;</seg>
-	             <orig>p̄hēdat;</orig>
-		       <reg>prehendat;</reg>
+	             <orig>ɔp̄hēdat;</orig>
+		       <reg>comprehendat;</reg>
 	     </choice> et
 <lb/>
 	     <choice>
@@ -256,7 +251,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vita(m)</seg>
-		       <orig>vita</orig>
+		       <orig>vitā</orig>
 		       <reg>vitam</reg>
 	     </choice> 
 	     <choice>
@@ -266,7 +261,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig> +</orig>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
 

@@ -67,15 +67,10 @@
 		       <reg>oculi</reg>
 	     </choice>
       <lb/>mei 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)uri</seg>
-		       <orig>spcūri</orig>
-		       <reg>specturi</reg>
+		       <orig>ɔspcūri</orig>
+		       <reg>conspecturi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(un)t.</seg>
@@ -83,7 +78,6 @@
 		       <reg>sunt.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- I do not see an abbreviation -->
 		       <seg type="lucas">Sal(vatorem).</seg>
 		       <orig>Sal.</orig>
 		       <reg>Salvatorem.</reg>
@@ -159,15 +153,10 @@
 		       <orig>dicā</orig>
 		       <reg>dicam</reg>
 	     </choice> deo. Noli me 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">de(m)na</seg>
-		       <orig>dēna</orig>
-		       <reg>demna</reg>
+		       <orig>ɔdēna</orig>
+		       <reg>condemna</reg>
 	     </choice>
       <lb break="no"/>re. Indica 
 	<choice>
@@ -201,7 +190,7 @@
 		       <seg type="lucas">calu(m)nieris*(et)</seg>
 		       <orig>calūnieris*+</orig>
 		       <reg>calumnieris*et</reg>
-	     </choice> op⸗ +me?
+	     </choice> op⸗ +me? ,<!-- check transcription -->
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ri)mas</seg>
@@ -221,7 +210,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">tuar(um);</seg>
-		       <orig>tuar⋮;</orig>
+		       <orig>tuaꝝ;</orig>
 		       <reg>tuarum;</reg>
 	     </choice> 
 	     <choice>
@@ -229,15 +218,11 @@
 		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+	     
 	     <choice>
 		       <seg type="lucas">siliu(m)</seg>
-		       <orig>siliū</orig>
-		       <reg>silium</reg>
+		       <orig>ɔsiliū</orig>
+		       <reg>consilium</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(m)pior(um)</seg>

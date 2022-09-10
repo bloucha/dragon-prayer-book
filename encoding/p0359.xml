@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -74,7 +74,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> tes
 <lb break="no"/>
@@ -139,7 +139,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -149,7 +149,7 @@
 	     </choice> mei: 
 	<choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q:</orig> <!-- check -->
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -159,7 +159,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig> +</orig>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>
@@ -209,7 +209,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -224,7 +224,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> dimit
 <lb break="no"/>te 
@@ -244,7 +244,7 @@
 		       <orig>qm̄</orig>
 		       <reg>quoniam</reg>
 	     </choice>
-   </ab>
+   </ab>x
 
    <ab type="translation"
        xml:id="p0359_translation"

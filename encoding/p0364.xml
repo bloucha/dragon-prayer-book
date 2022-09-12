@@ -11,14 +11,9 @@
 
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fortet(ur)</seg>
-		       <orig>fortet݃</orig>
-		       <reg>fortetur</reg>
+		       <orig>ɔfortet݃</orig>
+		       <reg>confortetur</reg>
 	     </choice> cor 
 	<choice>
 		       <seg type="lucas">tuu(m)</seg>
@@ -179,11 +174,11 @@
 		       <seg type="lucas">Scel(er)a</seg>
 		       <orig>Scel͘a</orig>
 		       <reg>Scelera</reg>
-	     </choice> mea [/
+	     </choice> mea 
 	<choice>
 		       <seg type="lucas">atq(ue)]</seg>
-		       <orig>atq⋮]</orig>
-		       <reg>atque]</reg>
+		       <orig><supplied>atq⋮</supplied></orig>
+		       <reg><supplied>atque</supplied></reg>
 	     </choice> delicta
 <lb/>
 	     <choice>
@@ -292,8 +287,7 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- A751 not appearing correctly -->
-		       <seg type="lucas">p(er)seq(ue)ris.</seg>
+	           <seg type="lucas">p(er)seq(ue)ris.</seg>
 		       <orig>ꝑseq̄ris.</orig>
 		       <reg>persequeris.</reg>
 	     </choice> 
@@ -308,14 +302,9 @@
 		       <reg>enim</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ra)</seg>
-		       <orig>ẗ</orig>
-		       <reg>tra</reg>
+		       <orig>ɔẗ</orig>
+		       <reg>contra</reg>
 	     </choice> me
 
 

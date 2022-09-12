@@ -93,14 +93,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">terit(ur)</seg>
-		       <orig>terit݃</orig>
-		       <reg>teritur</reg>
+		       <orig>ɔterit݃</orig>
+		       <reg>conteritur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -120,7 +115,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nu(m)q(uam)</seg>
-		       <orig>nūq̈ˢ</orig>
+		       <orig>nūq̈ˢ</orig> <!-- quam -->
 		       <reg>numquam</reg>
 	     </choice> 
 	     <choice>
@@ -135,7 +130,6 @@
 	     </choice> sta
 <lb break="no"/>tu 
 	<choice>
-	    <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)ma(n)et.</seg>
 		       <orig>ꝑmāet.</orig>
 		       <reg>permanet.</reg>

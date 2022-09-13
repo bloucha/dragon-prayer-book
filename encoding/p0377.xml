@@ -112,13 +112,8 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fessio(n)is:</seg>
-		       <orig>fessiōis:</orig>
+		       <orig>ɔfessiōis:</orig>
 		       <reg>fessionis:</reg>
 	     </choice> 
 	     <choice>
@@ -159,14 +154,9 @@
 		       <reg>quare</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ur)bas</seg>
-		       <orig>tbas</orig>
-		       <reg>turbas</reg>
+		       <orig>ɔt݃bas</orig>
+		       <reg>conturbas</reg>
 	     </choice> me. 
 	<choice>
 		       <seg type="lucas">Sp(er)a</seg>
@@ -233,9 +223,8 @@
 		       <reg>est:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)pt(er)ea</seg>
-		       <orig>ꝑpṫea</orig>
+		       <orig>ꝓpṫea</orig>
 		       <reg>propterea</reg>
 	     </choice> 
 	     <choice>

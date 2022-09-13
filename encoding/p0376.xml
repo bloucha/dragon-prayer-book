@@ -12,7 +12,7 @@
       <lb/>suscepisti: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -27,14 +27,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-	             <orig>spc̄ū</orig>
-		       <reg>spectu</reg>
+	             <orig>ɔspc̄ū</orig>
+		       <reg>conspectu</reg>
 	     </choice> tuo 
 	<choice>
 		       <seg type="lucas">i(n)et(er)nu(m).</seg>
@@ -74,7 +69,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> us
 <lb break="no"/>
@@ -176,7 +171,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Sitiv(it)</seg>
-		       <orig>Sitiv⁺</orig> <!-- check unicode -->
+		       <orig>Sitivᵗ</orig> 
 		       <reg>Sitivit</reg>
 	     </choice> 
 	     <choice>
@@ -213,7 +208,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

@@ -34,7 +34,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice>  
 	     <choice>
@@ -81,7 +81,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -123,7 +123,7 @@
 	     </choice> me. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> in.        
 	<choice>
@@ -132,21 +132,16 @@
 		       <reg>l?</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- check transcription, vnj -->
+	     	<!-- check transcription, viii-->
 		       <seg type="lucas">(octava).</seg>
-		       <orig>.</orig>
+		       <orig>viii.</orig>
 		       <reg>octava.</reg>
 	     </choice> 
       <lb/>PElli mee 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">su(m)ptis</seg>
-		       <orig>sūptis</orig>
-		       <reg>sumptis</reg>
+		       <orig>ɔsūptis</orig>
+		       <reg>consumptis</reg>
 	     </choice> car
 <lb break="no"/>
 	     <choice>
@@ -209,9 +204,8 @@
 	     </choice> vos
 <lb/>amici mei: 
 	<choice>
-		<!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -229,9 +223,8 @@
 		       <seg type="lucas">Q(ua)re</seg>
 		       <orig>Qr̈e</orig>
 		       <reg>Quare</reg>
-	     </choice> [me] 
+	     </choice> <supplied>me</supplied>
 	<choice>
-		<!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)seq(ui)</seg>
 		       <orig>ꝑseq̇</orig>
 		       <reg>persequi</reg>

@@ -51,7 +51,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(?).</seg>
-		       <orig>i.</orig> <!-- confused on abbreviation? -->
+		       <orig>iⁱ.</orig>
 		       <reg>i?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -159,7 +159,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -191,7 +191,7 @@
 <lb/>soli peccavi 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

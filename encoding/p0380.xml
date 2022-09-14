@@ -30,16 +30,11 @@
 		       <orig>manꝰ</orig>
 		       <reg>manus</reg>
 	     </choice>
-      <lb/>pugnet 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+      <lb/>pugnet
 	     <choice>
 		       <seg type="lucas">t(ra)</seg>
-		       <orig>ẗ</orig>
-		       <reg>tra</reg>
+		       <orig>ɔẗ</orig>
+		       <reg>contra</reg>
 	     </choice> me. 
 	<choice>
 		       <seg type="lucas">Die(s)</seg>
@@ -132,7 +127,6 @@
 		       <reg>sustinuero</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">i(n)fern(us)</seg>
 		       <orig>īfernꝰ</orig>
 		       <reg>infernus</reg>
@@ -236,7 +230,7 @@
 		       <seg type="lucas">paci(enti)a</seg>
 		       <orig>pacīa</orig>
 		       <reg>pacientia</reg>
-	     </choice> mea:c
+	     </choice> mea:c <!-- raised c -->
 <lb/>Tu es do
 <lb break="no"/>mine 
 	<choice>

@@ -64,7 +64,7 @@
 	     </choice> Dulcis 
 	<choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig> +</orig>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>
@@ -112,7 +112,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">iudit(i)o:</seg>
-	             <orig>iuditȯ:</orig> <!-- dot or macron? -->
+	             <orig>iuditō:</orig> <!-- dot or macron? -->
 		       <reg>iuditio:</reg>
 	     </choice>
       <lb/>docebit mites vias suas.
@@ -134,7 +134,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>
@@ -161,7 +161,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

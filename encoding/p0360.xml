@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> odio 
 	<choice>
@@ -49,7 +49,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> erue me:
 <lb/>
@@ -86,7 +86,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -156,7 +156,7 @@
 	     </choice> mee 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> igno
 <lb break="no"/>
@@ -178,7 +178,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Ps(alm)</seg>
-		       <orig>Ps̈</orig> <!-- the captial P covered the two dots -->
+		       <orig>Ps̈</orig>
 		       <reg>Psalm</reg>
 	     </choice>
       <lb/>

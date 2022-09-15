@@ -8,7 +8,7 @@
    <ab type="transcription"
        xml:id="p0333_transcription"
        corresp="#p0333_translation">
- [TAB]
+
 <lb/>DIlexi 
 	<choice>
 		       <seg type="lucas">q(uonia)m</seg>
@@ -34,7 +34,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Qa</orig> <!-- unsure of this abbreviation -->
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -60,7 +60,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -87,17 +87,17 @@
 <lb break="no"/>tis: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)ic(u)la</seg>
-	             <orig>ꝑicl͘a</orig>
+	             <orig>ꝑicl͘a</orig> 
 		       <reg>pericula</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)f(er)ni</seg>
-	             <orig>īḟni</orig> <!-- is the dot above the f okay? -->
+	             <orig>īfṅi</orig> 
 		       <reg>inferni</reg>
 	     </choice> 
 	     <choice>
@@ -113,7 +113,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -134,7 +134,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -186,7 +186,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -196,7 +196,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -243,7 +243,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -296,7 +296,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-	             <orig>Qȧ</orig> <!-- unsure of abbreviation? -->
+	             <orig>Q̇a</orig> 
 		       <reg>Quia</reg>
 	     </choice> eripuit 
 	<choice>

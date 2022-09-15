@@ -11,13 +11,13 @@
 
       <lb/>oris tui. Et 
 	<choice>
-		       <seg type="lucas">ca(n)te(n)t</seg>
-	      <orig>cātēt</orig>
-		       <reg>cantent</reg>
+		    <seg type="lucas">ca(n)te(n)t</seg>
+	          <orig>cātēt</orig>
+		    <reg>cantent</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-	           <orig>ī</orig>
+	             <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> viis
 <lb/>
@@ -91,7 +91,7 @@
 	     </choice> Si 
 	<choice>
 		       <seg type="lucas">a(m)b(u)lav(er)o</seg>
-	      <orig>ābl͘av̇ o</orig><!--I'm concerned that the u is unaccounted for; I also used the lowercase v with a dot, but in my viewer it's combining with the o -->
+	           <orig>ābl͘av̇o</orig>
 		       <reg>ambulavero</reg>
 	     </choice> 
 	     <choice>
@@ -112,9 +112,9 @@
 		       <reg>cabis</reg>
 	     </choice> me: 
 	<choice>
-		       <seg type="lucas">(et) </seg>
-	      <orig> +</orig>
-		       <reg>et </reg>
+		 <seg type="lucas">(et) </seg>
+	      <orig>+ </orig>
+		 <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(upe)r</seg>
@@ -250,12 +250,12 @@
 		       <reg>despicias.</reg>
 	     </choice> 
 	     <choice>
-	           <seg type="lucas">M(?)</seg><!--nb some questions here-->
+	           <seg type="lucas">M(?)</seg><!--check transcription -->
 		       <orig>M̈</orig>
 		       <reg>M?</reg>
 	     </choice> 
 	     <choice>
-	           <seg type="lucas">a(?)</seg> <!--nb some questions here-->
+	           <seg type="lucas">a(?)</seg> <!--check transcription->
 	           <orig>ä</orig>
 		       <reg>a?</reg>
 	     </choice>        Audivi.ii.

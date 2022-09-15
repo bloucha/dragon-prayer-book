@@ -72,12 +72,12 @@
 		       <seg type="lucas">deu(m)</seg>
 		       <orig>deū</orig>
 		       <reg>deum</reg>
-	     </choice> [
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">forte(m)]</seg>
-		       <orig>fortē]</orig>
-		       <reg>fortem]</reg>
-	     </choice> 
+		       <orig>fortē</orig>
+		       <reg>fortem</reg>
+	</choice></supplied>
 	     <choice>
 		       <seg type="lucas">vivu(m)</seg>
 		       <orig>vivū</orig>
@@ -137,14 +137,9 @@
 		       <reg>animas</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fite(n)tes</seg>
-		       <orig>fitētes</orig>
-		       <reg>fitentes</reg>
+		       <orig>ɔfitētes</orig>
+		       <reg>confitentes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi).</seg>
@@ -164,7 +159,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor⋮</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> ne oblivis
 <lb break="no"/>caris 
@@ -196,9 +191,9 @@
 	     </choice> 
  
 	     <choice>
-	           <!-- unsure how to code -->
+	       
 		       <seg type="lucas">(septima).</seg>
-		       <orig>.</orig>
+		       <orig>vii.</orig> <!-- check transcription here -->
 		       <reg>septima.</reg>
 	     </choice> 
       <lb/>
@@ -220,9 +215,8 @@
 	     </choice> dies mei brevia
 <lb break="no"/>
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">bu(n)t(ur):</seg>
-		       <orig>būt݃:</orig>
+		       <orig>būt݃:</orig> 
 		       <reg>buntur:</reg>
 	     </choice> 
 	     <choice>
@@ -248,7 +242,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">chr(um).</seg>
-		       <orig>chr⋮.</orig>
+		       <orig>chꝝ.</orig>
 		       <reg>chrum.</reg>
 	     </choice> 
 	     <choice>

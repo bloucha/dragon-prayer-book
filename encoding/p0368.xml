@@ -35,7 +35,7 @@
 		       <orig>qº</orig>
 		       <reg>quo</reg>
 	     </choice> re
-<lb break="no"/>corderis mei:c Putasne
+<lb break="no"/>corderis mei:c <!-- raised letter c? -->Putasne
 <lb/>
 	     <choice>
 		       <seg type="lucas">mort(us)</seg>
@@ -51,7 +51,7 @@
 		       <seg type="lucas">rursu(m)</seg>
 		       <orig>rursū</orig>
 		       <reg>rursum</reg>
-	     </choice> vivat:c
+	     </choice> vivat:c <!-- raised letter c? -->
 <lb/>
 	     <choice>
 		       <seg type="lucas">Cu(n)ctis</seg>
@@ -119,7 +119,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um):</seg>
-		       <orig>tuar⋮:</orig>
+		       <orig>tuaꝝ:</orig>
 		       <reg>tuarum:</reg>
 	     </choice> porriges dex
 <lb break="no"/>
@@ -167,7 +167,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">actu(m)</seg>
-		       <orig>actu̇</orig>
+		       <orig>actū</orig>
 		       <reg>actum</reg>
 	     </choice> me
 <lb break="no"/>
@@ -187,17 +187,12 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> †
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+	     </choice> <supplied>
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spc̄u</orig>
-		       <reg>spectu</reg>
-	     </choice> tuo e⸗†
+		       <orig>ɔspc̄u</orig>
+		       <reg>conspectu</reg>
+	     </choice> tuo e⸗
 <lb/>†gi Ideo 
 	<choice>
 		       <seg type="lucas">dep(re)cor</seg>
@@ -205,10 +200,11 @@
 		       <reg>deprecor</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">maiestate(m)†</seg>
-		       <orig>maiestatē†</orig>
-		       <reg>maiestatem†</reg>
+		       <seg type="lucas">maiestate(m)</seg>
+		       <orig>maiestatē</orig>
+	         <reg>maiestatem</reg>
 	     </choice>
+	     </supplied>
    </ab>
 
    <ab type="translation"

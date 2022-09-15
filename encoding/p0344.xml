@@ -44,7 +44,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice>
       <lb/>expelle eos: 
@@ -65,9 +65,8 @@
 		       <reg>domine.</reg>
 	     </choice> Et 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">lete(n)t(ur)</seg>
-		       <orig>letēt݃</orig>
+		       <orig>letēt݃</orig> 
 		       <reg>letentur</reg>
 	     </choice> 
 	     <choice>
@@ -82,9 +81,8 @@
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">sp(er)a(n)t</seg>
-		       <orig>sꝑāt</orig>
+		       <orig>sꝑāt</orig> 
 		       <reg>sperant</reg>
 	     </choice> 
 	     <choice>
@@ -130,9 +128,8 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">bu(n)t(ur)</seg>
-		       <orig>būt݃</orig>
+		       <orig>būt݃</orig> 
 		       <reg>buntur</reg>
 	     </choice> 
 	     <choice>
@@ -221,14 +218,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spc̄u</orig>
-		       <reg>spectu</reg>
+		       <orig>ɔspc̄u</orig>
+		       <reg>conspectu</reg>
 	     </choice>
       <lb/>tuo 
 	<choice>

@@ -21,14 +21,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">u(m)mere</seg>
-		       <orig>ūmere</orig>
-		       <reg>ummere</reg>
+		       <orig>ɔūmere</orig>
+		       <reg>conummere</reg>
 	     </choice>
       <lb/>me vis 
 	<choice>
@@ -54,7 +49,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">pede(m)</seg>
-		       <orig>pedė</orig>
+		       <orig>pedē</orig>
 		       <reg>pedem</reg>
 	     </choice>
       <lb/>
@@ -92,22 +87,17 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">meor(um)</seg>
-		       <orig>meor⋮</orig>
+		       <orig>meoꝝ</orig>
 		       <reg>meorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sid(er)asti.</seg>
-		       <orig>siḋasti.</orig>
-		       <reg>siderasti.</reg>
+		       <orig>ɔsiḋasti.</orig>
+		       <reg>considerasti.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -116,16 +106,10 @@
 		       <reg>quasi</reg>
 	     </choice>
       <lb/>putredo 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">sume(n)d(us)</seg>
-		       <orig>sumēdꝰ</orig>
-		       <reg>sumendus</reg>
+		       <orig>ɔsumēdꝰ</orig>
+		       <reg>consumendus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">su(m):</seg>
@@ -154,14 +138,9 @@
 		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(co)</seg>
-		       <orig>ɔ</orig>
-		       <reg>co</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">medit(ur)</seg>
-		       <orig>medit݃</orig>
-		       <reg>meditur</reg>
+		       <orig>ɔmedit݃</orig>
+		       <reg>comeditur</reg>
 	     </choice> a 
 	<choice>
 		       <seg type="lucas">ti(n)ea.</seg>
@@ -175,9 +154,8 @@
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> pec
 <lb break="no"/>cavi nimis
@@ -218,7 +196,7 @@
 		       <seg type="lucas">m(eu)s</seg>
 		       <orig>m̄s</orig>
 		       <reg>meus</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">misere(re)†</seg>
 		       <orig>miserė†</orig>
@@ -229,7 +207,7 @@
 		       <seg type="lucas">du(m)</seg>
 		       <orig>dū</orig>
 		       <reg>dum</reg>
-	     </choice> †
+	     </choice> </supplied>
 	<choice>
 		       <seg type="lucas">ven(er)is</seg>
 		       <orig>veṅis</orig>
@@ -240,11 +218,13 @@
 		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
+         <supplied>
 	     <choice>
-		       <seg type="lucas">novissi(m)o†</seg>
-		       <orig>novissīo†</orig>
-		       <reg>novissimo†</reg>
+		       <seg type="lucas">novissi(m)o</seg>
+		       <orig>novissīo</orig>
+		       <reg>novissimo</reg>
 	     </choice>
+         </supplied>
       <lb/>die. 
 	<choice>
 		       <seg type="lucas">a(lleluia?).</seg>
@@ -256,7 +236,7 @@
 		       <seg type="lucas">A(n)i(m)a</seg>
 		       <orig>Aīa</orig>
 		       <reg>Anima</reg>
-	     </choice> mea †turbata†
+	     </choice> mea <supplied>turbata</supplied>
 
 
 </ab>

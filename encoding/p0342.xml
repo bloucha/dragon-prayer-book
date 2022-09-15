@@ -15,9 +15,7 @@
 		       <orig>Or̄o</orig>
 		       <reg>Orati?o<!--  check expansion --></reg>
 	     </choice> 
- 
-	     <choice>
-	         
+	     <choice>         
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
@@ -47,7 +45,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">tor(um)</seg>
-		       <orig>tor⋮</orig>
+		       <orig>toꝝ</orig>
 		       <reg>torum</reg>
 	     </choice> 
 	     <choice>

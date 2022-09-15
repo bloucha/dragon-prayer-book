@@ -69,7 +69,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Vir(um)</seg>
-		       <orig>Vir⋮</orig>
+		       <orig>Viꝝ</orig>
 		       <reg>Virum</reg>
 	     </choice> 
 	     <choice>
@@ -89,9 +89,8 @@
 		       <reg>dolosum:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">abho(m)i(n)abit(ur)</seg>
-		       <orig>abhoīabit݃</orig>
+		       <orig>abhoīabit݃</orig> 
 		       <reg>abhominabitur</reg>
 	     </choice> 
 	     <choice>
@@ -148,9 +147,8 @@
 		       <reg>templum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like scm -->
 		       <seg type="lucas">s(an)ct(tu)m</seg>
-		       <orig>sctm̄</orig>
+		       <orig>scm̄</orig>
 		       <reg>sancttum</reg>
 	     </choice> tu
 <lb break="no"/>
@@ -186,9 +184,8 @@
 		       <reg>in</reg>
 	     </choice> iusticia tua 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝑpṫ</orig>
+		       <orig>ꝓpṫ</orig>
 		       <reg>propter</reg>
 	     </choice> ini
 <lb break="no"/>micos meos: dirige 
@@ -241,7 +238,7 @@
 	     </choice> ore 
 	<choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -252,7 +249,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -267,7 +264,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Sepulchr(um)</seg>
-		       <orig>Sepulchr⋮</orig>
+		       <orig>Sepulchꝝ</orig>
 		       <reg>Sepulchrum</reg>
 	     </choice>
       <lb/>
@@ -288,7 +285,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um);</seg>
-		       <orig>eor⋮;</orig>
+		       <orig>eoꝝ;</orig>
 		       <reg>eorum;</reg>
 	     </choice> 
 	     <choice>

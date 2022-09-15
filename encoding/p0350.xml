@@ -160,7 +160,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
@@ -193,7 +193,7 @@
       <lb/>nichil 
 	<choice>
 		       <seg type="lucas">e(n)i(m)</seg>
-		       <orig>ēi</orig>
+		       <orig>eī</orig>
 		       <reg>enim</reg>
 	     </choice> 
 	     <choice>
@@ -204,7 +204,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig>Q͘d</orig>
+		       <orig>Q̇d</orig>
 		       <reg>Quid</reg>
 	     </choice> 
 	     <choice>
@@ -218,9 +218,8 @@
 		       <reg>homo</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -278,7 +277,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)bas</seg>
-		       <orig>ꝑbas</orig>
+		       <orig>ꝓbas</orig>
 		       <reg>probas</reg>
 	     </choice> 
 	     <choice>

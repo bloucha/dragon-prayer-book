@@ -39,7 +39,7 @@
 <lb/>carnes meas. 
 	<choice>
 		       <seg type="lucas">Q(u)i</seg>
-		       <orig>Qi</orig> <!-- abbreviation has not been decided yet -->
+		       <orig>Qi</orig> 
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -71,23 +71,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cecider(un)t.</seg>
-		       <orig>cecidert.</orig>
+		       <orig>cecider̄t.</orig>
 		       <reg>ceciderunt.</reg>
 	     </choice> Si 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">sista(n)t</seg>
-	             <orig>sistāt</orig>
-		       <reg>sistant</reg>
+	             <orig>ɔsistāt</orig>
+		       <reg>consistant</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -171,7 +166,7 @@
 	     </choice> domo 
 	<choice>
 		       <seg type="lucas">do(mini)</seg>
-		       <orig>do</orig> <!-- unsure of abbreviation -->
+		       <orig>doⁱ</orig>
 		       <reg>domini</reg>
 	     </choice>
       <lb/>
@@ -198,12 +193,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">do(mini):</seg>
-		       <orig>do:</orig> <!-- same abbreviation as before -->
+		       <orig>doⁱ:</orig>
 		       <reg>domini:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> visi
 <lb break="no"/>

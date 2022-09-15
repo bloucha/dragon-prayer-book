@@ -89,14 +89,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fu(n)de(n)t(ur).</seg>
-	             <orig>fūdēt݃.</orig>
-		       <reg>fundentur.</reg>
+	             <orig>ɔfūdēt݃.</orig>
+		       <reg>confundentur.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Co(n)</seg>
@@ -148,7 +143,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> semitas tuas
 <lb/>edoce me. Dirige me 
@@ -165,7 +160,7 @@
       <lb break="no"/>tate tua 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> doce me: 
 	<choice>
@@ -186,7 +181,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> te sus
 <lb break="no"/>tinui tota die. 
@@ -242,11 +237,11 @@
 		       <seg type="lucas">iuve(n)tutis</seg>
 	             <orig>iuvētutis</orig>
 		       <reg>iuventutis</reg>
-	     </choice> me†e†
+	     </choice> me <supplied>e</supplied>
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

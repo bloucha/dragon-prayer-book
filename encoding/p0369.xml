@@ -70,9 +70,8 @@
 	     </choice> me
 <lb/>
 	     <choice>
-	     	<!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>

@@ -44,7 +44,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">obs(er)vav(er)is</seg>
-		       <orig>obs͘vav̇is</orig>
+		       <orig>obsv̇av̇is</orig>
 		       <reg>observaveris</reg>
 	     </choice> 
 	     <choice>
@@ -70,7 +70,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -80,9 +80,8 @@
 	     </choice>
       <lb/>te 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)piciat(i)o</seg>
-		       <orig>ꝑpiciatō</orig>
+		       <orig>ꝓpiciatō</orig>
 		       <reg>propiciatio</reg>
 	     </choice> 
 	     <choice>
@@ -96,9 +95,8 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝑpṫ</orig>
+		       <orig>ꝓpṫ</orig>
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>
@@ -189,7 +187,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -263,7 +261,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)iq(ui)ates</seg>
-		       <orig>īiq̄ates</orig>
+		       <orig>īiq̇ates</orig>
 		       <reg>iniquiates</reg>
 	     </choice> 
 	     <choice>

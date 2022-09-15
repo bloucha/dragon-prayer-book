@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> peccavi nimis 
 	<choice>
@@ -59,19 +59,14 @@
 		       <reg>veneris</reg>
 	     </choice> iudicare noli
 <lb/>me 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">de(m)nare.</seg>
-		       <orig>dēnare.</orig>
-		       <reg>demnare.</reg>
+		       <orig>ɔdēnare.</orig>
+		       <reg>condemnare.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> In 
 	<choice>
@@ -83,7 +78,7 @@
 	           <!-- check transcription, looks like n -->
 		       <seg type="lucas">ii(?).w</seg>
 		       <orig>iiº.w</orig>
-		       <reg>ii?.w<!--  check expansion --></reg>
+		       <reg>ii?.w<!--  check expansion --> <!-- where's the w? --></reg>
 	     </choice> 
   
       <lb/>
@@ -149,14 +144,9 @@
 		       <reg>meam</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">v(er)tit.</seg>
-		       <orig>v̇tit.</orig>
-		       <reg>vertit.</reg>
+		       <orig>ɔv̇tit.</orig>
+		       <reg>convertit.</reg>
 	     </choice> Deduxit me
 <lb/>
 	     <choice>
@@ -165,9 +155,8 @@
 		       <reg>super</reg>
 	     </choice> semitas iusticie: 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝑpṫ</orig>
+		       <orig>ꝓpṫ</orig>
 		       <reg>propter</reg>
 	     </choice> no
 <lb break="no"/>
@@ -186,12 +175,14 @@
 		       <orig>Nā</orig>
 		       <reg>Nam</reg>
 	     </choice> 
-         <!-- check transcription, missing et -->
+         <choice>
+               <orig>+</orig>
+               <reg>et</reg>
+         </choice>
 	     <choice>
-	           <!-- do not see an abbreviation -->
 		       <seg type="lucas">(et)si</seg>
 		       <orig>si</orig>
-		       <reg>etsi</reg>
+		       <reg>etsi</reg> <!-- hehe craft shoppe -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(m)b(u)lav(er)o</seg>

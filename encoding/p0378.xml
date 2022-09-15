@@ -12,12 +12,12 @@
       <lb/>voce 
 	<choice>
 		       <seg type="lucas">catharactar(um)</seg>
-		       <orig>catharactar⋮</orig>
+		       <orig>catharactaꝝ</orig>
 		       <reg>catharactarum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um).</seg>
-		       <orig>tuar⋮.</orig>
+		       <orig>tuaꝝ.</orig>
 		       <reg>tuarum.</reg>
 	     </choice>
       <lb/>
@@ -123,14 +123,9 @@
 		       <reg>quare</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ri)sta</seg>
-		       <orig>ṫsta</orig>
-		       <reg>trista</reg>
+		       <orig>ɔṫsta</orig>
+		       <reg>contrista</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -165,25 +160,19 @@
 		       <reg>Dum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">fri(n)gu(n)t(ur)</seg>
-		       <orig>frīgūt݃</orig>
-		       <reg>fringuntur</reg>
+		       <orig>ɔfrīgūt݃</orig> 
+		       <reg>confringuntur</reg>
 	     </choice> ossa
 <lb/>mea: 
 	<choice>
 		       <seg type="lucas">exp(ro)b(ra)ver(un)t</seg>
-		       <orig>expb̈ver̄t</orig>
+		       <orig>exꝓb̈ver̄t</orig>
 		       <reg>exprobraverunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(ihi)</seg>
-		       <orig>m̄</orig>
+		       <orig>ṁ</orig>
 		       <reg>mihi</reg>
 	     </choice> 
 	     <choice>
@@ -276,14 +265,9 @@
 		       <reg>quare</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ur)bas</seg>
-		       <orig>t݃bas</orig>
-		       <reg>turbas</reg>
+		       <orig>ɔt݃bas</orig>
+		       <reg>conturbas</reg>
 	     </choice> me.
 
 

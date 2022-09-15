@@ -65,7 +65,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-	             <orig>ꝑ</orig>
+	             <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -113,7 +113,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)picia</seg>
-	           <orig>ꝑpicia</orig> 
+	           <orig>ꝓpicia</orig> 
 		       <reg>propicia</reg>
 	     </choice> 
 	     <choice>
@@ -146,7 +146,7 @@
 <lb break="no"/>dia 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-	             <orig>ꝑ</orig>
+	             <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -193,7 +193,7 @@
          Ora. 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-	             <orig>ꝑ</orig>
+	             <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb/>
@@ -225,7 +225,7 @@
 	     </choice> 
 	     <choice>
 	           <seg type="lucas">p(ro)missio(n)ib(us)</seg>
-	             <orig>ꝑmissiōib⋮</orig>
+	             <orig>ꝓmissiōib⋮</orig>
 		       <reg>promissionibus</reg>
 	     </choice> 
 	     <choice>

@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+	           <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -127,7 +127,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)lor(um).</seg>
-		       <orig>ppl͘or⋮.</orig>
+		       <orig>ppl͘oꝝ.</orig>
 		       <reg>populorum.</reg>
 	     </choice> Lu
 <lb break="no"/>

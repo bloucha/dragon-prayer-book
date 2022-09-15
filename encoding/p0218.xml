@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">reor(um);</seg>
-	             <orig>reor⋮;</orig>
+	             <orig>reoꝝ;</orig>
 		       <reg>reorum;</reg>
 	     </choice> 
 	     <choice>
@@ -54,7 +54,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eor⋮</orig>
+	             <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -212,7 +212,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">aur(um):</seg>
-	             <orig>aur⋮:</orig>
+	             <orig>auꝝ:</orig>
 		       <reg>aurum:</reg>
 	     </choice> 
 	     <choice>

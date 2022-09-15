@@ -61,7 +61,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um)</seg>
-		       <orig>tuar⋮</orig>
+		       <orig>tuaꝝ</orig>
 		       <reg>tuarum</reg>
 	     </choice> 
 	     <choice>
@@ -192,12 +192,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ma(n)dator(um)</seg>
-		       <orig>mādator⋮</orig>
+		       <orig>mādatoꝝ</orig>
 		       <reg>mandatorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor⋮</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> 
      <supplied> 

@@ -43,7 +43,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)ceda(n)t</seg>
-		       <orig>ꝑcedāt</orig>
+	         <orig>ꝓcedāt</orig>
 		       <reg>procedant</reg>
 	     </choice> 
 	     <choice>
@@ -144,7 +144,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)m</seg>
-		       <orig>ꝑm</orig>
+	         <orig>ꝓm</orig>
 		       <reg>prom</reg>
 	     </choice>
       <lb break="no"/>
@@ -219,7 +219,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)xi(m)os.</seg>
-		       <orig>ꝑxīos.</orig>
+	         <orig>ꝓxīos.</orig>
 		       <reg>proximos.</reg>
 	     </choice> 
 	     <choice>

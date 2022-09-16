@@ -61,7 +61,7 @@
       <lb break="no"/>de 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -229,7 +229,7 @@
 	     </choice> reis 
 	<choice>
 		       <seg type="lucas">p(ro)fer</seg>
-		       <orig>ꝑfer</orig>
+		       <orig>ꝓfer</orig>
 		       <reg>profer</reg>
 	     </choice> 
    	<choice>

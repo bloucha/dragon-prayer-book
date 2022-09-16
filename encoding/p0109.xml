@@ -129,7 +129,7 @@
 <lb/>filii 
 	<choice>
 		       <seg type="lucas">excussor(um).</seg>
-		       <orig>excussor⋮.</orig>
+		       <orig>excussoꝝ.</orig>
 		       <reg>excussorum.</reg>
 	     </choice> 
 	     <choice>
@@ -231,13 +231,13 @@
       <lb break="no"/>fortavit seras 
 	<choice>
 		       <seg type="lucas">portar(um)</seg>
-		       <orig>portar⋮</orig>
+		       <orig>portaꝝ</orig>
 		       <reg>portarum</reg>
 	     </choice> tu
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ar(um)</seg>
-		       <orig>ar⋮</orig>
+		       <orig>aꝝ</orig>
 		       <reg>arum</reg>
 	     </choice> : 
 	<choice>

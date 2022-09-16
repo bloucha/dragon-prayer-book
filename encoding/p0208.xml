@@ -54,7 +54,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">tuar(um)</seg>
-	             <orig>tuar⋮</orig>
+	             <orig>tuaꝝ</orig>
 		       <reg>tuarum</reg>
 	     </choice> 
 	     <choice>
@@ -128,7 +128,7 @@
       <lb/>novelle 
 	<choice>
 		       <seg type="lucas">olivar(um):</seg>
-	             <orig>olivar⋮:</orig>
+	             <orig>olivaꝝ:</orig>
 		       <reg>olivarum:</reg>
 	     </choice> 
 	     <choice>
@@ -229,12 +229,12 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">filior(um)</seg>
-	             <orig>filior⋮</orig>
+	             <orig>filioꝝ</orig>
 		       <reg>filiorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um):</seg>
-	             <orig>tuor⋮:</orig>
+	             <orig>tuoꝝ:</orig>
 		       <reg>tuorum:</reg>
 	     </choice> 
 	     <choice>

@@ -33,7 +33,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">stor(um)</seg>
-		       <orig>stor⋮</orig>
+		       <orig>stoꝝ</orig>
 		       <reg>storum</reg>
 	     </choice> 
 	     <choice>
@@ -154,7 +154,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">suor(um);</seg>
-		       <orig>suor⋮;</orig>
+		       <orig>suoꝝ;</orig>
 		       <reg>suorum;</reg>
 	     </choice> 
 	     <choice>
@@ -222,7 +222,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">suor(um)</seg>
-		       <orig>suor⋮</orig>
+		       <orig>suoꝝ</orig>
 		       <reg>suorum</reg>
 	     </choice> 
 	     <choice>

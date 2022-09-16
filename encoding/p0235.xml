@@ -129,10 +129,8 @@
 		       <reg>et </reg>
 	     </choice> tu 
 	<choice>
-		       <seg type="lucas">(co)gnovisti</seg>
-		       <orig>ꝰgnovisti</orig>
-	      <!-- should this be con? or is (co) correct in this instance? 
-	            Check transcription -->
+		       <seg type="lucas">(con)gnovisti</seg>
+		       <orig>ɔgnovisti</orig>
 		       <reg>cognovisti</reg>
 	     </choice> semitas
 <lb/>meas. In via hac 
@@ -154,7 +152,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">absco(n)der(un)t</seg>
-		       <orig>absc̄oder̄t</orig>
+		       <orig>abscōder̄t</orig>
 		       <reg>absconderunt</reg>
 	     </choice> 
 	     <choice>
@@ -175,7 +173,7 @@
 	     </choice> ad 
 	<choice>
 		       <seg type="lucas">dext(er)a(m)</seg>
-		       <orig>dexṫa⋮</orig>
+		       <orig>dext͘a⋮</orig>
 		       <reg>dexteram</reg>
 	     </choice>
       <lb/>
@@ -201,7 +199,7 @@
 	     </choice> erat 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> cog
 <lb break="no"/>
@@ -238,7 +236,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)i(m)a(m)</seg>
-		       <orig>aia⋮</orig>
+		       <orig>aīa⋮</orig>
 		       <reg>animam</reg>
 	     </choice>
    </ab>

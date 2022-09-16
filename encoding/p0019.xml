@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -81,7 +81,7 @@
 	     <choice>
 	           
 		       <seg type="lucas">p(re)dicato(rum)</seg>
-	           <orig>p̄dicator⋮</orig>
+	           <orig>p̄dicatoꝝ</orig>
 		       <reg>predicatorum</reg>
 	     </choice> ordinis
 <lb/>nos 
@@ -92,7 +92,7 @@
 	     </choice> ad celestia 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+	      <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb break="no"/>fessor 
@@ -124,7 +124,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-	                 <orig>tuor⋮</orig>
+	                 <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> il
 <lb break="no"/>
@@ -236,12 +236,12 @@
 <lb/>fructu 
 	<choice>
 		       <seg type="lucas">oper(um)</seg>
-	              <orig>oper⋮</orig>
+	              <orig>opeꝝ</orig>
 		       <reg>operum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-	              <orig>tuor⋮</orig>
+	              <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> satia
 <lb break="no"/>bitur terra. Oratio.

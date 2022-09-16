@@ -159,12 +159,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)imicor(um)</seg>
-	                 <orig>īimicor⋮</orig>
+	                 <orig>īimicoꝝ</orig>
 		       <reg>inimicorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">meor(um)</seg>
-	                 <orig>meor⋮</orig>
+	                 <orig>meoꝝ</orig>
 		       <reg>meorum</reg>
 	     </choice> 
 	     <choice>
@@ -212,7 +212,7 @@
       <lb break="no"/>buet 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-	                  <orig>ꝑ</orig>
+	      <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> me: 
 	<choice>
@@ -248,7 +248,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um)</seg>
-	                 <orig>tuar⋮</orig>
+	                 <orig>tuaꝝ</orig>
 		       <reg>tuarum</reg>
 	     </choice> ne
 <lb/>despicias. 
@@ -270,7 +270,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)g(u)lor(um)</seg>
-	                 <orig>āgl͘or⋮</orig>
+	                 <orig>āgl͘oꝝ</orig>
 		       <reg>angulorum</reg>
 	     </choice> ps
 <lb break="no"/>

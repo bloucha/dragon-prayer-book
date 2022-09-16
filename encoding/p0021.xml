@@ -178,7 +178,7 @@
             </choice> 
             <choice>
                   <seg type="lucas">ve(n)tu(rum)</seg>
-                  <orig>vētur⋮</orig>
+                  <orig>vētuꝝ</orig>
                   <reg>venturum</reg>
             </choice> 
             <choice>
@@ -274,13 +274,13 @@
             <lb break="no"/>ci ordo 
             <choice>
                   <seg type="lucas">p(ro)pagavit</seg>
-                  <orig>ꝑpagavit</orig>
+                  <orig>ꝓpagavit</orig>
                   <reg>propagavit</reg>
             </choice> nos eo
             <lb break="no"/>
             <choice>
                   <seg type="lucas">(rum) </seg>
-                  <orig>r⋮</orig>
+                  <orig>ꝝ</orig>
                   <reg>rum </reg>
             </choice> 
             <choice>

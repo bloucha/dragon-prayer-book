@@ -64,7 +64,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um)</seg>
-	             <orig>r⋮</orig>
+	             <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> 
 	     <choice>
@@ -74,12 +74,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)tector</seg>
-	             <orig>ꝑtector</orig>
+	           <orig>ꝓtector</orig>
 		       <reg>protector</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eor⋮</orig>
+	             <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -116,7 +116,7 @@
 <lb break="no"/>tor 
 	<choice>
 		       <seg type="lucas">eor(um)</seg>
-	              <orig>eor⋮</orig>
+	              <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -126,12 +126,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)tector</seg>
-	             <orig>ꝑtector</orig>
+	           <orig>ꝓtector</orig>
 		       <reg>protector</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eor⋮</orig>
+	             <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> est.
 <lb/>
@@ -168,7 +168,7 @@
 	     </choice> adiutor 
 	<choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eor⋮</orig>
+	             <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -178,13 +178,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)te</seg>
-	             <orig>ꝑte</orig>
+	           <orig>ꝓte</orig>
 		       <reg>prote</reg>
 	     </choice>
       <lb break="no"/>ctor 
 	<choice>
 		       <seg type="lucas">eor(um)</seg>
-	             <orig>eor⋮</orig>
+	             <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>

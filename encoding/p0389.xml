@@ -43,29 +43,19 @@
 		       <reg>spiritus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ri)bulat(us):</seg>
-	             <orig>ṫbulatꝰ:</orig>
-		       <reg>tribulatus:</reg>
+	             <orig>ɔṫbulatꝰ:</orig>
+		       <reg>contribulatus:</reg>
 	     </choice> cor 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">t(ri)tu(m)</seg>
-	             <orig>ṫtū</orig>
-		       <reg>tritum</reg>
+	             <orig>ɔṫtū</orig>
+		       <reg>contritum</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -140,7 +130,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> holocausta:
 <lb/>
@@ -198,14 +188,9 @@
 		       <reg>decet</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-	             <orig></orig> <!-- need help -->
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(m)</seg>
 	             <orig>ȳp</orig>
-		       <reg>ym</reg>
+		       <reg>hym</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -226,7 +211,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

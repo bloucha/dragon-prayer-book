@@ -130,9 +130,8 @@
 	     </choice>
       <lb/>te: 
 	<choice>
-	      <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> fuisti adiutor 
 	<choice>
@@ -153,13 +152,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">alar(um)</seg>
-		       <orig>alar⋮</orig>
+		       <orig>alaꝝ</orig>
 		       <reg>alarum</reg>
 	     </choice> tua
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um)</seg>
-		       <orig>r⋮</orig>
+		       <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> exultabo; adhesit 
 	<choice>
@@ -207,9 +206,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mea(m)[:]i(n)troibu(n)t</seg>
-		       <orig>meā[:]ītroibūt</orig>
-		       <reg>meam[:]introibunt</reg>
+		       <orig>meā<supplied>:</supplied></orig>
+		       <reg>meam<supplied>:</supplied></reg>
 	     </choice>
+         <choice>
+               <orig>ītroibūt </orig>
+               <reg>introibunt</reg>
+         </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -227,9 +230,8 @@
 		       <reg>terre:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly  -->
 		       <seg type="lucas">t(ra)de(n)t(ur)</seg>
-		       <orig>ẗdēt݃</orig>
+		       <orig>ẗdēt݃</orig> 
 		       <reg>tradentur</reg>
 	     </choice> 
 	     <choice>

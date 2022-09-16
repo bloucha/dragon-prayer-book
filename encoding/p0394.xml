@@ -48,7 +48,6 @@
 	     </choice> lau
 <lb break="no"/>
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">dabu(n)t(ur)</seg>
 		       <orig>dabūt݃</orig>
 		       <reg>dabuntur</reg>
@@ -74,9 +73,8 @@
 		       <reg>in</reg>
 	     </choice> eo: 
 	<choice>
-	      <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice>
       <lb/>
@@ -102,7 +100,6 @@
 	     </choice>
       <lb/>DEus 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">mise(re)at(ur)</seg>
 		       <orig>misēat݃</orig>
 		       <reg>misereatur</reg>
@@ -165,16 +162,10 @@
 		       <orig>n̄ri.</orig>
 		       <reg>nostri.</reg>
 	     </choice> Ut 
-	<choice>
-		       <seg type="lucas">(co)</seg>
-		       <orig>ɔ</orig>
-		       <reg>co</reg>
-	     </choice>
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">gnosca(mus)</seg>
-		       <orig>gnoscāꝰ</orig>
-		       <reg>gnoscamus</reg>
+		       <orig>ɔgnoscāꝰ</orig>
+		       <reg>cognoscamus</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -219,7 +210,6 @@
 		       <reg>tuum.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">Co(n)fitea(n)t(ur)</seg>
 		       <orig>Cōfiteāt݃</orig>
 		       <reg>Confiteantur</reg>
@@ -241,15 +231,10 @@
 		       <reg>deus:</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 	          
 		       <seg type="lucas">fitea(n)t(ur)</seg>
-		       <orig>fiteāt݃</orig>
-		       <reg>fiteantur</reg>
+		       <orig>ɔfiteāt݃</orig>
+		       <reg>confiteantur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
@@ -351,14 +336,9 @@
 		       <reg>deus;</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fitea(n)t(ur)</seg>
-		       <orig>fiteāt݃</orig>
-		       <reg>fiteantur</reg>
+		       <orig>ɔfiteāt݃</orig>
+		       <reg>confiteantur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>

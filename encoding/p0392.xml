@@ -11,7 +11,6 @@
 
       <lb/>les 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">acci(n)ge(n)t(ur).</seg>
 		       <orig>accīgēt݃.</orig>
 		       <reg>accingentur.</reg>
@@ -35,7 +34,7 @@
 	<choice>
 	      <!-- check transcription, looks like there's an h -->
 		       <seg type="lucas">(ab)un</seg>
-		       <orig>ūn</orig>
+		       <orig>ūn</orig> <!-- ab thing? -->
 		       <reg>abun</reg>
 	     </choice> 
       <lb break="no"/>
@@ -61,15 +60,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- check transcription -->
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(m)nu(m)</seg>
-		       <orig>ȳnū</orig>
-		       <reg>ymnum</reg>
+		       <orig>yp̄nū</orig>
+		       <reg>hymnum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dice(n)t.</seg>
@@ -154,7 +147,8 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈ˢ</orig>
+		       <orig>q̈</orig>
+	           <!-- pls quam -->1
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>

@@ -16,9 +16,8 @@
 		       <reg>eius.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">Turbabu(n)t(ur)</seg>
-		       <orig>Turbabūt݃</orig>
+		       <orig>Turbabūt݃</orig> 
 		       <reg>Turbabuntur</reg>
 	     </choice> 
 	     <choice>
@@ -84,12 +83,7 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
-		       <reg>et </reg>
-	     </choice> 
+	     </choice>  
 	     <choice>
 		       <seg type="lucas">i(n)eb(ri)asti</seg>
 		       <orig>īeḃasti</orig>
@@ -145,7 +139,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">illor(um)</seg>
-		       <orig>illor⋮</orig>
+		       <orig>illoꝝ</orig>
 		       <reg>illorum</reg>
 	     </choice> 
 	     <choice>
@@ -159,7 +153,6 @@
 		       <reg>est</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(re)p(er)at(i)o</seg>
 		       <orig>pꝑatō</orig>
 		       <reg>preperatio</reg>
@@ -250,9 +243,8 @@
 		       <reg>campi</reg>
 	     </choice> tui 
 	<choice>
-	      <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">replebu(n)t(ur)</seg>
-		       <orig>replebūt݃</orig>
+		       <orig>replebūt݃</orig> 
 		       <reg>replebuntur</reg>
 	     </choice>
       <lb/>

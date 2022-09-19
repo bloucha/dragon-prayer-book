@@ -33,13 +33,13 @@
 		</choice> 
 		<choice>
 			<seg type="lucas">adh(uc)</seg>
-			<orig>adhʳ</orig>
+			<orig>adhᶜ</orig>
 			<reg>adhuc</reg>
 		</choice>
-		<lb/>ordirer succidit me: de 
+		<lb/>ordirer succidit me: de<!-- check transcription, are these two words? -->
 		<choice>
 			<seg type="lucas">ma(n)e</seg>
-			<orig>maē</orig>
+			<orig>māe</orig>
 			<reg>mane</reg>
 		</choice>
 		<lb/>
@@ -71,19 +71,14 @@
 		</choice> 
 		<choice>
 			<seg type="lucas">q(uas)i</seg>
-			<orig>q̇i</orig>
+			<orig>q̈i</orig>
 			<reg>quasi</reg>
 		</choice>
 		<lb/>leo sic 
 		<choice>
-			<seg type="lucas">(con)</seg>
-			<orig>ɔ</orig>
-			<reg>con</reg>
-		</choice>
-		<choice>
 			<seg type="lucas">t(ri)vit</seg>
-			<orig>t͘vit</orig>
-			<reg>trivit</reg>
+			<orig>ɔt͘vit</orig>
+			<reg>contrivit</reg>
 		</choice> 
 		<choice>
 			<seg type="lucas">o(mn)ia</seg>
@@ -147,7 +142,7 @@
 		<lb/>
 		<choice>
 			<seg type="lucas">oc(u)li</seg>
-			<orig>ocli</orig>
+			<orig>ocl͘i</orig>
 			<reg>oculi</reg>
 		</choice> mei: 
 		<choice>
@@ -184,17 +179,17 @@
 		</choice> me: 
 		<choice>
 			<seg type="lucas">q(ui)d</seg>
-			<orig>qd</orig>
+			<orig>q̇d</orig>
 			<reg>quid</reg>
 		</choice> 
 		<choice>
 			<seg type="lucas">dica(m)</seg>
-			<orig>dica</orig>
+			<orig>dicā</orig>
 			<reg>dicam</reg>
 		</choice> 
 		<choice>
 			<seg type="lucas">a(ut)</seg>
-			<orig>a</orig>
+			<orig>ȧ</orig>
 			<reg>aut</reg>
 		</choice> 
 		<choice>

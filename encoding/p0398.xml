@@ -22,7 +22,7 @@
 	     </choice> me fac: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> psal
 <lb break="no"/>mos 
@@ -172,7 +172,7 @@
 	     </choice> sol 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> lu
 <lb break="no"/>na: laudate 
@@ -210,7 +210,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -251,7 +251,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Qa</orig> <!-- unsure -->
+		       <orig>Q̇a</orig> 
 		       <reg>Quia</reg>
 	     </choice> ipse
 

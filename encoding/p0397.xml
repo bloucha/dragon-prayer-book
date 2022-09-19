@@ -33,7 +33,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> +</orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -60,7 +60,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -135,7 +135,7 @@
       <lb/>mea. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Qa</orig> <!-- abbreviation has not been established yet  -->
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -177,7 +177,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">expectab(un)t</seg>
-		       <orig>expectabt̄</orig>
+		       <orig>expectab̄t</orig>
 		       <reg>expectabunt</reg>
 	     </choice> 
 	     <choice>

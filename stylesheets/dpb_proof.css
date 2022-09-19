@@ -24,6 +24,7 @@ ab[type="translation"]:before {
     content:"Translation";
     font-size:200%;
     color:green;
+    display:block;
 }
 
 
@@ -34,7 +35,20 @@ lb {
 seg {
     display:none;
 }
+
+/* Code for displaying just reg */
+
 orig {
+	display:none;
+}
+reg {
+	color:black;
+}
+
+
+/* Code for displaying both orig and reg
+
+ orig {
     color:black;
     font-weight:bold;
 }
@@ -47,10 +61,12 @@ orig:after {
    content:" | ";
 }
 
+
 reg {
-    color:gray;
+    color:black;
 }
 
 reg:after {
     content:"]";
 }
+ */

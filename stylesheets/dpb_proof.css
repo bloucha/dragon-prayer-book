@@ -27,6 +27,17 @@ ab[type="translation"]:before {
     display:block;
 }
 
+note[type="sources"] {
+	display:block;
+	color:black;
+}
+
+note[type="sources"]:before {
+	content:"Sources: ";
+	color:black;
+	font-weight:bold;
+}
+
 
 lb {
     display:block;

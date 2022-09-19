@@ -42,9 +42,8 @@
 		       <reg>inique.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig>
+		       <orig>Qi</orig>
 		       <reg>Qui</reg>
 	     </choice> 
          <choice>
@@ -55,7 +54,7 @@
 <lb/>mala 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -113,7 +112,7 @@
 	     </choice> ne 
 	<choice>
 		       <seg type="lucas">discess(er)is</seg>
-		       <orig>discess͘is</orig>
+		       <orig>discesṡis</orig>
 		       <reg>discess(er)is</reg>
 	     </choice> 
  a me.
@@ -200,7 +199,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um):</seg>
-		       <orig>tuar⋮:</orig>
+		       <orig>tuaꝝ:</orig>
 		       <reg>tuarum:</reg>
 	     </choice> dele 
 	<choice>

@@ -117,7 +117,7 @@
 	     </choice> meis. Ne 
 	<choice>
 		       <seg type="lucas">p(ro)iicias</seg>
-		       <orig>ꝑiicias</orig>
+		       <orig>ꝓiicias</orig>
 		       <reg>proiicias</reg>
 	     </choice> me
 <lb/>a facie tua: 
@@ -192,15 +192,10 @@
 		       <reg>impii</reg>
 	     </choice> 
  ad te 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">v(er)te(n)t(ur).</seg>
-		       <orig>v̇tēt݃.</orig>
-		       <reg>vertentur.</reg>
+		       <orig>ɔv̇tēt݃.</orig>
+		       <reg>convertentur.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Lib(er)a</seg>

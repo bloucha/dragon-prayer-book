@@ -42,14 +42,9 @@
 		       <reg>meum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ra)</seg>
-		       <orig>ẗ</orig>
-		       <reg>tra</reg>
+		       <orig>ɔẗ</orig>
+		       <reg>contra</reg>
 	     </choice> me 
 	<choice>
 		       <seg type="lucas">e(st)</seg>
@@ -123,14 +118,9 @@
 		       <reg>iniquitatibus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">cept(us)</seg>
-		       <orig>ceptꝰ</orig>
-		       <reg>ceptus</reg>
+		       <orig>ɔceptꝰ</orig>
+		       <reg>conceptus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">su(m):</seg>

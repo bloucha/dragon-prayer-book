@@ -167,9 +167,9 @@
             <reg>beata</reg>
         </choice>
         <choice>
-            <seg type="lucas">t(ibi)</seg>
-            <orig>ṫ</orig>
-            <reg>tibi</reg>
+            <seg type="lucas">t(ri)</seg>
+            <orig>ṫ</orig> 
+            <reg>tri</reg> 
         </choice>
         <choice>
             <seg type="lucas">y(m)n(us).</seg>
@@ -186,7 +186,7 @@
             <orig>Ḋ</orig>
             <reg>Deo</reg>
         </choice>
-        <lb/>vitas <choice>
+        <lb/>nitas <choice>
             <seg type="lucas">(et) </seg>
             <orig>+ </orig>
             <reg>et </reg>

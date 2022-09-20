@@ -256,7 +256,7 @@
 	     <choice>
 		       <seg type="lucas">a(?)</seg>
 	             <orig>ā</orig>
-		       <reg>a?</reg>
+		       <reg>a?</reg> <!-- this one is weird because the following are ä -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">B(ea)ti</seg>
@@ -296,7 +296,7 @@
 		       <orig>viiⁱi.
 
 </orig>
-		       <reg>viii?.
+	           <reg>viiⁱi..
 
 <!--  check expansion --></reg>
 	     </choice> 

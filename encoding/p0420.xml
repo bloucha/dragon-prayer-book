@@ -60,7 +60,7 @@
 	     </choice> die 
 	<choice>
 		       <seg type="lucas">exp(ro)b(ra)ba(n)t</seg>
-		       <orig>exꝑb̈bāt</orig>
+		       <orig>exꝓb̈bāt</orig>
 		       <reg>exprobrabant</reg>
 	     </choice>
       <lb/>
@@ -81,7 +81,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̄</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> lauda
 <lb break="no"/>
@@ -103,7 +103,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -113,7 +113,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ta(m)q(uam)</seg>
-		       <orig>tāq̈ˢ</orig>
+		       <orig>tāq̈</orig> <!-- quam?? -->
 		       <reg>tamquam</reg>
 	     </choice> pa
 <lb break="no"/>
@@ -161,9 +161,8 @@
 	     </choice> tue:
 <lb/>
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>

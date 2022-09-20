@@ -42,9 +42,8 @@
 		       <reg>syon:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice>
       <lb/>
@@ -64,9 +63,8 @@
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> venit
 <lb/>
@@ -171,7 +169,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice>
       <lb/>edificavit 
@@ -240,12 +238,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Scriba(n)t(ur)</seg>
-		       <orig>Scribāt݃</orig>
+		       <orig>Scribāt݃</orig> 
 		       <reg>Scribantur</reg>
 	     </choice> 
 	     <choice>
@@ -291,20 +289,19 @@
 		       <reg>abitur</reg>
 	     </choice> laudabit 
 	<choice>
-	      <!-- check transcription, looks like dn -->
 		       <seg type="lucas">d(omi)n(u)m.</seg>
-		       <orig>dn̄m⋮.</orig>
+		       <orig>dn̄⋮.</orig>
 		       <reg>dominum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)spexit</seg>
-		       <orig>ꝑspexit</orig>
+		       <orig>ꝓspexit</orig>
 		       <reg>prospexit</reg>
 	     </choice> de excelso 
 	<choice>

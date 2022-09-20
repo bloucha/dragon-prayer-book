@@ -233,8 +233,9 @@
    <ab type="translation"
        xml:id="p0167_translation"
        corresp="#p0167_transcription">
-   	<seg source="pl | obvm | dm | drb | dpb">it is my meditation all the day. </seg>
-   	<seg source="pl dm">Through thy commandment, thou hast made me wiser than my enemies: for it is ever with me. </seg>
+   	<!-- the value for source is solely to demonstrate the encoding and may be incorrect -->
+   	<seg source="#drb">it is my meditation all the day. </seg>
+   	Through thy commandment, thou hast made me wiser than my enemies: for it is ever with me. 
          I have understood more than all my teachers: because thy testimonies are my meditation. 
          I have had understanding above ancients: because I have sought thy commandments. 
          I have restrained my feet from every evil way: that I may keep thy words. 

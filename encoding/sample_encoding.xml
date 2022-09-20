@@ -17,9 +17,10 @@
 		       <reg>est.</reg>
 	     </choice> 
 	     <choice>
+	     	<!-- This example is fictitious, just to illustrate the encoding of unclear with multiplep possible interpretations -->
 		       <seg type="lucas">S(upe)r</seg>
-		       <orig>Sr̄</orig>
-		       <reg>Super</reg>
+		       <orig><choice><unclear>Sr̄</unclear><unclear>Se</unclear></choice></orig>
+		       <reg><unclear>Super</unclear><unclear>Semper</unclear></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)imicos</seg>
@@ -232,8 +233,8 @@
    <ab type="translation"
        xml:id="p0167_translation"
        corresp="#p0167_transcription">
-   	<note type="sources">Psalm 118 verse 104 drb cont; https://www.cpdl.org/wiki/index.php/Psalm_119</note>
-   	it is my meditation all the day. Through thy commandment, thou hast made me wiser than my enemies: for it is ever with me. 
+   	<seg source="pl | obvm | dm | drb | dpb">it is my meditation all the day. </seg>
+   	<seg source="pl dm">Through thy commandment, thou hast made me wiser than my enemies: for it is ever with me. </seg>
          I have understood more than all my teachers: because thy testimonies are my meditation. 
          I have had understanding above ancients: because I have sought thy commandments. 
          I have restrained my feet from every evil way: that I may keep thy words. 

@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -98,11 +98,11 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
-	     </choice> an?
+	     </choice> 
 	<choice>
 		       <seg type="lucas">xiat(us)</seg>
-		       <orig>xiatꝰ</orig>
-		       <reg>xiatus</reg>
+		       <orig>anxiatꝰ</orig>
+		       <reg>anxiatus</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -149,12 +149,12 @@
 <lb/>fui 
 	<choice>
 		       <seg type="lucas">dier(um)</seg>
-		       <orig>dier⋮</orig>
+		       <orig>dieꝝ</orig>
 		       <reg>dierum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)tiquor(um);</seg>
-		       <orig>ātiquor⋮;</orig>
+		       <orig>ātiquoꝝ;</orig>
 		       <reg>antiquorum;</reg>
 	     </choice> medi
 <lb break="no"/>
@@ -206,7 +206,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um)</seg>
-		       <orig>tuar⋮</orig>
+		       <orig>tuaꝝ</orig>
 		       <reg>tuarum</reg>
 	     </choice> me
 <lb break="no"/>ditabar. 

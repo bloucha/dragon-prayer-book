@@ -86,14 +86,14 @@
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>än.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon?.<!--  check expansion, there is no helpful info in the translation--></reg>
 	     </choice> 
  Ne
 <lb/>
 	     <choice>
 		       <seg type="lucas">remi(?)scaris</seg>
 		       <orig>remīscaris</orig>
-		       <reg>remi?scaris<!--  check expansion --></reg>
+		       <reg>reminiscaris</reg>
 	     </choice> 
  
 	     <choice>
@@ -113,21 +113,14 @@
 		       <reg>vel</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">p(er?)
-	</seg>
-		       <orig>ꝑ
-	</orig>
-		       <reg>per?
-	<!--  check expansion --></reg>
-	     </choice> 
-      <choice>
-		       <seg type="lucas">ntu(m)</seg>
-		       <orig>ntū</orig>
-		       <reg>ntum</reg>
-	     </choice> 
+		       <seg type="lucas">p(er?)</seg>
+		       <orig>ꝑntū</orig>
+		       <reg>parentum</reg>
+	</choice> 
+      
 	     <choice>
 		       <seg type="lucas">n(ost)ror(um)</seg>
-		       <orig>nr̄or⋮</orig>
+		       <orig>nr̄oꝝ</orig>
 		       <reg>nostrorum</reg>
 	     </choice> 
 	     <choice>
@@ -149,7 +142,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -198,12 +191,12 @@
 	     <choice>
 		       <seg type="lucas">sti(?)a.</seg>
 		       <orig>stīa.</orig>
-		       <reg>sti?a.<!--  check expansion --></reg>
+		       <reg>stina.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">Co(n)fu(n)da(n)t(ur)</seg>
-		       <orig>Cōfūdāt݃</orig>
+		       <orig>Cōfūdāt݃</orig> 
 		       <reg>Confundantur</reg>
 	     </choice> 
 	     <choice>
@@ -239,7 +232,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Av(er)ta(n)t(ur)</seg>
-		       <orig>Av̇tāt݃</orig>
+		       <orig>Av̇tāt݃</orig> 
 		       <reg>Avertantur</reg>
 	     </choice>
       <lb/>
@@ -266,8 +259,8 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">vol(un?)t</seg>
-		       <orig>vol͘t</orig>
-		       <reg>volun?t<!--  check expansion --></reg>
+		       <orig>volt̄</orig>
+		       <reg>volunt</reg>
 	     </choice> 
  
 	     <choice>
@@ -284,7 +277,7 @@
 	     <choice>
 		       <seg type="lucas">stat(?)i</seg>
 		       <orig>statī</orig>
-		       <reg>stat?i<!--  check expansion --></reg>
+		       <reg>statim</reg>
 	     </choice> 
  
 	     <choice>

@@ -96,7 +96,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> a
 <lb break="no"/>pud 
@@ -140,7 +140,7 @@
 	     <choice>
 		       <seg type="lucas">redi(m?)et</seg>
 		       <orig>redīet</orig>
-		       <reg>redim?et<!--  check expansion --></reg>
+		       <reg>redimet</reg>
 	     </choice> 
  
 	     <choice>
@@ -167,7 +167,7 @@
 	<choice>
 		       <seg type="lucas">Ps(alm?)</seg>
 		       <orig>Ps̈</orig>
-		       <reg>Psalm?</reg>
+		       <reg>Psalm? <!-- check expansion, this does not appear in the translation page linked --></reg>
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">b(us)</seg>
@@ -202,18 +202,10 @@
 		       <reg>parcipe</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">obsec(ra?)
-	</seg>
-		       <orig>obsec̈
-	</orig>
-		       <reg>obsecra?
-	<!--  check expansion --></reg>
-	     </choice> 
-      <choice>
-		       <seg type="lucas">t(i)o(nem)</seg>
-		       <orig>tō⋮</orig>
-		       <reg>tionem</reg>
-	     </choice> 
+		       <seg type="lucas">obsec(ra?)</seg>
+		       <orig>obsec̈tō⋮</orig>
+		       <reg>obsecrationem</reg>
+	     </choice>  
 	     <choice>
 		       <seg type="lucas">mea(m):</seg>
 		       <orig>meā:</orig>
@@ -268,9 +260,8 @@
 		       <reg>servo</reg>
 	     </choice> tuo: 
 	<choice>
-	    <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -290,14 +281,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u(m)</seg>
-		       <orig>spc̄u</orig>
-		       <reg>spectum</reg>
+		       <orig>ɔspc̄u</orig>
+		       <reg>conspectum</reg>
 	     </choice> tuo 
 	<choice>
 		       <seg type="lucas">o(mn)is</seg>

@@ -107,12 +107,12 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">servor(um)</seg>
-		       <orig>servor⋮</orig>
+		       <orig>servoꝝ</orig>
 		       <reg>servorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor⋮</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> 
 	     <choice>
@@ -133,7 +133,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -154,12 +154,12 @@
       <lb/>DE 
 	<choice>
 		       <seg type="lucas">p(ro)fu(n)d(is)</seg>
-		       <orig>ꝑfūḋ</orig>
+		       <orig>ꝓfūḋ</orig>
 		       <reg>profundis</reg>
 	     </choice> 
          <choice>
                   <seg type="lucas">cla(ma)vi</seg>
-                  <orig>clävi</orig> <!--I added in the diacritic too because it's hard to see on the page-->
+                  <orig>clävi</orig> 
                   <reg>clamavi</reg>
          </choice> adte
 <lb/>
@@ -191,9 +191,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">av(er?)es</seg>
-		       <orig>av̇es</orig>
-		       <reg>aver?es<!--  check expansion --></reg>
-	     </choice> 
+		       <orig>au̇es</orig>
+		       <reg>aures</reg>
+	     </choice>
  tue
 <lb/>
 	     <choice>
@@ -251,7 +251,7 @@
       <lb break="no"/>bit. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -261,7 +261,7 @@
 	     </choice> te 
 	<choice>
 		       <seg type="lucas">p(ro)piciat(i)o</seg>
-		       <orig>ꝑpiciatō</orig>
+		       <orig>ꝓpiciatō</orig>
 		       <reg>propiciatio</reg>
 	     </choice>
       <lb/>
@@ -277,7 +277,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝑpṫ</orig>
+		       <orig>ꝓpṫ</orig>
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>
@@ -289,7 +289,7 @@
 		       <seg type="lucas">tua(m)</seg>
 		       <orig>tuā</orig>
 		       <reg>tuam</reg>
-	     </choice> sustinui?
+	     </choice> sustinui
 
 
 </ab>

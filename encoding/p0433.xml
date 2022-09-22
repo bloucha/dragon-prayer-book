@@ -16,9 +16,8 @@
 		       <reg>Sancta</reg>
 	     </choice> maria 
 	<choice>
-	    <!-- unsure how to code, small raised na -->
 		       <seg type="lucas">mag(na?)</seg>
-		       <orig>mag</orig>
+		       <orig>magⁿᵃ</orig> <!-- this is the best I got here -->
 		       <reg>magna?</reg>
 	     </choice>                                or
 <lb/>
@@ -102,13 +101,13 @@
 		       <seg type="lucas">cu(m)</seg>
 		       <orig>cū</orig>
 		       <reg>cum</reg>
-	     </choice> soda.t.                        or.
+	     </choice> soda.t.     <!-- check transcription here, soda t? Do not see in translation-->                   or.
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
 		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
-	     </choice> Kunegundis?                                or
+	     </choice> Kunegundis?      <!-- check transcription -->                          or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>

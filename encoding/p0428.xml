@@ -23,7 +23,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -93,15 +93,15 @@
 		       <seg type="lucas">v(er)o</seg>
 	             <orig>v̇o</orig>
 		       <reg>vero</reg>
-	     </choice> ege? <!-- is there an n here? -->
+	     </choice>
 	<choice>
 		       <seg type="lucas">(us) </seg>
-	             <orig> ꝰ</orig>
-		       <reg>us </reg>
+	             <orig>egenꝰ</orig>
+		       <reg>egenus </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -144,15 +144,15 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Kyrieel(is?):</seg>
-		       <orig>Kyrieel:</orig> <!-- I feel like it might be a l͘ followed by a period rather than a colon?? -->
-		       <reg>Kyrieelis?:<!--  check expansion --></reg>
+		       <orig>Kyrieel͘.</orig> 
+		       <reg>Kyrie elision.</reg>
 	     </choice> 
-        ??moreris.
+        ??moreris. <!-- check transcription, no idea what's going on here -->
 <lb/>
 	     <choice>
 		       <seg type="lucas">(Christ)eel(is?):</seg>
-	             <orig>xp̄eel:</orig>
-		       <reg>Christeelis?:</reg>
+	             <orig>xp̄eel͘.</orig>
+		       <reg>Christe elision:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(Christ)e</seg>

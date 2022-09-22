@@ -72,7 +72,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -98,8 +98,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(irit)u?(?)</seg>
-	           <orig>sp̄ū?</orig> <!-- might be other characters in here?? -->
-		       <reg>spiritu??</reg>
+	           <orig>sp̄ūu</orig> 
+		       <reg>spirituum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ordi(n)es</seg>
@@ -115,7 +115,7 @@
 	     <choice>
 		       <seg type="lucas">ioh(?)es</seg>
 	           <orig>ioḣes</orig>
-		       <reg>ioh?es<!--  check expansion --></reg>
+		       <reg>ioannes</reg>
 	     </choice> 
  baptista                                or
 <lb/>
@@ -136,7 +136,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -177,7 +177,7 @@
 	     <choice>
 		       <seg type="lucas">ioh(?)es</seg>
 	           <orig>ioḣes</orig>
-		       <reg>ioh?es<!--  check expansion --></reg>
+		       <reg>ioannes</reg>
 	     </choice> 
                                         or
 <lb/>

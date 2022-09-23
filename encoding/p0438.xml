@@ -56,7 +56,7 @@
 	     <choice>
 		       <seg type="lucas">toll(is?)</seg>
 		       <orig>toll͘</orig>
-		       <reg>tollis?</reg>
+		       <reg>tollis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)ta</seg>
@@ -72,7 +72,7 @@
 	     <choice>
 		       <seg type="lucas">p(ar?)ce</seg>
 		       <orig>ꝑce</orig>
-		       <reg>par?ce<!--  check expansion --></reg>
+		       <reg>parce</reg>
 	     </choice> 
  
 	     <choice>
@@ -130,7 +130,7 @@
 	     <choice>
 		       <seg type="lucas">toll(is?)</seg>
 		       <orig>toll͘</orig>
-		       <reg>tollis?<!--  check expansion --></reg>
+		       <reg>tollis</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -160,9 +160,8 @@
 	     </choice> 
       <lb/>
 	     <choice>
-	           <!-- unicode character not assigned -->
 		       <seg type="lucas">(Christe eleison)</seg>
-		       <orig/>
+		       <orig>X</orig>
 		       <reg>Christe eleison</reg>
 	     </choice> . 
 	<choice>
@@ -229,7 +228,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -245,7 +244,7 @@
       <lb/>Ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -309,7 +308,7 @@
       <lb break="no"/>te 
 	<choice>
 		       <seg type="lucas">labior(um)</seg>
-		       <orig>labior⋮</orig>
+		       <orig>labioꝝ</orig>
 		       <reg>labiorum</reg>
 	     </choice> 
 	     <choice>

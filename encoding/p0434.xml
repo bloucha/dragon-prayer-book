@@ -28,8 +28,8 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Om(ne)s?</seg>
-		       <orig>Om̄s?</orig>
-		       <reg>Omnes?</reg>
+		       <orig>Om̄s</orig>
+		       <reg>Omnesa</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
@@ -59,12 +59,9 @@
 		       <reg>domine.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Ada(m?)
-	</seg>
-		       <orig>Adā
-	</orig>
-		       <reg>Adam?
-	<!--  check expansion --></reg>
+		       <seg type="lucas">Ada(m?)</seg>
+		       <orig>Adā</orig>
+		       <reg>Adam?<!--  check expansion, can't find in the translation --></reg>
 	     </choice> 
       <choice>
 		       <seg type="lucas">nat(i)o(n)e</seg>
@@ -91,7 +88,7 @@
 	     <choice>
 		       <seg type="lucas">i(?)p??sa</seg>
 		       <orig>īp??sa</orig>
-		       <reg>i?p??sa<!--  check expansion --></reg>
+		       <reg>i?p??sa<!--  check expansion, cannot find in translation --></reg>
 	     </choice> 
  morte.l n d. Ab
 <lb/>
@@ -102,12 +99,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
-		       <orig>pct̄or⋮</orig>
+		       <orig>pct̄oꝝ</orig>
 		       <reg>peccatorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(ost)ror(um)</seg>
-		       <orig>nr̄or⋮</orig>
+		       <orig>nr̄oꝝ</orig>
 		       <reg>nostrorum</reg>
 	     </choice> 
 	     <choice>

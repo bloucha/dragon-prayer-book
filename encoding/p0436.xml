@@ -14,19 +14,11 @@
 		       <seg type="lucas">d(omi)n(um)</seg>
 		       <orig>dn̄⋮</orig>
 		       <reg>dominum</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">ap(?)
-	</seg>
-		       <orig>ap
-	</orig>
-		       <reg>ap?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">licu(m)</seg>
-		       <orig>l͘icū</orig>
-		       <reg>licum</reg>
+		       <orig>apl͘icū</orig>
+		       <reg>aplicum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -38,18 +30,11 @@
 		       <orig>ōs</orig>
 		       <reg>omnes</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">g(ra?)
-	</seg>
-		       <orig>g̈
-	</orig>
-		       <reg>gra?
-	<!--  check expansion --></reg>
-	     </choice> 
+	      
       <choice>
 		       <seg type="lucas">d(us)</seg>
-		       <orig>dꝰ</orig>
-		       <reg>dus</reg>
+		       <orig>g̈dꝰ</orig>
+		       <reg>gradus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eccl(esi)e</seg>
@@ -73,20 +58,15 @@
 		       <reg>religione</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">s(er)vare</seg>
-		       <orig>s͘vare</orig>
-		       <reg>servare</reg>
+		       <orig>ɔs͘vare</orig>
+		       <reg>conservare</reg>
 	     </choice> dig
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">n(ar?)is.t.</seg>
 		       <orig>ṅis.t.</orig>
-		       <reg>nar?is.t.<!--  check expansion --></reg>
+		       <reg>neris.t.</reg>
 	     </choice> 
  Ut 
 	<choice>
@@ -122,14 +102,9 @@
 		       <reg>cunctas</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">gregat(i)o</seg>
-		       <orig>gregatō</orig>
-		       <reg>gregatio</reg>
+		       <orig>ɔgregatō</orig>
+		       <reg>congregatio</reg>
 	     </choice>
       <lb break="no"/>nes 
 	<choice>
@@ -159,19 +134,14 @@
 		       <reg>servicio</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">s(er)vare</seg>
-		       <orig>s͘vare</orig>
-		       <reg>servare</reg>
+		       <orig>ɔs͘vare</orig>
+		       <reg>conservare</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dign(ar?)is.</seg>
 		       <orig>digṅis.</orig>
-		       <reg>dignar?is.<!--  check expansion --></reg>
+		       <reg>digneris.</reg>
 	     </choice> 
  t.
 <lb/>Ut 
@@ -207,14 +177,9 @@
 		       <reg>veram</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">cordia(m)</seg>
-		       <orig>cordiā</orig>
-		       <reg>cordiam</reg>
+		       <orig>ɔcordiā</orig>
+		       <reg>concordiam</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -231,7 +196,7 @@
 	     <choice>
 		       <seg type="lucas">n(ar?)is.</seg>
 		       <orig>ṅis.</orig>
-		       <reg>nar?is.<!--  check expansion --></reg>
+		       <reg>neris.</reg>
 	     </choice> 
  ti. Ut 
 	<choice>
@@ -258,7 +223,7 @@
 	     <choice>
 		       <seg type="lucas">p(re)co(n?)so</seg>
 		       <orig>p̄cōso</orig>
-		       <reg>precon?so</reg>
+		       <reg>precon?so</reg> <!-- check expansion -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sa(n)g(ui)ne</seg>
@@ -272,19 +237,14 @@
 		       <reg>demptum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">s(er)vare</seg>
-		       <orig>s͘vare</orig>
-		       <reg>servare</reg>
+		       <orig>ɔs͘vare</orig>
+		       <reg>conservare</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dign(ar?)is.</seg>
 		       <orig>digṅis.</orig>
-		       <reg>dignar?is.<!--  check expansion --></reg>
+		       <reg>digneris.</reg>
 	     </choice> 
  t r?.
 <lb/>Ut 

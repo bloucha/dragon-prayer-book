@@ -19,19 +19,11 @@
 		       <seg type="lucas">et(er)na</seg>
 		       <orig>eṫna</orig>
 		       <reg>eterna</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">da(m?)
-	</seg>
-		       <orig>dā
-	</orig>
-		       <reg>dam?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">nat(i)o(n)e</seg>
-		       <orig>natōe</orig>
-		       <reg>natione</reg>
+		       <orig>dānatōe</orig>
+		       <reg>damnatione</reg>
 	     </choice>
       <lb/>eripias.t. Ut 
 	<choice>
@@ -51,19 +43,14 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">s(er)vare</seg>
-		       <orig>s͘vare</orig>
-		       <reg>servare</reg>
+		       <orig>ɔs͘vare</orig>
+		       <reg>conservare</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dign(ar?)is.</seg>
 		       <orig>digṅis.</orig>
-		       <reg>dignar?is.<!--  check expansion --></reg>
+		       <reg>digneris.</reg>
 	     </choice> 
  t r.
 <lb/>Ut 
@@ -91,7 +78,7 @@
 	     <choice>
 		       <seg type="lucas">dign(ar?)is.</seg>
 		       <orig>digṅis.</orig>
-		       <reg>dignar?is.<!--  check expansion --></reg>
+		       <reg>digneris.</reg>
 	     </choice> 
  t. Ut ob
 <lb break="no"/>
@@ -147,7 +134,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">captivor(um)</seg>
-		       <orig>captivor⋮</orig>
+		       <orig>captivoꝝ</orig>
 		       <reg>captivorum</reg>
 	     </choice> 
 	     <choice>
@@ -218,12 +205,12 @@
 	<choice>
 		       <seg type="lucas">i(n)stru(?)e</seg>
 		       <orig>īstru̇e</orig>
-		       <reg>instru?e</reg>
+		       <reg>instru?e</reg> <!-- check expansion, not in translation -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dign(ar)is.t.</seg>
 		       <orig>digṅis.t.</orig>
-		       <reg>dignaris.t.</reg>
+		       <reg>digneris.t.</reg>
 	     </choice> Ut
 
 

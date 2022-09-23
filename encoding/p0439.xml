@@ -18,7 +18,7 @@
 	     <choice>
 		       <seg type="lucas">V(espers?)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers?</reg>
+		       <reg>Vespers?</reg> <!-- might be versicle? -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Declarat(i)o</seg>
@@ -33,13 +33,13 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor⋮</orig>
+		       <orig>tuo</orig>
 		       <reg>tuorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">illu(m)i(?)at.</seg>
 		       <orig>illūiat.</orig>
-		       <reg>illumi?at.</reg>
+		       <reg>illumiat.</reg>
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">i(n)tellectu(m)</seg>
@@ -60,7 +60,7 @@
 	     <choice>
 		       <seg type="lucas">Ti(m)e(n?)te</seg>
 		       <orig>Tīete</orig>
-		       <reg>Timen?te</reg>
+		       <reg>Timen?te</reg> <!-- check expansion, no latin text in the link -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">deu(m)</seg>
@@ -75,7 +75,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -95,15 +95,10 @@
 		       <reg>Versiculus</reg>
 	     </choice> Memore
 <lb/>esto 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">gregat(i)o(n)is</seg>
-		       <orig>gregatōis</orig>
-		       <reg>gregationis</reg>
+		       <orig>ɔgregatōis</orig>
+		       <reg>congregationis</reg>
 	     </choice> tue. 
 	<choice>
 		       <seg type="lucas">Qua(m)</seg>
@@ -113,8 +108,8 @@
       <lb/>possedisti ab 
 	<choice>
 		       <seg type="lucas">i(m?)icio.</seg>
-		       <orig>īicio.</orig>
-		       <reg>im?icio.<!--  check expansion --></reg>
+		       <orig>īitio.</orig>
+		       <reg>initio.</reg>
 	     </choice> 
  
 	     <choice>
@@ -125,7 +120,7 @@
 <lb break="no"/>vos fac 
 	<choice>
 		       <seg type="lucas">s(er)vos</seg>
-		       <orig>s͘vos</orig>
+		       <orig>sv̇os</orig>
 		       <reg>servos</reg>
 	     </choice> tuos 
 	<choice>
@@ -141,7 +136,7 @@
       <lb break="no"/>las tuas. 
 	<choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -178,7 +173,7 @@
 	     <choice>
 		       <seg type="lucas">t(ur?)ris</seg>
 		       <orig>t݃ris</orig>
-		       <reg>tur?ris<!--  check expansion --></reg>
+		       <reg>turris</reg>
 	     </choice> 
  for
 <lb break="no"/>
@@ -244,25 +239,17 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">t(ur?)
-	</seg>
-		       <orig>t݃
-	</orig>
-		       <reg>tur?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">rib(us)</seg>
-		       <orig>rib⋮</orig>
-		       <reg>ribus</reg>
+		       <orig>t͘rib⋮</orig>
+		       <reg>turribus</reg>
 	     </choice> tuis.
 <lb/>PRotege 
 	<choice>
 		       <seg type="lucas">Or(ati?)o</seg>
 		       <orig>Or̄o</orig>
-		       <reg>Orati?o<!--  check expansion --></reg>
+		       <reg>Orati?o<!--  check expansion, nothing linked --></reg>
 	     </choice> 
  
 	     <choice>

@@ -99,7 +99,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -141,8 +141,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">joh(?)s</seg>
-	           <orig>joḣs</orig>
-		       <reg>joh?s<!--  check expansion --></reg>
+	           <orig>ioḣs</orig>
+		       <reg>ioannes</reg>
 	     </choice> 
  baptista                                or e
 + 11 
@@ -163,7 +163,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>  +</orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">op(er)at(i)o(n)e</seg>
-		       <orig>opatōe</orig>
+		       <orig>oꝑatōe</orig>
 		       <reg>operatione</reg>
 	     </choice> 
 	     <choice>
@@ -33,7 +33,7 @@
       <lb break="no"/>das: da 
 	<choice>
 		       <seg type="lucas">nob(is)</seg>
-		       <orig>nob̄</orig>
+		       <orig>noḃ</orig>
 		       <reg>nobis</reg>
 	     </choice> 
 	     <choice>
@@ -50,7 +50,7 @@
 		       <seg type="lucas">q(ue)</seg>
 		       <orig>q̄</orig>
 		       <reg>que</reg>
-	     </choice> docuit?)
+	     </choice> docuit?) <!-- what is this -->
 <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)tell(e)c(t)a</seg>
@@ -60,8 +60,7 @@
 	     <choice>
 		       <seg type="lucas">(con)spice(re?);</seg>
 		       <orig>ɔspicė;</orig>
-		       <reg>conspicere?;</reg>
-	           <!-- is this macron or dot -->
+		       <reg>conspicere;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -82,7 +81,7 @@
 	<choice>
 	      <seg type="lucas">(con)ple(re?).</seg>
 		       <orig>ɔplė.</orig>
-		       <reg>plere?.<!--  check expansion --></reg>
+		       <reg>conplere?.<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
@@ -139,16 +138,10 @@
 		       <orig>catōe</orig>
 		       <reg>catione</reg>
 	     </choice> ad 
-	<choice>
-		       <seg type="lucas">ag(?)</seg>
-		       <orig>aġ?</orig>
-		       <reg>ag?<!--  check expansion --></reg>
-	     </choice> 
       <choice>
 		       <seg type="lucas">t(i)o(nem)</seg>
-		       <orig>tō⋮</orig>
-		       <reg>tionem</reg>
-            <!-- the past two look like one word to me -->
+		       <orig>aġtō⋮</orig>
+		       <reg>ag?tionem</reg> <!-- check expansion -->
       </choice> tui 
 	<choice>
 		       <seg type="lucas">no(m)i(ni)s</seg>
@@ -179,8 +172,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ve(n)t??(m)</seg>
-	           <orig>vēt??ꝝ</orig>
-		       <reg>vent??m</reg>
+	           <orig>vēt??⋮</orig> 
+		       <reg>vent??m</reg> <!-- check expansion -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">iudice(m)</seg>
@@ -224,7 +217,7 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
 		       <reg>in</reg>
-         </choice> <supplied> cel?is.   </supplied>
+         </choice> <supplied> cel?is. <!-- check expansion -->   </supplied>
                 
     
 	<choice>
@@ -255,9 +248,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">do(mine)</seg>
-		       <orig>do</orig>
-		       <reg>domine</reg>
-	           <!-- cannot tell -->
+		       <orig>doᶜ</orig>
+		       <reg>domine</reg> <!-- check expansion -->
 	     </choice>
       <lb/>
 	     <choice>

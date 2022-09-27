@@ -55,7 +55,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> ius
 <lb break="no"/>ta 
@@ -108,7 +108,7 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>  +</orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> corda 
 	<choice>
@@ -124,7 +124,7 @@
       <lb/>tuis dedita; 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> +</orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -151,7 +151,7 @@
 	     <choice>
 		       <seg type="lucas">si(n?)t</seg>
 	             <orig>sīt</orig>
-		       <reg>sin?t<!--  check expansion --></reg>
+		       <reg>sint</reg>
 	     </choice> 
  tua 
 	<choice>
@@ -174,18 +174,22 @@
 		       <seg type="lucas">P(er)</seg>
 	             <orig>Ꝑ</orig>
 		       <reg>Per</reg>
-	     </choice> (christum?).
+	     </choice> 
+         <choice>
+               <orig>xᵐ </orig>
+               <reg>christum</reg>
+         </choice>
 <lb/>
 	     <choice>
 		       <seg type="lucas">Kyriel(is?).</seg>
 		       <orig>Kyriel͘.</orig>
-		       <reg>Kyrielis?.<!--  check expansion --></reg>
+		       <reg>Kyrielision.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">(Christi)el(is?).</seg>
 	             <orig>Xp̄el͘.</orig>
-		       <reg>Christielis?.</reg>
+		       <reg>Christielision.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(Christ)e</seg>

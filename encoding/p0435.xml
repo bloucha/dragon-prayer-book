@@ -135,16 +135,16 @@
 		       <orig>ɔ</orig>
 		       <reg>con</reg>
 	     </choice>
-      <lb break="no"/>†
+      <lb break="no"/><supplied>
 	<choice>
 		       <seg type="lucas">corgia(m)</seg>
 		       <orig>corgiā</orig>
 		       <reg>corgiam</reg>
-	     </choice> n†
+	</choice> </supplied>
 	<choice>
 		       <seg type="lucas">ob(is)</seg>
-		       <orig>oḃ</orig>
-		       <reg>obis</reg>
+		       <orig>noḃ</orig>
+		       <reg>nobis</reg>
 	     </choice> dones.t r a
 <lb/>n. Ut 
 	<choice>

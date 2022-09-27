@@ -74,9 +74,8 @@
 		       <reg>am:</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -121,9 +120,8 @@
 		       <reg>ambulem:</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice>
       <lb/>ad te levavi 
@@ -172,9 +170,8 @@
 		       <reg>am</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -182,8 +179,12 @@
 		       <orig>ḋs</orig>
 		       <reg>deus</reg>
 	     </choice> 
-       <!-- check transcription, looks like an abbreviation on the m -->
-       m(eu0s es tu. 
+       
+       <choice>
+           <orig>m̄s</orig>
+           <reg>meus</reg>
+       </choice>
+       es tu. 
 	<choice>
 		       <seg type="lucas">Sp(iritu)s</seg>
 		       <orig>Sp̄s</orig>
@@ -218,7 +219,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝑpṫ</orig>
+		       <orig>ꝓpṫ</orig>
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>
@@ -239,8 +240,8 @@
 	     </choice> u?(?)?
 	<choice>
 		       <seg type="lucas">ficab(is)</seg>
-		       <orig>ficaḃ</orig>
-		       <reg>ficabis</reg>
+		       <orig>vivficaḃ</orig>
+		       <reg>vivfiicabis</reg>
 	     </choice> me 
 	<choice>
 		       <seg type="lucas">i(n)</seg>

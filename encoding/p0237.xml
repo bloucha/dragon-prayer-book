@@ -98,7 +98,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> docet 
 	<choice>
@@ -148,9 +148,7 @@
          <choice>
 		       <seg type="lucas">meu(m)</seg>
 		       <orig>meū</orig>
-	           <!-- damage to text so I'm making an assumption
-	                 about this diacritic -->
-		       <reg>meum</reg>
+	           		       <reg>meum</reg>
 	     </choice> 
 	         </supplied> susceptor 
 	<choice>
@@ -177,7 +175,6 @@
 	     <choice>
 		       <seg type="lucas">Protecto(r)</seg>
 		       <orig>Protectȯ</orig>
-	           <!-- this looks like it might be a dot but I'm not sure -->
 		       <reg>Protector</reg>
 	     </choice> 
 	     <choice>
@@ -198,7 +195,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ip(s)o</seg>
-		       <orig>iꝑ̄o</orig>
+		       <orig>ip̄o</orig>
 		       <reg>ipso</reg>
 	     </choice> 
 	     <choice>
@@ -208,7 +205,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -219,7 +216,7 @@
 	     <choice>
 		       <seg type="lucas">p(o)p(u)l(u)m</seg>
 		       <orig>ppl͘m</orig>
-	           <!-- I don't see any bar on the P but worth double checking -->
+	           
 		       <reg>populum</reg>
 	     </choice>
       <lb/>
@@ -266,9 +263,7 @@
 	     </choice> ei: 
 	<choice>
 		       <seg type="lucas">a(ut)</seg>
-		       <orig>ȧ</orig>
-	      <!-- dot looks like it's to the right but standard 
-	            operating procedure is to put it above so I did -->
+		       <orig>a͘</orig>
 		       <reg>aut</reg>
 	     </choice> 
 	     <choice>

@@ -61,12 +61,12 @@
 <lb break="no"/>si at illi 
 	<choice>
 		       <seg type="lucas">r(espo)nde(n)tes</seg>
-		       <orig>r̄ndētes</orig>
+		       <orig>rn̄dētes</orig>
 		       <reg>respondentes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dixer(un)t</seg>
-		       <orig>dixert̄</orig>
+		       <orig>dixer̄t</orig>
 		       <reg>dixerunt</reg>
 	     </choice> 
 	     <choice>
@@ -141,10 +141,7 @@
 	<choice>
 		       <seg type="lucas">V(?)</seg>
 		       <orig>ḃ</orig>
-	      <!-- giant transcription what is going on here
-	            this is clearly a letter b with a dot 
-	            I am not sure what it means -->
-		       <reg>V?</reg>
+		       <reg>V?<!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
@@ -255,13 +252,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(un)t</seg>
-		       <orig>sṫ</orig>
+		       <orig>st͘</orig>
 		       <reg>sunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vo(ra)ti</seg>
-		       <orig>vōti</orig>
-	           <!-- not sure if diacritic or two dots?? -->
+		       <orig>vöti</orig>
 		       <reg>vorati</reg>
 	     </choice> pauci
 <lb/>
@@ -288,13 +284,12 @@
 	     <choice>
 		       <seg type="lucas">(tercia)</seg>
 		       <orig>in </orig>
-	           <!-- this looks like in to me -->
 		       <reg>tercia</reg>
 	     </choice>
       <lb/>lx. 
 	<choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>

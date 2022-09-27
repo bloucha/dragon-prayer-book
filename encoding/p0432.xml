@@ -90,7 +90,7 @@
 		       <seg type="lucas">S(an)c(t)e</seg>
 		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
-	     </choice> ludroice?                                or
+	     </choice> ludroice?    <!-- can't find anything about this saint -->                            or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
@@ -100,8 +100,8 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(piritu?)s</seg>
-		       <orig>S̄s</orig>
-		       <reg>Spiritu?s<!--  check expansion --></reg>
+		       <orig>Ss̄</orig>
+		       <reg>Spiritu?s<!--  check expansion, not sure this is spiritus --></reg>
 	     </choice> 
  
 	     <choice>

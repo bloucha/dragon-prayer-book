@@ -18,7 +18,7 @@
 	     <choice>
 		       <seg type="lucas">Lyp(?)ane</seg>
 		       <orig>Lyṗane</orig>
-		       <reg>Lyp?ane<!--  check expansion --></reg>
+		       <reg>Lyp?ane<!--  check expansion, can't find this saint in the wiki--></reg>
 	     </choice> 
                                 or
 <lb/>
@@ -54,7 +54,7 @@
 		       <seg type="lucas">c(um)</seg>
 		       <orig>c̄</orig>
 		       <reg>cum</reg>
-	     </choice> s t.                        or
+	     </choice> s t. <!-- check transcription, I think the s t might be short for 'spiritu tuo' -->                      or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
@@ -77,8 +77,8 @@
 	     <choice>
 	         
 		       <seg type="lucas">S(piritu?)s</seg>
-		       <orig>S̄s</orig>
-		       <reg>Spiritu?s<!--  check expansion --></reg>
+		       <orig>Ss̄</orig>
+		       <reg>Spiritu?s<!--  check expansion, can't find in the transcription --></reg>
 	     </choice> 
  
 	     <choice>

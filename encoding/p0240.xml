@@ -49,13 +49,12 @@
 	     <choice>
 		       <seg type="lucas">p(o)p(u)l(u)m</seg>
 		       <orig>ppl͘m</orig>
-	           <!-- no diacritic on the first p I think? -->
 		       <reg>populum</reg>
 	     </choice> cui
 <lb/>hec 
 	<choice>
 		       <seg type="lucas">s(un)t:</seg>
-		       <orig>sṫ:</orig>
+		       <orig>st͘:</orig>
 		       <reg>sunt:</reg>
 	     </choice> 
 	     <choice>
@@ -140,7 +139,7 @@
 	     </choice>        In 
 	<choice>
 		       <seg type="lucas">et(er)nu(m).</seg>
-		       <orig>eṫnū.</orig>
+		       <orig>et͘nū.</orig>
 		       <reg>eternum.</reg>
 	     </choice> viii.’
 <lb/>
@@ -292,7 +291,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">G(e)n(er)at(i)o</seg>
-		       <orig>Gṅatō</orig>
+		       <orig>Gn͘atō</orig>
 		       <reg>Generatio</reg>
 	     </choice> 
 	     <choice>

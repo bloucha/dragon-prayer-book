@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q̇</orig>
+		       <orig>q͘</orig>
 		       <reg>qui</reg>
 	     </choice> redemisti david 
 	<choice>
@@ -29,7 +29,7 @@
 <lb/>me. Et erue me de 
 	<choice>
 		       <seg type="lucas">ma(n)u</seg>
-		       <orig>maū</orig>
+		       <orig>māu</orig>
 		       <reg>manu</reg>
 	     </choice>
       <lb/>
@@ -71,7 +71,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dext(er)a</seg>
-		       <orig>dexṫa</orig>
+		       <orig>dext͘a</orig>
 		       <reg>dextera</reg>
 	     </choice> 
       <lb/>
@@ -103,7 +103,7 @@
 	     </choice> novelle 
 	<choice>
 		       <seg type="lucas">pla(n)tat(i)o</seg>
-		       <orig>platatō</orig>
+		       <orig>plātatō</orig>
 		       <reg>plantatio</reg>
 	     </choice>
       <lb break="no"/>ves 
@@ -136,7 +136,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">si(mi)litudo</seg>
-		       <orig>sīlitudo</orig>
+		       <orig>sil͘itudo</orig>
 		       <reg>similitudo</reg>
 	     </choice> 
 	     <choice>
@@ -186,8 +186,6 @@
 	     <choice>
 		       <seg type="lucas">hunda(n)tes</seg>
 		       <orig>hūndātes</orig>
-	           <!-- added an h to the beginning here because it seems like one was missed in the 
-	                 transcription -->
 		       <reg>hundantes</reg>
 	     </choice> 
 	     <choice>

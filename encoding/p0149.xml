@@ -27,7 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ge(n)it(us):</seg>
-		       <orig>geitꝰ:</orig>
+		       <orig>gēitꝰ:</orig>
 		       <reg>genitus:</reg>
 	     </choice> 
 	     <choice>
@@ -59,7 +59,7 @@
 	     <choice>
 		       <seg type="lucas">s(e)c(u)lo</seg>
 		       <orig>scl͘o</orig>
-	           <!-- not sure if this is dot -->
+	         
 		       <reg>seculo</reg>
 	     </choice> 
 	     <choice>
@@ -117,7 +117,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Eq(ua)l(is)</seg>
-		       <orig>Eq̈l</orig>
+		       <orig>Eq̈l͘</orig>
 		       <reg>Equalis</reg>
 	     </choice> 
 	     <choice>
@@ -132,7 +132,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(iv)initate(m):</seg>
-		       <orig>ḋinitatė:</orig>
+		       <orig>ḋinitatē:</orig>
 		       <reg>divinitatem:</reg>
 	     </choice> mi
 <lb break="no"/>nor 
@@ -156,7 +156,7 @@
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
 		       <reg>Qui</reg>
-	           <!-- no diacritics do mine eyes see -->
+	           	    
 	     </choice> licet 
 	<choice>
 		       <seg type="lucas">d(eu)s</seg>
@@ -222,9 +222,9 @@
 	     </choice> 
 	     <choice>
 	             <seg type="lucas">(con)v(er)sio(n)e</seg>
-	             <orig>ɔvsiōe</orig>
+	             <orig>ɔv̇siōe</orig>
 		       <reg>con</reg>
-	           <!-- the automation read these as two words -->
+	           
 	     </choice>
 	     <choice>
 		       <seg type="lucas">d(iv)initatis</seg>
@@ -274,7 +274,7 @@
 	             <orig>ɔfusiōe</orig>
 		       <reg>confusione</reg>
 	     </choice>
-	     <!-- classic (con) problem, fixed it -->
+	     
 	     <choice>
 		       <seg type="lucas">sub(stanti)e:</seg>
 		       <orig>suḃe:</orig>
@@ -296,7 +296,7 @@
 		       <seg type="lucas">so(n)e.</seg>
 		       <orig>sōe.</orig>
 		       <reg>sone.</reg>
-	           <!-- linebreak interrupted word but appears to be not a problem -->
+	           
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Na(m)</seg>

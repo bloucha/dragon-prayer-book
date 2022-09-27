@@ -18,7 +18,6 @@
 	     <choice>
 		       <seg type="lucas">facie(m)</seg>
 		       <orig>faciē</orig>
-	       <!-- i before e corrected here -->
 		       <reg>faciem</reg>
 	     </choice> 
 	     <choice>
@@ -115,7 +114,7 @@
       <lb/>salvari. 
 	<choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q̇</orig>
+		       <orig>Q͘</orig>
 		       <reg>Qui</reg>
 	     </choice> vi. 
 	<choice>
@@ -128,8 +127,7 @@
 		       <seg type="lucas">(secunda).</seg>
 		       <orig>n̈.</orig>
 		       <reg>secunda.</reg>
-	           <!-- no idea where this word came from this looks like an n with a double dot so that's
-	                 what i'm putting in -->
+
 	     </choice> 
       <lb/>EXcita 
 	<choice>
@@ -166,7 +164,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">adve(n)tu(m)</seg>
-		       <orig>advetū</orig>
+		       <orig>advētū</orig>
 		       <reg>adventum</reg>
 	     </choice> pu
 <lb break="no"/>rificatis 
@@ -183,12 +181,12 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">me(re)am(ur).</seg>
-		       <orig>mēam݃.</orig>
+		       <orig>mėam݃.</orig>
 		       <reg>mereamur.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q̇</orig>
+		       <orig>Q͘</orig>
 		       <reg>Qui</reg>
 	     </choice> te. 
 	<choice>
@@ -200,7 +198,6 @@
 	     <choice>
 		       <seg type="lucas">(tercia).</seg>
 		       <orig>m.</orig>
-	           <!-- looks like this word is represented by a letter m -->
 		       <reg>tercia.</reg>
 	     </choice> 
       <lb/>

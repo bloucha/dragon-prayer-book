@@ -27,7 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(re)te(r)u(n)t.</seg>
-		       <orig>p̄ṫeūt.</orig>
+		       <orig>p̄t͘eūt.</orig>
 		       <reg>preterunt.</reg>
 	     </choice> 
 	     <choice>
@@ -107,11 +107,8 @@
 		       <reg>babis</reg>
 	     </choice> eos. Emitte 
 	<choice>
-		       <seg type="lucas">manuu(m)</seg>
-		       <orig>manuū</orig>
-	      <!-- check transcription, it looks like
-	            there's one u here not two and manuum has a different 
-	            meaning than manum -->
+		       <seg type="lucas">manu(um)</seg>
+		       <orig>manū</orig> <!-- make sure this spelling and its meaning makes sense -->
 		       <reg>manuum</reg>
 	     </choice>
       <lb/>
@@ -171,7 +168,6 @@
 	<choice>
 		       <seg type="lucas">locut(um)</seg>
 		       <orig>locutū</orig>
-	      <!-- looks like there's a u here that was missed in the transcription -->
 		       <reg>locutum</reg>
 	     </choice> 
 	     <choice>
@@ -187,7 +183,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">dext(er)a</seg>
-		       <orig>dexṫa</orig>
+		       <orig>dext͘a</orig>
 		       <reg>dextera</reg>
 	     </choice> 
 	     <choice>
@@ -197,9 +193,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dext(er)a</seg>
-		       <orig>dext̄a</orig>
-	           <!-- this looks like a macron
-	                 but it might be a dot I'm not sure -->	             
+		       <orig>dext͘a</orig>	             
 		       <reg>dextera</reg>
 	     </choice> 
 	     <choice>
@@ -215,7 +209,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ca(n)ticu(m)</seg>
-		       <orig>caticū</orig>
+		       <orig>cāticū</orig>
 		       <reg>canticum</reg>
 	     </choice> 
 	     <choice>
@@ -257,13 +251,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi).</seg>
-		       <orig>ṫ.</orig>
+		       <orig>t͘.</orig>
 		       <reg>tibi.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(u)i</seg>
 		       <orig>Qi</orig>
-	           <!-- I don't see a diacritic here -->
 		       <reg>Qui</reg>
 	     </choice> das 
 	<choice>

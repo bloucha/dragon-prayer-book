@@ -15,7 +15,7 @@
 	            look like ntiate or mtiate not vtate there's def an i
 	      that didn't make the transcription -->
 		       <seg type="lucas">v(eri?)tate.</seg>
-		       <orig>vtate.</orig>
+		       <orig>vẗate.</orig>
 		       <reg>veri?tate.<!--  check expansion --></reg>
 	     </choice> 
  in 
@@ -122,11 +122,11 @@
 		       <orig>ꝑa</orig>
 		       <reg>para</reg>
 	     </choice>
-      <lb break="no"/>disi[/m]ore 
-         <!-- why is this in brackets -->
+      <lb break="no"/>disimore 
+
 	<choice>
 		       <seg type="lucas">frag(ra)ns</seg>
-		       <orig>fragn̈s</orig>
+		       <orig>frag̈ns</orig>
 		       <reg>fragrans</reg>
 	     </choice> balsami
 <lb/>
@@ -233,7 +233,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -256,7 +256,6 @@
 	     <choice>
 		       <seg type="lucas">do(mini)</seg>
 		       <orig>doⁱ</orig>
-	           <!-- strong guess here, absoltuely no idea -->
 		       <reg>domini</reg>
 	     </choice> ad 
 	<choice>

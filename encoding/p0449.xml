@@ -18,7 +18,7 @@
 	     <choice>
 		       <seg type="lucas">Kimegu(n)dis?</seg>
 		       <orig>Kimegūdis?</orig>
-		       <reg>Kimegundis?</reg> <!-- check expansion? -->
+		       <reg>Kimegundis?</reg> <!-- check expansion, no hint in translation -->
 	     </choice>                                or e
 <lb/>
 	     <choice>
@@ -84,12 +84,12 @@
 	     <choice>
 		       <seg type="lucas">p(er)pe(tua?)</seg>
 	           <orig>ꝑpe</orig>
-		       <reg>perpetua?</reg>
+		       <reg>perpe?</reg> <!-- I don't see the macron -->
 	     </choice>
       <lb/>tua <!-- should this line break be here if its perpetua? -->
 	<choice>
 		       <seg type="lucas">lib(er)a</seg>
-		       <orig>lib̄a</orig>
+		       <orig>liḃa</orig>
 		       <reg>libera</reg>
 	     </choice> eas 
 	<choice>
@@ -110,7 +110,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
-	           <orig>pct̄oꝝ</orig>
+	           <orig>pct̄oꝝ</orig> 
 		       <reg>peccatorum</reg>
 	     </choice> 
 	     <choice>

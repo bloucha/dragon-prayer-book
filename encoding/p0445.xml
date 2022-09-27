@@ -18,7 +18,7 @@
 	     <choice>
 		       <seg type="lucas">ioh(en?)es</seg>
 	           <orig>ioḣes</orig>
-		       <reg>iohen?es<!--  check expansion --></reg>
+		       <reg>ioannees</reg>
 	     </choice> 
  
 	     <choice>
@@ -100,14 +100,9 @@
 		       <reg>Omnes</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(san)</seg>
-		       <orig>S</orig>
-		       <reg>san</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">c(t)i</seg>
-		       <orig>c̄i</orig>
-		       <reg>cti</reg>
+		       <orig>sc̄i</orig>
+		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">discip(u)li</seg>

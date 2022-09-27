@@ -89,13 +89,7 @@
 		       <seg type="lucas">de(r)</seg>
 		       <orig>dē</orig>
 		       <reg>der</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">creuc(?)
-	</seg>
-		       <orig>creuc</orig>
-		       <reg>creuc?<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">tage(m)</seg>
 		       <orig>creuctagē <!-- strange two dots under the c, don't appear anywhere else --></orig>

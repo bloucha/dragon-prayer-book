@@ -114,8 +114,8 @@
 	     <choice>
 		       <seg type="lucas">ai(?)
 	</seg>
-		       <orig>aia⋮</orig> <!-- I know this is something but I don't remember what, animatum or smth? -->
-		       <reg>ai?<!--  check expansion --></reg>
+		       <orig>aīa⋮</orig> 
+		       <reg>animam</reg>
 	     </choice> 
       <choice>
 		       <seg type="lucas">a(us)</seg>
@@ -215,7 +215,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ater?)s.</seg>
-		       <orig>p̈s.</orig>
+		       <orig>ps̈.</orig>
 		       <reg>psalm? <!-- check expansion --></reg>
 	     </choice> 
       <lb/>laudate 

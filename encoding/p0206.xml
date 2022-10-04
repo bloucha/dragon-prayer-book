@@ -70,15 +70,15 @@
 	     </choice> 
       <lb break="no"/>lati. 
 	<choice>
-		       <seg type="lucas">Admg(?)</seg>
+		       <seg type="lucas">Ad m(itta)g</seg>
 		       <orig>Admg̈</orig>
-		       <reg>Admg?<!--  check expansion --></reg>
+		       <reg>Ad mittag</reg>
 	     </choice> 
       <lb/>
 	     <choice>
-		       <seg type="lucas">a(?).</seg>
+		       <seg type="lucas">a(lleluia).</seg>
 	             <orig>ā.</orig>
-		       <reg>a?.<!--  check expansion --></reg>
+		       <reg>alleluia.<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
@@ -87,9 +87,9 @@
 		       <reg>Exultavit</reg>
 	     </choice>          Exultavit. 
 	<choice>
-		       <seg type="lucas">iiii(?).</seg>
+		       <seg type="lucas">iiii.</seg>
 		       <orig>iiiⁱi.</orig> 
-		       <reg>iiii?.<!--  check expansion --></reg>
+	           <reg>iiiⁱi.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
 	     <choice>

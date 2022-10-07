@@ -18,7 +18,7 @@
 	     <choice>
 		       <seg type="lucas">gn(us?)</seg>
 	           <orig>gnꝰ</orig>
-		       <reg>gnus?<!--  check expansion --></reg>
+		       <reg>gnus?<!--  check expansion, no hint in translation --></reg>
 	     </choice> 
       <lb/>dei 
 	<choice>
@@ -39,7 +39,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">sere(re)</seg>
-		       <orig>seṙe</orig>
+		       <orig>serė</orig>
 		       <reg>serere</reg>
 	     </choice> eis 
 	<choice>
@@ -60,7 +60,7 @@
 	     </choice>  
 	     <choice>
 		       <seg type="lucas">(Christe eleison)</seg>
-		       <orig>C</orig> <!-- need help with this abbreviations -->
+		       <orig>X</orig> 
 		       <reg>Christe eleison</reg>
 	     </choice> . 
 	<choice>
@@ -109,7 +109,7 @@
 	     <choice>
 		       <seg type="lucas">Or(ati?)o.</seg>
 		       <orig>Or̄o.</orig>
-		       <reg>Orati?o.<!--  check expansion --></reg>
+		       <reg>Oratio</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -177,7 +177,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -194,13 +194,13 @@
 	     <choice>
 		       <seg type="lucas">q(ua?)s</seg>
 		       <orig>q̈s</orig>
-		       <reg>qua?s<!--  check expansion --></reg>
+		       <reg>qua?s<!--  check expansion, no hint in translation --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">q(ua?)s</seg>
 		       <orig>q̈s</orig>
-		       <reg>qua?s<!--  check expansion --></reg>
+		       <reg>qua?s<!--  check expansion, no hint in translation --></reg>
 	     </choice> 
  de hoc 
 	<choice>
@@ -222,7 +222,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> +</orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -247,14 +247,9 @@
 		       <reg>ecce</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	           <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">so(r)tes.</seg>
-	           <orig>sȯtes.</orig>
-		       <reg>sortes.</reg>
+	           <orig>ɔsȯtes.</orig>
+		       <reg>consortes.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(er).</seg>

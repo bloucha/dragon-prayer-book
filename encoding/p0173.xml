@@ -27,9 +27,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">adiu(n)t.</seg>
+		       <seg type="lucas">adiut(orium).</seg>
 		       <orig>adiut̄.</orig>
-		       <reg>adiunt.</reg>
+		       <reg>adiutorium.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
@@ -131,13 +131,13 @@
 	<choice>
 		       <seg type="lucas">v(?).</seg>
 		       <orig>vⁱ.</orig>
-		       <reg>v?.<!--  check expansion --></reg>
+	      <reg>vⁱ.</reg>
 	     </choice> 
  Aspice. 
 	<choice>
 		       <seg type="lucas">viii(?).</seg>
 		       <orig>viiiⁱ.</orig>
-		       <reg>viii?.<!--  check expansion --></reg>
+	      <reg>viiiⁱ.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -201,7 +201,8 @@
 
    <ab type="translation"
        xml:id="p0173_translation"
-       corresp="#p0173_transcription"> At nones. Incline unto my aid, O God. Hymn.
+       corresp="#p0173_transcription"> At nones. [Incline unto my] aid, O God. [O Lord, make
+         haste to help me.] Hymn.
          O Strength and Stay upholding all creation
          Who ever dost Thyself unmoved abide,
          yet day by day the light in due gradation

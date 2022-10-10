@@ -162,7 +162,7 @@
 	     <choice>
 		       <seg type="lucas">(h)ym</seg>
 		       <orig>ymp</orig>
-		       <reg>hym</reg>
+		       <reg>ymp</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -246,6 +246,6 @@
 
    <ab type="translation"
        xml:id="p0223_translation"
-       corresp="#p0223_transcription"/>
+       corresp="#p0223_transcription">the beginning of my joy.</ab>
 
 </div>

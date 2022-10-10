@@ -65,7 +65,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">ECcl(esi)a(m)</seg>
-		       <orig>ECcl͘ā</orig>
+		       <orig>ECcl͘a⋮</orig>
 		       <reg>ECclesiam</reg>
 	     </choice> 
 	     <choice>
@@ -113,7 +113,6 @@
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q:</orig>
-	           <!-- this looks like a semicolon but i'm not sure -->
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -273,7 +272,6 @@
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q:</orig>
-	           <!-- again used a semicolon but not sure -->
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>

@@ -28,7 +28,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">app(ara)uer(un)t</seg>
-		       <orig>apꝑuert</orig>
+		       <orig>apꝑuer̄t</orig>
 		       <reg>apparauerunt</reg>
 	     </choice> ei tres vi
 <lb break="no"/>ri 
@@ -228,11 +228,7 @@
 		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
+
 	     <choice>
 		       <seg type="lucas">(con)spuet(ur)</seg>
 		       <orig>ɔspuet݃</orig>
@@ -246,9 +242,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">postq(uam)</seg>
-		       <orig>postq</orig>
-	         <!-- still not sure what the symbol on quam
-	             is supposed to be, mark for review -->
+		       <orig>postɋ̈</orig>
 		       <reg>postquam</reg>
 	     </choice> 
 	     <choice>

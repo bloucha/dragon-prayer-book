@@ -125,7 +125,7 @@
  
 	     <choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig>Qd</orig>
+		       <orig>Q͘d</orig>
 		       <reg>Quid</reg>
 	     </choice> 
 	     <choice>
@@ -257,7 +257,7 @@
 	     </choice> tue 
 	<choice>
 		       <seg type="lucas">mis(er)a</seg>
-		       <orig>miṡa</orig>
+		       <orig>mis͘a</orig>
 		       <reg>misera</reg>
 	     </choice>
       <lb break="no"/>
@@ -268,14 +268,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">op(er)at(i)o;</seg>
-		       <orig>opatō;</orig>
+		       <orig>oꝑatō;</orig>
 		       <reg>operatio;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q:</orig>
-	           <!-- not sure if semicolon is the right move here -->
-		       <reg>quia</reg>
+	           <reg>quia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>

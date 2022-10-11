@@ -162,7 +162,7 @@
 	     <choice>
 		       <seg type="lucas">(h)ym</seg>
 		       <orig>ymp</orig>
-		       <reg>hym</reg>
+		       <reg>ymp</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -239,13 +239,20 @@
 		       <seg type="lucas">(con)⸗</seg>
 		       <orig>ɔ</orig>
 		       <reg>con</reg>
-	     </choice>        Deposuit. j.
+	     </choice>        Deposuit. i.
 
 
 </ab>
 
    <ab type="translation"
        xml:id="p0223_translation"
-       corresp="#p0223_transcription"/>
+       corresp="#p0223_transcription">the beginning of my joy.
+         Remember, O Lord, the children of Edom, in the day of Jerusalem: Who say: Rase it, rase it, even to the foundation thereof. 
+         O daughter of Babylon, miserable: blessed shall he be who shall repay thee thy payment which thou hast paid us. 
+         Blessed be he that shall take and dash thy little ones against the rock. Antiphon. 
+         Sing ye to us a hymn of the songs of Sion. <!-- drb psalm 136 --> [Cy a.]  
+         [Song] Deposuit. [Mode] i.
+        He hath put down the mighty persrcuting the saints and hath exalted the humble who confess Christ. <!-- google translate/OBDS 178/me (needs checking!!! -->
+         </ab>
 
 </div>

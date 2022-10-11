@@ -70,7 +70,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(at)a</seg>
-		       <orig>pc̄a</orig>
+		       <orig>pc̄ta</orig>
 		       <reg>peccata</reg>
 	     </choice> tua.
 <lb/>
@@ -199,7 +199,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)piciat(us)</seg>
-		       <orig>ꝓpiciat</orig>
+		       <orig>ꝓpiciatꝰ</orig>
 		       <reg>propiciatus</reg>
 	     </choice> exclude:
 <lb/>ut 

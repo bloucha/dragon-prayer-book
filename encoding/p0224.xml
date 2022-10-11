@@ -21,9 +21,9 @@
 		       <reg>Kyrie eleison.</reg>
 	     </choice>  (Christi eleison). Freitag 
 	<choice>
-		       <seg type="lucas">v(er)s(us).</seg>
+		       <seg type="lucas">v(espera)s.</seg>
 	             <orig>v̈s.</orig> 
-		       <reg>versus.</reg>
+		       <reg>vesperas.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -37,9 +37,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">adiu(n)t.</seg>
+		       <seg type="lucas">adiut(orium).</seg>
 		       <orig>adiut̄.</orig>
-		       <reg>adiunt.</reg>
+		       <reg>adiut(orium).</reg>
 	     </choice>  
       <lb/>
 	     <choice>
@@ -278,6 +278,12 @@
 
    <ab type="translation"
        xml:id="p0224_translation"
-       corresp="#p0224_transcription"/>
+       corresp="#p0224_transcription">who confess Christ. <!-- see previous page, google translate/OBDS 178 --> Lord have mercy. Christ have mercy. Friday vespers.
+   [Song] In conspectu. [Mode] v. 
+   [Incline unto my] aid, O God. [O Lord, make haste to help me.]
+I will praise thee, O Lord, with my whole heart: for thou hast heard the words of my mouth. I will sing praise to thee in the sight of his angels: 
+I will worship towards thy holy temple, and I will give glory to thy name. For thy mercy, and for thy truth: for thou hast magnified thy holy name above all. 
+In what day soever I shall call upon thee, hear me: thou shall multiply strength in my soul. 
+May all the kings of the earth give glory to thee: <!-- DRB psalm 137 cont -->   </ab>
 
 </div>

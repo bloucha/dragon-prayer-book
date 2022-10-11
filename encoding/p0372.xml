@@ -48,8 +48,8 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">prehe(n)der(un)t</seg>
-		       <orig>p̄rehēder̄t</orig>
+		       <seg type="lucas">p(re)he(n)der(un)t</seg>
+		       <orig>p̄hēder̄t</orig>
 		       <reg>prehenderunt</reg>
 	     </choice> me 
 	<choice>
@@ -137,7 +137,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">iuva(n)diu(m)</seg>
-		       <orig>iuvādiū</orig>
+		       <orig>iuvādū</orig>
 		       <reg>iuvandium</reg>
 	     </choice> me respice. 
 	<choice>

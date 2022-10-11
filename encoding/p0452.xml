@@ -13,7 +13,7 @@
 	     <choice>
 		       <seg type="lucas">Om(ne?)s</seg>
 		       <orig>Om̄s</orig>
-		       <reg>Omne?s<!--  check expansion --></reg>
+		       <reg>Omne?s<!--  check expansion, no hint in translation--></reg>
 	     </choice> 
  
 	     <choice>
@@ -29,7 +29,7 @@
 	<choice>
 		       <seg type="lucas">Or(ati?)o</seg>
 		       <orig>Or̄o</orig>
-		       <reg>Orati?o<!--  check expansion --></reg>
+		       <reg>Oratio></reg>
 	     </choice> 
       <lb/>pietate 
 	<choice>
@@ -84,7 +84,7 @@
 	     <choice>
 		       <seg type="lucas">Or(ati?)o</seg>
 		       <orig>Or̄o</orig>
-		       <reg>Orati?o<!--  check expansion --></reg>
+		       <reg>Oratio</reg>
 	     </choice> 
  
 	     <choice>
@@ -96,7 +96,7 @@
 	<choice>
 		       <seg type="lucas">Or(ati?)o</seg>
 		       <orig>Or̄o</orig>
-		       <reg>Orati?o<!--  check expansion --></reg>
+		       <reg>Oratio</reg>
 	     </choice> 
  
 	     <choice>
@@ -107,14 +107,14 @@
       <lb/>qui nos 
 	<choice>
 		       <seg type="lucas">pre(?)m.</seg>
-		       <orig>pr̄em.</orig>
-		       <reg>pre?m.<!--  check expansion --></reg>
+		       <orig>prēm.</orig>
+		       <reg>pre?m.<!--  check expansion, no hint in translation --></reg>
 	     </choice> 
                 
 	     <choice>
 		       <seg type="lucas">Or(ati?)o</seg>
 		       <orig>Or̄o</orig>
-		       <reg>Orati?o<!--  check expansion --></reg>
+		       <reg>Oratio</reg>
 	     </choice> 
  Fide
 <lb break="no"/>
@@ -184,7 +184,7 @@
 	     <choice>
 		       <seg type="lucas">i(m?)i</seg>
 	           <orig>īpi</orig>
-		       <reg>im?i<!--  check expansion --></reg>
+		       <reg>impi</reg>
 	     </choice> 
       <lb break="no"/>
 	     <choice>
@@ -194,7 +194,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -207,12 +207,12 @@
 		       <orig>pct̄o</orig>
 		       <reg>peccato</reg>
 	     </choice>
-      <lb/>†
+      <lb break="no"/>
 	<choice>
-		       <seg type="lucas">cu(m)?†</seg>
-	           <orig>cū?†</orig>
-		       <reg>cum?†</reg>
-	     </choice> 
+		       <seg type="lucas">cu(m)?</seg>
+	           <orig>rū</orig>
+		       <reg>rum</reg>
+	     </choice>   
 	     <choice>
 		       <seg type="lucas">no(n)</seg>
 	           <orig>nō</orig>
@@ -220,7 +220,7 @@
 	     </choice> stetit: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -228,11 +228,11 @@
 	           <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> kathedra
-<lb/>†
+<lb/>
 	<choice>
 		       <seg type="lucas">pestile(n)cie†</seg>
-	           <orig>pestilēcie†</orig>
-		       <reg>pestilencie†</reg>
+	           <orig>pestilēcie</orig>
+		       <reg>pestilencie</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(on)</seg>

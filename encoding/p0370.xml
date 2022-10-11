@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Videb(un)t</seg>
-		       <orig>Videbt̄</orig>
+		       <orig>Videb̄t</orig>
 		       <reg>Videbunt</reg>
 	     </choice>
       <lb/>
@@ -38,7 +38,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ti(m)eb(un)t:</seg>
-		       <orig>tīebt̄:</orig>
+		       <orig>tīeb̄t:</orig>
 		       <reg>timebunt:</reg>
 	     </choice> 
 	     <choice>
@@ -159,7 +159,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">t(i)o(n)ib(us)</seg>
-		       <orig>toib⋮</orig>
+		       <orig>tōib⋮</orig>
 		       <reg>tionibus</reg>
 	     </choice> tuis 
 	<choice>
@@ -302,7 +302,7 @@
 <lb break="no"/>nio. In capite libri 
 	<choice>
 		       <seg type="lucas">sc(ri)p⸗</seg>
-		       <orig>sċp⸗</orig>
+		       <orig>sc̄p⸗</orig>
 		       <reg>scrip⸗</reg>
 	     </choice> 
 

@@ -54,13 +54,13 @@
 <lb/>ac nocte. Et erit 
 	<choice>
 		       <seg type="lucas">tanq(uam)</seg>
-	             <orig>tanɋ</orig> <!-- not sure if this is the abbreviation we decided on -->
+	             <orig>tanq̈</orig> <!-- pls pls quam -->
 		       <reg>tanquam</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">lignu(m)?</seg>
-	             <orig>lignū?</orig>
+	             <orig>lignū</orig>
 		       <reg>lignum?</reg>
 	     </choice> 
 	     <choice>
@@ -128,7 +128,7 @@
 	     </choice> defluet: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -152,7 +152,7 @@
 		       <seg type="lucas">No(n)</seg>
 	             <orig>Nō</orig>
 		       <reg>Non</reg>
-	     </choice> sic impii? 
+	     </choice> sic impii
 	<choice>
 		       <seg type="lucas">no(n)</seg>
 	             <orig>nō</orig>
@@ -161,7 +161,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">ta(m)q(uam)</seg>
-	             <orig>tāɋ̈</orig> <!-- quam abbreviation?? -->
+	             <orig>tāq̈</orig> <!-- quam abbreviation?? -->
 		       <reg>tamquam</reg>
 	     </choice> puluis 
 	<choice>
@@ -246,21 +246,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
-	     </choice> iter 
-	<choice>
-		       <seg type="lucas">i(?)
-	</seg>
-	             <orig>ī
-	</orig>
-		       <reg>i?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice> iter  
       <choice>
 		       <seg type="lucas">pior(um)</seg>
-                   <orig>pioꝝ</orig>
-		       <reg>piorum</reg>
+                   <orig>īpioꝝ</orig>
+		       <reg>impiorum</reg>
 	     </choice>
    </ab>
 

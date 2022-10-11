@@ -120,7 +120,7 @@
 	     <choice>
 		       <seg type="lucas">(h)y(m)nu(m)</seg>
 		       <orig>ȳpnū</orig>
-		       <reg>hymnum</reg>
+		       <reg>ympnum</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">ca(n)tate</seg>
@@ -258,6 +258,11 @@
 
    <ab type="translation"
        xml:id="p0222_translation"
-       corresp="#p0222_transcription"/>
+       corresp="#p0222_transcription"> wept: when we remembered Sion. 
+         On the willows in the midst thereof we hung up our instruments. 
+         For there they that led us into captivity required of us the words of songs. And they that carried us away, said: Sing ye to us a hymn of the songs of Sion. 
+         How shall we sing the song of the Lord in a strange land? 
+         If I forget thee, O Jerusalem, let my right hand be forgotten.
+         Let my tongue cleave to my jaws, if I do not remember thee: If I make not Jerusalem the beginning of my joy. <!-- psalm 137 drb cont --> </ab>
 
 </div>

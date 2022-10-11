@@ -117,7 +117,7 @@
                   <seg type="lucas">d(omi)no.</seg>
                   <orig>dn̄o.</orig>
                   <reg>domino.</reg>
-            </choice> Acustodia matu <lb break="no"/>tina <choice>
+            </choice> A custodia matu <lb break="no"/>tina <choice>
                   <seg type="lucas">usq(ue)</seg>
                   <orig>usq⋮</orig>
                   <reg>usque</reg>
@@ -273,6 +273,12 @@
             </choice>
       </ab>
 
-      <ab type="translation" xml:id="p0102_translation" corresp="#p0102_transcription"/>
+      <ab type="translation" xml:id="p0102_translation" corresp="#p0102_transcription">If thou, O Lord, wilt mark iniquities: 
+            Lord, who shall stand it. For with thee there is merciful forgiveness: and by reason of thy law, I have waited for 
+            thee, O Lord. My soul hath relied on his word: My soul hath hoped in the Lord. From the morning watch even until 
+            night, let Israel hope in the Lord. Because with the Lord there is mercy: and with him plentiful redemption. And 
+            he shall redeem Israel from all his iniquities. Lord, my heart is not exalted: nor are my eyes lofty. Neither 
+            have I walked in great matters, nor in wonderful things above me. 
+    </ab>
 
 </div>

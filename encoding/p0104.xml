@@ -21,9 +21,9 @@
 		       <reg>eam.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersicle)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versicle</reg>
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">h(ab)i</seg>
@@ -262,6 +262,6 @@
 
    <ab type="translation"
        xml:id="p0104_translation"
-       corresp="#p0104_transcription"/>
+       corresp="#p0104_transcription">And hath forechosen her. Versicle. And maketh her to dwell in His tabernacle. </ab>
 
 </div>

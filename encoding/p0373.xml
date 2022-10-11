@@ -58,7 +58,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mag(ni)fi</seg>
-		       <orig>māgfi</orig>
+		       <orig>maġfi</orig>
 		       <reg>magnifi</reg>
 	     </choice>
       <lb break="no"/>
@@ -69,7 +69,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(us)</seg>
-		       <orig>dn̄</orig>
+		       <orig>dn̄s</orig>
 	           <!-- page says dns, is this still dominus? -->
 		       <reg>dominus</reg>
 	     </choice> 

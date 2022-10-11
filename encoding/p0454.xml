@@ -12,12 +12,12 @@
       <lb/>QUare 
 	<choice>
 		       <seg type="lucas">fr(atr)e</seg>
-	      <orig>fre</orig><!--is there no abbreviation here? -->
+	              <orig>fre</orig>
 		       <reg>fratre</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Ps(alm).</seg>
-	           <orig>Ṗṡ.</orig>
+	           <orig>Ps̈.</orig>
 		       <reg>Psalm.</reg>
 	     </choice> 
 	     <choice>
@@ -25,11 +25,11 @@
 	           <orig>ꝑibit.</orig>
 		       <reg>peribit.</reg>
 	     </choice>
-         <lb/>??<!--missing: psalmic text is "fremuerunt," this looks like "umerunt" -->
+         <lb/>
 	<choice>
-		       <seg type="lucas">eru(n)t</seg>
-	      <orig>erūt</orig>
-		       <reg>erunt</reg>
+		       <seg type="lucas">(fre)mueru(n)t</seg>
+	              <orig>umerūt</orig>
+		       <reg>fremuerunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ge(n)tes:</seg>
@@ -38,18 +38,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	           <orig>+</orig>
+	            <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> po
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">p(u)li</seg>
-		       <orig>pli</orig>
+		       <orig>pl͘i</orig>
 		       <reg>puli</reg>
 	     </choice> meditati 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
-	      <orig>sṫ</orig><!--dot to the right or dot above? I chose dot above-->
+	            <orig>sṫ</orig>
 		       <reg>sunt</reg>
 	     </choice> inania.
 <lb/>
@@ -60,7 +60,7 @@
 	     </choice> reges 
 	<choice>
 		       <seg type="lucas">t(er)re;</seg>
-		       <orig>t͘re;</orig>
+		       <orig>ṫre;</orig>
 		       <reg>terre;</reg>
 	     </choice> et
 <lb/>
@@ -70,18 +70,13 @@
 		       <reg>principes</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	           <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">vener(un)t</seg>
-		       <orig>vener̄t</orig>
-		       <reg>venerunt</reg>
+		       <orig>ɔvener̄t</orig>
+		       <reg>convenerunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-	           <orig>ī</orig>
+	             <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
@@ -92,7 +87,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">adv(er)s(us)</seg>
-	           <orig>adv̇sꝰ</orig><!--used combining dot rather than v character with dot-->
+	           <orig>adv̇sꝰ</orig>
 		       <reg>adversus</reg>
 	     </choice> 
 	     <choice>
@@ -122,27 +117,19 @@
 		       <reg>eius.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Diru(?)
-	</seg>
-	           <orig>Dirū
-	</orig>
-		       <reg>Diru?
-	<!--  check expansion --></reg>
-	     </choice> 
-      <choice>
-		       <seg type="lucas">pam(us)</seg>
-            <orig>pamꝰ</orig>
-		       <reg>pamus</reg>
-	     </choice> 
+		       <seg type="lucas">Diru(?)</seg>
+	           <orig>Dirūmpamꝰ</orig>
+		       <reg>Dirumpamus</reg>
+	     </choice>  
 	     <choice>
 		       <seg type="lucas">vi(n?)</seg>
 	           <orig>vī</orig>
-		       <reg>vin?<!--  check expansion --></reg>
+		       <reg>vin</reg>
 	     </choice> 
       <lb break="no"/>cula 
 	<choice>
 		       <seg type="lucas">eor(um):</seg>
-	      <orig>eor⋮:</orig>
+	             <orig>eoꝝ:</orig>
 		       <reg>eorum:</reg>
 	     </choice> 
 	     <choice>
@@ -158,17 +145,17 @@
 <lb break="no"/>bis in?
 	<choice>
 		       <seg type="lucas">gu(m)</seg>
-	      <orig>gū</orig>
-		       <reg>gum</reg>
+	      <orig>iugū</orig>
+		       <reg>iugum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ip(s)or(um).</seg>
-	           <orig>ipōꝝ.</orig>
+	                 <orig>ipōꝝ.</orig>
 		       <reg>ipsorum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(uonia)m</seg>
-	           <orig>Ɋm<!--  no apparent abbrev but for the extremely long tail of the Q --></orig>
+	           <orig>Qm</orig>
 		       <reg>Quoniam</reg>
 	     </choice> 
 	     <choice>
@@ -179,7 +166,7 @@
       <lb break="no"/>tat 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-	      <orig>ī</orig>
+	              <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> celis irridebit eos: et
 <lb/>
@@ -191,7 +178,7 @@
 	     <choice>
 		       <seg type="lucas">s(u)bsa(n?)nabit</seg>
 	           <orig>sḃsānabit</orig>
-		       <reg>subsan?nabit</reg>
+		       <reg>subsannabit</reg>
 	     </choice> eos. 
 	<choice>
 		       <seg type="lucas">Tu(n)c</seg>
@@ -201,7 +188,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">loquet(ur)</seg>
-	           <orig>loquet<!--  my pc is not allowing me to insert the two vertical dots (U+0743) unicode character--></orig>
+	           <orig>loquet݃</orig>
 		       <reg>loquetur</reg>
 	     </choice> ad eos 
 	<choice>
@@ -222,25 +209,19 @@
 	     </choice> furore suo 
 	<choice>
 		       <seg type="lucas">co(n)turbab(it)</seg>
-	      <orig>cōturbabͭ</orig>
+	      <orig>cōturbabᵗ</orig>
 		       <reg>conturbabit</reg>
 	     </choice>
       <lb/>eos. Ego 
 	<choice>
 		       <seg type="lucas">au(?)t</seg>
 	      <orig>aūt</orig>
-		       <reg>au?t<!--  check expansion --></reg>
+		       <reg>autem</reg>
 	     </choice> 
- 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-	           <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">stitut(us)</seg>
-	           <orig>stitutꝰ</orig>
-		       <reg>stitutus</reg>
+	           <orig>ɔstitutꝰ</orig>
+		       <reg>constitutus</reg>
 	     </choice>
       <lb/>
 	     <choice>

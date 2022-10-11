@@ -61,7 +61,7 @@
 <lb break="no"/>la a me 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> dabo 
 	<choice>
@@ -71,7 +71,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ge(n)tes</seg>
-	             <orig>gētes</orig> <!-- used to say dentes, but it is a g on the manuscript -->
+	             <orig>gētes</orig> 
 		       <reg>gentes</reg>
 	     </choice>
       <lb/>
@@ -87,7 +87,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> posses
 <lb break="no"/>
@@ -120,12 +120,12 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tanq(uam)</seg>
-	             <orig>tanɋ̈</orig> <!-- abbreviation not finalized  -->
+	             <orig>tanq̈</orig> <!-- quam -->
 		       <reg>tanquam</reg>
 	     </choice> vas figuli 
 	<choice>
@@ -160,7 +160,7 @@
 		       <seg type="lucas">t(er)ra(m).</seg>
 	             <orig>ṫrā.</orig>
 		       <reg>terram.</reg>
-	     </choice> Servite? 
+	     </choice> Servite 
 	<choice>
 		       <seg type="lucas">d(omi)no</seg>
 		       <orig>dn̄o</orig>
@@ -174,7 +174,7 @@
 	     </choice> timore: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -189,10 +189,10 @@
 	     </choice> tre
 <lb break="no"/>more. 
 	<choice>
-		       <seg type="lucas">Ap(re)phe(n)dite?</seg> <!-- orginially said Aprephe(n)dite with no ( ) around re -->
-	             <orig>Aprep̄hēdite?</orig> 
-		       <reg>Aprephendite?</reg>
-	     </choice> dici <!-- is there supposed to be an s making is disci? -->
+		       <seg type="lucas">Ap(re)phe(n)dite?</seg> 
+	             <orig>Ap̄phēdite</orig> 
+		       <reg>Aprephendite</reg>
+	     </choice> disci 
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">plina(m):</seg>
@@ -201,7 +201,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">neq(ua)ndo</seg>
-	             <orig>neq̇ṅdo</orig>
+	             <orig>neq̈ndo</orig>
 		       <reg>nequando</reg>
 	     </choice> 
 	     <choice>

@@ -22,7 +22,7 @@
 	     </choice> milia 
 	<choice>
 		       <seg type="lucas">p(o)p(u)li</seg>
-		       <orig>ꝑpl͘i</orig>
+		       <orig>ppl͘i</orig>
 		       <reg>populi</reg>
 	     </choice>
       <lb/>
@@ -86,14 +86,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
-		       <orig>ꝑct̄or⋮</orig>
+		       <orig>pct̄oꝝ</orig>
 		       <reg>peccatorum</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(con)t(ra?)visti.</seg>
 		       <orig>ɔṫvisti.</orig>
-		       <reg>contra?visti.</reg>
+		       <reg>contrivisti.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)ni</seg>
@@ -155,7 +155,7 @@
 	     <choice>
 		       <seg type="lucas">P(ater?).</seg>
 		       <orig>P̄.</orig>
-		       <reg>Pater?.<!--  check expansion --></reg>
+		       <reg>Pater.</reg>
 	     </choice> 
  
 	     <choice>
@@ -172,7 +172,7 @@
 	     <choice>
 		       <seg type="lucas">P(ater?)</seg>
 		       <orig>P̄</orig>
-		       <reg>Pater?</reg>
+		       <reg>Pater?</reg> <!-- check expansion, no hint in transcription -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)ne</seg>
@@ -208,7 +208,7 @@
 	     <choice>
 		       <seg type="lucas">quo(niam?)</seg>
 		       <orig>quō</orig>
-		       <reg>quoniam?</reg>
+		       <reg>quomodo</reg>
 	     </choice> dicitis
 <lb/>
 	     <choice>
@@ -219,7 +219,7 @@
 	<choice>
 		       <seg type="lucas">t(ra)nsmig(na?)</seg>
 		       <orig>tn̈smig̈</orig>
-		       <reg>transmigna?</reg>
+		       <reg>transmigra?</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -255,7 +255,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">arcu(m?);</seg>
-		       <orig>arcu͘;</orig>
+		       <orig>arcū;</orig>
 		       <reg>arcum?;<!--  check expansion --></reg>
 	     </choice> 
  

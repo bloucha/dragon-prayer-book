@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	                <orig>+</orig>
+	            <orig>+</orig>
 		       <reg>et</reg>
 	     </choice> 
 	     <choice>
@@ -28,18 +28,18 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Cu(m)</seg>
-	                <orig>Cū</orig>
+	            <orig>Cū</orig>
 		       <reg>Cum</reg>
 	     </choice> exarserit 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-	                <orig>ī</orig>
+	              <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> brevi ira
       <lb/>
 	     <choice>
 		       <seg type="lucas">ei(us):</seg>
-	                <orig>eiꝰ:</orig>
+	             <orig>eiꝰ:</orig>
 		       <reg>eius:</reg>
 	     </choice> 
 	     <choice>
@@ -49,7 +49,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mne)s</seg>
-	                <orig>ōs</orig> <!-- macron over o and s?-->
+	             <orig>ōs</orig>
 		       <reg>omnes</reg>
 	     </choice> 
 	     <choice>
@@ -60,11 +60,11 @@
 	     <choice>
 		       <seg type="lucas">(con)fidu(?)t?</seg>
 	           <orig>ɔfidūt</orig>
-		       <reg>confidu?t?</reg> <!-- could be either an m or n after u -->
+		       <reg>confidunt?</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-	                <orig>ī</orig>
+	              <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> eo.
       <lb/>
@@ -96,18 +96,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)bula(n)t</seg>
-	                <orig>t͘bulāt</orig>
+	                <orig>ṫbulāt</orig>
 		       <reg>tribulant</reg>
 	     </choice> me: multi
       <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)surgu(?)t?</seg>
-	                <orig>īsurgūt?</orig>
-		       <reg>insurgu?t?</reg>
+	             <orig>īsurgūt</orig>
+		       <reg>insurgunt?</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">adv(er)su(m)</seg>
-	                <orig>adv̇sū</orig> <!-- does the v̇ always mean "vespera?" -->
+	                <orig>adv̇sū</orig>
 		       <reg>adversum</reg>
 	     </choice> me. 
 	     <choice>
@@ -118,13 +118,13 @@
       <lb break="no"/>ti 
 	     <choice>
 		       <seg type="lucas">dicu(n?)t</seg>
-	                <orig>dicūt</orig>
-		       <reg>dicun?t<!--  check expansion --></reg>
+	              <orig>dicūt</orig>
+		       <reg>dicunt</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">a(n)i(m)e</seg>
-	                <orig>aīe</orig>
+	           <orig>aīe</orig>
 		       <reg>anime</reg>
 	     </choice> mee: 
 	<choice>
@@ -150,12 +150,12 @@
 	     </choice> deo 
 	<choice>
 		       <seg type="lucas">ei(us).</seg>
-	                <orig>eiꝰ.</orig>
+	            <orig>eiꝰ.</orig>
 		       <reg>eius.</reg>
 	     </choice> Tu 
 	<choice>
 		       <seg type="lucas">a(u)t(em)</seg>
-		       <orig>at̄</orig> <!-- double check macron or dot on the t? -->
+		       <orig>at̄</orig> 
 		       <reg>autem</reg>
 	     </choice>
       <lb/>
@@ -177,19 +177,19 @@
       <lb/>mea 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	                <orig>+</orig>
+	            <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">exalta(?)s</seg>
 	                <orig>exaltās</orig>
-		       <reg>exalta?s<!--  check expansion --></reg>
+		       <reg>exaltans</reg>
 	     </choice> 
  caput me
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">u(m).</seg>
-	                <orig>ū.</orig>
+	               <orig>ū.</orig>
 		       <reg>um.</reg>
 	     </choice> Voce mea ad 
 	<choice>
@@ -211,13 +211,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)o</seg>
-		       <orig>sc˙o</orig> <!-- dot above one letter or both here?-->
+		       <orig>sc̄o</orig>
 		       <reg>sancto</reg>
 	     </choice> suo. Ego
-      <lb/>†dormivi?† <!-- crosses? -->
+      <lb/><supplied>dormivi</supplied>
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	                <orig> +</orig>
+	            <orig> +</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -232,13 +232,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-	                <orig>+</orig>
+	            <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
-      <lb/>†exurrexi† 
+      <lb/><supplied>exurrexi</supplied>
 	<choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q(?)</orig> <!-- what character is after q?-->
+		       <orig>q:</orig> 
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>

@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)s</seg>
-		       <orig>Q̇s</orig>
+		       <orig>Q͘s</orig>
 		       <reg>Quis</reg>
 	     </choice> 
 	     <choice>
@@ -43,7 +43,7 @@
 	     </choice> mei:c 
 	<choice>
 		       <seg type="lucas">Q(ui)s</seg>
-		       <orig>Q̇s</orig>
+		       <orig>Q͘s</orig>
 		       <reg>Quis</reg>
 	     </choice> 
 	     <choice>
@@ -74,14 +74,10 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">plu(m)bi</seg>
-		       <orig>plūbi</orig>
-		       <reg>plumbi</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">lami(n)a;</seg>
-		       <orig>lamīa;</orig>
-		       <reg>lamina;</reg>
+	           <!-- check translation, it looked combined -->
+	           <seg type="lucas">plu(m)bilami(n)a;</seg>
+	           <orig>plūbilamīa;</orig>
+	           <reg>plumbilamina;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(e)l</seg>
@@ -106,14 +102,13 @@
 	     </choice> silice:c Scio 
 	<choice>
 		       <seg type="lucas">e(n)i(m)</seg>
-		       <orig>ēi</orig>
+		       <orig>eī</orig>
 		       <reg>enim</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(uod)</seg>
-		       <orig>q</orig>
-	           <!-- there's a little hook here i'm not sure what to do with -->
+		       <orig>ɋ</orig>
 		       <reg>quod</reg>
 	     </choice> 
 	     <choice>

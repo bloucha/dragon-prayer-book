@@ -60,7 +60,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(em)p(ite)rn(us)</seg>
-		       <orig>sp̄r̄n</orig>
+		       <orig>sēpr̄nꝰ</orig>
 		       <reg>sempiternus</reg>
 	     </choice> 
 	     <choice>
@@ -68,15 +68,11 @@
 		       <orig>horrȯ</orig>
 		       <reg>horror</reg>
 	     </choice> 
+
 	     <choice>
-		       <seg type="lucas">i(n)</seg>
-		       <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">h(ab)itat.</seg>
-		       <orig>h̄itat.</orig>
-		       <reg>habitat.</reg>
+		       <seg type="lucas">i(n)h(ab)itat.</seg>
+		       <orig>īh̄itat.</orig>
+		       <reg>inhabitat.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -141,7 +137,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ven(er)is</seg>
-		       <orig>ven̄is</orig>
+		       <orig>veṅis</orig>
 		       <reg>veneris</reg>
 	     </choice> iudicare 
 	<choice>
@@ -219,7 +215,7 @@
 		       <seg type="lucas">du(m)</seg>
 		       <orig>dū</orig>
 		       <reg>dum</reg>
-	     </choice> dicus
+	     </choice> discus
 <lb break="no"/>sio 
 	<choice>
 		       <seg type="lucas">ven(er)it</seg>

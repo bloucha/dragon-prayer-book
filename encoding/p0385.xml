@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig>Q̇d</orig>
+		       <orig>Q͘d</orig>
 		       <reg>Quid</reg>
 	     </choice> ego miserri
 <lb break="no"/>
@@ -149,7 +149,7 @@
 <lb break="no"/>li 
 	<choice>
 		       <seg type="lucas">da(m)nare</seg>
-		       <orig>dānare</orig>
+		       <orig>dāpnare</orig>
 		       <reg>damnare</reg>
 	     </choice> 
 	     <choice>
@@ -207,7 +207,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)p(ri)o</seg>
-		       <orig>ꝓpo</orig>
+		       <orig>ꝓṗo</orig>
 		       <reg>proprio</reg>
 	     </choice> 
 	     <choice>
@@ -247,7 +247,7 @@
 <lb/>ut 
 	<choice>
 		       <seg type="lucas">a(n)i(m)a(m)</seg>
-		       <orig>aīa</orig>
+		       <orig>aīa⋮</orig>
 		       <reg>animam</reg>
 	     </choice> 
 	     <choice>

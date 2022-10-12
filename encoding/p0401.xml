@@ -91,13 +91,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">ma(n)ib(us)</seg>
-		       <orig>ma@ib⋮</orig>
+		       <orig>māib⋮</orig>
 		       <reg>manibus</reg>
 	     </choice> 
 	     <choice>
@@ -123,7 +123,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nat(i)o(n)ib(us):</seg>
-		       <orig>nat̄oib⋮:</orig>
+		       <orig>natōib⋮:</orig>
 		       <reg>nationibus:</reg>
 	     </choice> 
 	     <choice>
@@ -203,7 +203,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sc(ri)ptu(m):</seg>
-		       <orig>ɔscṗtu̇:</orig>
+		       <orig>ɔscṗtū:</orig>
 		       <reg>scriptum:</reg>
 	     </choice> 
 	     <choice>

@@ -54,7 +54,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">rev(er)tet(ur)</seg>
-		       <orig>revtet݃</orig>
+		       <orig>rev̇tet݃</orig>
 		       <reg>revertetur</reg>
 	     </choice>
       <lb/>
@@ -85,7 +85,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q̇</orig>
+		       <orig>Q͘</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -203,7 +203,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(te)q(uam)</seg>
-		       <orig>an̄q̈</orig>
+		       <orig>an̄ɋ̈</orig>
 	           <!-- same mystery diacritic on this one -->
 		       <reg>antequam</reg>
 	     </choice> 

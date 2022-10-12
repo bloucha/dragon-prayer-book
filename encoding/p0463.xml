@@ -77,13 +77,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> exaudi
 <lb/>
 	     <choice>
 		       <seg type="lucas">v(er)ba</seg>
-	             <orig>v̇ba</orig> <!-- is this abbreviation a dot above the v? -->
+	             <orig>v̇ba</orig> 
 		       <reg>verba</reg>
 	     </choice> mea. Mirifica 
 	<choice>
@@ -159,7 +159,7 @@
 	<choice>
 		       <seg type="lucas">i(?)pio</seg>
 	             <orig>īpio</orig>
-		       <reg>i?pio<!--  check expansion --></reg>
+		       <reg>impio</reg>
 	     </choice> 
       <lb break="no"/>
 	     <choice>
@@ -196,23 +196,19 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">adpe(m?)</seg>
-	             <orig>adpē</orig> <!-- i see an "i" between the d and p -->
-		       <reg>adpem?</reg>
+	             <orig>adipē</orig> 
+		       <reg>adpem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">suu(m)</seg>
 	             <orig>suū</orig>
 		       <reg>suum</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+	     
 	     <choice>
 		       <seg type="lucas">cluser(un)t:</seg>
-		       <orig>cluser̄t:</orig>
-		       <reg>cluserunt:</reg>
+		       <orig>ɔcluser̄t:</orig>
+		       <reg>concluserunt:</reg>
 	     </choice> os
 
 

@@ -13,16 +13,10 @@
 	<choice>
 		       <seg type="lucas">adi(?)
 	</seg>
-	            <orig>adī
-	</orig>
-		       <reg>adi?
-	<!--  check expansion --></reg>
+	            <orig>adīpleḃ</orig>
+		       <reg>adimplebis</reg>
 	     </choice> 
-      <choice>
-		       <seg type="lucas">pleb(is)</seg>
-               <orig>pleḃ</orig> <!-- how come adi and pleb are two separate phrases? -->
-		       <reg>plebis</reg>
-	     </choice> me leticia
+      me leticia
 <lb/>
 	     <choice>
 		       <seg type="lucas">cu(m)</seg>
@@ -170,7 +164,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> visitasti nocte:
 <lb/>igne me 
@@ -181,7 +175,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

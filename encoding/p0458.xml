@@ -149,7 +149,7 @@
 	     <choice>
 		       <seg type="lucas">i(?)pi</seg>
 		       <orig>īpi</orig>
-		       <reg>i?pi<!--  check expansion --></reg>
+		       <reg>impi</reg>
 	     </choice> 
       <lb break="no"/>
 	     <choice>
@@ -212,7 +212,7 @@
 	     </choice>  
 	     <choice>
 		       <seg type="lucas">p(ro)cellar(um)</seg>
-		       <orig>ꝑcellar⋮</orig>
+		       <orig>ꝓcellar⋮</orig>
 		       <reg>procellarum</reg>
 	     </choice> 
 	     <choice>
@@ -223,7 +223,7 @@
       <lb break="no"/>licis 
 	<choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
@@ -262,7 +262,7 @@
 		       <seg type="lucas">vult(us)</seg>
 		       <orig>vultꝰ</orig>
 		       <reg>vultus</reg>
-	     </choice> e?is.
+	     </choice> eius.
 <lb/>
 	     <choice>
 		       <seg type="lucas">D(omi)ne</seg>

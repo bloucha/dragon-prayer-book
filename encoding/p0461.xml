@@ -19,7 +19,7 @@
 		       <seg type="lucas">m(ihi).</seg>
 	             <orig>ṁ.</orig>
 		       <reg>mihi.</reg>
-	     </choice> F??es 
+	     </choice> Funes 
 	<choice>
 		       <seg type="lucas">cecider(un)t</seg>
 		       <orig>cecider̄t</orig>
@@ -44,7 +44,7 @@
 	     <choice>
 		       <seg type="lucas">ete(n)i(m?)</seg>
 	             <orig>eteī</orig>
-		       <reg>etenim?</reg>
+		       <reg>etenim</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">he(re)ditas</seg>
@@ -107,7 +107,7 @@
 	     <choice>
 		       <seg type="lucas">i(?)s(upe?)r</seg>
 	             <orig>īsr̄</orig>
-		       <reg>i?supe?r<!--  check expansion --></reg>
+		       <reg>insuper</reg>
 	     </choice> 
  
 	     <choice>
@@ -127,9 +127,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-	             <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> crepu
+	             <orig>īcrepu</orig>
+		       <reg>increpu</reg>
+	     </choice>
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">er(un)t</seg>
@@ -153,14 +153,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(er)tu(m)</seg>
-	             <orig>sꝑtū</orig>
-		       <reg>spertum</reg>
+	             <orig>ɔsꝑtū</orig>
+		       <reg>conspertum</reg>
 	     </choice> meo
 <lb/>
 	     <choice>
@@ -176,7 +171,7 @@
 	<choice>
 		       <seg type="lucas">dext(ra?)s</seg>
 	             <orig>dexṫs</orig>
-		       <reg>dextra?s<!--  check expansion --></reg>
+		       <reg>dextris</reg>
 	     </choice> 
  
 	     <choice>
@@ -192,12 +187,12 @@
 	<choice>
 		       <seg type="lucas">co(m?)</seg>
 	             <orig>cō</orig>
-		       <reg>com?<!--  check expansion --></reg>
+		       <reg>com</reg>
 	     </choice> 
       <lb break="no"/>movear. 
 	<choice>
 		       <seg type="lucas">Propt(er)</seg>
-	             <orig>Propṫ</orig> <!-- check to see if it is t with a dot or two dots to the side -->
+	             <orig>Propṫ</orig> 
 		       <reg>Propter</reg>
 	     </choice> hoc le
 <lb break="no"/>
@@ -218,12 +213,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">exultav(it)</seg>
-	             <orig>exultav ͭ</orig> <!-- check if this is the proper abbreviation we are using -->
+	             <orig>exultav ͭ</orig> 
 		       <reg>exultavit</reg>
 	     </choice>
       <lb/>
@@ -235,11 +230,11 @@
 	<choice>
 		       <seg type="lucas">isr(ael?)</seg>
 	             <orig>īsr̄</orig>
-		       <reg>israel?</reg>
+		       <reg>insuper</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> caro mea
 <lb/>
@@ -296,8 +291,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(unc?)</seg>
-	             <orig>nᶜ</orig> <!-- check abbreviation, I used superscript c  -->
-		       <reg>nunc?<!--  check expansion --></reg>
+	             <orig>nᶜ</orig> 
+		       <reg>nec</reg>
 	     </choice> 
       <lb/>
 	     <choice>

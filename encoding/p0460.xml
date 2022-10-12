@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">movebit(ur)</seg>
-	                <orig>movebit֔</orig> <!-- not sure what character to use -->
+	                <orig>movebit݃</orig> 
 		       <reg>movebitur</reg>
 	     </choice> 
 	     <choice>
@@ -33,7 +33,7 @@
 	     </choice> me 
 	<choice>
 		       <seg type="lucas">ps(alm).</seg>
-	                <orig>ṗṡ.</orig>
+	                <orig>ps̈.</orig>
 		       <reg>psalm.</reg>
 	     </choice> 
 	     <choice>
@@ -54,7 +54,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(er)avi</seg>
-	                <orig>sꝑavi</orig>
+	              <orig>sꝑavi</orig>
 		       <reg>speravi</reg>
 	     </choice> 
 	     <choice>
@@ -86,7 +86,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">bovor(um)</seg>
-	                <orig>bovoꝝ</orig>
+	              <orig>bovoꝝ</orig>
 		       <reg>bovorum</reg>
 	     </choice> 
 	     <choice>
@@ -127,7 +127,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us):</seg>
-	                <orig>eiꝰ:</orig>
+	              <orig>eiꝰ:</orig>
 		       <reg>eius:</reg>
 	     </choice> mirifica
 <lb break="no"/>vit 
@@ -189,15 +189,10 @@
                         <orig>ɔgregabo</orig>
                         <reg>congregabo</reg>
          </choice>
-	<choice>
-		       <seg type="lucas">(con)</seg>
-	                <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">ve(n)</seg>
-		       <orig>vē</orig>
-		       <reg>ven</reg>
+		       <orig>ɔvē</orig>
+		       <reg>conven</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -213,7 +208,7 @@
 	<choice>
 		       <seg type="lucas">sa(n)gui(?)b(us):</seg>
 	                <orig>sāgūib⋮:</orig>
-		       <reg>sangui?bus:</reg>
+		       <reg>sanguinibus:</reg>
 	     </choice> nec
 <lb/>
 	     <choice>
@@ -223,8 +218,8 @@
 	     </choice> ero 
 	<choice>
 		       <seg type="lucas">no(min?)im</seg>
-		       <orig>noīm̄</orig>
-		       <reg>nomin?im<!--  check expansion --></reg>
+		       <orig>noīm</orig>
+		       <reg>nominum</reg>
 	     </choice> 
  
 	     <choice>
@@ -244,9 +239,9 @@
 		       <reg>Dominus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">p(er)s?</seg>
-	                <orig>ꝑs?</orig>
-		       <reg>pers?</reg>
+		       <seg type="lucas">p(er)s</seg>
+	                <orig>ꝑs</orig>
+		       <reg>pars</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">he(re)di</seg>

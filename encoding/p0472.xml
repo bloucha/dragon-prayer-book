@@ -5,12 +5,12 @@
       <ab type="transcription" xml:id="p0472_transcription" corresp="#p0472_translation">
             <lb/>tur; <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> + </orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice>
             <choice>
                   <seg type="lucas">laudab(un)t</seg>
-                  <orig>laudab̄t</orig> <!-- check abbreviation -->
+                  <orig>laudab̄t</orig>
                   <reg>laudabunt</reg>
             </choice>
             <choice>
@@ -65,18 +65,13 @@
             </choice>
             <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> +</orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice>
             <choice>
-                  <seg type="lucas">(con)</seg>
-                  <orig>ɔ</orig>
-                  <reg>con</reg>
-            </choice>
-            <choice>
                   <seg type="lucas">v(er)te(n)</seg>
-                  <orig>v̇tē</orig>
-                  <reg>verten</reg>
+                  <orig>ɔv̇tē</orig>
+                  <reg>converten</reg>
             </choice>
             <lb break="no"/>
             <choice>
@@ -108,14 +103,9 @@
                   <reg>in</reg>
             </choice>
             <choice>
-                  <seg type="lucas">(con)</seg>
-                  <orig>ɔ</orig>
-                  <reg>con</reg>
-            </choice>
-            <choice>
                   <seg type="lucas">sp(e)c(t)u</seg>
-                  <orig>spc̄u</orig>
-                  <reg>spectu</reg>
+                  <orig>ɔspc̄u</orig>
+                  <reg>conspectu</reg>
             </choice>
             <choice>
                   <seg type="lucas">ei(us):</seg>
@@ -160,7 +150,7 @@
             </choice>
             <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> + </orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice>
             <choice>
@@ -216,14 +206,9 @@
                   <reg>in</reg>
             </choice>
             <choice>
-                  <seg type="lucas">(con)</seg>
-                  <orig>ɔ</orig>
-                  <reg>con</reg>
-            </choice>
-            <choice>
                   <seg type="lucas">sp(e)c(t)u</seg>
-                  <orig>spcū</orig>
-                  <reg>spectu</reg>
+                  <orig>ɔspcū</orig>
+                  <reg>conspectu</reg>
             </choice>
             <choice>
                   <seg type="lucas">ei(us)</seg>
@@ -232,7 +217,7 @@
             </choice>
             <choice>
                   <seg type="lucas">cade(n)t</seg>
-                  <orig>cadet</orig>
+                  <orig>cadēt</orig>
                   <reg>cadent</reg>
             </choice>
             <choice>
@@ -271,12 +256,11 @@
                   <reg>anima</reg>
             </choice> mea <lb/>illi vivet: 
             
-            <choice> <!-- this entire "choice" was not here so i added it, please check if it is right -->
+            <choice> 
                   <seg type="lucas">(et) </seg> 
                   <orig> + </orig>
                   <reg>et </reg>
-            </choice>
-            
+            </choice>       
             <choice>
                   <seg type="lucas">seme(n)</seg>
                   <orig>semē</orig>
@@ -302,7 +286,7 @@
             </choice>
             <choice>
                   <seg type="lucas">g(e)n(er)at(i)o</seg>
-                  <orig>gṅato</orig> <!-- I do not see a "r" in the original word, so I put a paraenthesis around it-->
+                  <orig>gṅatō</orig> 
                   <reg>generatio</reg>
             </choice>
             <choice>

@@ -52,7 +52,11 @@
 		       <seg type="lucas">(et) </seg>
 	                <orig>+ </orig>
 		       <reg>et </reg>
-	     </choice> pedes meos: di??(?)a
+	     </choice> pedes meos: 
+         <choice>
+               <orig>dinūa</orig>
+               <reg>dinumera</reg>
+         </choice>
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ver(un)t</seg>
@@ -76,30 +80,19 @@
 		       <reg>vero</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	                <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sideraver(un)t</seg>
-		       <orig>sideraver̄t</orig>
-		       <reg>sideraverunt</reg>
+		       <orig>ɔsideraver̄t</orig>
+		       <reg>consideraverunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	                <orig>+</orig>
+	               <orig>+</orig>
 		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">i(?)</seg>
-		       <orig>ī</orig>
-		       <reg>i?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">spexer(un)t</seg>
-		       <orig>spexer̄t</orig>
-		       <reg>spexerunt</reg>
+		       <orig>īspexer̄t</orig>
+		       <reg>inspexerunt</reg>
 	     </choice>
       <lb/>me: 
 	<choice>
@@ -109,7 +102,7 @@
 	     </choice> sibi 
 	<choice>
 		       <seg type="lucas">vestime(n)</seg>
-		       <orig>vestimė</orig>
+		       <orig>vestimē</orig>
 		       <reg>vestimen</reg>
 	     </choice>
       <lb break="no"/>ta mea 
@@ -126,7 +119,7 @@
 	     <choice>
 		       <seg type="lucas">veste(m?)</seg>
 		       <orig>vestē</orig>
-		       <reg>vestem?</reg>
+		       <reg>vestem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mea(m)</seg>

@@ -55,7 +55,7 @@
 	     </choice> laudabo te. 
 	<choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig> <!-- unsure of abbreviation  -->
+		       <orig>Qi</orig> 
 		       <reg>Qui</reg>
 	     </choice> time
 <lb break="no"/>tis 
@@ -162,7 +162,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -207,16 +207,11 @@
 		       <seg type="lucas">i(n)</seg>
 	             <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig>
-		       <reg>con</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spc̄u</orig>
-		       <reg>spectu</reg>
+		       <orig>ɔspc̄u</orig>
+		       <reg>conspectu</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">time(n)tiu(m)</seg>
@@ -241,7 +236,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

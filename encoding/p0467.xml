@@ -24,7 +24,11 @@
 		       <seg type="lucas">eor(um)</seg>
 	             <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
-	     </choice> a filiis ho??.
+	     </choice> a filiis 
+         <choice>
+               <orig>hoim.</orig>
+               <reg>hominum.</reg>
+         </choice>
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(uonia)m</seg>
@@ -76,7 +80,7 @@
 	     <choice>
 		       <seg type="lucas">po(n?)es</seg>
 	             <orig>pōes</orig>
-		       <reg>pon?es<!--  check expansion --></reg>
+		       <reg>pones</reg>
 	     </choice> 
       <lb/>eos 
 	<choice>
@@ -92,7 +96,7 @@
 	     <choice>
 		       <seg type="lucas">reliq(ue?)is</seg>
 		       <orig>reliq̇is</orig>
-		       <reg>relique?is<!--  check expansion --></reg>
+		       <reg>reliquiis</reg>
 	     </choice> 
  tuis 
 	<choice>
@@ -110,8 +114,7 @@
 		       <seg type="lucas">eor(um).</seg>
 	             <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
-	     </choice> Ecaltare <!-- second letter looks like a "x"   -->
-<lb/>
+	     </choice> Exaltare 
 	     <choice>
 		       <seg type="lucas">d(omi)ne</seg>
 		       <orig>dn̄e</orig>
@@ -135,7 +138,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -204,7 +207,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>Ḋs</orig> <!-- check abbreviation -->
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -230,7 +233,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> +</orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -246,7 +249,7 @@
       <lb/>nocte 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -257,12 +260,12 @@
 	<choice>
 		       <seg type="lucas">i(n)sipi(?)a(m)</seg>
 	             <orig>īsipīa⋮</orig>
-		       <reg>insipi?am</reg>
+		       <reg>insipientiam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(ihi?).</seg>
 	             <orig>ṁ.</orig>
-		       <reg>mihi?.<!--  check expansion --></reg>
+		       <reg>mihi.</reg>
 	     </choice> 
       <lb/>Tu 
 	<choice>
@@ -282,7 +285,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">h(ab)itas:</seg>
-	             <orig>hītas:</orig> <!-- is the macron okay over the i? -->
+	             <orig>hītas:</orig> 
 		       <reg>habitas:</reg>
 	     </choice> laus
 

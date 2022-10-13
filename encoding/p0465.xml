@@ -32,16 +32,11 @@
 		       <reg>apperebo</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spc̄u</orig> <!-- is there another letter in this word? maybe an i? -->
-		       <reg>spectu</reg>
+		       <orig>ɔspc̄ui</orig> <!-- is there another letter in this word? maybe an i? -->
+		       <reg>conspectui</reg>
 	     </choice>
-      <lb/>tuo: saviabor <!-- check saviabor? -->
+      <lb/>tuo: satiabor 
 	<choice>
 		       <seg type="lucas">cu(m)</seg>
 	             <orig>cū</orig>
@@ -60,12 +55,12 @@
 	     </choice> tua. 
 	<choice>
 		       <seg type="lucas">Ps(alm)</seg>
-	             <orig>Ṗṡ</orig> <!-- check if it is a dot over each or two dots over 1 letter -->
+	             <orig>Ps̈</orig> 
 		       <reg>Psalm</reg>
 	     </choice> Celi 
 	<choice>
 		       <seg type="lucas">enarra(n)t?.</seg>
-	             <orig>enarrāt?.</orig>
+	             <orig>enarrāt?.</orig> <!-- check expansion, no hint in translation -->
 		       <reg>enarrant?.</reg>
 	     </choice>
       <lb/>
@@ -135,7 +130,7 @@
       <lb break="no"/>ti ei: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

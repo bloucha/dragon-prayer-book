@@ -23,7 +23,7 @@
 	     <choice>
 		       <seg type="lucas">pre(ce?)s</seg>
 		       <orig>pr̄es</orig>
-		       <reg>prece?s<!--  check expansion --></reg>
+		       <reg>patres</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -38,7 +38,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> +</orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -54,7 +54,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> salvi 
 	<choice>
@@ -80,7 +80,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> +</orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -112,12 +112,12 @@
 	     <choice>
 		       <seg type="lucas">v(?)mis</seg>
 	             <orig>v̇mis</orig>
-		       <reg>v?mis<!--  check expansion --></reg>
+		       <reg>vermis</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -134,16 +134,16 @@
 	     <choice>
 		       <seg type="lucas">obp(ro)b(?)u(m)</seg>
 	             <orig>obꝓḃū</orig>
-		       <reg>obprob?um</reg>
+		       <reg>obprobrium</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ho(m)i(num?)</seg>
 	             <orig>hōi⋮</orig>
-		       <reg>hominum?</reg>
+		       <reg>hominum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -239,8 +239,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ext(ra)xisti?</seg>
-		       <orig>exẗxisti?</orig>
-		       <reg>extraxisti?</reg>
+		       <orig>exẗxisti</orig>
+		       <reg>extraxisti</reg>
 	     </choice> me de 
 	<choice>
 		       <seg type="lucas">ve(n)tre;</seg>
@@ -248,18 +248,10 @@
 		       <reg>ventre;</reg>
 	     </choice>
       <lb/>spes mea ab 
-	<choice>
-		       <seg type="lucas">v(?)
-	</seg>
-		       <orig>v
-	</orig>
-		       <reg>v?
-	<!--  check expansion --></reg>
-	     </choice> 
       <choice>
 		       <seg type="lucas">bib(us)</seg>
-                   <orig>ḃib⋮</orig>
-		       <reg>bibus</reg>
+                   <orig>uḃib⋮</orig>
+		       <reg>uberibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(at)ris</seg>

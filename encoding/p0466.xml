@@ -43,7 +43,7 @@
             
             <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> + </orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice>
             <choice>
@@ -60,7 +60,7 @@
             <choice>
                   <seg type="lucas">i(n?)pones</seg>
                   <orig>īpones</orig>
-                  <reg>in?pones<!--  check expansion --></reg>
+                  <reg>impones</reg>
             </choice>
             <choice>
                   <seg type="lucas">s(upe)r</seg>
@@ -81,7 +81,7 @@
             <choice>
                   <seg type="lucas">dab(is?)</seg>
                   <orig>daḃ</orig>
-                  <reg>dabis?</reg>
+                  <reg>dabis</reg>
             </choice>
             <choice>
                   <seg type="lucas">eu(m)</seg>
@@ -175,14 +175,9 @@
                   <reg>non</reg>
             </choice>
             <choice>
-                  <seg type="lucas">(con)</seg>
-                  <orig>ɔ</orig>
-                  <reg>con</reg>
-            </choice>
-            <choice>
                   <seg type="lucas">movebit(ur).</seg>
-                  <orig>movebit݃.</orig>
-                  <reg>movebitur.</reg>
+                  <orig>ɔmovebit݃.</orig>
+                  <reg>commovebitur.</reg>
             </choice>
             <choice>
                   <seg type="lucas">Inve(n)i</seg>
@@ -250,7 +245,7 @@
             <choice>
                   <seg type="lucas">ig(ni?)s</seg>
                   <orig>iġs</orig>
-                  <reg>igni?s<!--  check expansion --></reg>
+                  <reg>ignis</reg>
             </choice>
             <choice>
                   <seg type="lucas">i(n)</seg>
@@ -273,22 +268,16 @@
                   <orig>ī</orig>
                   <reg>in</reg>
             </choice> ira sua 
-            
-            <choice>
-                  <seg type="lucas">(con)</seg>
-                  <orig>ɔ</orig>
-                  <reg>con</reg>
-            </choice>
             <choice>
                   <seg type="lucas">t(ur)babit</seg>
-                  <orig>t݃babit</orig>
-                  <reg>turbabit</reg>
+                  <orig>ɔt݃babit</orig>
+                  <reg>conturbabit</reg>
             </choice>
             <lb/>eos 
             
             <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> +</orig>
+                  <orig>+ </orig>
                   <reg>et </reg>
             </choice> devorabit eos ignis. <lb/>
             <choice>

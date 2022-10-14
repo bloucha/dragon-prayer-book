@@ -113,7 +113,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cu(n)ctor(um)</seg>
-		       <orig>cuctoꝝ</orig>
+		       <orig>cūctoꝝ</orig>
 		       <reg>cunctorum</reg>
 	     </choice> tribue
 <lb/>
@@ -129,7 +129,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig>
+		       <orig>ɋ̈</orig>
 	           <!-- little marker here i'm not sure what to do with -->
 		       <reg>quam</reg>
 	     </choice>
@@ -157,7 +157,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q̄</orig>
+		       <orig>Q͘</orig>
 		       <reg>Qui</reg>
 	     </choice> vivis
 <lb/>

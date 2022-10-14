@@ -57,15 +57,11 @@
 		       <orig>moriet݃</orig>
 		       <reg>morietur</reg>
 	     </choice> 
+
 	     <choice>
-		       <seg type="lucas">i(n)</seg>
-		       <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">et(er)nu(m).</seg>
-		       <orig>eṫnū.</orig>
-		       <reg>eternum.</reg>
+		       <seg type="lucas">i(n)et(er)nu(m).</seg>
+		       <orig>īeṫnū.</orig>
+		       <reg>ineternum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(ate)r</seg>
@@ -190,7 +186,7 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">a(n)i(m)a(m)</seg>
-		       <orig>aīa</orig>
+		       <orig>aīa⋮</orig>
 		       <reg>animam</reg>
 	     </choice> 
 	     <choice>
@@ -259,14 +255,9 @@
 	     </choice> iubeas 
 	<choice>
 		       <seg type="lucas">e(ss)e</seg>
-		       <orig>ēe</orig>
+		       <orig>eē</orig>
 		       <reg>esse</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">(con)sorte(m).</seg>
 		       <orig>ɔsortē.</orig>
@@ -296,7 +287,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Q(uesumu)s</seg>
-		       <orig>Q̇s</orig>
+		       <orig>Q͘s</orig>
 		       <reg>Quesumus</reg>
 	     </choice> 
 	     <choice>

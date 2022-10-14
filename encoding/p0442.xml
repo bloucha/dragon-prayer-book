@@ -27,18 +27,14 @@
 		     <reg>pro</reg>
 	     </choice> his 
 	<choice>
-		<seg type="lucas">me(re?)</seg>
-	      <orig>mė</orig>
-		 <reg>mere?
+		<seg type="lucas">me(re?)m(ur)</seg>
+	      <orig>mėm݃</orig>
+		 <reg>mere?mur
 	<!--  check expansion --></reg>
 	     </choice> 
          <!-- these two choices look like one word,
                mėm݃- -->
-      <choice>
-		<seg type="lucas">m(ur)</seg>
-            <orig>m݃݃  </orig>
-		 <reg>mur</reg>
-	     </choice>
+
       <lb/>
 	     <choice>
 		       <seg type="lucas">PRete(n)de</seg>
@@ -235,7 +231,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(ost)ros</seg>
-		       <orig>nros</orig>
+		       <orig>nr̄os</orig>
 		       <reg>nostros</reg>
 	     </choice> una 
 	<choice>

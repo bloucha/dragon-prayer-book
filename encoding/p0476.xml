@@ -70,7 +70,7 @@
 	     </choice> dixit 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -96,7 +96,7 @@
       <lb break="no"/>davit 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> creata 
 	<choice>
@@ -122,7 +122,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">rep(ro)bat</seg>
-		       <orig>repbat</orig>
+		       <orig>reꝓbat</orig>
 		       <reg>reprobat</reg>
 	     </choice>
       <lb/>
@@ -138,12 +138,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)lor(um):</seg>
-		       <orig>pploṙ:</orig>
+		       <orig>ppl͘oꝝ:</orig>
 		       <reg>populorum:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> re
 <lb break="no"/>
@@ -217,7 +217,7 @@
       <lb break="no"/>ne 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -232,7 +232,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ge(n)s</seg>
-		       <orig>ges</orig>
+		       <orig>gēs</orig>
 		       <reg>gens</reg>
 	     </choice> cu
 <lb break="no"/>ius 
@@ -258,12 +258,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)l(i)s</seg>
-		       <orig>ppl̇s</orig>
+		       <orig>ppl͘s</orig>
 		       <reg>populis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">que(m)</seg>
-		       <orig>que</orig>
+		       <orig>quē</orig>
 		       <reg>quem</reg>
 	     </choice>
       <lb/>elegit 
@@ -296,7 +296,7 @@
 	     </choice> De 
 	<choice>
 		       <seg type="lucas">p(re)p(ar)ato</seg>
-		       <orig>ppato</orig>
+		       <orig>p̄ꝑato</orig>
 		       <reg>preparato</reg>
 	     </choice> 
 	     <choice>

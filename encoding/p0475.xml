@@ -18,7 +18,7 @@
 	     <choice>
 		       <seg type="lucas">Ps(alm?)</seg>
 		       <orig>Ps̈</orig>
-		       <reg>Psalm?</reg>
+		       <reg>Psalm?</reg> <!-- check expansion, not covered in current translation data -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)n(u)s</seg>
@@ -97,7 +97,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cordar(um)</seg>
-		       <orig>cordar⋮</orig>
+		       <orig>cordaꝝ</orig>
 		       <reg>cordarum</reg>
 	     </choice> psalli
 <lb break="no"/>te illi. 
@@ -135,7 +135,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>

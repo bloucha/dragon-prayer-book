@@ -156,7 +156,7 @@
       <lb/>In 
 	<choice>
 		       <seg type="lucas">quor(um)</seg>
-		       <orig>quor⋮</orig>
+		       <orig>quoꝝ</orig>
 		       <reg>quorum</reg>
 	     </choice> 
 	     <choice>
@@ -182,7 +182,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> repleta 
 	<choice>
@@ -284,12 +284,12 @@
 	     <choice>
 		       <seg type="lucas">Ps(alm?).</seg>
 		       <orig>Ps̈.</orig>
-		       <reg>Psalm?.<!--  check expansion --></reg>
+		       <reg>Psalmus David.<!--  check expansion, this was indicated in the translation but I am not positive ab it --> --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>

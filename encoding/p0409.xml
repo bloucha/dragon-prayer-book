@@ -33,7 +33,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">veheme(n)t(er)</seg>
-		       <orig>vehemēt</orig>
+		       <orig>vehemēṫ</orig>
 		       <reg>vehementer</reg>
 	     </choice> 
 	     <choice>
@@ -223,15 +223,11 @@
 		       <orig>nꝰ</orig>
 		       <reg>nus</reg>
 	     </choice> tua: 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
+
 	     <choice>
-		       <seg type="lucas">v(er)s(us)</seg>
+		       <seg type="lucas">(con)v(er)s(us)</seg>
 		       <orig>ɔv̇sꝰ</orig>
-		       <reg>versus</reg>
+		       <reg>conversus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">su(m)</seg>

@@ -13,7 +13,7 @@
 	<choice>
 		       <seg type="lucas">vide(re)</seg>
 	      <orig>vidė</orig>
-		       <reg>videre</reg>
+		 <reg>videre</reg>
 	     </choice> bonos. P
 <lb break="no"/>rohibe 
 	<choice>
@@ -87,7 +87,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Oc(u)li</seg>
-		       <orig>Ocli̇</orig>
+		       <orig>Ocl͘i̇</orig>
 		       <reg>Oculi</reg>
 	     </choice> 
 	     <choice>
@@ -196,9 +196,9 @@
 	     </choice>
       <lb/>exaudivit eos: 
 	<choice>
-		       <seg type="lucas">(et) </seg>
+		<seg type="lucas">(et) </seg>
 	      <orig>+ </orig>
-		       <reg>et </reg>
+		 <reg>et </reg>
 	     </choice> ex 
 	<choice>
 		       <seg type="lucas">o(mn)ib(us)</seg>
@@ -213,7 +213,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">bulat(i)o(n)ib(us)</seg>
-	           <orig>bulatōi⋮b</orig> <!-- I have no idea why the three dots are appearing before the b -->
+	           <orig>bulatōib⋮</orig> <!-- I have no idea why the three dots are appearing before the b -->
 		       <reg>bulationibus</reg>
 	     </choice> 
 	     <choice>
@@ -229,7 +229,7 @@
 <lb break="no"/>os. 
 	<choice>
 		       <seg type="lucas">Iux(ta)</seg>
-		       <orig>Iux</orig>
+		       <orig>Iuẍ</orig>
 		       <reg>Iuxta</reg>
 	     </choice> 
 	     <choice>

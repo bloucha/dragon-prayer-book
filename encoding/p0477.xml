@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice>
       <lb/>
@@ -38,33 +38,33 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
          <choice>
 	           <seg type="lucas">fi(n)xit</seg>
-                  <orig>fixit</orig>
+                  <orig>fīxit</orig>
                   <reg>finxit</reg>
 	     </choice> singila
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ti(m)</seg>
-		       <orig>ti</orig>
+		       <orig>tī</orig>
 		       <reg>tim</reg>
 	     </choice> corda 
 	<choice>
 		       <seg type="lucas">eor(um):</seg>
-		       <orig>eor:</orig>
+		       <orig>eoꝝ:</orig>
 		       <reg>eorum:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	<choice>
 		       <seg type="lucas">i(n)telligit</seg>
-		       <orig>itelligit</orig>
+		       <orig>ītelligit</orig>
 		       <reg>intelligit</reg>
 	     </choice> 
 	     <choice>
@@ -80,17 +80,17 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	<choice>
 		       <seg type="lucas">No(n)</seg>
-		       <orig>No</orig>
+		       <orig>Nō</orig>
 		       <reg>Non</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">salvat(ur)</seg>
-		       <orig>salvaṫ</orig>
+		       <orig>salvat݃</orig>
 		       <reg>salvatur</reg>
 	     </choice> rex
 <lb/>
@@ -101,17 +101,17 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(u)lta(m)</seg>
-		       <orig>mlt̄a</orig>
+		       <orig>ml͘tā</orig>
 		       <reg>multam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ir)tute(m):</seg>
-		       <orig>̇vtute:</orig>
+		       <orig>v̇tutē:</orig>
 		       <reg>virtutem:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> gygas 
 	<choice>
@@ -122,7 +122,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">salvabit(ur)</seg>
-		       <orig>salvabit</orig>
+		       <orig>salvabit݃</orig>
 		       <reg>salvabitur</reg>
 	     </choice> 
 	     <choice>
@@ -132,7 +132,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(u)ltitudi(n)e</seg>
-		       <orig>ml̇titudīe</orig>
+		       <orig>ml͘titudīe</orig>
 		       <reg>multitudine</reg>
 	     </choice> 
 	     <choice>
@@ -158,14 +158,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(ab)</seg>
-		       <orig/>
-		       <reg>ab</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">unda(n)cia</seg>
-		       <orig>un̄dācia</orig>
-		       <reg>undancia</reg>
+		       <orig>hun̄dācia</orig>
+		       <reg>abundantia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(u)t(em)</seg>
@@ -174,7 +169,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ir)tu</seg>
-		       <orig>̇vtu</orig>
+		       <orig>v̇tu</orig>
 		       <reg>virtu</reg>
 	     </choice>
       <lb break="no"/>tis sue 
@@ -185,13 +180,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">salvabit(ur).</seg>
-		       <orig>salvabiṫ.</orig>
+		       <orig>salvabit݃.</orig>
 		       <reg>salvabitur.</reg>
 	     </choice> Ecce
 <lb/>
 	     <choice>
 		       <seg type="lucas">oc(u)li</seg>
-		       <orig>ocli</orig>
+		       <orig>ocl͘i</orig>
 		       <reg>oculi</reg>
 	     </choice> 
 	     <choice>
@@ -201,7 +196,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(upe)r</seg>
-		       <orig>ṡr</orig>
+		       <orig>sṙ</orig>
 		       <reg>super</reg>
 	     </choice> 
 	     <choice>
@@ -216,7 +211,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>
@@ -227,12 +222,12 @@
 	     </choice> eis 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(er)a(n)t</seg>
-		       <orig>sꝑāt</orig>
+		       <orig>sꝑāt</orig> 
 		       <reg>sperant</reg>
 	     </choice> 
 	     <choice>
@@ -258,13 +253,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um):</seg>
-		       <orig>eor:</orig>
+		       <orig>eoꝝ:</orig>
 		       <reg>eorum:</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> alat eos 
 	<choice>
@@ -290,7 +285,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(um):</seg>
-		       <orig>dn̄:</orig>
+		       <orig>dn̄⋮:</orig>
 		       <reg>dominum:</reg>
 	     </choice> 
 	     <choice>
@@ -301,7 +296,7 @@
 <lb break="no"/>tor 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -321,7 +316,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q̇a</orig>
+		       <orig>Q̇a</orig> 
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>

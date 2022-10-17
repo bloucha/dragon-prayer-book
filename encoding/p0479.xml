@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">fu(n)de(n)t(ur).</seg>
-		       <orig>fūdēt֔.</orig>
+		       <orig>fūdēt݃ .</orig>
 		       <reg>fundentur.</reg>
 	     </choice> Iste 
 	<choice>
@@ -22,13 +22,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cla(m)avit</seg>
-		       <orig>clävit</orig> <!-- i only see one a -->
+		       <orig>clävit</orig> 
 		       <reg>clamavit</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	                <orig>+</orig>
+	              <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -102,7 +102,7 @@
 <lb/>eripiet eos. Gustate 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	                <orig>+</orig>
+	             <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> vi
 <lb break="no"/>dete 
@@ -139,7 +139,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(er)at</seg>
-	                <orig>sꝑat</orig>
+	              <orig>sꝑat</orig>
 		       <reg>sperat</reg>
 	     </choice> 
 	     <choice>
@@ -243,7 +243,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mimie(n)t(ur)</seg>
-	           <orig>mimiēt֔</orig>
+	           <orig>mimiēt݃ </orig>
 		       <reg>mimientur</reg>
 	     </choice> 
          <choice>

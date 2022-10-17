@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">letabit(ur)</seg>
-		       <orig>letabit֔</orig>
+		       <orig>letabit݃</orig>
 		       <reg>letabitur</reg>
 	     </choice> cor 
 	<choice>
@@ -69,13 +69,13 @@
 	     </choice> nos: 
 	<choice>
 		       <seg type="lucas">que(m)</seg>
-		       <orig>quė</orig> <!-- dot or macron?? -->
+		       <orig>quē</orig>
 		       <reg>quem</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">abmodu(m)</seg>
-		       <orig>abmodu̇</orig> <!-- dot or macron?? -->
+		       <orig>abmodū</orig>
 		       <reg>abmodum</reg>
 	     </choice> 
 	     <choice>
@@ -112,12 +112,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">t(em)p(or)e:</seg>
-	                <orig>tꝑe:</orig>
+	              <orig>tꝑe:</orig>
 		       <reg>tempore:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(er)</seg>
-	                <orig>sꝑ</orig>
+	             <orig>sꝑ</orig>
 		       <reg>sper</reg>
 	     </choice> laus 
 	<choice>
@@ -138,7 +138,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">laudabit(ur)</seg>
-		       <orig>laudabit֔</orig>
+		       <orig>laudabit݃</orig>
 		       <reg>laudabitur</reg>
 	     </choice>
       <lb/>
@@ -165,7 +165,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">lete(n)t(ur).</seg>
-		       <orig>letēt֔.</orig>
+		       <orig>letēt݃ .</orig>
 		       <reg>letentur.</reg>
 	     </choice> 
 	     <choice>
@@ -186,7 +186,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	                <orig>+</orig>
+	              <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -246,7 +246,7 @@
 		       <seg type="lucas">t(ri)bulat(i)o(n)ib(us)</seg>
 		       <orig>ṫbulatoīb⋮</orig>
 		       <reg>tribulationibus</reg>
-	     </choice> meis erip??t
+	     </choice> meis eripuit
 <lb/>me. Accedite ad 
 	<choice>
 		       <seg type="lucas">eu(m)</seg>
@@ -261,8 +261,8 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">mi(n)avu(m)?:</seg>
-		       <orig>mīavu?:</orig> <!-- I can't make this out either -->
-		       <reg>minavum?:</reg>
+		       <orig>mīamī:</orig> 
+		       <reg>minamīni:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>

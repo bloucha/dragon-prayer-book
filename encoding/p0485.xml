@@ -28,7 +28,7 @@
 <lb/>nimis. 
 	<choice>
 		       <seg type="lucas">Propt(er)ea</seg>
-		       <orig>Propt̄ea</orig>
+		       <orig>Propṫea</orig>
 		       <reg>Propterea</reg>
 	     </choice> 
 	     <choice>
@@ -75,7 +75,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">fere(n)t(ur)</seg>
-		       <orig>ferēt݃</orig>
+		       <orig>ferēt݃ </orig>
 		       <reg>ferentur</reg>
 	     </choice> 
 	     <choice>
@@ -101,7 +101,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ur)bate</seg>
-		       <orig>t̄bate</orig>
+		       <orig>ṫbate</orig>
 		       <reg>turbate</reg>
 	     </choice> 
 	     <choice>
@@ -117,18 +117,13 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">eor(um):</seg>
-		       <orig>eor⋮:</orig>
+		       <orig>eoꝝ:</orig>
 		       <reg>eorum:</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">t(ur)bati</seg>
-		       <orig>t݃bati</orig>
-		       <reg>turbati</reg>
+		       <orig>ɔt݃bati</orig>
+		       <reg>conturbati</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(un)t</seg>
@@ -196,7 +191,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>

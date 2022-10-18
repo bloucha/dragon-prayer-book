@@ -71,7 +71,7 @@
       <lb break="no"/>
       <choice>
 		       <seg type="lucas">c(ri)tudi(n)e</seg>
-		       <orig>ctudīe</orig>
+		       <orig>ċtudīe</orig>
 		       <reg>critudine</reg>
 	     </choice> tua: 
 	<choice>
@@ -147,7 +147,7 @@
 		       <seg type="lucas">t(er)a</seg>
 	         <!-- this diacritic looks a little funky I'm assuming it's a 
 	             dot above based on patterns -->
-		       <orig>ṫa</orig>
+		       <orig>t̄a</orig>
 		       <reg>tera</reg>
 	     </choice> tua. Sagitte tue acu
 <lb break="no"/>te: 

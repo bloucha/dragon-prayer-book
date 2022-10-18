@@ -68,10 +68,10 @@ x 3
 		       <reg>Sancte</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">fra(n)ciSc̄e</seg>
-		       <orig>frāciSc̄e</orig>
-		       <reg>franciSc̄e</reg>
-	     </choice>                                or e
+		       <seg type="lucas">fra(n)ciSce</seg>
+		       <orig>frācisce</orig>
+		       <reg>francisce</reg>
+	     </choice>                               or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>

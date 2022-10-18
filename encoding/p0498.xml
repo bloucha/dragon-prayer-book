@@ -28,14 +28,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q;</orig>
+		       <orig>q:</orig>
 	           <!-- not sure what the symbol would be in unicode -->
 		       <reg>quia</reg>
 	     </choice> mirabilia
 <lb/>fecit. Salvavit sibi 
 	<choice>
 		       <seg type="lucas">dext(er)a</seg>
-		       <orig>dexta</orig>
+		       <orig>dexṫa</orig>
 		       <reg>dextera</reg>
 	     </choice>
       <lb/>
@@ -46,7 +46,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -56,7 +56,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(tu)m</seg>
-		       <orig>sc̄m</orig>
+		       <orig>scm̄</orig>
 		       <reg>sanctum</reg>
 	     </choice> 
 	     <choice>
@@ -130,18 +130,18 @@
       <lb/>sue 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(er)itatis</seg>
-		       <orig>̇vitatis</orig>
+		       <orig>v̇itatis</orig>
 		       <reg>veritatis</reg>
 	     </choice> sue: domui is
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(ae)l.</seg>
-		       <orig>rl.</orig>
+		       <orig>rl͘.</orig>
 		       <reg>rael.</reg>
 	     </choice> 
 	     <choice>
@@ -157,7 +157,7 @@
 	      
       <choice>
 		       <seg type="lucas">t(er)mi(ni)</seg>
-		       <orig>tmi</orig>
+		       <orig>ṫmī</orig>
 		       <reg>t(er)mi(ni)</reg>
 	     </choice> 
 	     <choice>
@@ -189,17 +189,17 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ex(u)ltate</seg>
-		       <orig>exl̇tate</orig>
+		       <orig>exl̇͘tate</orig>
 		       <reg>exultate</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>psallite. Psallite 
@@ -226,7 +226,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> voce psal
 <lb break="no"/>mi: 
@@ -237,7 +237,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tub(is)</seg>
-		       <orig>tub</orig>
+		       <orig>tuḃ</orig>
 		       <reg>tubis</reg>
 	     </choice> 
 	     <choice>
@@ -247,7 +247,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> voce
 <lb/>tube cornee. Iubilate 

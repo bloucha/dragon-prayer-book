@@ -33,12 +33,12 @@
       <lb break="no"/>tate: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)los</seg>
-		       <orig>pplȯs</orig>
+		       <orig>ppl͘os</orig>
 		       <reg>populos</reg>
 	     </choice> 
 	     <choice>
@@ -48,13 +48,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(er)itate</seg>
-		       <orig>̇vitate</orig>
+		       <orig>v̇itate</orig>
 		       <reg>veritate</reg>
 	     </choice> sua.
 <lb/>
 	     <choice>
 		       <seg type="lucas">D(omi)n(u)s</seg>
-		       <orig>Dns</orig>
+		       <orig>Dn̄s</orig>
 		       <reg>Dominus</reg>
 	     </choice> 
  
@@ -65,7 +65,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ex(u)ltet</seg>
-		       <orig>exl̇tet</orig>
+		       <orig>exl̇͘tet</orig>
 		       <reg>exultet</reg>
 	     </choice> 
 	     <choice>
@@ -76,23 +76,23 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">lete(n)t(ur)</seg>
-		       <orig>letēṫ</orig>
+		       <orig>letēt݃</orig>
 		       <reg>letentur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)sule</seg>
-		       <orig>isule</orig>
+		       <orig>īsule</orig>
 		       <reg>insule</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(u)lte.</seg>
-		       <orig>mlṫe.</orig>
+		       <orig>ml͘te.</orig>
 		       <reg>multe.</reg>
 	     </choice> Nu
 <lb break="no"/>bes 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> caligo 
 	<choice>
@@ -113,7 +113,7 @@
 <lb break="no"/>sticia 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -155,12 +155,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)fla(m)mabit</seg>
-		       <orig>iflamabit</orig>
+		       <orig>īflāmabit</orig>
 		       <reg>inflammabit</reg>
 	     </choice> 
 	     <choice>
@@ -175,7 +175,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)imi</seg>
-		       <orig>iimi</orig>
+		       <orig>īimi</orig>
 		       <reg>inimi</reg>
 	     </choice>
       <lb break="no"/>cos 
@@ -202,12 +202,12 @@
 	     </choice> vidit 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(com)mota</seg>
-		       <orig>mota</orig>
+		       <orig>ɔm̄ota</orig>
 		       <reg>commota</reg>
 	     </choice> 
       <lb/>
@@ -217,8 +217,8 @@
 		       <reg>est</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">t(er)a.</seg>
-		       <orig>ṫa.</orig>
+		       <seg type="lucas">t(e)ra.</seg>
+		       <orig>ṫra.</orig>
 		       <reg>tera.</reg>
 	     </choice> 
 	     <choice>
@@ -233,7 +233,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">c(er)a</seg>
-		       <orig>ca</orig>
+		       <orig>ċa</orig>
 		       <reg>cera</reg>
 	     </choice> 
  
@@ -282,7 +282,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -297,13 +297,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)li</seg>
-		       <orig>ppli</orig>
+		       <orig>ppl͘i</orig>
 		       <reg>populi</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">gl(ori)a(m)</seg>
-		       <orig>gl̇a⋮</orig>
+		       <orig>gl̇͘a⋮</orig>
 		       <reg>gloriam</reg>
 	     </choice> 
 	     <choice>
@@ -313,7 +313,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Co(n)fu(n)dua(n)t(ur)</seg>
-		       <orig>Cofuduat</orig>
+		       <orig>Cōfūdāt݃</orig>
 		       <reg>Confundantur</reg>
 	     </choice> 
 	     <choice>

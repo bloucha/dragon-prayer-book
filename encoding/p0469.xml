@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">m(eu)s</seg>
-		       <orig>ms̄</orig>
+		       <orig>m̄s</orig>
 		       <reg>meus</reg>
 	     </choice> es tu: ne 
 	<choice>
@@ -29,12 +29,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)bulat(i)o</seg>
-		       <orig>ṫbulato</orig>
+		       <orig>ṫbulatō</orig>
 		       <reg>tribulatio</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)xi(m)a</seg>
-		       <orig>ꝓxia</orig>
+		       <orig>ꝓxīa</orig>
 		       <reg>proxima</reg>
 	     </choice> 
 	     <choice>
@@ -83,7 +83,7 @@
       <lb/>me. 
 	<choice>
 		       <seg type="lucas">Ap(er)uer(un)t</seg>
-		       <orig>Aꝑuert</orig>
+		       <orig>Aꝑuer̄t</orig>
 		       <reg>Aperuerunt</reg>
 	     </choice> 
 	     <choice>
@@ -140,13 +140,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> dis
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">p(er)sa</seg>
-		       <orig>psa</orig>
+		       <orig>ꝑsa</orig>
 		       <reg>persa</reg>
 	     </choice> 
 	     <choice>
@@ -177,12 +177,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ta(m)q(uam)</seg>
-		       <orig>tāq̈</orig>
+		       <orig>tāɋ̈</orig>
 		       <reg>tamquam</reg>
 	     </choice> cera 
 	<choice>
 		       <seg type="lucas">liq(ue)sce(n?)s:</seg>
-		       <orig>liq̄sces:</orig>
+		       <orig>liq̄scēs:</orig>
 		       <reg>liquescen?s:</reg>
 	     </choice>
       <lb/>
@@ -193,13 +193,13 @@
 	     </choice> medio 
 	<choice>
 		       <seg type="lucas">ve(n)t(ri)s</seg>
-		       <orig>veṫs</orig>
+		       <orig>vēṫs</orig>
 		       <reg>ventris</reg>
 	     </choice> mei. Aru
 <lb break="no"/>it 
 	<choice>
 		       <seg type="lucas">ta(m)q(uam)</seg>
-		       <orig>tāq̈</orig>
+		       <orig>tāɋ̈</orig>
 		       <reg>tamquam</reg>
 	     </choice> testa 
 	<choice>
@@ -236,7 +236,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">puluere(m)?</seg>
-		       <orig>puluerē?</orig>
+		       <orig>puluerē</orig>
 		       <reg>puluerem?</reg>
 	     </choice> mortis
 <lb/>deduxisti me. 

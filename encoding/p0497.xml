@@ -17,7 +17,7 @@
 	     </choice> sculptilia: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -27,13 +27,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gl(ori)an</seg>
-		       <orig>gl̇an</orig>
+		       <orig>gl̇͘an</orig>
 		       <reg>glorian</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">t(ur)</seg>
-		       <orig>ṫ</orig>
+		       <orig>t݃</orig>
 		       <reg>tur</reg>
 	     </choice> 
 	     <choice>
@@ -43,7 +43,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sim(u)lac(ri)s</seg>
-		       <orig>simlacs</orig>
+		       <orig>siml͘aċs</orig>
 		       <reg>simulacris</reg>
 	     </choice> suis. Adorate
 <lb/>
@@ -59,7 +59,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)g(e)li</seg>
-		       <orig>āgl̇i</orig>
+		       <orig>āgl̇͘i</orig>
 		       <reg>angeli</reg>
 	     </choice> 
 	     <choice>
@@ -69,7 +69,7 @@
 	     </choice> audivit 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> le
 <lb break="no"/>tata 
@@ -80,18 +80,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">syo(n).</seg>
-		       <orig>sȳo.</orig>
+		       <orig>syō.</orig>
 		       <reg>syon.</reg>
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">ex(u)ltaveru(n)t</seg>
-		       <orig>exltaverūt</orig>
+		       <orig>exl͘taverūt</orig>
 		       <reg>exultaverunt</reg>
 	     </choice>
       <lb/>filie iude: 
 	<choice>
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ppṫ</orig>
+		       <orig>ꝓpṫ</orig>
 		       <reg>propter</reg>
 	     </choice> iudicia tua
 <lb/>
@@ -149,7 +149,7 @@
 	     </choice> deos. 
 	<choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig>
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
 	     </choice> dili
 <lb break="no"/>gitis 
@@ -175,19 +175,19 @@
 		       <reg>animas</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōr</orig>
+		       <seg type="lucas">s(an)c(t)o(rum)</seg>
+		       <orig>sc̄oꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">suor(um)</seg>
-		       <orig>suor</orig>
+		       <seg type="lucas">suo(rum)</seg>
+		       <orig>suoꝝ</orig>
 		       <reg>suorum</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(e)</seg>
-		       <orig>d</orig>
+		       <orig>ḋ</orig>
 		       <reg>de</reg>
 	     </choice> 
 	     <choice>
@@ -197,7 +197,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)toris</seg>
-		       <orig>pc̄toris</orig>
+		       <orig>pct̄oris</orig>
 		       <reg>peccatoris</reg>
 	     </choice> 
 	     <choice>
@@ -213,13 +213,13 @@
 	     </choice> iusto: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> rectis
 <lb/>corde leticia. 
    	<choice>
    			<seg type="lucas">Letami(ni)</seg>
-   			<orig>Letami</orig>
+   			<orig>Letamī</orig>
    			<reg>Letamini</reg>
    	</choice> ius
 <lb break="no"/>ti 
@@ -235,18 +235,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
+
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">fitemi(ni)</seg>
-		       <orig>fitemī</orig>
-		       <reg>fitemini</reg>
+		       <seg type="lucas">(con)fitemi(ni)</seg>
+		       <orig>ɔfitemī</orig>
+		       <reg>confitemini</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">me(m)orie</seg>

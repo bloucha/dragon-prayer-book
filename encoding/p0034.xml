@@ -115,7 +115,7 @@
 	<choice>
 		       <seg type="lucas">c(o)epta</seg>
 		       <orig>cepta</orig>
-		       <reg>coepta</reg>
+		       <reg>coepta<!-- do not see a diacritic --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">finiat(ur)</seg>
@@ -161,7 +161,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Qu(i)</seg>
-		       <orig>Q̇</orig>
+		       <orig>Q͘</orig>
 		       <reg>Qui</reg>
 	     </choice> fecit 
 	<choice>
@@ -218,8 +218,8 @@
 		       <reg>in</reg>
 	     </choice> pace. 
 	<choice>
-		       <seg type="lucas">P(er?)</seg>
-		       <orig>Ꝑ</orig>
+		       <seg type="lucas">P(e)r</seg>
+		       <orig>Ꝑr̄</orig>
 		       <reg>Per?</reg>
 	     </choice> 
 	     <choice>
@@ -241,7 +241,7 @@
 	     </choice> So 
 	<choice>
 		       <seg type="lucas">ma(ria?)</seg>
-		       <orig>ma</orig>
+		       <orig>mā</orig>
 		       <reg>maria?</reg>
 	     </choice> capi
 <lb break="no"/>tel helt. 

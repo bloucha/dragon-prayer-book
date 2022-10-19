@@ -114,7 +114,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">v(er)bu(m)</seg>
-	           <orig>v̇bu</orig>
+	           <orig>v̇bū</orig>
 		       <reg>verbum</reg>
 	     </choice> erat apud 
 	<choice>
@@ -162,7 +162,7 @@
 	     <choice>
 		       <seg type="lucas">O(mn)ia</seg>
 		       <orig>Oīa</orig>
-		       <reg>Omnia</reg>
+		       <reg>Omnia<!-- check expansion, is it dia --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)</seg>
@@ -178,13 +178,13 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">f(a)c(t)a</seg>
-		       <orig>fc︦a</orig>
+		       <orig>fc̄a</orig>
 	         <!-- diacritic looked to be combined over the c and the a, used combined diacritic -->
 		       <reg>facta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(un)t:</seg>
-		       <orig>st:</orig>
+		       <orig>sṫ:</orig>
 		       <reg>sunt:</reg>
 	         <!-- check transcription here, I see no semicolon on the page -->
 	         <!-- also see no diacritics in these abbrevs -->
@@ -201,7 +201,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">f(a)c(tu)m</seg>
-		       <orig>fc︦m</orig>
+		       <orig>fc̄m</orig>
 	         <!-- diacritic appears over c and m, used combined diacritic -->
 		       <reg>factum</reg>
 	     </choice> 

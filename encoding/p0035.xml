@@ -140,7 +140,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">btm(?)</seg>
-		       <orig>bt̄m</orig>
+		       <orig>btm̄</orig>
 		       <reg>beatum</reg>
 	     </choice> faci
 <lb break="no"/>at 
@@ -191,11 +191,7 @@
 		       <orig>aīa⋮</orig>
 		       <reg>animam</reg>
 	     </choice> 
-      <choice>
-		       <seg type="lucas">a(us?)</seg>
-		       <orig>a</orig>
-		       <reg>aus?</reg>
-	     </choice> 
+
 	     <choice>
 		       <seg type="lucas">i(n)imico(rus)</seg>
 		       <orig>īimicoꝝ</orig>
@@ -236,7 +232,7 @@
       <lb/> 
       <choice>
 		       <seg type="lucas">p(er)a(n)tes</seg>
-		       <orig>sꝑates</orig>
+		       <orig>sꝑātes</orig>
 		       <reg>semperantes</reg>
 	     </choice> 
 	     <choice>

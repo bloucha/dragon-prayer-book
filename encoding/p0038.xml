@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">fam(i)l(aru?)m</seg>
-		       <orig>famlṁ</orig>
+		       <orig>faml͘m</orig>
 		       <reg>familaru?m <!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
@@ -27,7 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(ost)r(u)m</seg>
-		       <orig>n︦rm</orig>
+		       <orig>n̄rm</orig>
 	           <!-- not sure if diacritic goes over n or r, put it over both -->
 		       <reg>nostrum</reg>
 	     </choice>
@@ -228,21 +228,21 @@
 		       <reg>animabus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">fam(u)lor(um)</seg>
+		       <seg type="lucas">fam(u)lo(rum)</seg>
 	             <orig>faml͘oꝝ</orig>
 		       <reg>famulorum</reg>
 	           <!-- not sure about the diacritic on the l, might be above the o -->
 	     </choice> famu
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">lar(um)q(ue)</seg>
+		       <seg type="lucas">la(rum)q(ue)</seg>
 		       <orig>laꝝq⋮</orig>
 		       <reg>larumque</reg>
 	           <!-- the doc doesn't say the three dots can be used as "ue" in "que" but they 
 	                 look the same as the other three dots -->
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">tuar(um).</seg>
+		       <seg type="lucas">tua(rum).</seg>
 		       <orig>tuaꝝ.</orig>
 		       <reg>tuarum.</reg>
 	     </choice> 

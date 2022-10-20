@@ -59,7 +59,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">dabu(n)t(ur)</seg>
-		       <orig>dabūt݃</orig>
+		       <orig>dabūt݃ </orig>
 		       <reg>dabuntur</reg>
 	     </choice> 
 	     <choice>
@@ -192,7 +192,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">colu(m)nas</seg>
-		       <orig>colūnas</orig>
+		       <orig>colūpnas</orig>
 		       <reg>columnas</reg>
 	     </choice> 
 	     <choice>

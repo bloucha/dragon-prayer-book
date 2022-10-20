@@ -242,14 +242,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spcū</orig>
-		       <reg>spectu</reg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us):</seg>

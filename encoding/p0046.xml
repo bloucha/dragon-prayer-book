@@ -75,7 +75,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">g(ratias).</seg>
-	             <orig>g݃.</orig>
+	             <orig>g̈.</orig>
 		       <reg>gratias.</reg>
 	     </choice> 
 	     <choice>
@@ -123,7 +123,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">bu(n)t(ur)</seg>
-	             <orig>būṫ̇</orig>
+	             <orig>būt݃</orig>
 		       <reg>buntur</reg>
 	     </choice> 
 	     <choice>
@@ -164,7 +164,7 @@
 		       <reg>vivent</reg>
 	     </choice> corda 
 	<choice>
-		       <seg type="lucas">eor(um)</seg>
+		       <seg type="lucas">eo(rum)</seg>
 	            <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice>
@@ -181,7 +181,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(ae)c(u)l(i).</seg>
-	             <orig>scl͘.</orig>
+	             <orig>scl͘i.</orig>
 		       <reg>saeculi.</reg>
 	     </choice> 
          <choice>
@@ -241,7 +241,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">su(m)pt(ur)e.</seg>
-	             <orig>sūpṫ̇e.</orig>
+	             <orig>sūpt݃e.</orig>
 		       <reg>sumpture.</reg>
 	     </choice> 
 	     <choice>
@@ -251,7 +251,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christum).</seg>
-		       <orig>x</orig>
+		       <orig>x.</orig>
 		       <reg>christum.</reg>
 	           <!-- this letter looks like an x, unsure, the trascription omits it -->
 	     </choice> Iu
@@ -274,7 +274,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">et(er)ne;</seg>
-		       <orig>et͘ne;</orig>
+		       <orig>eṫne;</orig>
 		       <reg>eterne;</reg>
 	     </choice> 
 	     <choice>
@@ -290,19 +290,19 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Or(?)as</seg>
-		       <orig>Oras</orig>
+		       <orig>Or̄as</orig>
 		       <reg>Or?as<!--  check expansion --></reg>
 	     </choice> 
  zu 
 	<choice>
 		       <seg type="lucas">obe(n?)t.</seg>
-		       <orig>obet.</orig>
+		       <orig>obēt.</orig>
 		       <reg>oben?t.<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">Meo(?)ria(?)</seg>
-		       <orig>Meoria</orig>
+		       <orig>Meōriā</orig>
 		       <reg>Meo?ria?<!--  check expansion --></reg>
 	     </choice> 
       <lb/>fecit 
@@ -312,11 +312,15 @@
 		       <reg>mirabilium</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">suor(um)</seg>
+		       <seg type="lucas">suo(rum)</seg>
 	             <orig>suorꝝ</orig>
 		       <reg>suorum</reg>
-	     </choice> ??(?)⸗
-
+	     </choice> 
+         <choice>
+               <seg type="lucas">mi<!-- check -->⸗</seg>
+               <orig>mī⸗</orig>
+               <reg><!-- not sure -->⸗</reg>
+         </choice>
 
 </ab>
 

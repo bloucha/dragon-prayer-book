@@ -148,7 +148,7 @@
 		       <seg type="lucas">b(e)n(e)dice(re).</seg>
 		       <orig>bn̄dicė.</orig>
 		       <reg>benedicere.</reg>
-	     </choice> ?? 
+	     </choice> M 
          <!-- transcription is wack here, the first two letters of the next word seem to be missing and written
                here as question marks -->
 	<choice>
@@ -229,7 +229,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ca(n)t</seg>
-		       <orig>cat</orig>
+		       <orig>cāt</orig>
 		       <reg>cant</reg>
 	     </choice> 
 	     <choice>
@@ -290,7 +290,7 @@
 	     </choice> tuus: 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 	      <!-- not sure if dot above or dot right, looked to the right here -->
 		       <reg>qui</reg>
 	     </choice> vivis 

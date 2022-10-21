@@ -83,8 +83,20 @@
 		       <orig>v̇go</orig>
 		       <reg>virgo</reg>
 	     </choice>
-      <lb/>maria. ??????. <!-- major gap in transcription here --> Ab hos
-<lb break="no"/>te maligno; expiat nos
+      <lb/>maria.  <!-- in or m-->. 
+<lb break="no"/>
+         <choice>
+               <seg type="lucas">n(?).</seg>
+               <orig>nº.</orig>
+               <reg>n?.<!--  check expansion --></reg>
+         </choice> 
+         <choice>
+               <seg type="lucas">n(?).</seg>
+               <orig>nº.</orig>
+               <reg>n?.<!--  check expansion --></reg>
+         </choice> 
+         Ab hos
+         te maligno; eripiat nos
 <lb/>dei 
 	<choice>
 		       <seg type="lucas">ge(n)it(ri)x</seg>
@@ -144,7 +156,7 @@
  
 	     <choice>
 		       <seg type="lucas">piissi(m)a</seg>
-		       <orig>piissi︦a</orig>
+		       <orig>piissīa</orig>
 	           <!-- check use of combining macron, this didn't show up right on github -->
 		       <reg>piissima</reg>
 	     </choice> 

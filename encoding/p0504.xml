@@ -57,7 +57,7 @@
 	<choice>
 		       <seg type="lucas">l(?).</seg>
 		       <orig>l͘.</orig>
-		       <reg>l?.<!--  check expansion --></reg>
+		       <reg>l?.<!--  check expansion, nothing in current translation doc --></reg>
 	     </choice> 
  (prima?).
 <lb/>O 
@@ -77,7 +77,6 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- couldn't decide if macon should be over p or r -->
 		       <seg type="lucas">p(ate)r</seg>
 		       <orig>pr̄</orig>
 		       <reg>pater</reg>
@@ -154,9 +153,8 @@
 	     </choice> Tu,
 <lb/>
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> Felix vitis de cuius
 <lb/>
@@ -195,7 +193,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pina(n)s</seg>
-		       <orig>ꝑpinās</orig>
+		       <orig>ꝓpinās</orig>
 		       <reg>propinans</reg>
 	     </choice> po
 <lb break="no"/>

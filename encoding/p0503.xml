@@ -17,7 +17,7 @@
 	     </choice> leta 
 	<choice>
 		       <seg type="lucas">sole(m)nia.</seg>
-		       <orig>solēnia.</orig>
+		       <orig>solēpnia.</orig>
 		       <reg>solemnia.</reg>
 	     </choice>
       <lb/>laude multiplici
@@ -33,16 +33,9 @@
 		       <reg>ecclesia.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
-	           <!-- double check -->
-		       <seg type="lucas">y(mnus).</seg>
+		       <seg type="lucas">yp(mnus).</seg>
 		       <orig>ȳpꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -142,7 +135,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> celo 
 	<choice>

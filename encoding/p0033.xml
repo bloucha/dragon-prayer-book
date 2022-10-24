@@ -33,13 +33,13 @@
  
 	     <choice>
 		       <seg type="lucas">vi(n?)</seg>
-		       <orig>vi</orig>
+		       <orig>vī</orig>
 		       <reg>vin?<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">c(i)lo</seg>
-		       <orig>clo</orig>
+		       <orig>cl͘o</orig>
 		       <reg>cilo</reg>
 	     </choice> 
 	     <choice>
@@ -49,13 +49,13 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> resur
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">recto(n)is</seg>
-		       <orig>rectois</orig>
+		       <orig>rectōis</orig>
 		       <reg>rectonis</reg>
 	     </choice> 
 	     <choice>
@@ -70,7 +70,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)os</seg>
-		       <orig>sc̄os</orig>
+		       <orig>scōs</orig>
 		       <reg>sanctos</reg>
 	     </choice> tuos
 <lb/>resuscitati 
@@ -92,7 +92,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ej(us)</seg>
-		       <orig>eī</orig>
+		       <orig>ēi</orig>
 		       <reg>eius</reg>
 	     </choice> sel 
 	<choice>
@@ -215,7 +215,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ater?)s.</seg>
-		       <orig>ps̈.</orig>
+		       <orig>p̈s.</orig>
 		       <reg>psalm? <!-- check expansion --></reg>
 	     </choice> 
       <lb/>laudate 

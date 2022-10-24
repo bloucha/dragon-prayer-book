@@ -55,7 +55,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Adduce(n)t(ur)</seg>
-		       <orig>Adducēt݃</orig>
+		       <orig>Adducēt݃ </orig>
 		       <reg>Adducentur</reg>
 	     </choice> regi 
 	<choice>
@@ -71,7 +71,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)xi(m)e</seg>
-		       <orig>ꝑxīe</orig>
+		       <orig>ꝓxīe</orig>s 
 		       <reg>proxime</reg>
 	     </choice> 
 	     <choice>
@@ -81,7 +81,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">affere(n)t(ur)</seg>
-		       <orig>afferēt݃</orig>
+		       <orig>afferēt݃ </orig>
 		       <reg>afferentur</reg>
 	     </choice>
       <lb/>
@@ -92,7 +92,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Offere(n)t(ur)</seg>
-		       <orig>Offerēt݃</orig>
+		       <orig>Offerēt݃ </orig>
 		       <reg>Offerentur</reg>
 	     </choice> 
 	     <choice>
@@ -113,7 +113,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">adduce(n)t(ur)</seg>
-		       <orig>adducēt݃</orig>
+		       <orig>adducēt݃ </orig>
 		       <reg>adducentur</reg>
 	     </choice> 
 	     <choice>
@@ -218,14 +218,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fitebu(n)t(ur)</seg>
-		       <orig>fitebūt݃</orig>
-		       <reg>fitebuntur</reg>
+		       <orig>ɔfitebūt݃ </orig>
+		       <reg>confitebuntur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi):</seg>

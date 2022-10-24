@@ -76,7 +76,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Co(m)moveat(ur)</seg>
-		       <orig>Cōmoveat݃</orig>
+		       <orig>Cōmoveat݃ </orig>
 		       <reg>Commoveatur</reg>
 	     </choice>
       <lb/>a facie 
@@ -107,9 +107,8 @@
 		       <reg>gentibus</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -172,7 +171,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Lete(n)t(ur)</seg>
-		       <orig>Letēt݃</orig>
+		       <orig>Letēt݃ </orig>
 		       <reg>Letentur</reg>
 	     </choice> ce
 <lb break="no"/>li 
@@ -263,7 +262,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">silvar(um)</seg>
-		       <orig>silvar⋮</orig>
+		       <orig>silvaꝝ</orig>
 		       <reg>silvarum</reg>
 	     </choice> a facie 
 	<choice>
@@ -272,9 +271,8 @@
 		       <reg>domini</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>

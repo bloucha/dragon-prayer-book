@@ -27,7 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̄a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -102,9 +102,8 @@
 	     </choice> 
  exaltat: 
 	<choice>
-	      <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> ca
 <lb break="no"/>lix 
@@ -223,18 +222,13 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
-		       <orig>pct̄or⋮</orig>
+		       <orig>pct̄oꝝ</orig>
 		       <reg>peccatorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fri(n)ga(m):</seg>
-		       <orig>frīgā:</orig>
-		       <reg>fringam:</reg>
+		       <orig>ɔfrīgā:</orig>
+		       <reg>confringam:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>

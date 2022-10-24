@@ -77,9 +77,8 @@
       <lb break="no"/>tra exaltasti me. Dedux
 <lb break="no"/>isti me 
 	<choice>
-	      <!-- unsure how to code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -89,9 +88,8 @@
 	     </choice> es spes mea:
 <lb/>
 	     <choice>
-	           <!-- cannot tell if there are two macrons -->
 		       <seg type="lucas">t(ur)ris</seg>
-		       <orig>t̄ris</orig>
+		       <orig>t݃ris</orig>
 		       <reg>turris</reg>
 	     </choice> 
 	     <choice>
@@ -133,7 +131,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)tegar</seg>
-		       <orig>ꝑtegar</orig>
+		       <orig>ꝓtegar</orig>
 		       <reg>protegar</reg>
 	     </choice> 
 	     <choice>
@@ -149,12 +147,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">alar(um)</seg>
-		       <orig>alar⋮</orig>
+		       <orig>alaꝝ</orig>
 		       <reg>alarum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um).</seg>
-		       <orig>tuar⋮.</orig>
+		       <orig>tuaꝝ.</orig>
 		       <reg>tuarum.</reg>
 	     </choice> 
 	     <choice>

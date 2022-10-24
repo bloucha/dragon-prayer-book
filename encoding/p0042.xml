@@ -11,7 +11,7 @@
 
       <lb/>um 
 	<choice>
-		       <seg type="lucas">sup(er)nor(um)</seg>
+		       <seg type="lucas">sup(er)no(rum)</seg>
 		       <orig>suꝑnoꝝ</orig>
 		       <reg>supernorum</reg>
 	     </choice> 
@@ -27,8 +27,8 @@
 		       <reg>regina</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">a(n)gelor(um).</seg>
-		       <orig>āgelor.</orig>
+		       <seg type="lucas">a(n)gelo(rum).</seg>
+		       <orig>āgeloꝝ.</orig>
 		       <reg>angelorum.</reg>
 	     </choice> Ge
 <lb break="no"/>nal cap. Ad te leva. 
@@ -56,7 +56,7 @@
 	     </choice> reple
 <lb/>
 	     <choice>
-		       <seg type="lucas">tuor(um)</seg>
+		       <seg type="lucas">tuo(rum)</seg>
 		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> corda 
@@ -86,7 +86,13 @@
 		       <seg type="lucas">acce(n)de.</seg>
 		       <orig>accēde.</orig>
 		       <reg>accende.</reg>
-	     </choice> Qui  <!-- this qui looks like an abbreviation to me, just a Q and a dot, check transcription -->
+	     </choice> Qui  
+         <choice>
+               <seg type="lucas">Q(ui).</seg>
+               <orig>Q͘.</orig>
+               <reg>Qui.</reg>
+         </choice>
+         <!-- this qui looks like an abbreviation to me, just a Q and a dot, check transcription -->
 	<choice>
 		       <seg type="lucas">p(er)</seg>
 		       <orig>ꝑ</orig>
@@ -110,7 +116,7 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">r(um)</seg>
+		       <seg type="lucas">(rum)</seg>
 		       <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> 
@@ -187,7 +193,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">sp(iritu)m</seg>
-		       <orig>sp︦m</orig>
+		       <orig>sp̄m</orig>
 	           <!-- diacritic appears over m and p so used combining one -->
 		       <reg>spiritum</reg>
 	     </choice> 
@@ -226,7 +232,7 @@
 <lb break="no"/>vos fac servos tuos. 
 	<choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D˙s</orig>
+		       <orig>D͘s</orig>
 	      <!-- dot appears between letters so I used dot between letters but it might be
 	            supposed to be attached to the D -->
 		       <reg>Deus</reg>
@@ -234,7 +240,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">m(eu)s</seg>
-		       <orig>m͘s</orig>
+		       <orig>ṁs</orig>
 	           <!-- the dot might be supposed to be between them but this looks closest to what is in the text -->
 		       <reg>meus</reg>
 	     </choice> 
@@ -261,7 +267,7 @@
       <lb/>exaudi 
 	<choice>
 		       <seg type="lucas">oro(num)</seg>
-		       <orig>oro⋮</orig>
+		       <orig>orō⋮</orig>
 		       <reg>oronum</reg>
 	     </choice> 
 	     <choice>

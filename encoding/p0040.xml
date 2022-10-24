@@ -18,7 +18,7 @@
  
 	     <choice>
 		       <seg type="lucas">(chirstus).</seg>
-		       <orig>.</orig>
+		       <orig>xⁱ.</orig>
 	           <!-- I do not know what character to put here -->
 		       <reg>chirstus.</reg>
 	     </choice> 
@@ -29,7 +29,7 @@
 	     </choice> sui 
 	<choice>
 		       <seg type="lucas">a(m)oris;</seg>
-		       <orig>a︦oris;</orig>
+		       <orig>āoris;</orig>
 	      <!-- diacritic appears over both characters so I used the FE26 one -->
 		       <reg>amoris;</reg>
 	     </choice>
@@ -59,8 +59,13 @@
 		       <orig>nr̄is.</orig>
 		       <reg>nostris.</reg>
 	     </choice>
-      <lb/>???????. <!-- check transcription here these characters are super wild --> Ille nos 
-	<choice>
+      <lb/><!-- in. m. --> <!-- check transcription here these characters are super wild --> Ille nos 
+         <choice>
+               <seg type="lucas">n(?).</seg>
+               <orig>nº.</orig>
+               <reg>n?.<!--  check expansion --></reg>
+         </choice>
+         <choice>
 		       <seg type="lucas">b(e)n(e)</seg>
 		       <orig>bn̄</orig>
 		       <reg>bene</reg>
@@ -86,12 +91,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Eva(n)g(e)lica</seg>
-		       <orig>Evāglīca</orig>
+		       <orig>Evāgl͘ica</orig>
 		       <reg>Evangelica</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">l(?)cco;</seg>
-		       <orig>lc︦co;</orig>
+		       <orig>lc̄co;</orig>
 	           <!-- diacritic appears over both c's, used the double diacritic -->
 		       <reg>l?cco;<!--  check expansion --></reg>
 	     </choice> 
@@ -118,7 +123,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Di(v)</seg>
-		       <orig>D˙i</orig>
+		       <orig>D͘i</orig>
 	           <!-- dot appears to be between letters, marked as such -->
 		       <reg>Div</reg>
 	     </choice>
@@ -162,7 +167,7 @@
 		       <reg>vium</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">sup(er)nor(um);</seg>
+		       <seg type="lucas">sup(er)no(rum);</seg>
 		       <orig>suꝑnoꝝ;</orig>
 		       <reg>supernorum;</reg>
 	     </choice> 
@@ -173,19 +178,19 @@
 	     </choice>
       <lb/>nos rex 
 	<choice>
-		       <seg type="lucas">a(n)g(e)lor(um).</seg>
-		       <orig>āglor.</orig>
+		       <seg type="lucas">a(n)g(e)lo(rum).</seg>
+		       <orig>āgl͘oꝝ.</orig>
 		       <reg>angelorum.</reg>
 	     </choice> Per e
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">va(n)g(e)lica</seg>
-		       <orig>vāglica</orig>
+		       <orig>vāgl͘ica</orig>
 		       <reg>vangelica</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dc(?)a;</seg>
-		       <orig>dc︦a;</orig>
+		       <orig>dc̄a;</orig>
 	           <!-- macron appears over both letters -->
 		       <reg>dc?a;<!--  check expansion --></reg>
 	     </choice> 
@@ -204,7 +209,7 @@
       <lb/>delicta. 
 	<choice>
 		       <seg type="lucas">Intell(e)c(tu)m</seg>
-		       <orig>Intellc︦m</orig>
+		       <orig>Intellc̄m</orig>
 	      <!-- not sure if macron combining the c and m is appropriate but that's where the abbrev sits so -->
 		       <reg>Intellectum</reg>
 	     </choice> 

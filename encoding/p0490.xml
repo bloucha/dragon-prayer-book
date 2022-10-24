@@ -136,7 +136,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">lor(um)</seg>
-		       <orig>lor⋮</orig>
+		       <orig>loꝝ</orig>
 		       <reg>lorum</reg>
 	     </choice> 
 	     <choice>
@@ -152,7 +152,7 @@
 	     </choice> plage 
 	<choice>
 		       <seg type="lucas">eor(um):</seg>
-		       <orig>eor⋮:</orig>
+		       <orig>eoꝝ:</orig>
 		       <reg>eorum:</reg>
 	     </choice> 
 	     <choice>
@@ -184,7 +184,7 @@
       <lb break="no"/>ue 
 	<choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
@@ -226,7 +226,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ho(mo).</seg>
-		       <orig>h̄o.</orig>
+		       <orig>hō.</orig>
 		       <reg>homo.</reg>
 	     </choice> Et 
 	<choice>

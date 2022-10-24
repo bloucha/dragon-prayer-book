@@ -13,7 +13,7 @@
 	     <choice>
 		       <seg type="lucas">ub(er?)tate</seg>
 		       <orig>uḃtate</orig>
-		       <reg>uber?tate<!--  check expansion --></reg>
+		       <reg>ubertate</reg>
 	     </choice> 
  
 	     <choice>
@@ -40,7 +40,7 @@
 	<choice>
 		       <seg type="lucas">lco(?).</seg>
 		       <orig>lc̄o.</orig>
-		       <reg>lco?.<!--  check expansion --></reg>
+		       <reg>lco?.<!--  check expansion, no hint on main transcription --></reg>
 	     </choice> 
  (secunda?).
 <lb/>O 
@@ -66,10 +66,9 @@
 		       <reg>et </reg>
 	     </choice> vestigia 
 	<choice>
-	      <!-- check transcription, looks like redepto -->
 		       <seg type="lucas">rege(m)pto</seg>
-		       <orig>regēpto</orig>
-		       <reg>regempto</reg>
+		       <orig>redēpto</orig>
+		       <reg>redempto</reg>
 	     </choice>
       <lb break="no"/>ris 
 	<choice>
@@ -86,7 +85,7 @@
 	<choice>
 		       <seg type="lucas">q(uo?)s</seg>
 		       <orig>qºs</orig>
-		       <reg>quo?s<!--  check expansion --></reg>
+		       <reg>quo?s<!--  check expansion, nothing in main transcription --></reg>
 	     </choice> 
  
 	     <choice>
@@ -98,7 +97,7 @@
 	     <choice>
 		       <seg type="lucas">c(?)vis</seg>
 		       <orig>ċvis</orig>
-		       <reg>c?vis<!--  check expansion --></reg>
+		       <reg>c?vis<!--  check expansion, main transcription empty --></reg>
 	     </choice> 
  
 	     <choice>
@@ -134,7 +133,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
-		       <orig>pct̄or⋮</orig>
+		       <orig>pct̄oꝝ</orig>
 		       <reg>peccatorum</reg>
 	     </choice> 
 	     <choice>
@@ -145,7 +144,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um)</seg>
-		       <orig>r⋮</orig>
+		       <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> 
 	     <choice>
@@ -160,14 +159,13 @@
 	     </choice> gaudia 
 	<choice>
 		       <seg type="lucas">celor(um).</seg>
-		       <orig>celor⋮.</orig>
+		       <orig>celoꝝ.</orig>
 		       <reg>celorum.</reg>
 	     </choice> T.
 <lb/>
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -178,7 +176,7 @@
 	<choice>
 		       <seg type="lucas">lub(er?)ci</seg>
 		       <orig>luḃci</orig>
-		       <reg>luber?ci<!--  check expansion --></reg>
+		       <reg>lubrici</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -189,7 +187,7 @@
 	<choice>
 		       <seg type="lucas">plaud(?)t</seg>
 		       <orig>plaud̄t</orig>
-		       <reg>plaud?t<!--  check expansion --></reg>
+		       <reg>plaudunt</reg>
 	     </choice> 
  
 	     <choice>
@@ -200,8 +198,8 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Ih(es)u?</seg>
-		       <orig>Iḣu?</orig>
-		       <reg>Ihesu?</reg>
+		       <orig>Iḣu</orig>
+		       <reg>Iesu</reg>
 	     </choice> bone 
 	<choice>
 		       <seg type="lucas">p(re)ce</seg>
@@ -269,7 +267,7 @@
 	     <choice>
 		       <seg type="lucas">ih(es)u.</seg>
 		       <orig>iḣu.</orig>
-		       <reg>ihesu.</reg>
+		       <reg>iesu.</reg>
 	     </choice>
    </ab>
 

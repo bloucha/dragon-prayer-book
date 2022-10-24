@@ -190,7 +190,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">colu(m)na</seg>
-		       <orig>colūna</orig>
+		       <orig>colūpna</orig>
 		       <reg>columna</reg>
 	     </choice> 
 	     <choice>
@@ -248,7 +248,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
-		       <orig>d̄s</orig>
+		       <orig>ḋs</orig>
 		       <reg>deus</reg>
 	     </choice> 
 	     <choice>
@@ -264,7 +264,7 @@
 	     </choice> tu 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb break="no"/>
@@ -302,7 +302,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> Exal⸗
 

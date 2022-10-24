@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> pau
 <lb break="no"/>
@@ -76,7 +76,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -162,7 +162,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -183,7 +183,7 @@
 	<choice>
 		       <seg type="lucas">a(?).</seg>
 		       <orig>ä.</orig>
-		       <reg>a?.<!--  check expansion --></reg>
+		       <reg>a?.<!--  check expansion, no hint in translation --></reg>
 	     </choice> 
   
       <lb/>
@@ -213,7 +213,7 @@
 		       <orig>tecū</orig>
 		       <reg>tecum</reg>
 	     </choice>
-      <lb/>Magne. I.        suscipe 
+      <lb/>Magne. I. suscipe 
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
@@ -228,7 +228,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -244,15 +244,13 @@
 	     <choice>
 		       <seg type="lucas">Mat(ra?).</seg>
 		       <orig>Mat̄.</orig>
-		       <reg>Matra?.<!--  check expansion --></reg>
+		       <reg>Matra?.<!--  check expansion, no hint in translation --></reg>
 	     </choice> 
- I??
+ I?? <!-- check expansion -->
 	<choice>
 		       <seg type="lucas">t(?).</seg>
 		       <orig>t̄.</orig>
-		       <reg>t?.
-
-<!--  check expansion --></reg>
+		       <reg>t?.<!--  check expansion --></reg>
 	     </choice> 
    </ab>
 

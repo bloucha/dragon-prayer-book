@@ -35,7 +35,7 @@
       <lb/>vestigia mea. Ego 
 	<choice>
 		       <seg type="lucas">cla(ma)</seg>
-	             <orig>clä</orig> <!-- check to see if this is correct -->
+	             <orig>clä</orig> 
 		       <reg>clama</reg>
 	     </choice>
       <lb break="no"/>vi 

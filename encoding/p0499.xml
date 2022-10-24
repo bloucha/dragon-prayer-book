@@ -53,7 +53,7 @@
         <lb break="no"/>
         <choice>
                 <seg type="lucas">r(um)</seg>
-                <orig>r⋮</orig>
+                <orig>ꝝ</orig>
                 <reg>rum</reg>
         </choice>
         <choice>
@@ -108,14 +108,9 @@
                 <reg>ultabunt</reg>
         </choice> a 
         <choice>
-                <seg type="lucas">(con)</seg>
-                <orig>ɔ</orig>
-                <reg>con</reg>
-        </choice>
-        <choice>
                 <seg type="lucas">sp(e)c(t)u</seg>
-                <orig>spc̄u</orig>
-                <reg>spectu</reg>
+                <orig>ɔspc̄u</orig>
+                <reg>conspectu</reg>
         </choice>
         <choice>
                 <seg type="lucas">d(omi)ni:</seg>
@@ -140,7 +135,7 @@
         </choice>
         <choice>
                 <seg type="lucas">t(er)rar(um)</seg>
-                <orig>ṫrar⋮</orig>
+                <orig>ṫraꝝ</orig>
                 <reg>terrarum</reg>
         </choice>
         <choice>
@@ -196,7 +191,6 @@
                 <reg>super</reg>
         </choice> 
         <choice>
-            <!-- cannot identify an abbreviation -->
                 <seg type="lucas">cherub(i)m</seg>
                 <orig>cherubm</orig>
                 <reg>cherubim</reg>

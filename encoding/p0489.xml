@@ -37,14 +37,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spcū</orig>
-		       <reg>spectu</reg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
 	     </choice> dei: 
 	<choice>
 		       <seg type="lucas">mi(sericordi)a(m)</seg>
@@ -170,16 +165,11 @@
 		       <orig>meā.</orig>
 		       <reg>meam.</reg>
 	     </choice> Protexisti
-<lb/>me a 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+<lb/>me a
 	     <choice>
 		       <seg type="lucas">ve(n)tu</seg>
-		       <orig>vētu</orig>
-		       <reg>ventu</reg>
+		       <orig>ɔvētu</orig>
+		       <reg>conventu</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">maligna(n)tiu(m):</seg>
@@ -199,7 +189,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice>
       <lb/>

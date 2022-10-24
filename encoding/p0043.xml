@@ -28,27 +28,23 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">sp(iritu)s</seg>
-		       <orig>sṗs</orig>
+		       <orig>sp̄s</orig>
 		       <reg>spiritus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>sci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">illust(r?)
+		       <seg type="lucas">illust(r?)co(n)e
 	</seg>
-		       <orig>illusẗ
+	         <orig>illusẗcōe
 	</orig>
-		       <reg>illustr?
+		       <reg>illustrcone?
 	<!--  check expansion --></reg>
 	     </choice> 
-      <choice>
-		       <seg type="lucas">co(n)e</seg>
-                   <orig>cōe</orig>
-		       <reg>cone</reg>
-	     </choice> do
+ do
 <lb break="no"/>cuisti: da 
 	<choice>
 		       <seg type="lucas">nob(is)</seg>
@@ -70,7 +66,14 @@
 	              <orig>spū</orig>
 		       <reg>spiritum</reg>
 	     </choice>
-      <lb/>?? 
+       <lb/>
+       <!-- check seg and reg -->
+       <choice>
+           <seg type="lucas">????</seg>
+           <orig>rc̄a</orig>
+           <reg>????</reg>
+       </choice> 
+       
 	<choice>
 		       <seg type="lucas">sap(er)e;</seg>
 	             <orig>saꝑe;</orig>
@@ -99,7 +102,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">laco(n)e</seg>
-	             <orig>lacȯe</orig>
+	             <orig>lacōe</orig>
 		       <reg>lacone</reg>
 	     </choice> 
 	     <choice>
@@ -114,7 +117,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Or(?)o.</seg>
-		       <orig>Oro.</orig>
+		       <orig>Or̄o.</orig>
 		       <reg>Or?o.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>ADesto 
@@ -125,13 +128,13 @@
 	     </choice> supplica
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">t(i)onib(us)</seg>
-	             <orig>tōnib⋮</orig>
+		       <seg type="lucas">t(i)o(n)ib(us)</seg>
+	             <orig>tōib⋮</orig>
 		       <reg>tionibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(ost)ris.</seg>
-		       <orig>nṙis.</orig>
+		       <orig>nr̄is.</orig>
 		       <reg>nostris.</reg>
 	     </choice> 
 	     <choice>
@@ -146,17 +149,17 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fam(u)lo</seg>
-		       <orig>famlȯ</orig> <!-- check -->
+		       <orig>faml͘o</orig> <!-- check -->
 		       <reg>famulo</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">r(um)</seg>
+		       <seg type="lucas">(rum)</seg>
 	             <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">tuor(um)</seg>
+		       <seg type="lucas">tuo(rum)</seg>
 	             <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> 
@@ -175,7 +178,7 @@
 		       <seg type="lucas">p(er)itate</seg>
 	             <orig>ꝑitate</orig>
 		       <reg>peritate</reg>
-	     </choice> dispone. et 
+	     </choice> dispone. vt 
 	<choice>
 		       <seg type="lucas">i(n)t(er)</seg>
 	             <orig>īṫ</orig>
@@ -183,7 +186,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mne)s</seg>
-	             <orig>ȯs</orig>
+	             <orig>ōs</orig>
 		       <reg>omnes</reg>
 	     </choice>
       <lb/>vie 
@@ -205,13 +208,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)tega(mur)</seg>
-	             <orig>ptegār</orig>
+	             <orig>ꝓtegār݃</orig>
 		       <reg>protegamur</reg>
 	     </choice> auxi
 <lb break="no"/>lio. 
 	<choice>
-		       <seg type="lucas">P(ate)r.</seg>
-	             <orig>Ꝑr.</orig>
+		       <seg type="lucas">P(ate)r.<!-- check --></seg>
+	             <orig>Ꝑx.</orig>
 		       <reg>Pater.</reg>
 	     </choice> Zu 
 	<choice>
@@ -222,17 +225,17 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">B(e)n(e)dicite.</seg>
-	             <orig>Bṅdicite.</orig>
+	             <orig>Bn̄dicite.</orig>
 		       <reg>Benedicite.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Oc(u)li</seg>
-		       <orig>Ocli</orig>
+		       <orig>Ocl͘i</orig>
 		       <reg>Oculi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">om(n)i(um)</seg>
-	             <orig>oṁi</orig>
+	             <orig>oīm</orig>
 		       <reg>omnium</reg>
 	     </choice> 
 	     <choice>
@@ -263,7 +266,7 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">illor(um)</seg>
+		       <seg type="lucas">illo(rum)</seg>
 	             <orig>illoꝝ</orig>
 		       <reg>illorum</reg>
 	     </choice> 

@@ -33,7 +33,7 @@
 	     </choice> se. 
 	<choice>
 		       <seg type="lucas">Gl(ori)a.</seg>
-	             <orig>Glȧ.</orig>
+	             <orig>Gl͘a.</orig>
 		       <reg>Gloria.</reg>
 	     </choice>
       <lb/>
@@ -80,7 +80,7 @@
 	     </choice> suis. 
 	<choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig> <!-- please check this abbreviation -->
+		       <orig>Q͘</orig> <!-- please check this abbreviation -->
 		       <reg>Qui</reg>
 	     </choice>
       <lb/>vivit 
@@ -106,7 +106,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sec(u)la</seg>
-	             <orig>seclȧ</orig>
+	             <orig>secl͘a</orig>
 		       <reg>secula</reg>
 	     </choice>
       <lb/>
@@ -143,12 +143,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)f(e)c(tu)m;</seg>
-	             <orig>ꝑfcm̄;</orig>
+	             <orig>ꝑfc̄m;</orig>
 		       <reg>perfectum;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)buat</seg>
-	             <orig>ṫbuat</orig>
+	             <orig>ṫbuat̄</orig>
 		       <reg>tribuat</reg>
 	     </choice>
       <lb/>
@@ -196,7 +196,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">potu(m)</seg>
-	             <orig>ꝑotū</orig>
+	             <orig>potū</orig>
 		       <reg>potum</reg>
 	     </choice> 
 	     <choice>
@@ -212,7 +212,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(esper?)s</seg>
-	             <orig>V̇ṡ</orig> <!-- check abbrevation -->
+	             <orig>V̈s</orig> <!-- check abbrevation -->
 		       <reg>vesper?s<!--  check expansion --></reg>
 	     </choice> 
  
@@ -229,7 +229,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)a(m)</seg>
-	             <orig>scā⋮</orig>
+	             <orig>sc̄a⋮</orig>
 		       <reg>sanctam</reg>
 	     </choice> subiit 
 	<choice>
@@ -270,9 +270,9 @@
 		       <reg>tertia</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">all(eluja):</seg>
-		       <orig>all:</orig>
-		       <reg>alleluja:</reg>
+		       <seg type="lucas">all(eluja).</seg>
+		       <orig>all͘.</orig>
+		       <reg>alleluja.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(espers)</seg>
@@ -289,8 +289,20 @@
 		       <seg type="lucas">naco(n)ib(us)</seg>
 	             <orig>nacōib⋮</orig>
 		       <reg>naconibus</reg>
-	     </choice> al: Quia 
-	<choice>
+	     </choice> 
+         <choice>
+               <seg type="lucas">al(leluja).</seg>
+               <orig>al͘.</orig>
+               <reg>alleluja.</reg>
+         </choice> 
+
+         <choice>
+               <seg type="lucas">Q(ui)a.</seg>
+               <orig>Q͘a.</orig>
+               <reg>Quia.</reg>
+         </choice> 
+         
+         <choice>
 		       <seg type="lucas">reg(na)</seg>
 		       <orig>reg̈</orig>
 		       <reg>regna</reg>

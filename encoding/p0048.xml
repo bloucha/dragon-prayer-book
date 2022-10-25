@@ -17,12 +17,12 @@
 	     </choice> a ligno 
 	<choice>
 		       <seg type="lucas">all(eluja).</seg>
-		       <orig>all:</orig>
+		       <orig>all͘:</orig>
 		       <reg>alleluja.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Or(?)o.</seg>
-	             <orig>O⋮o.</orig>
+	             <orig>Or̄o.</orig>
 		       <reg>Or?o.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -38,7 +38,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>p</orig> <!-- is there a bar under this p that needs to be marked? -->
+		       <orig>ꝓ</orig> <!-- is there a bar under this p that needs to be marked? -->
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -108,23 +108,19 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gr(ati)a(m)</seg>
-	             <orig>gra⋮</orig>
+	             <orig>gl͘a⋮</orig>
 		       <reg>gratiam</reg>
 	     </choice> 
+
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">seq(ua)</seg>
-		       <orig>seq̈</orig>
-		       <reg>sequa</reg>
+		       <seg type="lucas">(con)seq(ua)</seg>
+		       <orig>ɔseq̈</orig>
+		       <reg>consequa</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">m(ur).</seg>
-		       <orig>m˸.</orig>
+		       <orig>m݃.</orig>
 		       <reg>mur.</reg>
 	     </choice> 
 	     <choice>
@@ -214,7 +210,7 @@
 	     </choice> quo vivi⸗ 
 	<choice>
 		       <seg type="lucas">Or(?)o.</seg>
-	             <orig>O⋮o.</orig>
+	             <orig>Or̄o.</orig>
 		       <reg>Or?o.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -225,7 +221,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">movem(ur)</seg>
-		       <orig>movem˸</orig>
+		       <orig>movem݃</orig>
 		       <reg>movemur</reg>
 	     </choice> 
 	     <choice>
@@ -255,14 +251,9 @@
 		       <reg>tribue</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">grue(n)⸗</seg>
-	             <orig>gruē⸗</orig>
-		       <reg>gruen⸗</reg>
+		       <seg type="lucas">(con)grue(n)⸗</seg>
+	             <orig>ɔgruē⸗</orig>
+		       <reg>congruen⸗</reg>
 	     </choice>
    </ab>
 

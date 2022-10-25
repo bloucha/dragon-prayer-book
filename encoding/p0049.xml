@@ -39,7 +39,7 @@
             <gap reason="damage"/> 
             <choice>
                   <seg type="lucas">p(ite)rna</seg>
-                  <orig>p̄rna</orig>
+                  <orig>pr̄na</orig>
                   <reg>piterna</reg>
             </choice>
             <lb/>
@@ -61,7 +61,7 @@
             <lb/>
             <choice>
                   <seg type="lucas">um(?)b</seg>
-                  <orig>umb</orig>
+                  <orig>um̄b</orig>
                   <reg>um?b<!--  check expansion --></reg>
             </choice> 
             <!-- not sure about this abbreviation -->
@@ -116,7 +116,7 @@
             <lb/>ut 
             <choice>
                   <seg type="lucas">q(ue)</seg>
-                  <orig>q</orig>
+                  <orig>q̇</orig>
                   <reg>que</reg>
             </choice> iuste 
             <choice>
@@ -147,13 +147,13 @@
             </choice> tua 
             <choice>
                   <seg type="lucas">p(re)ue</seg>
-                  <orig>ꝑue</orig>
+                  <orig>p̄ue</orig>
                   <reg>preue</reg>
             </choice>
             <lb break="no"/>
             <choice>
                   <seg type="lucas">nie(n)te</seg>
-                  <orig>niete</orig>
+                  <orig>niēte</orig>
                   <reg>niente</reg>
             </choice> 
             <choice>
@@ -177,14 +177,10 @@
                   <reg>christi.</reg>
             </choice> 
             <lb/>VEni creator 
-            <choice>
-                  <seg type="lucas">(h)</seg>
-                  <orig/>
-                  <reg>h</reg>
-            </choice>
+
             <choice>
                   <seg type="lucas">y(m)n(us).</seg>
-                  <orig>ynꝰ.</orig>
+                  <orig>ȳpnꝰ.</orig>
                   <reg>ymnus.</reg>
             </choice>
             <!-- i'm not sure if this transcription is right, y looks like a p -->
@@ -200,8 +196,8 @@
                   <reg>mentes</reg>
             </choice> 
             <choice>
-                  <seg type="lucas">tuor(um)</seg>
-                  <orig>tuorꝝ</orig>
+                  <seg type="lucas">tuo(rum)</seg>
+                  <orig>tuoꝝ</orig>
                   <reg>tuorum</reg>
                   <!-- by intuition, i think the r should not be on the transcription-->
             </choice> vi
@@ -229,7 +225,7 @@
             <lb/>creasti pertora. 
             <choice>
                   <seg type="lucas">Q(uae)</seg>
-                  <orig>Q</orig>
+                  <orig>Qⁱ</orig>
                   <reg>Quae</reg>
             </choice> 
             <choice>

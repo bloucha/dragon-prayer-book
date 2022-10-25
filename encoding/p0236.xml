@@ -183,9 +183,9 @@
 		       <reg>m? <!--  check expansion --></reg>
 	    </choice> 
       <choice>
-		       <seg type="lucas">a(?)</seg>
+		       <seg type="lucas">a(lleluia)</seg>
 		       <orig>ä</orig>
-		       <reg>a?</reg>
+		       <reg>alleluia</reg>
 	     </choice> Sus
 <lb break="no"/>cepit 
 	<choice>
@@ -236,6 +236,14 @@
 
    <ab type="translation"
        xml:id="p0236_translation"
-       corresp="#p0236_transcription"/>
+       corresp="#p0236_transcription">and there is no one that hath regard to my soul. 
+         I cried to thee, O Lord: I said: Thou art my hope, my portion in the land of the living. 
+         Attend to my supplication: for I am brought very low. Deliver me from my persecutors; for they are stronger than I. 
+         Bring my soul out of prison, that I may praise thy name: the just wait for me, until thou reward me. [M]. <!-- needs checking --> Alleulia. 
+   Let the Lord be my portion in the land of the living. <!-- drb psalm 141, after alleluia has added words, needs checking -->
+         At midday. [Song] Suscepit. [Mode]. vii." God hath received
+         Israel His servant, as He spoke unto
+         Abraham and his seed, and hath
+         exalted the humble for ever. <!-- the magnificat (OBDS 178) and my translation, needs checking --> </ab>
 
 </div>

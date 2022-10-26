@@ -17,7 +17,7 @@
             </choice>
             <choice>
                     <seg type="lucas">egror(um)</seg>
-                    <orig>egror⋮</orig>
+                    <orig>egroꝝ</orig>
                     <reg>egrorum</reg>
             </choice>
             <lb/>
@@ -58,7 +58,6 @@
                     <reg>moribus.</reg>
             </choice> 
             <choice>
-                  <!-- cannot identify an abbreviation -->
                     <seg type="lucas">Im(ple Pater).</seg>
                     <orig>Im.</orig>
                     <reg>Imple Pater.</reg>
@@ -67,10 +66,9 @@
             <choice>
                     <seg type="lucas">Gl(ori)a (Patri).</seg>
                     <orig>Gl͘a.</orig>
-                    <reg>Gloria Patri.</reg> <!--there is no symbol/abbreviation marker for the Patri, it is just there-->
+                    <reg>Gloria Patri.</reg> 
             </choice>
             <choice>
-                  <!-- cannot identify an abbreviation -->
                     <seg type="lucas">im(ple Pater).</seg>
                     <orig>im.</orig>
                     <reg>imple Pater.</reg>
@@ -82,18 +80,18 @@
             </choice> Ora 
             <choice>
                     <seg type="lucas">p(ro)</seg>
-                    <orig>ꝑ</orig>
+                    <orig>ꝓ</orig>
                     <reg>pro</reg>
             </choice> 
             <choice>
                     <seg type="lucas">n(obis).</seg>
                     <orig>n.</orig>
-                    <reg>nobis.</reg> <!--no marker for this one either-->
+                    <reg>nobis.</reg>
             </choice> Ad 
             <choice>
                     <seg type="lucas">l(?).</seg>
                     <orig>l͘.</orig>
-                    <reg>l?.<!--  check expansion --></reg>
+                    <reg>l?.<!--  check expansion, nothing in transcription --></reg>
             </choice>
             <lb/>
             <choice>
@@ -144,14 +142,8 @@
             </choice>
             <lb/>Quasi stella. 
             <choice>
-                  <!-- do not see in transcription -->
-                    <seg type="lucas">(h)</seg>
-                    <orig/>
-                    <reg>h</reg>
-            </choice>
-            <choice>
                     <seg type="lucas">y(mnus).</seg>
-                    <orig>ȳpꝰ.</orig>
+                    <orig>hȳpꝰ.</orig>
                     <reg>ymnus.</reg>
             </choice>
             <lb/>
@@ -163,7 +155,7 @@
             <lb break="no"/>e dulci 
             <choice>
                     <seg type="lucas">p(ro)ductu(m)</seg>
-                    <orig>ꝑductū</orig>
+                    <orig>ꝓductū</orig>
                     <reg>productum</reg>
             </choice>
             <choice>
@@ -179,7 +171,7 @@
             <lb/>
             <choice>
                     <seg type="lucas">dep(ro)mat</seg>
-                    <orig>deꝑmat</orig>
+                    <orig>deꝓmat</orig>
                     <reg>depromat</reg>
             </choice> hodie 
             <choice>

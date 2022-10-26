@@ -34,7 +34,7 @@
 	     <choice>
 		       <seg type="lucas">din(?)</seg>
 		       <orig>din̄e</orig>
-		       <reg>din?</reg>
+		       <reg>din?</reg> <!-- check expansion, translation unhelpful -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">peste(m)</seg>
@@ -42,12 +42,9 @@
 		       <reg>pestem</reg>
 	     </choice> fugat 
 	<choice>
-		       <seg type="lucas">he(re?)tica(m)
-	</seg>
-		       <orig>ḣeticā
-	</orig>
-		       <reg>hereticam?
-	<!--  check expansion --></reg>
+		       <seg type="lucas">he(re?)tica(m)</seg>
+		       <orig>ḣeticā</orig>
+		       <reg>hereticam?</reg> <!-- check expansion, transcription unhelpful -->
 	     </choice> 
 
       <lb/>
@@ -75,7 +72,7 @@
 	     <choice>
 		       <seg type="lucas">fo(?)s</seg>
 		       <orig>fōs</orig>
-		       <reg>fo?s<!--  check expansion --></reg>
+		       <reg>fo?s<!--  check expansion, translation unhelpful --></reg>
 	     </choice> 
  ille 
 	<choice>
@@ -155,7 +152,7 @@
 	     <choice>
 		       <seg type="lucas">g(e)m(??)vabit</seg>
 		       <orig>ġmīabit</orig>
-		       <reg>gen??vabit<!-- check expansion --></reg>
+		       <reg>gen??vabit<!-- check expansion, transcription unhelpful --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sic(ut)</seg>
@@ -224,13 +221,13 @@
 	<choice>
 		       <seg type="lucas">I(?).</seg>
 		       <orig>Ï.</orig>
-		       <reg>I?.<!--  check expansion --></reg>
+		       <reg>I?.<!--  check expansion, translation unhelpful --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia?.<!--  check expansion, transcription unhelpful --></reg>
 	     </choice> 
  
 	     <choice>

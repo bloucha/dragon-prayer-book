@@ -43,19 +43,19 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eo).</seg>
-		       <orig>D͘.</orig>
+		       <orig>Ḋ.</orig>
 		       <reg>Deo.</reg>
 	     </choice> De 
 	<choice>
 		       <seg type="lucas">co(?)i</seg>
 		       <orig>cōi</orig>
-		       <reg>co?i<!--  check expansion --></reg>
+		       <reg>co?i<!--  check expansion, translation unhelpful --></reg>
 	     </choice> 
  a
 <lb break="no"/>EStote fortes                        
 	<choice>
 		       <seg type="lucas">p(u)lor(um).</seg>
-		       <orig>pl͘or⋮.</orig>
+		       <orig>pl͘oꝝ.</orig>
 		       <reg>pulorum.</reg>
 	     </choice>
       <lb/>
@@ -130,7 +130,7 @@
 	     </choice> estis cives 
 	<choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōr⋮</orig>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice>
       <lb/>
@@ -142,7 +142,7 @@
 	<choice>
 		       <seg type="lucas">s(upe)redificati</seg>
 		       <orig>sr̄edificati</orig>
-		       <reg>superedificati<!--  check expansion --></reg>
+		       <reg>superedificati</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -157,7 +157,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ap(osto)lor(um)</seg>
-		       <orig>apl͘or⋮</orig>
+		       <orig>apl͘oꝝ</orig>
 		       <reg>apostolorum</reg>
 	     </choice> 
 	     <choice>
@@ -167,13 +167,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)ph(et)a</seg>
-		       <orig>ꝑpḣa</orig>
+		       <orig>ꝓpḣa</orig>
 		       <reg>propheta</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um)</seg>
-		       <orig>r⋮</orig>
+		       <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> 
 	     <choice>
@@ -203,9 +203,8 @@
 		       <reg>ihesu.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> Vos estis lux
 <lb/>
@@ -221,7 +220,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -231,8 +230,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">paci(enti)a</seg>
-		       <orig>pacīa</orig>
-		       <reg>pacientia<!--  check expansion --></reg>
+		       <orig>patīa</orig>
+		       <reg>patientia</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -257,15 +256,11 @@
 		       <reg>Versiculus.</reg>
 	     </choice> Et ego dispono 
 	<choice>
-		       <seg type="lucas">vob(is)
-<!-- why are there 16s here -->
-16</seg>
-		       <orig>voḃ
-16</orig>
-		       <reg>vobis
-16</reg>
+		       <seg type="lucas">vob(is)</seg>
+		       <orig>voḃ</orig>
+		       <reg>vobis</reg>
 	     </choice>
-      <lb/>Slon Im Stoportnl:??
+      <lb/>Slon Im Stoportnl:?? <!-- check transcription here -->
 
 
 </ab>

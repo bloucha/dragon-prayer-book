@@ -44,12 +44,13 @@
                     <seg type="lucas">a(?).</seg>
                     <orig>ä.</orig>
                     <reg>a?.<!--  check expansion --></reg>
-            </choice> Hoc <lb/>† 
+            </choice> Hoc <lb/><supplied>
             <choice>
                     <seg type="lucas">e(st)†</seg>
-                    <orig>ē†</orig>
-                    <reg>est†</reg>
+                    <orig>ē</orig>
+                    <reg>est</reg>
             </choice>
+            </supplied>
             <choice>
                     <seg type="lucas">p(re)ceptu(m)</seg>
                     <orig>p̄ceptū</orig>
@@ -113,7 +114,7 @@
             </choice>
             <choice>
                     <seg type="lucas">p(ro)</seg>
-                    <orig>ꝑ</orig>
+                    <orig>ꝓ</orig>
                     <reg>pro</reg>
             </choice> amicis su <lb break="no"/>is. 
             <choice>
@@ -224,16 +225,9 @@
                     <reg>Iam.</reg>
             </choice>
             <choice>
-                  <!-- do not see in transcription -->
-                    <seg type="lucas">(h)</seg>
-                    <orig/>
-                    <reg>h</reg>
-            </choice>
-            <choice>
-                  <!-- check transcription -->
                     <seg type="lucas">y(mnus).</seg>
-                    <orig>yp̄ꝰ.</orig>
-                    <reg>ymnus.</reg>
+                    <orig>hyp̄ꝰ.</orig>
+                    <reg>hymnus.</reg>
             </choice>
             <lb/>ETerna 
             <choice>
@@ -248,7 +242,7 @@
             </choice> a <lb break="no"/>
             <choice>
                     <seg type="lucas">p(u)lor(um)</seg>
-                    <orig>pl͘or⋮</orig>
+                    <orig>pl͘oꝝ</orig>
                     <reg>pulorum</reg>
             </choice>
             <choice>

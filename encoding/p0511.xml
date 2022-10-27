@@ -50,7 +50,7 @@
 	     <choice>
 		       <seg type="lucas">me(n)sa(m)?</seg>
 		       <orig>mēsā</orig>
-		       <reg>mensam?</reg>
+		       <reg>mensam? <!-- check expansion, no help in translation --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mea(m)</seg>
@@ -64,13 +64,13 @@
 	     </choice> regno meo. 
 	<choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice>
       <lb/>EXultet 
 	     <choice>
 		       <seg type="lucas">y(mnus).</seg>
-		       <orig>ȳpꝰ.</orig>
+		       <orig>hȳpꝰ.</orig>
 		       <reg>ymnus.</reg>
 	     </choice> 
 	     <choice>
@@ -113,8 +113,8 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">cami(?)t?</seg>
-		       <orig>camīt?</orig>
-		       <reg>cami?t?<!--  check expansion --></reg>
+		       <orig>canūt</orig>
+		       <reg>canunt<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>

@@ -9,12 +9,13 @@
        xml:id="p0521_transcription"
        corresp="#p0521_translation">
 
-      <lb/>†
+      <lb/><supplied>
 	<choice>
 		       <seg type="lucas">m(ate)r†</seg>
-		       <orig>mr†</orig>
-		       <reg>mater†</reg>
-	     </choice> 
+		       <orig>mr̄</orig>
+		       <reg>mater</reg>
+	     </choice>
+      </supplied>
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
 		       <orig>q̇</orig>
@@ -22,12 +23,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>.p</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ)i</seg>
-		       <orig>rp̄i</orig>
+		       <orig>xp̄i</orig>
 		       <reg>christi</reg>
 	     </choice> 
 	     <choice>
@@ -70,13 +71,13 @@
 	     <choice>
 		       <seg type="lucas">dig(?)ta</seg>
 		       <orig>diġta</orig>
-		       <reg>dig?ta<!--  check expansion --></reg>
+		       <reg>dignita</reg>
 	     </choice> 
-      <lb break="no"/>tis [g/g]
+      <lb break="no"/>tis 
 	<choice>
 		       <seg type="lucas">l(ori)a(m)</seg>
-		       <orig>l͘a⋮</orig>
-		       <reg>loriam</reg>
+		       <orig>gl͘a⋮</orig>
+		       <reg>gloriam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ue)sivit</seg>
@@ -128,13 +129,13 @@
 	<choice>
 		       <seg type="lucas">dig(ni?).</seg>
 		       <orig>diġ.</orig>
-		       <reg>digni?.<!--  check expansion --></reg>
+		       <reg>digni?.<!--  check expansion, MT unhelpful --></reg>
 	     </choice> 
  Ad 
 	<choice>
 		       <seg type="lucas">l(?).</seg>
 		       <orig>l͘.</orig>
-		       <reg>l?.<!--  check expansion --></reg>
+		       <reg>l?.<!--  check expansion, MT unhelpful --></reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -144,47 +145,34 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig>
+		       <orig>Qi</orig>
 		       <reg>Qui</reg>
 	     </choice> [
 	<choice>
 		       <seg type="lucas">seq(ui)t(ur)]</seg>
-		       <orig>seq̇ṫ̇]</orig>
+		       <orig>seq̇t݃ ]</orig>
 		       <reg>sequitur]</reg>
 	     </choice> me 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fess(us)</seg>
-		       <orig>fessɔ</orig>
-		       <reg>fessus</reg>
+		       <orig>ɔfessꝰ</orig>
+		       <reg>confessus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">f(er)uit</seg>
 		       <orig>fu̇it</orig>
-		       <reg>feruit</reg>
+		       <reg>fueruit</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">cora(m)</seg>
 		       <orig>corā</orig>
 		       <reg>coram</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">ho(?)
-	</seg>
-		       <orig>ho
-	</orig>
-		       <reg>ho?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">ib(us)</seg>
-		       <orig>ib⋮</orig>
-		       <reg>ibus</reg>
+		       <orig>hōib⋮</orig>
+		       <reg>homnibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)fitebor</seg>
@@ -193,7 +181,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> ego
 <lb/>
@@ -225,7 +213,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">q(ui)t(ur)</seg>
-		       <orig>q̇t͘͘</orig>
+		       <orig>q̇t݃ </orig>
 		       <reg>quitur</reg>
 	     </choice> me 
 	<choice>
@@ -257,7 +245,7 @@
 	     <choice>
 		       <seg type="lucas">he(?)bit</seg>
 		       <orig>hēbit</orig>
-		       <reg>he?bit<!--  check expansion --></reg>
+		       <reg>habebit</reg>
 	     </choice> 
  
 	     <choice>
@@ -274,7 +262,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia?.<!--  check expansion, MT unhelpful --></reg>
 	     </choice> 
  Si 
 	<choice>
@@ -286,11 +274,11 @@
 		       <seg type="lucas">m(ihi)</seg>
 		       <orig>ṁ</orig>
 		       <reg>mihi</reg>
-	     </choice> ??(?)
+	     </choice> 
 	<choice>
 		       <seg type="lucas">strav(er)it</seg>
-		       <orig>strav̇it</orig>
-		       <reg>straverit</reg>
+		       <orig>mīstrav̇it</orig>
+		       <reg>ministraverit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ho(no)</seg>
@@ -337,12 +325,12 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia?.<!--  check expansion, MT unhelpful --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -353,17 +341,17 @@
 	     <choice>
 		       <seg type="lucas">mi(?)s</seg>
 		       <orig>mīs</orig>
-		       <reg>mi?s<!--  check expansion --></reg>
+		       <reg>minis</reg>
 	     </choice> 
       <lb break="no"/>trat me 
 	<choice>
 		       <seg type="lucas">seq(ua)t(ur)</seg>
-		       <orig>seq̄t</orig>
+		       <orig>seq̈t</orig>
 		       <reg>sequatur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> ubi ego 
 	<choice>

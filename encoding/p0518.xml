@@ -43,7 +43,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(tu)s</seg>
-		       <orig>scs</orig>
+		       <orig>sc̄s</orig>
 		       <reg>sanctus</reg>
 	     </choice> 
 	     <choice>
@@ -64,7 +64,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
-		       <orig>dṡ</orig>
+		       <orig>ḋs</orig>
 		       <reg>deus</reg>
 	     </choice> 
 	     <choice>
@@ -79,7 +79,7 @@
 	     </choice> erat 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -94,7 +94,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -116,7 +116,7 @@
 	<choice>
 		       <seg type="lucas">m(agna?).</seg>
 		       <orig>m̈.</orig>
-		       <reg>magna?.<!--  check expansion --></reg>
+		       <reg>magna?.<!--  check expansion, MT empty --></reg>
 	     </choice> 
  
 	     <choice>
@@ -126,7 +126,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -137,14 +137,13 @@
       <lb/>CIbabit il⸗        Ad 
 	<choice>
 		       <seg type="lucas">(sexta) </seg>
-		       <orig>üj </orig>
-	      <!--Abbreviation needs to be discussed  -->
+		       <orig>v̈i </orig>
 		       <reg>sexta </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cap(ite?).</seg>
 		       <orig>cap̄.</orig>
-		       <reg>capite?.<!--  check expansion --></reg>
+		       <reg>capite?.<!--  check expansion, MT unhelpful --></reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -164,7 +163,7 @@
 	     </choice> vite 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -180,7 +179,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -223,7 +222,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -254,17 +253,17 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)tell(e)c(tu)s:</seg>
-		       <orig>ītellcs:</orig>
+		       <orig>ītellc̄s:</orig>
 		       <reg>intellectus:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> stola 
 	<choice>
@@ -302,8 +301,7 @@
       <lb/>hec 
 	<choice>
 		       <seg type="lucas">(christ)e</seg>
-		       <orig>rp̄e</orig>
-	      <!-- Abbreviation needs to be discussed -->
+		       <orig>xp̄e</orig>
 		       <reg>christe</reg>
 	     </choice> 
 	     <choice>
@@ -324,18 +322,18 @@
 <lb/>ita 
 	<choice>
 		       <seg type="lucas">gl(or)ificas</seg>
-		       <orig>glificās</orig>
+		       <orig>gl͘ificas</orig>
 		       <reg>glorificas</reg>
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">ecia(?)</seg>
-		       <orig>eciā</orig>
-		       <reg>ecia?</reg>
+		       <orig>etiā</orig>
+		       <reg>etiam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dig(?)ta</seg>
 		       <orig>diġta</orig>
-		       <reg>dig?ta<!--  check expansion --></reg>
+		       <reg>dignita<!--  check expansion --></reg>
 	     </choice> 
       <lb break="no"/>tis 
 	<choice>
@@ -350,13 +348,13 @@
 	     </choice> eis 
 	<choice>
 		       <seg type="lucas">fut(ur)e</seg>
-		       <orig>fut͘e</orig>
+		       <orig>fut݃e</orig>
 		       <reg>future</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(?)ire</seg>
 		       <orig>p̄ire</orig>
-		       <reg>p?ire<!--  check expansion --></reg>
+		       <reg>praire</reg>
 	     </choice> 
  mira⸗
 

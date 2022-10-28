@@ -24,7 +24,7 @@
 	     <choice>
 		       <seg type="lucas">duodec(?)i</seg>
 		       <orig>duodecī</orig>
-		       <reg>duodec?i<!--  check expansion --></reg>
+		       <reg>duodecim</reg>
 	     </choice> 
  
 	     <choice>
@@ -42,7 +42,7 @@
 		       <orig>dn̄s.</orig>
 		       <reg>dominus.</reg>
 	     </choice>
-      <lb/>Ad. (tertia?). 
+      <lb/>Ad. (tertia?). <!-- check expansion -->
 	<choice>
 		       <seg type="lucas">cap(ite).</seg>
 		       <orig>cap̄.</orig>
@@ -54,15 +54,14 @@
 		       <reg>Iam.</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> In 
 	<choice>
 		       <seg type="lucas">oem(?)</seg>
 		       <orig>oēm</orig>
-		       <reg>oem?<!--  check expansion --></reg>
+		       <reg>omnem</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -77,7 +76,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
 	     <choice>
@@ -108,7 +107,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> Exi.
 <lb/>
@@ -135,7 +134,7 @@
 	     </choice>                                
 	     <choice>
 		       <seg type="lucas">(septima).</seg>
-		       <orig>.</orig>
+		       <orig>v̈i.</orig>
 		       <reg>septima.</reg>
 	     </choice> 
 	     <choice>
@@ -151,7 +150,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ap(u)lor(um):</seg>
-		       <orig>apl͘or⋮:</orig>
+		       <orig>apl͘oꝝ:</orig>
 		       <reg>apulorum:</reg>
 	     </choice> 
 	     <choice>
@@ -162,7 +161,7 @@
 	     <choice>
 		       <seg type="lucas">sig(la?)</seg>
 		       <orig>sig̈</orig>
-		       <reg>sigla?<!--  check expansion --></reg>
+		       <reg>signa</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -172,7 +171,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)digia</seg>
-		       <orig>ꝑdigia</orig>
+		       <orig>ꝓdigia</orig>
 		       <reg>prodigia</reg>
 	     </choice> 
 	     <choice>
@@ -186,9 +185,8 @@
 		       <reg>in</reg>
 	     </choice> plebe. 
 	<choice>
-	    <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice>
       <lb/>
@@ -207,19 +205,11 @@
 		       <orig>Sr̄</orig>
 		       <reg>Super</reg>
 	     </choice>
-      <lb/>
-	     <choice>
-		       <seg type="lucas">o(?)
-	</seg>
-		       <orig>o
-	</orig>
-		       <reg>o?
-	<!--  check expansion --></reg>
-	     </choice> 
+      <lb/> 
       <choice>
 		       <seg type="lucas">e(m)</seg>
-		       <orig>ē⋮</orig>
-		       <reg>em</reg>
+		       <orig>oē⋮</orig>
+		       <reg>omnem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)ra(m).</seg>
@@ -239,7 +229,7 @@
 	     <choice>
 		       <seg type="lucas">er(un?)t</seg>
 		       <orig>er̄t</orig>
-		       <reg>erun?t<!--  check expansion --></reg>
+		       <reg>erunt</reg>
 	     </choice> 
  
 	     <choice>
@@ -287,7 +277,7 @@
 	<choice>
 		       <seg type="lucas">ca(ntate?).</seg>
 		       <orig>cā.</orig>
-		       <reg>cantate?.<!--  check expansion --></reg>
+		       <reg>cantate?.<!--  check expansion, MT empty --></reg>
 	     </choice> 
  mis.
 <lb/>
@@ -296,15 +286,10 @@
 		       <orig>udētes</orig>
 		       <reg>udentes</reg>
 	     </choice> a 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spc̄u</orig>
-		       <reg>spectu</reg>
+		       <orig>ɔspc̄u</orig>
+		       <reg>conspectu</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)silii</seg>
@@ -329,7 +314,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>

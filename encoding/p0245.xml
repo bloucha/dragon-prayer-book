@@ -178,9 +178,9 @@
 		       <reg>Deo</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">n(?)ro.</seg>
+		       <seg type="lucas">n(ost)ro.</seg>
 		       <orig>nr̄o.</orig>
-		       <reg>n?ro.<!--  check expansion --></reg>
+		       <reg>nostro.</reg>
 	     </choice> 
  viii.
 <lb/>
@@ -224,6 +224,11 @@
 
    <ab type="translation"
        xml:id="p0245_translation"
-       corresp="#p0245_transcription"/>
+       corresp="#p0245_transcription">who giveth food to the hungry. The Lord looseth them that are fettered: 
+         The Lord enlighteneth the blind. The Lord lifteth up them that are cast down: the Lord loveth the just. 
+         The Lord keepeth the strangers, he will support the fatherless and the widow: and the ways of sinners he will destroy. 
+         The Lord shall reign for ever: thy God, O Sion, unto generation and generation. Alleluia. In my life I will praise my God. <!-- drb psalm 145. -->
+   [Song] Deo nostro. [Mode] viii. 
+   Praise ye the Lord, because psalm is good: to our God be joyful and comely praise. <!-- drb psalm 146 cont --> </ab>
 
 </div>

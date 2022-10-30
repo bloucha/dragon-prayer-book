@@ -38,7 +38,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fite(n)tiu(m)</seg>
-		       <orig>ɔfitetiu</orig>
+		       <orig>ɔfitētiū</orig>
 		       <reg>confitentium</reg>
 	     </choice> 
 	     <choice>
@@ -102,8 +102,8 @@
 		       <reg>hgem</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">e(n)heit</seg>
-		       <orig>xpeheit</orig>
+		       <seg type="lucas">xpe(n)heit</seg> <!-- check -->
+		       <orig>x̄peheit</orig>
 		       <reg>christenheit</reg>
 	     </choice>
       <lb/>
@@ -125,7 +125,7 @@
 	     </choice> nos 
 	<choice>
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝓpt</orig>
+		       <orig>ꝓpṫ</orig>
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>
@@ -146,7 +146,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>Ḋs</orig>
+		       <orig>D͘s</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>

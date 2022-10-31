@@ -47,16 +47,16 @@
 		       <reg>seculum.</reg>
 	     </choice> K. 
 	<choice>
-		       <seg type="lucas">Sa(?)pstag</seg>
+		       <seg type="lucas">Sa(m)pstag</seg>
 		       <orig>Sāpstag</orig>
-		       <reg>Sa?pstag<!--  check expansion --></reg>
+		       <reg>Sampstag<!--  check expansion --></reg>
 	     </choice> 
   
       <lb/>
 	     <choice>
-		       <seg type="lucas">v(ersu)s.</seg>
+		       <seg type="lucas">v(e)s(pers).</seg>
 		       <orig>v̈s.</orig>
-		       <reg>versus.</reg>
+		       <reg>vespers.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
@@ -319,6 +319,14 @@
 
    <ab type="translation"
        xml:id="p0237_translation"
-       corresp="#p0237_transcription"/>
+       corresp="#p0237_transcription">as He spoke unto
+         Abraham and his seed, and hath
+         exalted the humble for ever. <!-- OBDS, my translation / needs checking --> [Lord have mercy, Christ have mercy, Lord have mercy.] 
+         Saturday vespers. [Incline unto my] aid, O God. [O God, make haste to help me.]
+         [Song] Benedictus. [Mode] vi. 
+         Blessed be the Lord my God, who teacheth my hands to fight, and my fingers to war. 
+         My mercy, and my refuge: my support, and my deliverer: My protector, and I have hoped in him: who subdueth my people under me. 
+         Lord, what is man, that thou art made known to him? or the son of man, that thou makest account of him? 
+         Man is like to vanity: his days pass away like a shadow. <!-- DRB psalm 143 cont --> </ab>
 
 </div>

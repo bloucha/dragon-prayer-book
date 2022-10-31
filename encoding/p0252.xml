@@ -206,9 +206,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">adiu(n)t.</seg>
+		       <seg type="lucas">adiutorium.</seg>
 		       <orig>adiut̄.</orig>
-		       <reg>adiunt.</reg>
+		       <reg>adiutorium.</reg>
 	     </choice>
       <lb/>Cum 
 	<choice>
@@ -245,6 +245,21 @@
 
    <ab type="translation"
        xml:id="p0252_translation"
-       corresp="#p0252_transcription"/>
+       corresp="#p0252_transcription">thought, word, deed and omission,
+         through my fault: I beseech you to pray for me.
+         May almighty God have mercy upon you
+         and forgive you all your sins; may He free you from
+         all evil, strengthen and confirm you in every good
+         work, and bring you to life everlasting. Amen. <!-- DM pg 617, ordinary of the mass -->
+         Convert us, O
+         God, our Saviour.
+         And turn away
+         Thy wrath from us. 
+         [Incline unto my]
+         aid, O God.
+         [O Lord, make
+         haste to help me.] <!--OBDS 202 --> [Song] Miserere. [Mode] viii;
+         When I called upon him, the God of my justice heard me: when I was in distress, thou hast enlarged me. <!-- drb psalm 4 cont -->
+   </ab>
 
 </div>

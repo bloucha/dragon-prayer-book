@@ -12,12 +12,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">t(em)p(er)e.</seg>
-		       <orig>tpe.</orig>
+		       <orig>tꝑe.</orig>
 		       <reg>tempere.</reg>
 	     </choice> Sit laus 
 	<choice>
 		       <seg type="lucas">p(at)ri</seg>
-		       <orig>pṙi</orig>
+		       <orig>pr̄i</orig>
 		       <reg>patri</reg>
 	     </choice> 
 	     <choice>
@@ -33,7 +33,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">si(mu)l</seg>
-		       <orig>sil'</orig>
+		       <orig>sil͘</orig>
 		       <reg>simul</reg>
 	     </choice> 
 	     <choice>
@@ -54,7 +54,7 @@
 	     </choice> carisma 
 	<choice>
 		       <seg type="lucas">s(an)cti</seg>
-		       <orig>scṫi</orig>
+		       <orig>sc̄ti</orig>
 		       <reg>sancti</reg>
 	     </choice>
       <lb/>
@@ -72,7 +72,7 @@
 		       <seg type="lucas">d(er)</seg>
 		       <orig>ḋ</orig>
 		       <reg>der</reg>
-	     </choice> aschmit
+	     </choice> aschmit <!-- is there a diacritic on the h -->
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">woche(n)</seg>
@@ -102,12 +102,12 @@
 	     </choice> dy vij. 
 	<choice>
 		       <seg type="lucas">ps(alm).</seg>
-		       <orig>ps.</orig>
+		       <orig>p̈s.</orig>
 		       <reg>psalm.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">An(tiphon).</seg>
-		       <orig>An.</orig>
+		       <orig>An̈.</orig>
 		       <reg>Antiphon.</reg>
 	     </choice> Ne re
 <lb break="no"/>
@@ -128,7 +128,7 @@
 	     </choice>  
 	     <choice>
 		       <seg type="lucas">(Christe eleison)</seg>
-		       <orig/>
+		       <orig>C</orig> <!-- check  -->
 		       <reg>Christe eleison</reg>
 	     </choice> . 
 	<choice>
@@ -149,12 +149,12 @@
 	     </choice> Et ne. 
 	<choice>
 		       <seg type="lucas">V(espers)</seg>
-		       <orig>̇V</orig>
+		       <orig>V̇</orig>
 		       <reg>Vespers</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Salvo(s)</seg>
-		       <orig>Salvȯ</orig>
+		       <orig>Salvoˢ</orig>
 		       <reg>Salvos</reg>
 	           <!-- abbreviation next to o look like an s, no unicode for it -->
 	     </choice> fac
@@ -172,17 +172,17 @@
 <lb break="no"/>as. 
 	<choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>Ḋs</orig>
+		       <orig>D͘s</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(eu)s</seg>
-		       <orig>ṁs</orig>
+		       <orig>m̄s</orig>
 		       <reg>meus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(er)a(n)tes</seg>
-		       <orig>spātes</orig>
+		       <orig>sꝑātes</orig>
 		       <reg>sperantes</reg>
 	     </choice> 
 	     <choice>
@@ -193,7 +193,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">V(espers).</seg>
-		       <orig>̇V.</orig>
+		       <orig>V̇.</orig>
 		       <reg>Vespers.</reg>
 	     </choice> Mitte ei 
 	<choice>
@@ -214,7 +214,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)o.</seg>
-		       <orig>scō.</orig>
+		       <orig>sc̄o.</orig>
 		       <reg>sancto.</reg>
 	     </choice> Et de 
 	<choice>
@@ -229,7 +229,7 @@
 	     </choice> eos. 
 	<choice>
 		       <seg type="lucas">V(espers)</seg>
-		       <orig>̇V</orig>
+		       <orig>V̇</orig>
 		       <reg>Vespers</reg>
 	     </choice>
       <lb/>Esto eis 
@@ -240,7 +240,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ur)ris</seg>
-		       <orig>ṫris</orig>
+		       <orig>t݃ris</orig>
 		       <reg>turris</reg>
 	     </choice> fortitu
 <lb break="no"/>
@@ -257,7 +257,7 @@
 	     <choice>
 		       <seg type="lucas">i(ni)mici.</seg>
 		       <orig>imici.</orig>
-		       <reg>inimici.</reg>
+		       <reg>inimici.</reg> <!-- do not see a diacritic -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)ne</seg>

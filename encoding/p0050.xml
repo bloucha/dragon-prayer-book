@@ -57,7 +57,7 @@
 <lb/>rite 
 	<choice>
 		       <seg type="lucas">p(ro)misso</seg>
-		       <orig>ꝑmisso</orig>
+		       <orig>ꝓmisso</orig>
 		       <reg>promisso</reg>
 	     </choice> 
 	     <choice>
@@ -136,7 +136,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)peti.</seg>
-		       <orig>ꝑpeti.</orig>
+		       <orig>ꝑpetī.</orig>
 		       <reg>perpeti.</reg>
 	     </choice>
       <lb/>
@@ -158,7 +158,7 @@
 	     </choice> dones 
 	<choice>
 		       <seg type="lucas">p(ro)tin(us)</seg>
-		       <orig>ꝑtinꝰ</orig>
+		       <orig>ꝓtinꝰ</orig>
 		       <reg>protinus</reg>
 	     </choice> duc
 <lb break="no"/>tore sic te 

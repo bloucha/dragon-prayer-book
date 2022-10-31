@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> nos brati. N
 <lb/>
@@ -55,7 +55,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pici(us)</seg>
-		       <orig>ꝑpiciꝰ</orig>
+		       <orig>ꝓpiciꝰ</orig>
 		       <reg>propicius</reg>
 	     </choice> ut 
 	<choice>
@@ -82,7 +82,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)tect(i)o(n)e</seg>
-		       <orig>ꝑtectōe</orig>
+		       <orig>ꝓtectōe</orig>
 		       <reg>protectione</reg>
 	     </choice> 
 	     <choice>
@@ -110,7 +110,7 @@
 	     <choice>
 		       <seg type="lucas">Or(ati?)o.</seg>
 		       <orig>Or̄o.</orig>
-		       <reg>Orati?o.<!--  check expansion --></reg>
+		       <reg>Oratio.</reg>
 	     </choice> 
       <lb/>DA 
 	<choice>
@@ -159,7 +159,7 @@
 		       <seg type="lucas">sole(m)nia</seg>
 		       <orig>solēnia</orig>
 		       <reg>solemnia</reg>
-	     </choice> col??
+	     </choice> col?? <!-- need help from translation -->
 	<choice>
 		       <seg type="lucas">(us);</seg>
 		       <orig>ꝰ;</orig>

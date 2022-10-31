@@ -12,21 +12,13 @@
       <lb/>illic erit 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">mi(?)
-	</seg>
-		       <orig>mī
-	</orig>
-		       <reg>mi?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">st(er)</seg>
-		       <orig>st͘</orig>
-		       <reg>ster</reg>
+		       <orig>mīst͘</orig>
+		       <reg>minister</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(eu)s.</seg>
@@ -36,13 +28,13 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia?.<!--  check expansion, MT unhelpful --></reg>
 	     </choice> 
  Vo
 <lb break="no"/>lo 
 	<choice>
 		       <seg type="lucas">p(ate)r</seg>
-		       <orig>ꝑ̄r</orig>
+		       <orig>pr̄</orig>
 		       <reg>pater</reg>
 	     </choice> ut ubi ego 
 	<choice>
@@ -53,21 +45,13 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">mi(?)
-	</seg>
-		       <orig>mī
-	</orig>
-		       <reg>mi?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">st(er)</seg>
-		       <orig>st͘</orig>
-		       <reg>ster</reg>
+		       <orig>mīst͘</orig>
+		       <reg>minister</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(eu)s.</seg>
@@ -85,16 +69,9 @@
 		       <reg>Beatus.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-	    	<orig>ȳpꝰ</orig>
-	     	<!--Abbreviation needs to be discussed  -->
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
-		       <orig>yn.</orig>
-	     	<!-- Abbreviation needs to be discussed -->
-		       <reg>ymnus.</reg>
+		       <orig>yp̄nꝰ.</orig>
+		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>MArtir dei 
 	<choice>
@@ -173,19 +150,14 @@
 	     </choice> dilue 
 	<choice>
 		       <seg type="lucas">arre(n)s?</seg>
-		       <orig>arrēs?</orig>
-		       <reg>arrens?</reg>
+		       <orig>arcēs</orig>
+		       <reg>arcens</reg>
 	     </choice>
-      <lb/>mali 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+      <lb/>mali
 	     <choice>
 		       <seg type="lucas">tagiu(m)</seg>
-		       <orig>tagiū</orig>
-		       <reg>tagium</reg>
+		       <orig>ɔtagiū</orig>
+		       <reg>contagium</reg>
 	     </choice> vite 
 	<choice>
 		       <seg type="lucas">remone(n)s</seg>
@@ -228,11 +200,11 @@
 	     <choice>
 		       <seg type="lucas">vi(n)c(u?)lis</seg>
 		       <orig>vīclis</orig>
-		       <reg>vincu?lis</reg>
+		       <reg>vinclis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(u)li</seg>
-		       <orig>scli</orig>
+		       <orig>scl͘i</orig>
 		       <reg>seculi</reg>
 	     </choice> amore filii dei.
 <lb/>Deo 
@@ -264,7 +236,7 @@
 	     </choice> n. 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

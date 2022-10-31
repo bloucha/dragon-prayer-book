@@ -9,16 +9,20 @@
        xml:id="p0524_transcription"
        corresp="#p0524_translation">
 
-      <lb/>PRo iusti⸗ Ad (nonum?) 
+      <lb/>PRo iusti⸗ Ad 
+         <choice>
+               <orig>iẍ </orig>
+               <reg>novem? <!-- check expansion --></reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">cap(ut?).</seg>
 		       <orig>cap̄.</orig>
 		       <reg>caput?.<!--  check expansion --></reg>
 	     </choice> 
-      <lb/>cia ago??mare 
+      <lb/>tia agonizare 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -45,18 +49,17 @@
 	     <choice>
 		       <seg type="lucas">c(ir?)ta</seg>
 		       <orig>ċta</orig>
-		       <reg>cir?ta<!--  check expansion --></reg>
+		       <reg>certa</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> iusticia. 
 	<choice>
-	      <!-- undefined -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -104,7 +107,7 @@
 	     <choice>
 		       <seg type="lucas">i(?)pones</seg>
 		       <orig>īpones</orig>
-		       <reg>i?pones<!--  check expansion --></reg>
+		       <reg>impones</reg>
 	     </choice> 
  
 	     <choice>
@@ -117,7 +120,7 @@
 		       <seg type="lucas">eu(m).</seg>
 		       <orig>eū.</orig>
 		       <reg>eum.</reg>
-	     </choice> m?. 
+	     </choice> in <!-- check transcription -->. 
 	<choice>
 		       <seg type="lucas">Gl(ori)a.</seg>
 		       <orig>Gl͘a.</orig>
@@ -171,15 +174,10 @@
 		       <orig>Creḋ.</orig>
 		       <reg>Credis?.<!--  check expansion --></reg>
 	     </choice> 
- In 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+ In
 	     <choice>
 		       <seg type="lucas">v(er)te(m).</seg>
-		       <orig>v̇tē.</orig>
+		       <orig>ɔv̇tē.</orig>
 		       <reg>vertem.</reg>
 	     </choice> Ad 
 	<choice>
@@ -200,12 +198,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> lege dei sui morti
 <lb/>se 
@@ -217,26 +215,18 @@
 	     <choice>
 		       <seg type="lucas">no(n?)</seg>
 		       <orig>nō</orig>
-		       <reg>non?</reg>
+		       <reg>non</reg>
 	     </choice> dubitavit
 <lb/>mori ab 
 	<choice>
 		       <seg type="lucas">i(n)iq(ui)s</seg>
 		       <orig>īiq͘s</orig>
 		       <reg>iniquis</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">t(?)t(?)
-	</seg>
-		       <orig>tt
-	</orig>
-		       <reg>t?t?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">f(a)c(tu)s</seg>
-		       <orig>fc̄s</orig>
-		       <reg>factus</reg>
+		       <orig>īṫfc̄s</orig>
+		       <reg>interfectus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
@@ -299,7 +289,7 @@
 	     <choice>
 		       <seg type="lucas">Appolli(?)aris</seg>
 		       <orig>Appollīaris</orig>
-		       <reg>Appolli?aris<!--  check expansion --></reg>
+		       <reg>Appollinaris</reg>
 	     </choice> 
  
 	     <choice>
@@ -308,15 +298,9 @@
 		       <reg>Stephani</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">or(ati?)o.
-
-</seg>
-		       <orig>or̄o.
-
-</orig>
-		       <reg>orati?o.
-
-<!--  check expansion --></reg>
+		       <seg type="lucas">or(ati?)o.</seg>
+		       <orig>or̄o.</orig>
+		       <reg>oratio.</reg>
 	     </choice> 
    </ab>
 

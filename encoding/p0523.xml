@@ -18,13 +18,13 @@
 	     <choice>
 		       <seg type="lucas">b(?).</seg>
 		       <orig>ḃ.</orig>
-		       <reg>b?.<!--  check expansion --></reg>
+		       <reg>b?.<!--  check expansion, MT unhelpful --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">a(?).</seg>
 		       <orig>ä.</orig>
-		       <reg>a?.<!--  check expansion --></reg>
+		       <reg>a?.<!--  check expansion, MT unhelpful --></reg>
 	     </choice> 
  Qui
 <lb/>vult 
@@ -37,16 +37,16 @@
 		       <seg type="lucas">p(ost)</seg>
 		       <orig>pꝰ</orig>
 		       <reg>post</reg>
-	     </choice> me abneget
+	     </choice> me abneget semet
 <lb/>
 	     <choice>
 		       <seg type="lucas">semetip(sum?)</seg>
-		       <orig>semetip̄⋮</orig>
-		       <reg>semetipsum?</reg>
-	     </choice> 
+		       <orig>ip̄⋮</orig>
+		       <reg>ipsum</reg>
+         </choice>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> tollat 
 	<choice>
@@ -62,7 +62,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -96,7 +96,7 @@
  
 	     <choice>
 		       <seg type="lucas">R(esponsorium)</seg>
-		       <orig>ℜ</orig>
+		       <orig>℞</orig>
 		       <reg>Responsorium</reg>
 	     </choice> 
 	     <choice>
@@ -106,12 +106,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ho(no)re.</seg>
-		       <orig>h̄ore.</orig>
+		       <orig>hōre.</orig>
 		       <reg>honore.</reg>
 	     </choice> 
 	     <choice>
@@ -164,7 +164,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuar(um).</seg>
-		       <orig>tuar;.</orig>
+		       <orig>tuaꝝ;.</orig>
 		       <reg>tuarum.</reg>
 	     </choice> Co.
 <lb/>
@@ -182,7 +182,7 @@
 		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
 		       <reg>Versiculus</reg>
-	     </choice> Pos. Ad. (sexta?).
+	     </choice> Pos. Ad. (sexta?)<!-- check transcription -->.
 <lb/>CUstodivit 
 	<choice>
 		       <seg type="lucas">illu(m)</seg>
@@ -207,7 +207,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> a
 <lb/>
@@ -221,19 +221,11 @@
 		       <orig>eū:</orig>
 		       <reg>eum:</reg>
 	     </choice> et
-<lb/>
-	     <choice>
-		       <seg type="lucas">c(ir?)
-	</seg>
-		       <orig>ċ
-	</orig>
-		       <reg>cir?
-	<!--  check expansion --></reg>
-	     </choice> 
+<lb/> 
       <choice>
 		       <seg type="lucas">tame(n)</seg>
-		       <orig>tamē</orig>
-		       <reg>tamen</reg>
+		       <orig>ċtamē</orig>
+		       <reg>certamen</reg>
 	     </choice> forte dedit illi ut 
 	<choice>
 		       <seg type="lucas">vi(n)</seg>
@@ -248,19 +240,19 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>ℜ.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> Posuisti 
 	<choice>
 		       <seg type="lucas">d(omi)ne.</seg>
 		       <orig>dn̄e.</orig>
 		       <reg>domine.</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">S(upe)r</seg>
 		       <orig>Sr̄</orig>
 		       <reg>Super</reg>
-	     </choice> ca⸗†
+	</choice> ca⸗</supplied>
 <lb/>put 
 	<choice>
 		       <seg type="lucas">ei(us)</seg>
@@ -271,18 +263,18 @@
 		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
 		       <reg>Versiculus</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">Corona(?)</seg>
 		       <orig>Coronā</orig>
-		       <reg>Corona?</reg>
+		       <reg>Coronam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eo)</seg>
 		       <orig>ḋ</orig>
 		       <reg>deo</reg>
-	     </choice> lapi⸗†
-<lb/>de †
+	     </choice> lapi⸗ </supplied>
+	           <lb/>de <supplied>
 	<choice>
 		       <seg type="lucas">p(re)t(i)oso.</seg>
 		       <orig>p̄tōso.</orig>
@@ -305,9 +297,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">M(a)g(na).†</seg>
-		       <orig>Mg.†</orig>
-		       <reg>Magna.†</reg>
-	     </choice>
+		       <orig>Mg̈.</orig>
+		       <reg>Magna.</reg>
+	     </choice> </supplied>
    </ab>
 
    <ab type="translation"

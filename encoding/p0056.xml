@@ -42,7 +42,7 @@
 		       <reg>machinam</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">claustr(um)</seg>
+		       <seg type="lucas">claust(rum)</seg>
 		       <orig>claustꝝ</orig>
 		       <reg>claustrum</reg>
 	     </choice>
@@ -86,7 +86,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gesta(n)t</seg>
-		       <orig>gestat</orig>
+		       <orig>gestāt</orig>
 		       <reg>gestant</reg>
 	     </choice>
       <lb/>puelle 
@@ -133,7 +133,7 @@
 	     </choice> pugillo
 	     <choice>
 		       <seg type="lucas">tine(n)s</seg>
-		       <orig>ɔtines</orig>
+		       <orig>ɔtinēs</orig>
 		       <reg>continens</reg>
 	     </choice> 
 	     <choice>
@@ -250,12 +250,12 @@
 <lb break="no"/>cipe. 
 	<choice>
 		       <seg type="lucas">Gl(ori)a</seg>
-		       <orig>Gl̇a</orig>
+		       <orig>Gl͘a</orig>
 		       <reg>Gloria</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>ṫ</orig>
+		       <orig>t̄</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>

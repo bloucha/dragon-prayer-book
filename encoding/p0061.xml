@@ -66,7 +66,7 @@
 	     </choice> ut 
 	     <choice>
 		       <seg type="lucas">placea(n)t</seg>
-		       <orig>ɔplaceat</orig>
+		       <orig>ɔplaceāt</orig>
 		       <reg>conplaceant</reg>
 	     </choice> 
 	     <choice>
@@ -93,7 +93,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>ɔspcu</orig>
+		       <orig>ɔspcū</orig>
 		       <reg>conspectu</reg>
 	     </choice> tuo 
 	<choice>
@@ -171,7 +171,7 @@
 		       <reg>bis</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">t(er)rar(um)</seg>
+		       <seg type="lucas">t(er)ra(rum)</seg>
 		       <orig>ṫraꝝ</orig>
 		       <reg>terrarum</reg>
 	     </choice> 
@@ -203,7 +203,7 @@
 	     </choice> eo. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q̇a</orig>
+		       <orig>Q͘a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -260,7 +260,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)s</seg>
-		       <orig>Q̇s</orig>
+		       <orig>Q͘s</orig>
 		       <reg>Quis</reg>
 	     </choice> 
 	     <choice>

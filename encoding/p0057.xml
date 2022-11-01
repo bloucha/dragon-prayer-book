@@ -37,7 +37,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(irit)u</seg>
-		       <orig>sp̄u</orig>
+		       <orig>spū</orig>
 		       <reg>spiritu</reg>
 	     </choice>
       <lb/>
@@ -79,7 +79,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig> <!-- quam -->
+		       <orig>ɋ̈</orig> <!-- quam -->
 		       <reg>quam</reg>
 	     </choice> ad
 <lb/>mirabile 
@@ -164,7 +164,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pt(er)</seg>
-		       <orig>ꝓpt</orig>
+		       <orig>ꝓpṫ</orig>
 		       <reg>propter</reg>
 	     </choice> 
 	     <choice>
@@ -202,12 +202,12 @@
 	     </choice> di
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">gitor(um)</seg>
+		       <seg type="lucas">gito(rum)</seg>
 		       <orig>gitoꝝ</orig>
 		       <reg>gitorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">tuor(um):</seg>
+		       <seg type="lucas">tuo(rum):</seg>
 		       <orig>tuoꝝ:</orig>
 		       <reg>tuorum:</reg>
 	     </choice> 
@@ -234,7 +234,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig>Q̇d</orig>
+		       <orig>Q͘d</orig>
 		       <reg>Quid</reg>
 	     </choice> 
 	     <choice>
@@ -250,7 +250,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(uod)</seg>
-		       <orig>ȹ</orig>
+		       <orig>ɋ</orig>
 		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
@@ -280,8 +280,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">q(uo)ni(am)</seg>
-		       <orig>qn̄i</orig>
+		       <seg type="lucas">q(uo)(nia)m</seg>
+		       <orig>qm̄</orig>
 		       <reg>quoniam</reg>
 	     </choice> visitas 
 	<choice>

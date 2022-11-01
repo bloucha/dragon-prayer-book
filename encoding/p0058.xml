@@ -79,7 +79,7 @@
 		       <reg>nuum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">tuar(um).</seg>
+		       <seg type="lucas">tua(rum).</seg>
 		       <orig>tuaꝝ.</orig>
 		       <reg>tuarum.</reg>
 	     </choice> 
@@ -149,7 +149,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)a(m)bu</seg>
-		       <orig>ꝑabu</orig>
+		       <orig>ꝑābu</orig>
 		       <reg>perambu</reg>
 	     </choice>
       <lb break="no"/>
@@ -164,7 +164,7 @@
 		       <reg>semitas</reg>
 	     </choice> 
          <choice>
-               <orig>mȧis</orig>
+               <orig>māis</orig>
                <reg>maris</reg>
          </choice>. 
 	<choice>
@@ -185,7 +185,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig> <!-- quam -->
+		       <orig>ɋ̈</orig> <!-- quam -->
 		       <reg>quam</reg>
 	     </choice> admirabile 
 	<choice>
@@ -222,7 +222,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gl(ori)a(m)</seg>
-		       <orig>gl͘a</orig>
+		       <orig>gl͘a⋮</orig>
 		       <reg>gloriam</reg>
 	     </choice> 
 	     <choice>
@@ -270,7 +270,7 @@
 <lb/>diei eructat 
 	<choice>
 		       <seg type="lucas">v(er)bu(m):</seg>
-		       <orig>v̇bu:</orig>
+		       <orig>v̇bū:</orig>
 		       <reg>verbum:</reg>
 	     </choice> 
 	     <choice>

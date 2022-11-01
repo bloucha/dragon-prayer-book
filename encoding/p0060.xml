@@ -49,7 +49,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">r(ec)te</seg>
-		       <orig>rt̄e</orig>
+		       <orig>rt̄e</orig> <!-- looks like rce -->
 		       <reg>recte</reg>
 	     </choice> 
 	     <choice>
@@ -159,13 +159,13 @@
 		       <reg>super</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">aur(um)</seg>
+		       <seg type="lucas">au(rum)</seg>
 		       <orig>auꝝ</orig>
 		       <reg>aurum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>= </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -228,7 +228,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">custodie(n)di(s)</seg>
-		       <orig>custodiēdis</orig>
+		       <orig>custodiēdiˢ</orig>
 		       <reg>custodiendis</reg>
 	     </choice>
       <lb/>
@@ -249,7 +249,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Del(i)c(t)a</seg>
-		       <orig>Delcā</orig>
+		       <orig>Delc̄a</orig>
 		       <reg>Delicta</reg>
 	     </choice>
       <lb/>

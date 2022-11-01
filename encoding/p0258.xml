@@ -177,7 +177,7 @@
 		       <seg type="lucas">t(er)ra(m).</seg>
 	             <orig>ṫrā.</orig>
 		       <reg>terram.</reg>
-	     </choice> ??(??)
+	     </choice> ??(??) <!-- !! -->
 <lb/>
 	     <choice>
 		       <seg type="lucas">misere(re)</seg>
@@ -315,6 +315,13 @@
 
    <ab type="translation"
        xml:id="p0258_translation"
-       corresp="#p0258_transcription"/>
+       corresp="#p0258_transcription">I will fill him with length of days; and I will shew him my salvation. <!-- psalm 90 drb --> 
+   	Behold now bless ye the Lord, all ye servants of the Lord: Who stand in the house of the Lord, in the courts of the house of our God. 
+   	In the nights lift up your hands to the holy places, and bless ye the Lord. 
+   	May the Lord out of Sion bless thee, he that made heaven and earth. <!-- drb psalm 133 -->
+   	Have mercy on me, O Lord, and hear my prayer. <!-- psalm 4 drb -->
+   Little Chapter.
+   Thou, O Lord, art among us, and thy name is called upon by us, forsake us not. <!-- drb jeremiah 14 -->
+   	[Thanks be to] God. Into thy hands I commend my spirit:  <!-- drb psalm 30 cont --> </ab>
 
 </div>

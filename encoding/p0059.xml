@@ -53,7 +53,7 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">r(um)</seg>
+		       <seg type="lucas">(rum)</seg>
 		       <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> 
@@ -64,11 +64,11 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">audia(n)t(ur)</seg>
-		       <orig>audiat݃</orig>
+		       <orig>audiāt݃</orig>
 		       <reg>audiantur</reg>
 	     </choice> voces 
 	<choice>
-		       <seg type="lucas">eor(um).</seg>
+		       <seg type="lucas">eo(rum).</seg>
 		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice>
@@ -90,7 +90,7 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">eor(um):</seg>
+		       <seg type="lucas">eo(rum):</seg>
 		       <orig>eorꝝ:</orig>
 		       <reg>eorum:</reg>
 	     </choice> 
@@ -121,7 +121,7 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">eor(um).</seg>
+		       <seg type="lucas">eo(rum).</seg>
 		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> In sole posuit ta
@@ -148,7 +148,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ta(m)q(uam)</seg>
-		       <orig>tāq̈</orig> <!-- quam -->
+		       <orig>tāɋ̈</orig> <!-- quam -->
 		       <reg>tamquam</reg>
 	     </choice>
       <lb/>
@@ -159,7 +159,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)cede(n)s</seg>
-		       <orig>ꝓcēdes</orig>
+		       <orig>ꝓcedēs</orig>
 		       <reg>procedens</reg>
 	     </choice> de 
 	<choice>
@@ -202,9 +202,10 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">s(us)</seg>
+		       <seg type="lucas">sus</seg>
 		       <orig>sus</orig>
 		       <reg>sus</reg>
+	           <!-- do not see a diacritic -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us)</seg>

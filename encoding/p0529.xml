@@ -56,14 +56,13 @@
 	<choice>
 		       <seg type="lucas">me(n?)s</seg>
 		       <orig>mēs</orig>
-		       <reg>men?s<!--  check expansion --></reg>
+		       <reg>mens<</reg>
 	     </choice> 
  
 	     <choice>
-	           <!-- double check, but this looks like an n to me -->
 		       <seg type="lucas">b(?)?</seg>
-		       <orig>bn̄?</orig>
-		       <reg>b??<!--  check expansion --></reg>
+		       <orig>bn̄</orig>
+		       <reg>bene</reg>
 	     </choice> 
  
 	     <choice>
@@ -84,14 +83,14 @@
 	     </choice> Que vox 
 	<choice>
 		       <seg type="lucas">q(ue)</seg>
-		       <orig>q</orig>
+		       <orig>q̄</orig>
 		       <reg>que</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">pot(?)it</seg>
 		       <orig>pot͘it</orig>
-		       <reg>pot?it<!--  check expansion --></reg>
+		       <reg>poterit</reg>
 	     </choice> 
  
 	     <choice>
@@ -129,11 +128,17 @@
 		       <seg type="lucas">p(re)p(er)as</seg>
 		       <orig>p̄ꝑas</orig>
 		       <reg>preperas</reg>
-	     </choice> rub 
+	     </choice>
+         <supplied>
+         <choice>
+               <orig>ruḃ</orig>
+               <reg>rubri</reg>
+         </choice>
+         </supplied>
 	<choice>
 		       <seg type="lucas">na(?)</seg>
 		       <orig>nā</orig>
-		       <reg>na?</reg>
+		       <reg>nam</reg>
 	     </choice> flui
 <lb break="no"/>do 
 	<choice>
@@ -146,7 +151,12 @@
 		       <orig>ditat݃</orig>
 		       <reg>ditatur</reg>
 	     </choice> 
-         <!-- same word as above? -->b?
+         <supplied>
+               <choice>
+                     <orig>bn̄</orig>
+                     <reg>bene</reg>
+               </choice>
+         </supplied>
 <lb/>fulgidis. Te 
 	<choice>
 		       <seg type="lucas">su(m)ma</seg>
@@ -167,8 +177,8 @@
 <lb/>abluas noxia 
 	<choice>
 		       <seg type="lucas">s(u)bt(ur)[b]as</seg>
-		       <orig>sb͘ẗ[b]as</orig>
-		       <reg>subtur[b]as</reg>
+		       <orig>sb͘ẗbas</orig>
+		       <reg>subtrahas</reg>
 	     </choice> des
 <lb/>
 	     <choice>
@@ -221,7 +231,11 @@
 		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
 		       <reg>Versiculus.</reg>
-	     </choice> letam?(?)
+	     </choice> 
+         <choice>
+               <orig>letamī</orig>
+               <reg>letamin? <!-- check expansion --></reg>
+         </choice>
 <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -248,8 +262,11 @@
 		       <orig>gl͘a</orig>
 		       <reg>gloria</reg>
 	     </choice>
-         <!-- looks like mi with a macron on the i -->
-      <lb/>??(?) 
+        <choice>
+              <orig>mī</orig>
+              <reg>min? <!-- check expansion --></reg>
+        </choice>
+      <lb/>
 	<choice>
 		       <seg type="lucas">o(mne)s.</seg>
 		       <orig>ōs.</orig>
@@ -258,7 +275,7 @@
 	     <choice>
 		       <seg type="lucas">M(agna?)</seg>
 		       <orig>M̈</orig>
-		       <reg>Magna?</reg>
+		       <reg>Magna? <!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon).</seg>

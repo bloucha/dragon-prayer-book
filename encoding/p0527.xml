@@ -88,19 +88,11 @@
 		       <seg type="lucas">P(er).</seg>
 		       <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">P(u?)
-	</seg>
-		       <orig>P
-	</orig>
-		       <reg>Pu?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">limor(um)</seg>
-		       <orig>l͘imor⋮</orig>
-		       <reg>limorum</reg>
+		       <orig>Pu?l͘imoꝝ</orig>
+		       <reg>Pu?limorum <!-- check expansion --></reg>
 	     </choice>
       <lb/>Hii 
 	<choice>
@@ -110,7 +102,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> vene⸗        
 	<choice>
@@ -167,7 +159,11 @@
 		       <orig>Cap̄.</orig>
 		       <reg>Capite.</reg>
 	     </choice>
-      <lb/>S?(?)ti 
+      <lb/>
+         <choice>
+               <orig>Sct̄i</orig>
+               <reg>Sancti</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">p(er)fide(m)</seg>
 		       <orig>ꝑfidē</orig>
@@ -207,7 +203,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">rep(ro)missio(n)es:</seg>
-		       <orig>reꝑmissiōes:</orig>
+		       <orig>reꝓmissiōes:</orig>
 		       <reg>repromissiones:</reg>
 	     </choice> 
 	     <choice>
@@ -237,9 +233,8 @@
 		       <reg>nostro;</reg>
 	     </choice> 
 	     <choice>
-	           <!-- undefined -->
 		       <seg type="lucas">R(esponsorum).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorum.</reg>
 	     </choice> Lave
 <lb break="no"/>

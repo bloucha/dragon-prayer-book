@@ -9,11 +9,11 @@
        xml:id="p0526_transcription"
        corresp="#p0526_translation">
 
-      <lb/>licia col??
+      <lb/>licia 
 	<choice>
 		       <seg type="lucas">(us);</seg>
-		       <orig>ꝰ;</orig>
-		       <reg>us;</reg>
+		       <orig>colimꝰ;</orig>
+		       <reg>colimus;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)t(er)cessio(n)e</seg>
@@ -62,24 +62,16 @@
 		       <seg type="lucas">q(uesumu)s</seg>
 		       <orig>q̄s</orig>
 		       <reg>quesumus</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">om(ni?)
-	</seg>
-		       <orig>om̄
-	</orig>
-		       <reg>omni?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">p(oten)s</seg>
-		       <orig>ꝑs</orig>
-		       <reg>potens</reg>
+		       <orig>om̄ps</orig>
+		       <reg>omnipotens</reg>
 	     </choice> ne 
 	<choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -106,7 +98,7 @@
 	<choice>
 		       <seg type="lucas">na(a?)licia</seg>
 		       <orig>nälicia</orig>
-		       <reg>naa?licia<!--  check expansion --></reg>
+		       <reg>natalicia</reg>
 	     </choice> 
  
 	     <choice>
@@ -149,18 +141,18 @@
 	     <choice>
 		       <seg type="lucas">Vi(n)ce(n?)cy</seg>
 		       <orig>Vīcēcy</orig>
-		       <reg>Vincen?cy</reg>
+		       <reg>Vincen?cy <!-- check expansion --></reg>
 	     </choice> ruffi 
 	<choice>
 		       <seg type="lucas">q(?)u</seg>
 		       <orig>q͘u</orig>
-		       <reg>q?u<!--  check expansion --></reg>
+		       <reg>q?u<!--  check expansion, what is going on here  --></reg>
 	     </choice> 
       <lb break="no"/>tui. Crisogo?? 
 	<choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>ADesto 
 	<choice>
@@ -181,7 +173,7 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> ex 
 	<choice>
@@ -201,14 +193,9 @@
 		       <reg>esse</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">gnoscim(us);</seg>
-		       <orig>gnoscimꝰ;</orig>
-		       <reg>gnoscimus;</reg>
+		       <orig>ɔgnoscimꝰ;</orig>
+		       <reg>congnoscimus;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(ea)ti</seg>
@@ -234,15 +221,9 @@
 	     </choice> Agapiti.
 <lb/>leodegarii 
 	<choice>
-		       <seg type="lucas">or(ati?)o.
-
-</seg>
-		       <orig>or̄o.
-
-</orig>
-		       <reg>orati?o.
-
-<!--  check expansion --></reg>
+		       <seg type="lucas">or(ati?)o.</seg>
+		       <orig>or̄o.</orig>
+		       <reg>oratio.</reg>
 	     </choice> 
    </ab>
 

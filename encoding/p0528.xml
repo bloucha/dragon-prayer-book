@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -57,27 +57,21 @@
 		       <orig>Gl͘a.</orig>
 		       <reg>Gloria.</reg>
 	     </choice> In. 
-	<choice>
-	      <!-- check h -->
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
-		       <orig>ȳpnꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <orig>hȳpnꝰ.</orig>
+		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">SAnctor(um)</seg>
-		       <orig>SAnctor⋮</orig>
+		       <orig>SAnctoꝝ</orig>
 		       <reg>SAnctorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(?)itis</seg>
 		       <orig>ṁitis</orig>
-		       <reg>m?itis<!--  check expansion --></reg>
+		       <reg>meritis</reg>
 	     </choice> 
  
 	     <choice>
@@ -100,7 +94,7 @@
 	<choice>
 		       <seg type="lucas">na(m?)</seg>
 		       <orig>nā</orig>
-		       <reg>nam?</reg>
+		       <reg>nam</reg>
 	     </choice> gliscit 
 	<choice>
 		       <seg type="lucas">anim(us)</seg>
@@ -110,8 +104,8 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)me(re?)</seg>
-		       <orig>ꝑmė</orig>
-		       <reg>promere?</reg>
+		       <orig>ꝓmė</orig>
+		       <reg>promere</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ca(n)tib(us)</seg>
@@ -120,7 +114,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">victor(um)</seg>
-		       <orig>victor⋮</orig>
+		       <orig>victoꝝ</orig>
 		       <reg>victorum</reg>
 	     </choice> gemis
 <lb/>
@@ -148,7 +142,7 @@
 	     <choice>
 		       <seg type="lucas">i(?)horruit</seg>
 		       <orig>īhorruit</orig>
-		       <reg>i?horruit<!--  check expansion --></reg>
+		       <reg>inhorruit</reg>
 	     </choice> 
  
 	     <choice>
@@ -160,7 +154,7 @@
 	     <choice>
 		       <seg type="lucas">na(?)</seg>
 		       <orig>nā</orig>
-		       <reg>na?</reg>
+		       <reg>nam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">st(er)ili</seg>
@@ -172,11 +166,11 @@
 		       <orig>ꝑaridū</orig>
 		       <reg>pararidum</reg>
 	     </choice> spre
-<lb break="no"/>?
+<lb break="no"/>
 	<choice>
 		       <seg type="lucas">e(re?)</seg>
-		       <orig>ė</orig>
-		       <reg>ere?</reg>
+		       <orig>vė</orig>
+		       <reg>vere</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">penit(us)</seg>
@@ -206,7 +200,7 @@
 	     </choice> Hii 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> te
 <lb/>furias 
@@ -249,8 +243,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ung(u)la?</seg>
-		       <orig>ungl͘a?</orig>
-		       <reg>ungula?</reg>
+		       <orig>ungl͘a</orig>
+		       <reg>ungula</reg>
 	     </choice> nec
 
 

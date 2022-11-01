@@ -35,9 +35,10 @@
                   <reg>mundo</reg>
             </choice> corde; <choice>
                   <seg type="lucas">q(ui)</seg>
-                  <orig>q̈</orig>
+                  <orig>q̇</orig>
                   <reg>qui</reg>
             </choice>
+            <!-- pick up here -->
             <choice>
                   <seg type="lucas">n(on)</seg>
                   <orig>n̄</orig>

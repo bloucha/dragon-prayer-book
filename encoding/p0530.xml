@@ -17,17 +17,22 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>sc̄or⋮</orig>
+		       <orig>sc̄oꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
-	     </choice> (christ?) vestigia 
+	     </choice> 
+   	<choice>
+   		<orig>ẋ</orig>
+   		<reg>christ</reg>
+   	</choice>
+   	vestigia 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
-		       <orig>st͘</orig>
+		       <orig>sṫ</orig>
 		       <reg>sunt</reg>
 	     </choice> secu
 <lb break="no"/>ti 
@@ -37,14 +42,13 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	     	<!-- unsure of code -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -135,11 +139,11 @@
 		       <orig>cubilib⋮</orig>
 		       <reg>cubilibus</reg>
 	     </choice> suis. Ad
-+         6 
++          
 	<choice>
 		       <seg type="lucas">l(?)</seg>
 		       <orig>l͘</orig>
-		       <reg>l?</reg>
+		       <reg>l<!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon).</seg>
@@ -148,7 +152,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Iustor(um)</seg>
-		       <orig>Iustor⋮</orig>
+		       <orig>Iustoꝝ</orig>
 		       <reg>Iustorum</reg>
 	     </choice> 
 	     <choice>
@@ -166,7 +170,7 @@
 		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> ma⸗
-?l         7 nu dei 
+          nu dei 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
 		       <orig>st͘</orig>
@@ -187,7 +191,7 @@
 		       <orig>tāget</orig>
 		       <reg>tanget</reg>
 	     </choice> illos tor⸗
-mar        8 
+mar         
 	<choice>
 		       <seg type="lucas">me(n)tu(m)</seg>
 		       <orig>mētū</orig>
@@ -203,7 +207,7 @@ mar        8
 		       <orig>Cū</orig>
 		       <reg>Cum</reg>
 	     </choice> pal⸗
-?i?        9 ma ad 
+         ma ad 
 	<choice>
 		       <seg type="lucas">reg(na)</seg>
 		       <orig>reg̈</orig>
@@ -230,17 +234,18 @@ mar        8
 		       <seg type="lucas">ma(n)u</seg>
 		       <orig>māu</orig>
 		       <reg>manu</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
-		       <seg type="lucas">d(omi)ni†</seg>
-		       <orig>dn̄i†</orig>
-		       <reg>domini†</reg>
-	     </choice> 
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dn̄i</orig>
+		       <reg>domini</reg>
+	     </choice>
+	     </supplied>
 	     <choice>
 		       <seg type="lucas">an(tiphon).</seg>
 		       <orig>an̈.</orig>
 		       <reg>antiphon.</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">Corp(or)a</seg>
 		       <orig>Corꝑa</orig>
@@ -248,15 +253,15 @@ mar        8
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>sc̄or⋮</orig>
+		       <orig>sc̄oꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)†</seg>
-		       <orig>ī†</orig>
-		       <reg>in†</reg>
+		       <orig>ī</orig>
+		       <reg>in</reg>
 	     </choice>
-      <lb/>†pace sepulta 
+      <lb/>pace sepulta 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
 		       <orig>st̄</orig>
@@ -271,8 +276,8 @@ mar        8
 		       <seg type="lucas">vive(n)t</seg>
 		       <orig>vivēt</orig>
 		       <reg>vivent</reg>
-	     </choice> no⸗†
-<lb/>†
+	     </choice> no⸗
+<lb/>
 	<choice>
 		       <seg type="lucas">mi(sericordi)a</seg>
 		       <orig>mīa</orig>
@@ -280,25 +285,25 @@ mar        8
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)et(er)nu(m).†</seg>
-		       <orig>īet͘nū.†</orig>
-		       <reg>ineternum.†</reg>
+		       <orig>īet͘nū.</orig>
+		       <reg>ineternum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon)</seg>
 		       <orig>an̈</orig>
 		       <reg>antiphon</reg>
-	     </choice> †
+	     </choice> 
 	<choice>
 		       <seg type="lucas">M(at)res†</seg>
-		       <orig>Mr̈es†</orig>
-		       <reg>Matres†</reg>
+		       <orig>Mr̈es</orig>
+		       <reg>Matres</reg>
 	     </choice>
-      <lb/>†
+      <lb/>
 	<choice>
 		       <seg type="lucas">d(omi)ni</seg>
 		       <orig>dn̄i</orig>
@@ -316,15 +321,16 @@ mar        8
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)et(er)nu(m).†</seg>
-		       <orig>īet͘nū.†</orig>
-		       <reg>ineternum.†</reg>
+		       <orig>īet͘nū.</orig>
+		       <reg>ineternum.</reg>
 	     </choice> 
+	     </supplied>
 	     <choice>
 		       <seg type="lucas">an(tiphon).</seg>
 		       <orig>an̈.</orig>
 		       <reg>antiphon.</reg>
 	     </choice>
-      <lb/>†M??? 
+      <lb/><supplied>M???<!-- check translation for hints here -->
 	<choice>
 		       <seg type="lucas">chor(us)</seg>
 		       <orig>chorꝰ</orig>
@@ -332,9 +338,10 @@ mar        8
 	     </choice> laudate 
 	<choice>
 		       <seg type="lucas">d(omi)n(u)m†</seg>
-		       <orig>dn̄m†</orig>
-		       <reg>dominum†</reg>
+		       <orig>dn̄m</orig>
+		       <reg>dominum</reg>
 	     </choice>
+      </supplied>
    </ab>
 
    <ab type="translation"

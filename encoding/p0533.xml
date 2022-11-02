@@ -17,17 +17,17 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">labor(um)</seg>
-		       <orig>labor⋮</orig>
+		       <orig>laboꝝ</orig>
 		       <reg>laborum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)ctor(um)</seg>
-		       <orig>sct̄or⋮</orig>
+		       <orig>sct̄oꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">suor(um);</seg>
-		       <orig>suor⋮;</orig>
+		       <orig>suoꝝ;</orig>
 		       <reg>suorum;</reg>
 	     </choice> 
 	     <choice>
@@ -75,13 +75,12 @@
 	     </choice> luce 
 	<choice>
 		       <seg type="lucas">stellar(um)</seg>
-		       <orig>stellar⋮</orig>
+		       <orig>stellaꝝ</orig>
 		       <reg>stellarum</reg>
 	     </choice> nocte; 
 	<choice>
-		<!-- character not chosen -->
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -95,15 +94,10 @@
 		       <orig>tēt</orig>
 		       <reg>tent</reg>
 	     </choice> iusti. M 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spcū</orig>
-		       <reg>spectu</reg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
 	     </choice> dei. 
 	<choice>
 		       <seg type="lucas">V(ersiculus)</seg>
@@ -133,9 +127,8 @@
 		       <reg>Versiculus</reg>
 	     </choice> Iusti. Ad 
 	<choice>
-		<!-- ix with 0308 on the x? -->
 		       <seg type="lucas">(nonum) </seg>
-		       <orig> </orig>
+		       <orig>iẍ </orig>
 		       <reg>nonum </reg>
 	     </choice> 
 	     <choice>
@@ -146,7 +139,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">IUstor(um)</seg>
-		       <orig>IUstor⋮</orig>
+		       <orig>IUstoꝝ</orig>
 		       <reg>IUstorum</reg>
 	     </choice> 
 	     <choice>
@@ -166,7 +159,7 @@
 	     </choice> dei 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
-		       <orig>st͘</orig>
+		       <orig>sṫ</orig>
 		       <reg>sunt</reg>
 	     </choice> 
 	     <choice>
@@ -193,7 +186,7 @@
 <lb break="no"/>e; visi 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
-		       <orig>st͘</orig>
+		       <orig>sṫ</orig>
 		       <reg>sunt</reg>
 	     </choice> 
 	     <choice>
@@ -223,9 +216,8 @@
 		       <reg>in</reg>
 	     </choice> pace. 
 	<choice>
-		<!-- unicode character not assigned -->
 		       <seg type="lucas">R(esponsorium)</seg>
-		       <orig>R</orig>
+		       <orig>℞</orig>
 		       <reg>Responsorium</reg>
 	     </choice> Iusti
 <lb/>
@@ -268,12 +260,12 @@
 	     <choice>
 		       <seg type="lucas">m(?)ces</seg>
 		       <orig>ṁces</orig>
-		       <reg>m?ces<!--  check expansion --></reg>
+		       <reg>merces</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> Im.
 <lb/>

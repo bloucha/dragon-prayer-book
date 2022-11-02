@@ -10,15 +10,10 @@
        corresp="#p0531_translation">
 
       <lb/>in excelsis. 
-	<choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">y(m)nus.</seg>
-		       <orig>ȳnus.</orig>
-		       <reg>ymnus.</reg>
+		       <orig>yōnus.</orig>
+		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>ETerna 
 	<choice>
@@ -28,7 +23,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mun(er)a</seg>
-		       <orig>mun͘a</orig>
+		       <orig>muṅa</orig>
 		       <reg>munera</reg>
 	     </choice> 
 	     <choice>
@@ -40,7 +35,7 @@
 	     <choice>
 		       <seg type="lucas">m(at)r(?)m</seg>
 		       <orig>mr̈m</orig>
-		       <reg>matr?m</reg>
+		       <reg>matyrum</reg>
 	     </choice> victorias laudes ca
 <lb break="no"/>
 	     <choice>
@@ -76,15 +71,10 @@
 		       <reg>corporis</reg>
 	     </choice> mor
 <lb break="no"/>tis sacre 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">pe(n)dio</seg>
-		       <orig>pēdio</orig>
-		       <reg>pendio</reg>
+		       <orig>ɔpēdio</orig>
+		       <reg>conpendio</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vita(m)</seg>
@@ -111,7 +101,7 @@
 	     <choice>
 		       <seg type="lucas">ig(ni?)</seg>
 		       <orig>iġ</orig>
-		       <reg>igni?</reg>
+		       <reg>igni</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(at)res</seg>
@@ -126,7 +116,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">bestiar(um)</seg>
-		       <orig>bestiar⋮</orig>
+		       <orig>bestiaꝝ</orig>
 		       <reg>bestiarum</reg>
 	     </choice> 
 	     <choice>
@@ -222,7 +212,7 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">ip(s)or(um)</seg>
-		       <orig>ip̄or⋮</orig>
+		       <orig>ip̄oꝝ</orig>
 		       <reg>ipsorum</reg>
 	     </choice> 
 	     <choice>
@@ -231,15 +221,9 @@
 		       <reg>consorcio</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">in(?)gas
-
-</seg>
-		       <orig>in̄gas
-
-</orig>
-		       <reg>in?gas
-
-<!--  check expansion --></reg>
+		       <seg type="lucas">in(?)gas</seg>
+		       <orig>iūgas</orig>
+		       <reg>iungas</reg>
 	     </choice> 
    </ab>
 

@@ -10,15 +10,10 @@
        corresp="#p0534_translation">
 
       <lb/>In 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">v(er)te(n)do.</seg>
-		       <orig>v̇tēdo.</orig>
-		       <reg>vertendo.</reg>
+		       <orig>ɔv̇tēdo.</orig>
+		       <reg>convertendo.</reg>
 	     </choice> Eripe. 
 	<choice>
 		       <seg type="lucas">M(a)g(na).</seg>
@@ -34,26 +29,18 @@
 	     <choice>
 		       <seg type="lucas">Abst(ri?)get</seg>
 		       <orig>Abst͘get</orig>
-		       <reg>Abstri?get<!--  check expansion --></reg>
+		       <reg>Absterget</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
 		       <orig>ḋs</orig>
 		       <reg>deus</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">o(?)
-	</seg>
-		       <orig>o
-	</orig>
-		       <reg>o?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">e(m)</seg>
-		       <orig>ē⋮</orig>
-		       <reg>em</reg>
+		       <orig>oē⋮</orig>
+		       <reg>omnem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">lac(ri)ma(m)</seg>
@@ -68,7 +55,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōr⋮</orig>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
@@ -156,7 +143,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">coro(na)tor(um)</seg>
-		       <orig>corötor⋮</orig>
+		       <orig>corötoꝝ</orig>
 		       <reg>coronatorum</reg>
 	     </choice>
       <lb/>
@@ -183,12 +170,12 @@
 	     <choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>ut 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -206,21 +193,16 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> sua 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+	     </choice> sua
 	     <choice>
 		       <seg type="lucas">fessio(n)e</seg>
-		       <orig>fessiōe</orig>
-		       <reg>fessione</reg>
+		       <orig>ɔfessiōe</orig>
+		       <reg>confessione</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(co)gnovi(mus?)</seg>
 		       <orig>ɔgnovīꝰ</orig>
-		       <reg>cognovimus?</reg>
+		       <reg>cognovimus</reg>
 	     </choice> 
       <lb/>pios 
 	<choice>
@@ -301,18 +283,14 @@
 	<choice>
 		       <seg type="lucas">(con)ted(?)</seg>
 		       <orig>ɔteḋ</orig>
-		       <reg>conted?</reg>
+		       <reg>conted?re? <!-- check expansion --></reg>
 	     </choice> am 
 	<choice>
 		       <seg type="lucas">or(ati?)o.
 
 </seg>
-		       <orig>or̄o.
-
-</orig>
-		       <reg>orati?o.
-
-<!--  check expansion --></reg>
+		       <orig>or̄o.</orig>
+		       <reg>oratio.</reg>
 	     </choice> 
    </ab>
 

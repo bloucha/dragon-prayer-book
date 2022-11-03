@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)n(us)</seg>
-		       <orig>t͘nꝰ</orig>
+		       <orig>ṫnꝰ</orig>
 		       <reg>trinus</reg>
 	     </choice> 
 	     <choice>
@@ -102,12 +102,12 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vicior(um)</seg>
-		       <orig>vicior⋮</orig>
+		       <orig>vicioꝝ</orig>
 		       <reg>viciorum</reg>
 	     </choice> 
 	     <choice>
@@ -149,7 +149,7 @@
 	     </choice> te duce 
 	<choice>
 		       <seg type="lucas">et(er)na</seg>
-		       <orig>et͘na</orig>
+		       <orig>eṫna</orig>
 		       <reg>eterna</reg>
 	     </choice> 
 	     <choice>
@@ -158,15 +158,10 @@
 		       <reg>pre</reg>
 	     </choice>
       <lb break="no"/>mia 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">seq(ua)m(ur).</seg>
-		       <orig>seq̈m݃.</orig>
-		       <reg>sequamur.</reg>
+		       <orig>ɔseq̈m݃. </orig>
+		       <reg>consequamur.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(ersiculus)</seg>
@@ -175,7 +170,7 @@
 	     </choice> Ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -207,7 +202,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)nq(ue)</seg>
-		       <orig>q͘nq⋮</orig>
+		       <orig>q̇nq⋮</orig>
 		       <reg>quinque</reg>
 	     </choice>
       <lb/>
@@ -320,12 +315,13 @@
 		       <orig>servꝰ</orig>
 		       <reg>servus</reg>
 	     </choice> et
-<lb/>†
+<lb/><supplied>
 	<choice>
 		       <seg type="lucas">prude(n)s†</seg>
-		       <orig>prudēs†</orig>
-		       <reg>prudens†</reg>
-	     </choice> 
+		       <orig>prudēs</orig>
+		       <reg>prudens</reg>
+	     </choice>
+         </supplied>
 	     <choice>
 		       <seg type="lucas">que(m)</seg>
 		       <orig>quē</orig>

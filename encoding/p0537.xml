@@ -19,12 +19,13 @@
 		       <seg type="lucas">orbe(m)</seg>
 		       <orig>orbē</orig>
 		       <reg>orbem</reg>
-	     </choice> 
+	     </choice>hodie 
 	     <choice>
 		       <seg type="lucas">hodielet(us)</seg>
-		       <orig>hodieletꝰ</orig>
-		       <reg>hodieletus</reg>
-	     </choice> meruit se
+		       <orig>letꝰ</orig>
+		       <reg>letus</reg>
+	     </choice>
+         meruit se
 <lb break="no"/>creta 
 	<choice>
 		       <seg type="lucas">sca(n)de(re)</seg>
@@ -32,9 +33,8 @@
 		       <reg>scandere</reg>
 	     </choice> celi. 
 	<choice>
-	      <!-- uncoded -->
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig>
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -82,12 +82,12 @@
 	<choice>
 		       <seg type="lucas">du(m?)</seg>
 		       <orig>dū</orig>
-		       <reg>dum?</reg>
+		       <reg>dum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(e)n(itenti?)s</seg>
 		       <orig>pn̄s</orig>
-		       <reg>penitenti?s</reg>
+		       <reg>presens</reg>
 	     </choice>
       <lb/>vegetavit 
 	<choice>
@@ -103,7 +103,7 @@
 <lb/>Ad 
 	<choice>
 		       <seg type="lucas">sacr(um)</seg>
-		       <orig>sacr⋮</orig>
+		       <orig>sacꝝ</orig>
 		       <reg>sacrum</reg>
 	     </choice> 
 	     <choice>
@@ -113,8 +113,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tum(u?)l?</seg>
-		       <orig>tuml͘?</orig>
-		       <reg>tumu?l?<!--  check expansion --></reg>
+		       <orig>tuml͘m</orig>
+		       <reg>tumulum<!--  check expansion --></reg>
 	     </choice> 
  fre
 <lb break="no"/>
@@ -143,37 +143,28 @@
 		       <seg type="lucas">sa(n)itate</seg>
 		       <orig>sāitate</orig>
 		       <reg>sanitate</reg>
-	     </choice> quolibec morbo fu
+	     </choice> quo libet morbo fu
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">er(?)it</seg>
 		       <orig>er̄it</orig>
-		       <reg>er?it<!--  check expansion --></reg>
+		       <reg>erint</reg>
 	     </choice> 
  
 	     <choice>
-	           <!-- looks like gvata -->
 		       <seg type="lucas">g(ra)vaat</seg>
-		       <orig>g̈vaat</orig>
-		       <reg>gravaat</reg>
+		       <orig>g̈vata</orig>
+		       <reg>gravata</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">restituu(?)
-	</seg>
-		       <orig>restituū
-	</orig>
-		       <reg>restituu?
-	<!--  check expansion --></reg>
-	     </choice> 
-      <choice>
-		       <seg type="lucas">t(ur).</seg>
-		       <orig>t݃.</orig>
-		       <reg>tur.</reg>
-	     </choice> 
+		       <seg type="lucas">restituu(?)</seg>
+		       <orig>restituūt݃</orig>
+		       <reg>restituūntur</reg>
+	     </choice>  
 	     <choice>
 		       <seg type="lucas">Un(?)</seg>
 		       <orig>Un̄</orig>
-		       <reg>Un?<!--  check expansion --></reg>
+		       <reg>Unde</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -203,14 +194,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(m)nu(m)</seg>
 		       <orig>ȳpnū</orig>
-		       <reg>ymnum</reg>
+		       <reg>hymnum</reg>
 	     </choice> canit 
 	<choice>
 		       <seg type="lucas">hu(n)c</seg>
@@ -218,10 +204,9 @@
 		       <reg>hunc</reg>
 	     </choice> 
 	     <choice>
-	           <!-- possibly 0358 on the t -->
 		       <seg type="lucas">libe(n)t</seg>
-		       <orig>libēt</orig>
-		       <reg>libent</reg>
+		       <orig>libēṫ</orig>
+		       <reg>libenter</reg>
 	     </choice> ut
 <lb/>piis 
 	<choice>
@@ -232,7 +217,7 @@
 	     <choice>
 		       <seg type="lucas">m(er?)itis</seg>
 		       <orig>ṁitis</orig>
-		       <reg>mer?itis<!--  check expansion --></reg>
+		       <reg>meritis<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
@@ -269,7 +254,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>

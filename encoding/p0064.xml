@@ -69,7 +69,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)petuu(m).</seg>
-		       <orig>ꝑpetuu.</orig>
+		       <orig>ꝑpetuū.</orig>
 		       <reg>perpetuum.</reg>
 	     </choice> Tu 
 	<choice>
@@ -138,7 +138,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q̇a</orig>
+		       <orig>Q͘a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -217,7 +217,7 @@
       <lb/>tui. 
 	<choice>
 		       <seg type="lucas">Q(ui)a.</seg>
-		       <orig>Q̇a.</orig>
+		       <orig>Q͘a.</orig>
 		       <reg>Quia.</reg>
 	     </choice> iube 
 	<choice>
@@ -266,10 +266,12 @@
 	     </choice>
       <lb/>ria 
          <choice>
+               <seg type="lucas">pia(rum).</seg>
                <orig>piaꝝ</orig>
                <reg>pirarum</reg>
          </choice>
          <choice>
+               <seg type="lucas">pissi(m)a.</seg>
                <orig>pissīa</orig>
                <reg>pissima</reg>
          </choice>
@@ -290,8 +292,8 @@
 		       <reg>nobis</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">s(an)c(t)ar(um)</seg>
-		       <orig>scaꝝ</orig>
+		       <seg type="lucas">s(an)c(t)a(rum)</seg>
+		       <orig>sc̄aꝝ</orig>
 		       <reg>sanctarum</reg>
 	     </choice> 
 	     <choice>

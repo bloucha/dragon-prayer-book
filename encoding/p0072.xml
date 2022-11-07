@@ -13,7 +13,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>Ḋs</orig>
+		       <orig>D͘s</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -40,7 +40,7 @@
 	     </choice> mea : 
 	<choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig> <!-- old friend quam -->
+		       <orig>ɋ̈</orig> <!-- old friend quam -->
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
@@ -183,7 +183,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">no(m)i(n)e</seg>
-		       <orig>nōie</orig>
+		       <orig>noīe</orig>
 		       <reg>nomine</reg>
 	     </choice> tuo
 <lb/>levabo 

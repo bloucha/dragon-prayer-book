@@ -26,6 +26,7 @@
 		       <reg>nostra</reg>
 	     </choice> 
          <choice>
+               <seg type="lucas">sumat</seg>
                <orig>sūmat</orig>
                <reg>sumat</reg> <!-- this might be summat? check expansion -->
                      
@@ -139,18 +140,13 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>= </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">i(n)</seg>
-		       <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">et(er)nu(m)</seg>
-		       <orig>eṫnū</orig>
-		       <reg>eternum</reg>
+		       <seg type="lucas">i(n)et(er)nu(m)</seg>
+		       <orig>īeṫnū</orig>
+		       <reg>ineternum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)ma(n)es</seg>
@@ -223,7 +219,7 @@
 	     </choice> 
  
 	     <choice>
-		       <seg type="lucas">m(?).</seg>
+		       <seg type="lucas">m(?).<!-- check --></seg>
 		       <orig>iii.</orig>
 		       <reg>tertia.<!--  taken from translation --></reg>
 	     </choice> 
@@ -246,7 +242,7 @@
 <lb/>meruisti
 	     <choice>
 		       <seg type="lucas">cip(er)e</seg>
-		       <orig>ɔcipe</orig>
+		       <orig>ɔciꝑe</orig>
 		       <reg>concipere</reg>
 	     </choice> 
 	     <choice>
@@ -272,7 +268,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(re)he(n)de(re)</seg>
-		       <orig>ɔphede</orig>
+		       <orig>ɔp̄hēḋe</orig>
 		       <reg>comprehendere</reg>
 	     </choice> tuo
 

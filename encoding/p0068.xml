@@ -21,7 +21,7 @@
 		       <reg>tuum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ver(um)</seg>
+		       <seg type="lucas">ve(rum)</seg>
 		       <orig>veꝝ</orig>
 		       <reg>verum</reg>
 	     </choice> et
@@ -49,7 +49,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(er)aclitu(m)</seg>
-		       <orig>ꝓaclitū</orig>
+		       <orig>ꝑaclitū</orig>
 		       <reg>peraclitum</reg>
 	     </choice> 
 	     <choice>
@@ -86,28 +86,29 @@
 	     </choice> Tu ad 
 	<choice>
 		       <seg type="lucas">lib(er)andu(m)</seg>
-		       <orig>liḃandū</orig>
+		       <orig>liḃandu⋮</orig>
 		       <reg>liberandum</reg>
 	     </choice>
       <lb/>
          <choice>
-               <orig>suspectuꝰ</orig>
+               <seg type="lucas"></seg>
+               <orig>suscepturꝰ</orig>
                <reg>suspecterus</reg> <!-- struggling to figure out this section --> 
          </choice> <!-- crossed out --> susceptur
 
 	<choice>
 		       <seg type="lucas">nine(m):</seg>
 		       <orig>ninē:</orig>
-		       <reg>ninem:</reg>
+		       <reg>ninem:</reg> <!-- marginalia -->
 	     </choice> hor                    ^                ^
 <lb break="no"/>ruisti 
 	<choice>
 		       <seg type="lucas">v(ir)gi(ni)s</seg>
-		       <orig>v̇gis</orig>
+		       <orig>v̇gīs</orig>
 		       <reg>virginis</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">uter(um).</seg>
+		       <seg type="lucas">ute(rum).</seg>
 		       <orig>uteꝝ.</orig>
 		       <reg>uterum.</reg>
 	     </choice> Tu de
@@ -130,13 +131,13 @@
 	     </choice> celo
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">r(um).</seg>
+		       <seg type="lucas">(rum).</seg>
 		       <orig>ꝝ.</orig>
 		       <reg>rum.</reg>
 	     </choice>  Tu ad 
 	<choice>
 		       <seg type="lucas">dext(er)a(m)</seg>
-		       <orig>dexṫa</orig>
+		       <orig>dexṫa⋮</orig>
 		       <reg>dexteram</reg>
 	     </choice> dei se
 <lb break="no"/>des : 

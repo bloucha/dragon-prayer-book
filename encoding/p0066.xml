@@ -124,7 +124,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q̇a</orig>
+		       <orig>Q͘a</orig>
 		       <reg>Quia</reg>
 	     </choice>
       <lb/>ex te 
@@ -156,12 +156,12 @@
 	     </choice> Ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>p</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)lo</seg>
-		       <orig>ꝓplo</orig>
+		       <orig>ꝑpl͘o</orig>
 		       <reg>populo</reg>
 	     </choice> 
 	     <choice>
@@ -242,7 +242,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)a.</seg>
-		       <orig>Q̇a.</orig>
+		       <orig>Q͘a.</orig>
 		       <reg>Quia.</reg>
 	     </choice> 
 	     <choice>

@@ -33,7 +33,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>Ḋs</orig>
+		       <orig>D͘s</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -43,7 +43,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">adiu(n)t.</seg>
-		       <orig>adiūt.</orig>
+		       <orig>adiut̄.</orig>
 		       <reg>adiunt.</reg>
 	     </choice> 
 	     <choice>
@@ -137,15 +137,15 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">movebit(ur).</seg>
-		       <orig>ɔmovebit.</orig>
+		       <seg type="lucas">(com)movebit(ur).</seg>
+		       <orig>ɔmovebit݃.</orig>
 		       <reg>commovebitur.</reg>
 	     </choice> Para
-<lb break="no"/>ta sedes tua ex 
+<lb break="no"/>ta sedes tua  
 	<choice>
-		       <seg type="lucas">tu(n)c:</seg>
-		       <orig>tūc:</orig>
-		       <reg>tunc:</reg>
+		       <seg type="lucas">extu(n)c:</seg>
+		       <orig>extūc:</orig>
+		       <reg>extunc:</reg>
 	     </choice> a 
 	<choice>
 		       <seg type="lucas">s(e)c(u)lo</seg>
@@ -213,12 +213,12 @@
 	     </choice> a
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">q(ua)r(um)</seg>
+		       <seg type="lucas">q(ua)(rum)</seg>
 		       <orig>q̈ꝝ</orig>
 		       <reg>quarum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">m(u)ltar(um).</seg>
+		       <seg type="lucas">m(u)lta(rum).</seg>
 		       <orig>ml͘taꝝ.</orig>
 		       <reg>multarum.</reg>
 	     </choice> Mirabiles e
@@ -241,7 +241,7 @@
 	     </choice> altis 
 	<choice>
 		       <seg type="lucas">d(omi)n(u)s.</seg>
-		       <orig>dns̄.</orig>
+		       <orig>dn̄s.</orig>
 		       <reg>dominus.</reg>
 	     </choice> 
 	     <choice>

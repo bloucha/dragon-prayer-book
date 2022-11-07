@@ -38,7 +38,7 @@
                   <orig>q̇</orig>
                   <reg>qui</reg>
             </choice>
-            <!-- pick up here -->
+            
             <choice>
                   <seg type="lucas">n(on)</seg>
                   <orig>n̄</orig>
@@ -167,7 +167,7 @@
             </choice>
             <choice>
                   <seg type="lucas">Q(ui)s</seg>
-                  <orig>Q̇s</orig>
+                  <orig>Q͘s</orig>
                   <reg>Quis</reg>
             </choice>
             <choice>
@@ -210,7 +210,7 @@
             </choice>
             <choice>
                   <seg type="lucas">p(roe)lio.</seg>
-                  <orig>ꝓ̄lio.</orig> 
+                  <orig>p̄lio.</orig> 
                   <reg>proelio.</reg>
             </choice> At <lb break="no"/>tollite portas <choice>
                   <seg type="lucas">p(ri)ncipes</seg>

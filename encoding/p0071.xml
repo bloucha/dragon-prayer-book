@@ -53,7 +53,7 @@
 		       <reg>longitutinem</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">dier(um).</seg>
+		       <seg type="lucas">die(rum).</seg>
 		       <orig>dieꝝ.</orig>
 		       <reg>dierum.</reg>
 	     </choice>
@@ -91,9 +91,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>ɔspcu</orig>
-		       <reg>spectu</reg>
+		       <seg type="lucas">(con)sp(e)c(t)u</seg>
+		       <orig>ɔspcū</orig>
+		       <reg>conspectu</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us)</seg>
@@ -202,7 +202,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fessio(n)e:</seg>
-		       <orig>ɔfessioe:</orig>
+		       <orig>ɔfessiōe:</orig>
 		       <reg>confessione:</reg>
 	     </choice> 
 	     <choice>
@@ -222,13 +222,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">y(m)</seg>
-		       <orig>yp̄</orig>
+		       <orig>ȳp</orig>
 		       <reg>hym</reg>
 	     </choice>
       <lb break="no"/>nis 
 	     <choice>
 		       <seg type="lucas">fitemi(ni)</seg>
-		       <orig>ɔfitemi</orig>
+		       <orig>ɔfitemī</orig>
 		       <reg>confitemini</reg>
 	     </choice> illi. Lauda
 <lb break="no"/>te 
@@ -259,14 +259,9 @@
 		       <reg>dominus;</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">i(n)</seg>
-		       <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">et(er)nu(m)</seg>
-		       <orig>eṫnū</orig>
-		       <reg>eternum</reg>
+		       <seg type="lucas">i(n)et(er)nu(m)</seg>
+		       <orig>īeṫnū</orig>
+		       <reg>ineternum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mi(sericordi)a</seg>

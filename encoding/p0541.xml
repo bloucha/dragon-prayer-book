@@ -12,12 +12,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">bit(ur);</seg>
-		       <orig>bit͘;</orig>
+		       <orig>bit݃;</orig>
 		       <reg>bitur;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium)</seg>
-		       <orig>ℜ</orig>
+		       <orig>℞</orig>
 		       <reg>Responsorium</reg>
 	     </choice> 
 	     <choice>
@@ -69,7 +69,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(ersiculus).</seg>
-		       <orig>V.</orig>
+		       <orig>V̇.</orig>
 		       <reg>Versiculus.</reg>
 	     </choice>
       <lb/>
@@ -80,7 +80,7 @@
 	     </choice> dedux Ad 
 	<choice>
 		       <seg type="lucas">(nonum) </seg>
-		       <orig>iṙ </orig>
+		       <orig>iẍ </orig>
 		       <reg>nonum </reg>
 	     </choice> 
 	     <choice>
@@ -111,7 +111,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -127,12 +127,12 @@
 	     </choice> dei: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> dedit illi 
 	<choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>sci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice>
       <lb break="no"/>
@@ -143,7 +143,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um);</seg>
-		       <orig>scōr;</orig>
+		       <orig>scōꝝ;</orig>
 		       <reg>sanctorum;</reg>
 	     </choice> 
 	     <choice>
@@ -169,7 +169,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -185,7 +185,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>ℜ.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -222,7 +222,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(u)ltiplicabit(ur).</seg>
-		       <orig>ml͘tiplicabit".</orig>
+		       <orig>ml͘tiplicabit݃.</orig>
 		       <reg>multiplicabitur.</reg>
 	     </choice>
       <lb/>In. 
@@ -238,7 +238,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(ersiculus)</seg>
-		       <orig>V</orig>
+		       <orig>V̇</orig>
 		       <reg>Versiculus</reg>
 	     </choice> 
 	     <choice>
@@ -255,8 +255,8 @@
       <lb/>In 
 	<choice>
 		       <seg type="lucas">n(?)</seg>
-		       <orig>ṅj</orig>
-		       <reg>n?</reg>
+		       <orig>ij</orig>
+		       <reg>n?<!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ersu)s</seg>
@@ -282,7 +282,7 @@
       <lb break="no"/>do. 
 	<choice>
 		       <seg type="lucas">M(a)g(na).</seg>
-		       <orig>M̈g.</orig>
+		       <orig>Mg̈.</orig>
 		       <reg>Magna.</reg>
 	     </choice> 
 	     <choice>

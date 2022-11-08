@@ -39,7 +39,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uo)</seg>
-		       <orig>qᵉ</orig>
+		       <orig>qº</orig>
 		       <reg>quo</reg>
 	     </choice> 
 	     <choice>
@@ -70,7 +70,7 @@
       <lb/>bone 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -110,13 +110,8 @@
 		       <reg>Dilcuns.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-	                <orig>ȳpꝰ</orig>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(mnus)</seg>
-		       <orig>y</orig>
+		       <orig>yp̄nꝰ</orig>
 		       <reg>ymnus</reg>
 	     </choice>
       <lb/>
@@ -141,14 +136,9 @@
 		       <reg>corona</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fite(n)</seg>
-		       <orig>fitē</orig>
-		       <reg>fiten</reg>
+		       <orig>ɔfitē</orig>
+		       <reg>confiten</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -163,7 +153,7 @@
 	     </choice> hac die 
 	<choice>
 		       <seg type="lucas">cleme(n)ci(us)</seg>
-		       <orig>clemēciꝰ</orig>
+		       <orig>clemēciꝰ</orig> 
 		       <reg>clemencius</reg>
 	     </choice> 
 	     <choice>
@@ -176,11 +166,11 @@
 		       <seg type="lucas">vocib(us).</seg>
 		       <orig>vocib⋮.</orig>
 		       <reg>vocibus.</reg>
-	     </choice> Uni 
+	     </choice> Tui 
 	<choice>
 		       <seg type="lucas">sac(ri?)</seg>
 		       <orig>saċ</orig>
-		       <reg>sacri?</reg>
+		       <reg>sacri</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ua)</seg>
@@ -227,7 +217,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q'</orig>
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
 	     </choice> rite 
 	<choice>
@@ -270,7 +260,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">potit(ur)</seg>
-		       <orig>potiṫ͘</orig>
+		       <orig>potit݃</orig>
 		       <reg>potitur</reg>
 	     </choice> 
 	     <choice>
@@ -298,7 +288,7 @@
 		       <seg type="lucas">seq(ui)</seg>
 		       <orig>seq̇</orig>
 		       <reg>sequi</reg>
-	     </choice> †vestigia†
+	     </choice> <supplied>vestigia</supplied>
 <lb/>
 	     <choice>
 		       <seg type="lucas">hui(us)</seg>
@@ -314,7 +304,7 @@
 		       <seg type="lucas">servul(is)</seg>
 		       <orig>servul̇</orig>
 		       <reg>servulis</reg>
-	     </choice> †dimitte†
+	     </choice> <supplied>dimitte</supplied>
 
 
 </ab>

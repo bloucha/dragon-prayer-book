@@ -57,29 +57,21 @@
 		       <seg type="lucas">atu(m).</seg>
 		       <orig>atū.</orig>
 		       <reg>atum.</reg>
-	     </choice> N. 
-	<choice>
-		       <seg type="lucas">mi(?)
-	</seg>
-		       <orig>mī
-	</orig>
-		       <reg>mi?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice> N.  
       <choice>
 		       <seg type="lucas">str(um)</seg>
-		       <orig>str</orig>
-		       <reg>strum</reg>
+		       <orig>mīstꝝ</orig>
+		       <reg>ministrum</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)buisti</seg>
-		       <orig>tbuisti</orig>
+		       <orig>ṫbuisti</orig>
 		       <reg>tribuisti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(at)ra?</seg>
-		       <orig>pr̄a?</orig>
-		       <reg>patra?</reg>
+		       <orig>pr̄a</orig>
+		       <reg>prasta</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -97,11 +89,11 @@
 		       <orig>doctorē</orig>
 		       <reg>doctorem</reg>
 	     </choice> vite ha
-<lb break="no"/>b??
+<lb break="no"/>
 	<choice>
 		       <seg type="lucas">m(us)</seg>
-		       <orig>mꝰ</orig>
-		       <reg>mus</reg>
+		       <orig>buimꝰ</orig>
+		       <reg>buimus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -126,7 +118,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">me(re)am(ur)</seg>
-		       <orig>mėam"</orig>
+		       <orig>mėam݃</orig>
 		       <reg>mereamur</reg>
 	     </choice> 
 	     <choice>
@@ -152,12 +144,12 @@
 <lb/>Anthonii. 
 	<choice>
 		       <seg type="lucas">B(e)n(e)dicti.</seg>
-		       <orig>B̄ndicti.</orig>
+		       <orig>Bn̄dicti.</orig>
 		       <reg>Benedicti.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)copii.</seg>
-		       <orig>pcopii.</orig>
+		       <orig>ꝓcopii.</orig>
 		       <reg>procopii.</reg>
 	     </choice>
       <lb/>Beruhardi. Egidii.
@@ -183,21 +175,16 @@
 		       <orig>bṫi.</orig>
 		       <reg>beati.</reg>
 	     </choice> N. abbatis 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">me(n)det:</seg>
-		       <orig>mēdet:</orig>
-		       <reg>mendet:</reg>
+		       <orig>ɔmēdet:</orig>
+		       <reg>commendet:</reg>
 	     </choice> ut
 <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)d</seg>
 		       <orig>qḋ</orig>
-		       <reg>quid</reg>
+		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(ost)ris</seg>
@@ -207,7 +194,7 @@
 	     <choice>
 		       <seg type="lucas">m(?)itis</seg>
 		       <orig>ṁitis</orig>
-		       <reg>m?itis<!--  check expansion --></reg>
+		       <reg>meritis</reg>
 	     </choice> 
  
 	     <choice>
@@ -223,13 +210,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(at?)rovinio</seg>
-		       <orig>pr̄ovinio</orig>
-		       <reg>pat?rovinio<!--  check expansion --></reg>
+		       <orig>pr̄ocinio</orig>
+		       <reg>patrocinio</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">asseq(ua)m(ur).</seg>
-		       <orig>asseq̈m.</orig>
+		       <orig>asseq̈m݃.</orig>
 		       <reg>assequamur.</reg>
 	     </choice> 
 	     <choice>

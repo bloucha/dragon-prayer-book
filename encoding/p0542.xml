@@ -44,7 +44,7 @@
 <lb break="no"/>si. 
 	<choice>
 		       <seg type="lucas">Silvest(er).</seg>
-		       <orig>Silvest͘.</orig>
+		       <orig>Silvesṫ.</orig>
 		       <reg>Silvester.</reg>
 	     </choice> albimbricii 
 	<choice>
@@ -60,7 +60,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mni)p(oten)s</seg>
-		       <orig>oꝑ̄s</orig>
+		       <orig>op̄s</orig>
 		       <reg>omnipotens</reg>
 	     </choice> 
 	     <choice>
@@ -84,7 +84,11 @@
 		       <orig>atq⋮</orig>
 		       <reg>atque</reg>
 	     </choice>
-      <lb/>po(n0tificis 
+      <lb/>
+         <choice>
+            <orig>pōtificis</orig>
+            <reg>pontificis</reg>
+      </choice>
 	<choice>
 		       <seg type="lucas">venera(n)da</seg>
 		       <orig>venerāda</orig>
@@ -98,7 +102,7 @@
       <lb break="no"/>nitas 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -114,7 +118,7 @@
 <lb break="no"/>at 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -175,7 +179,11 @@
 		       <orig>atq⋮</orig>
 		       <reg>atque</reg>
 	     </choice>
-      <lb/>po(n0tificis 
+      <lb/>
+         <choice>
+               <orig>pōtificis</orig>
+               <reg>pontificis</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">sole(m)nitate</seg>
 		       <orig>solēnitate</orig>
@@ -216,13 +224,13 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">m(?)?tis</seg>
-		       <orig>m?tis</orig>
-		       <reg>m??tis<!--  check expansion --></reg>
+		       <orig>mitis</orig>
+		       <reg>meritis</reg>
 	     </choice> 
  ab 
 	<choice>
 		       <seg type="lucas">o(mn)ib(us)</seg>
-		       <orig>oīb</orig>
+		       <orig>oīb⋮</orig>
 		       <reg>omnibus</reg>
 	     </choice> nos absol⸗
 

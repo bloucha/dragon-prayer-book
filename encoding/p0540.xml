@@ -22,7 +22,7 @@
 	     </choice> Sit 
 	<choice>
 		       <seg type="lucas">(christ)e</seg>
-		       <orig>rp̄e</orig>
+		       <orig>xp̄e</orig>
 		       <reg>christe</reg>
 	     </choice> rex
 <lb/>
@@ -80,7 +80,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">V(ersiculus)</seg>
-		       <orig>V</orig>
+		       <orig>V̇</orig>
 		       <reg>Versiculus</reg>
 	     </choice> 
 	     <choice>
@@ -91,7 +91,7 @@
 	     <choice>
 		       <seg type="lucas">g(?)i(?)abit</seg>
 		       <orig>ġīabit</orig>
-		       <reg>g?i?abit<!--  check expansion --></reg>
+		       <reg>germinabit</reg>
 	     </choice> 
  
 	     <choice>
@@ -124,7 +124,7 @@
 	     <choice>
 		       <seg type="lucas">b(?)</seg>
 		       <orig>ḃ</orig>
-		       <reg>b?</reg>
+		       <reg>b?<!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
@@ -139,13 +139,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> fide
 <lb break="no"/>lis 
 	<choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q;</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -169,22 +169,21 @@
 		       <orig>ml͘ta</orig>
 		       <reg>multa</reg>
 	     </choice> te 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">stitua(m)</seg>
-		       <orig>stituā</orig>
-		       <reg>stituam</reg>
+		       <orig>ɔstituā</orig>
+		       <reg>constituam</reg>
 	     </choice> dicit 
 	<choice>
 		       <seg type="lucas">d(omi)n(u)s.</seg>
 		       <orig>dn̄s.</orig>
 		       <reg>dominus.</reg>
 	     </choice>
-      <lb/>Ad (tertia?) 
+      <lb/>Ad 
+   	<choice>
+   		<orig>iii</orig>
+   		<reg>tertia</reg>
+   	</choice>
 	<choice>
 		       <seg type="lucas">cap(ite?)</seg>
 		       <orig>cap̄</orig>
@@ -198,7 +197,7 @@
  
 	     <choice>
 		       <seg type="lucas">R(esponsorium)</seg>
-		       <orig>ℜ</orig>
+		       <orig>℞</orig>
 		       <reg>Responsorium</reg>
 	     </choice> Ama
 <lb break="no"/>vit 
@@ -251,7 +250,7 @@
 	     </choice> Ad 
 	<choice>
 		       <seg type="lucas">(sextum).</seg>
-		       <orig>U͘j.</orig>
+		       <orig>v̈i.</orig>
 		       <reg>sextum.</reg>
 	     </choice> 
 	     <choice>
@@ -280,7 +279,7 @@
 		       <orig>vigilā</orig>
 		       <reg>vigilan</reg>
 	     </choice>
-      <lb break="no"/>†
+      <lb break="no"/><supplied>
 	<choice>
 		       <seg type="lucas">du(m)</seg>
 		       <orig>dū</orig>
@@ -288,9 +287,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">diluc(u)lo†</seg>
-		       <orig>dilucl͘o†</orig>
-		       <reg>diluculo†</reg>
-	     </choice> ad 
+		       <orig>dilucl͘o</orig>
+		       <reg>diluculo</reg>
+	     </choice></supplied> ad 
 	<choice>
 		       <seg type="lucas">deu(m)</seg>
 		       <orig>deū</orig>
@@ -301,7 +300,7 @@
 		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> fecit il
-<lb break="no"/>†
+<lb break="no"/><supplied>
 	<choice>
 		       <seg type="lucas">lu(m):</seg>
 		       <orig>lū:</orig>
@@ -309,7 +308,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -318,15 +317,10 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sp(e)c(t)u†</seg>
-		       <orig>spc̄u†</orig>
-		       <reg>spectu†</reg>
-	     </choice> altissimi 
+		       <orig>ɔspc̄u</orig>
+		       <reg>conspectu</reg>
+	     </choice></supplied> altissimi 
 	<choice>
 		       <seg type="lucas">dep(re)ca⸗</seg>
 		       <orig>dep̄ca⸗</orig>

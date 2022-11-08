@@ -12,12 +12,12 @@
       <lb/>das 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)tegis:</seg>
-		       <orig>ptegis:</orig>
+		       <orig>ꝓtegis:</orig>
 		       <reg>protegis:</reg>
 	     </choice> da 
 	<choice>
@@ -27,28 +27,28 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">imitat(i)o(n)e</seg>
-		       <orig>imitȧtōe</orig>
+		       <orig>imiṫatōe</orig>
 		       <reg>imitatione</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)fice(re)</seg>
-		       <orig>pfiċe</orig>
+		       <orig>ꝓfiċe</orig>
 		       <reg>proficere</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -80,7 +80,7 @@
       <lb/>COnfitebor 
 	<choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>t͘</orig>
+		       <orig>ṫ</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
@@ -91,7 +91,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> collaudabo te 
 	<choice>
@@ -128,7 +128,7 @@
 	     </choice> adiutor 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -149,7 +149,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>✝ </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -174,14 +174,9 @@
 		       <reg>perditione.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-	                <orig>ȳpꝰ</orig>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(m)nus</seg>
-		       <orig>ynus</orig>
-		       <reg>ymnus</reg>
+		       <orig>yp̄nus</orig>
+		       <reg>hymnus</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -191,7 +186,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)les</seg>
-		       <orig>ples</orig>
+		       <orig>ꝓles</orig>
 		       <reg>proles</reg>
 	     </choice> opifex
 <lb/>
@@ -268,14 +263,11 @@
 		       <seg type="lucas">du(m)</seg>
 		       <orig>dū</orig>
 		       <reg>dum</reg>
-	     </choice> ges[t/t]it 
+	     </choice> gestit 
 	<choice>
-		       <seg type="lucas">fragile(m)
-16</seg>
-		       <orig>fragilē
-16</orig>
-		       <reg>fragilem
-16</reg>
+		       <seg type="lucas">fragile(m)</seg>
+		       <orig>fragilē</orig>
+		       <reg>fragilem</reg>
 	     </choice>
       <lb/>Slon? Im? F?(?)?gf?[***]
 

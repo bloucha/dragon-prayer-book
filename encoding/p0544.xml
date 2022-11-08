@@ -44,7 +44,7 @@
       <lb break="no"/>nitate letificas 
 	<choice>
 		       <seg type="lucas">(con)cede</seg>
-		       <orig>cede.</orig>
+		       <orig>ɔcede.</orig>
 		       <reg>concede</reg>
 	     </choice> 
 	     <choice>
@@ -92,7 +92,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">am(ur).</seg>
-		       <orig>am".</orig>
+		       <orig>am݃.</orig>
 		       <reg>amur.</reg>
 	     </choice> 
 	     <choice>
@@ -129,8 +129,8 @@
       <lb/>ut ad 
 	<choice>
 		       <seg type="lucas">meliore(m?)</seg>
-		       <orig>melior̄e</orig>
-		       <reg>meliorem?</reg>
+		       <orig>meliorē</orig>
+		       <reg>meliorem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vita(m)</seg>
@@ -139,13 +139,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōr</orig>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> tu
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">or(um)</seg>
-		       <orig>or</orig>
+		       <orig>oꝝ</orig>
 		       <reg>orum</reg>
 	     </choice> 
 	     <choice>
@@ -155,7 +155,7 @@
 	     </choice> nos 
 	<choice>
 		       <seg type="lucas">p(ro)voce(n)t:</seg>
-		       <orig>pvocēt:</orig>
+		       <orig>ꝓvocēt:</orig>
 		       <reg>provocent:</reg>
 	     </choice> 
 	     <choice>
@@ -171,12 +171,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">quor(um)</seg>
-		       <orig>quor</orig>
+		       <orig>quoꝝ</orig>
 		       <reg>quorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sole(m)nia</seg>
-		       <orig>solēnia</orig>
+		       <orig>solēpnia</orig>
 		       <reg>solemnia</reg>
 	     </choice> 
 	     <choice>
@@ -197,7 +197,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">imitem(ur).</seg>
-		       <orig>imitem".</orig>
+		       <orig>imitem݃.</orig>
 		       <reg>imitemur.</reg>
 	     </choice> 
 	     <choice>
@@ -235,57 +235,39 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">r(um)</seg>
-		       <orig>r</orig>
+		       <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fessor(um)</seg>
-		       <orig>fessor</orig>
-		       <reg>fessorum</reg>
+		       <orig>ɔfessor</orig>
+		       <reg>confessorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um).</seg>
-		       <orig>tuor.</orig>
+		       <orig>tuoꝝ.</orig>
 		       <reg>tuorum.</reg>
 	     </choice> N. 
 	<choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig>✝</orig>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>N. 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fessio(n)ib(us)</seg>
-		       <orig>fessiōib⋮</orig>
-		       <reg>fessionibus</reg>
+		       <orig>ɔfessiōib⋮</orig>
+		       <reg>CONfessionibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gl(ori)osis</seg>
 		       <orig>gl͘osis</orig>
 		       <reg>gloriosis</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">t(er?)
-	</seg>
-		       <orig>ṫ
-	</orig>
-		       <reg>ter?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">cu(n)⸗</seg>
-		       <orig>cū⸗</orig>
-		       <reg>cun⸗</reg>
+		       <orig>ċcū⸗</orig>
+		       <reg>circun⸗</reg>
 	     </choice>
    </ab>
 

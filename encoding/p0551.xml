@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">se(m)pit(er)ne</seg>
-		       <orig>sēpitne</orig>
+		       <orig>sēpiṫne</orig>
 		       <reg>sempiterne</reg>
 	     </choice> 
 	     <choice>
@@ -48,14 +48,9 @@
 		       <reg>queque</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fu(n)das</seg>
-		       <orig>fūdas</orig>
-		       <reg>fundas</reg>
+		       <orig>ɔfūdas</orig>
+		       <reg>confundas</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)cede</seg>
@@ -64,7 +59,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pici(us):</seg>
-		       <orig>ppici:</orig>
+		       <orig>ꝓpici:</orig>
 		       <reg>propicius:</reg>
 	     </choice> ut
 <lb/>
@@ -181,12 +176,12 @@
 	     <choice>
 		       <seg type="lucas">m(ate)r</seg>
 		       <orig>m̈r</orig>
-		       <reg>mater</reg>
+		       <reg>martyr</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(?)ploret</seg>
 		       <orig>īploret</orig>
-		       <reg>i?ploret<!--  check expansion --></reg>
+		       <reg>imploret</reg>
 	     </choice> 
  
 	     <choice>
@@ -202,14 +197,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">g(ra)ta?</seg>
-		       <orig>g̈ta?</orig>
-		       <reg>grata?</reg>
+		       <orig>g̈ta</orig>
+		       <reg>grata</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(er)</seg>
 		       <orig>sꝑ</orig>
-		       <reg>sper</reg>
-	     </choice> extiti 
+		       <reg>semper</reg>
+	     </choice> exsiti 
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+ </orig>

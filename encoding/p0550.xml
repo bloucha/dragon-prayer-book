@@ -23,7 +23,7 @@
 	     </choice> Ad 
 	<choice>
 		       <seg type="lucas">(nonum) </seg>
-		       <orig>n̈ </orig>
+		       <orig>iẍ̈ </orig>
 		       <reg>nonum </reg>
 	     </choice> 
 	     <choice>
@@ -117,9 +117,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>ℜ.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
-	     </choice> Adi??a
+	     </choice> Adiuva
 <lb break="no"/>bit 
 	<choice>
 		       <seg type="lucas">ea(m).</seg>
@@ -159,7 +159,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Amovebit(ur).</seg>
-		       <orig>Amovebit˸.</orig>
+		       <orig>Amovebit݃.</orig>
 		       <reg>Amovebitur.</reg>
 	     </choice>
       <lb/>
@@ -180,10 +180,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Adduce(n)t(ur).</seg>
-		       <orig>Adducēt˸.</orig>
+		       <orig>Adducēt݃.</orig>
 		       <reg>Adducentur.</reg>
 	     </choice>
-      <lb/>Ad (secundo?) 
+      <lb/>Ad 
+         <choice>
+               <orig>ii</orig>
+               <reg>secundo</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">v(ersu)s</seg>
 		       <orig>v̈s</orig>
@@ -224,7 +228,7 @@
 	     <choice>
 		       <seg type="lucas">Acci(n?)xit</seg>
 		       <orig>Accīxit</orig>
-		       <reg>Accin?xit<!--  check expansion --></reg>
+		       <reg>Accinixit</reg>
 	     </choice> 
  fortitu
 <lb break="no"/>
@@ -236,7 +240,7 @@
 	     <choice>
 		       <seg type="lucas">lu(?)bos</seg>
 		       <orig>lūbos</orig>
-		       <reg>lu?bos<!--  check expansion --></reg>
+		       <reg>lumbos</reg>
 	     </choice> 
  suos 
 	<choice>
@@ -278,7 +282,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">exti(n)guet(ur)</seg>
-		       <orig>extīguet˸</orig>
+		       <orig>extīguet݃</orig>
 		       <reg>extinguetur</reg>
 	     </choice> 
 	     <choice>

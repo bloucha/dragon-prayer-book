@@ -31,13 +31,8 @@
 		       <reg>quem</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(mnus)</seg>
-	                <orig>ȳpꝰ</orig>
+	            <orig>ȳpꝰ</orig>
 		       <reg>ymnus</reg>
 	     </choice>
       <lb/>
@@ -75,7 +70,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q'</orig>
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
 	     </choice> pascis 
 	<choice>
@@ -93,17 +88,11 @@
 		       <seg type="lucas">v(ir)ginu(m)</seg>
 		       <orig>v̇ginū</orig>
 		       <reg>virginum</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">sp(?)</seg>
-		       <orig>sp</orig>
-		       <reg>sp?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">os(us)</seg>
-		       <orig>ōsꝰ</orig>
-		       <reg>osus</reg>
+		       <orig>spōsꝰ</orig> 
+		       <reg>sponsus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">decor(us)</seg>
@@ -115,19 +104,11 @@
 		       <orig>gl͘a</orig>
 		       <reg>gloria</reg>
 	     </choice>
-      <lb/>
-	     <choice>
-		       <seg type="lucas">sp(?)
-	</seg>
-		       <orig>sp
-	</orig>
-		       <reg>sp?
-	<!--  check expansion --></reg>
-	     </choice> 
+      <lb/> 
       <choice>
 		       <seg type="lucas">osisq(ue)</seg>
-		       <orig>ōsisq⋮</orig>
-		       <reg>osisque</reg>
+		       <orig>spōsisq⋮</orig>
+		       <reg>sponsisque</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">redde(n)s</seg>
@@ -141,8 +122,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ue?)</seg>
-		       <orig>Qᴼ</orig>
-		       <reg>Que?<!--  check expansion --></reg>
+		       <orig>Qº</orig>
+		       <reg>Quo</reg>
 	     </choice> 
       <lb break="no"/>
 	     <choice>
@@ -162,7 +143,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">secu(n)t(ur)</seg>
-		       <orig>secut˸</orig>
+		       <orig>secut݃</orig>
 		       <reg>secuntur</reg>
 	     </choice> 
 	     <choice>
@@ -193,14 +174,9 @@
 		       <reg>sitant</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(m)nosq(ue)</seg>
 		       <orig>ȳpnosq⋮</orig>
-		       <reg>ymnosque</reg>
+		       <reg>hymnosque</reg>
 	     </choice> dulces 
 	<choice>
 		       <seg type="lucas">p(er)so</seg>
@@ -215,7 +191,7 @@
 	     </choice> Te 
 	<choice>
 		       <seg type="lucas">dep(re)cam(ur)</seg>
-		       <orig>dep̄cam</orig>
+		       <orig>dep̄cam݃</orig>
 		       <reg>deprecamur</reg>
 	     </choice> 
 	     <choice>
@@ -226,7 +202,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">n(ost)ris</seg>
-		       <orig>nris</orig>
+		       <orig>nr̄is</orig>
 		       <reg>nostris</reg>
 	     </choice> adauge 
 	<choice>
@@ -253,7 +229,7 @@
 <lb break="no"/>nera. Sit 
 	<choice>
 		       <seg type="lucas">(christ)e</seg>
-		       <orig>rp̄e</orig>
+		       <orig>xp̄e</orig>
 		       <reg>christe</reg>
 	     </choice> rex 
 	<choice>

@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Adduce(n)t(ur)</seg>
-		       <orig>Adducēt˸</orig>
+		       <orig>Adducēt݃</orig>
 		       <reg>Adducentur</reg>
 	     </choice> regi 
 	<choice>
@@ -43,7 +43,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">affere(n)t(ur)</seg>
-		       <orig>affėrēṫ</orig>
+		       <orig>affėrēt݃</orig>
 		       <reg>afferentur</reg>
 	     </choice> 
 	     <choice>
@@ -70,8 +70,8 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">elca(m?)</seg>
-		       <orig>elcā</orig>
-		       <reg>elcam?</reg>
+		       <orig>elc̄a</orig>
+		       <reg>electa</reg>
 	     </choice> mea 
 	<choice>
 		       <seg type="lucas">(et) </seg>
@@ -101,7 +101,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q;</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -122,7 +122,7 @@
 	     </choice> Ad 
 	<choice>
 		       <seg type="lucas">(tertium) </seg>
-		       <orig>m̈ </orig>
+		       <orig>iii </orig>
 		       <reg>tertium </reg>
 	     </choice> 
 	     <choice>
@@ -138,7 +138,7 @@
       <lb break="no"/>bor. 
 	<choice>
 		       <seg type="lucas">R(esponsorium)</seg>
-	                <orig>ℜ</orig>
+	                <orig>℞</orig>
 		       <reg>Responsorium</reg>
 	     </choice> Diffusa 
 	<choice>
@@ -202,8 +202,7 @@
  tua. Ad 
 	<choice>
 		       <seg type="lucas">(sextus) </seg>
-		       <orig>in̈ </orig>
-	      <!-- unknown symbol -->
+		       <orig>v̈i </orig>
 		       <reg>sextus </reg>
 	     </choice> 
 	     <choice>
@@ -251,13 +250,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ)o;</seg>
-		       <orig>rp̄o;</orig>
+		       <orig>xp̄o;</orig>
 		       <reg>christo;</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>ℜ.</orig>
+		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
@@ -265,19 +264,11 @@
 		       <orig>Sp̄e</orig>
 		       <reg>Sp?e<!--  check expansion --></reg>
 	     </choice> 
- tua. Et 
-	<choice>
-		       <seg type="lucas">pulch(r?)
-	</seg>
-		       <orig>pulcḣ
-	</orig>
-		       <reg>pulchr?
-	<!--  check expansion --></reg>
-	     </choice> 
+ tua. Et  
       <choice>
 		       <seg type="lucas">tudi(n)e</seg>
-		       <orig>tudīe</orig>
-		       <reg>tudine</reg>
+		       <orig>pulcḣtudīe</orig>
+		       <reg>pulchritudine</reg>
 	     </choice>
       <lb/>tua. 
 	<choice>
@@ -321,7 +312,7 @@
 		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
 		       <reg>Versiculus.</reg>
-	     </choice> Adi??a.
+	     </choice> Adiuva.
 
 
 </ab>

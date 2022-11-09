@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vene(re)am(ur)</seg>
-		       <orig>venēam˸</orig>
+		       <orig>venēam݃</orig>
 		       <reg>venereamur</reg>
 	     </choice> 
 	     <choice>
@@ -31,19 +31,14 @@
 		       <orig>ā</orig>
 		       <reg>am</reg>
 	     </choice> pie 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">v(er)sat(i)o(n)is</seg>
-		       <orig>v̇satōis</orig>
-		       <reg>versationis</reg>
+		       <orig>ɔv̇satōis</orig>
+		       <reg>conversationis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">seq(ua)m(ur)</seg>
-		       <orig>seq̈m˸</orig>
+		       <orig>seq̈m݃</orig>
 		       <reg>sequamur</reg>
 	     </choice> exem
 <lb break="no"/>plo. 
@@ -155,7 +150,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">g(ra)diam(ur).</seg>
-		       <orig>g̈diam˸.</orig>
+		       <orig>g̈diam݃.</orig>
 		       <reg>gradiamur.</reg>
 	     </choice> 
 	     <choice>
@@ -172,7 +167,7 @@
 	<choice>
 		       <seg type="lucas">pote(n)cia(n?)e.</seg>
 		       <orig>potēciāe.</orig>
-		       <reg>potencian?e.</reg>
+		       <reg>potenciane.</reg>
 	     </choice> petronelle.
 <lb/>
 	     <choice>
@@ -224,19 +219,11 @@
 		       <seg type="lucas">dem(us)</seg>
 		       <orig>demꝰ</orig>
 		       <reg>demus</reg>
-	     </choice> ita pie 
-	<choice>
-		       <seg type="lucas">devot(i?)
-	</seg>
-		       <orig>devot
-	</orig>
-		       <reg>devoti?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice> ita pie  
       <choice>
 		       <seg type="lucas">o(n)is</seg>
-		       <orig>ōis</orig>
-		       <reg>onis</reg>
+		       <orig>devotōis</orig>
+		       <reg>devotionis</reg>
 	     </choice> eru⸗
 
 

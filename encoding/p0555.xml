@@ -34,7 +34,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
-		       <orig>d̄s</orig>
+		       <orig>ḋs</orig>
 		       <reg>deus</reg>
 	     </choice> 
 	     <choice>
@@ -92,7 +92,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">polor(um).</seg>
-		       <orig>polor⋮.</orig>
+		       <orig>poloꝝ.</orig>
 		       <reg>polorum.</reg>
 	     </choice> Prestet hoc 
 	<choice>
@@ -137,8 +137,11 @@
 		       <orig>cuiꝰ</orig>
 		       <reg>cuius</reg>
 	     </choice> 
-       <!-- abbreviation in i -->
-       reboat i(n0 
+       reboat 
+       <choice>
+           <orig>ī</orig>
+           <reg>in</reg>
+       </choice>
 	<choice>
 		       <seg type="lucas">cu(m)</seg>
 		       <orig>cū</orig>
@@ -284,7 +287,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice>
    </ab>

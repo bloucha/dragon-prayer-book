@@ -55,11 +55,15 @@
 		       <seg type="lucas">suu(m)</seg>
 		       <orig>suū</orig>
 		       <reg>suum</reg>
-	     </choice> q?(?)
+	     </choice> 
+         <choice>
+               <orig>qn̄</orig>
+               <reg>quando</reg>
+         </choice>
 <lb/>
 	     <choice>
 		       <seg type="lucas">rev(er)tat(ur)</seg>
-		       <orig>rev̇tat˸</orig>
+		       <orig>rev̇tat݃</orig>
 		       <reg>revertatur</reg>
 	     </choice> anupciis. 
 	<choice>
@@ -212,7 +216,7 @@
 	     <choice>
 		       <seg type="lucas">gr(ati)aru(n?)</seg>
 		       <orig>gr̄arū</orig>
-		       <reg>gratiarun?</reg>
+		       <reg>gratiarum</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -253,7 +257,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(u)lor(um).</seg>
-		       <orig>scl͘or.</orig>
+		       <orig>scl͘oꝝ.</orig>
 		       <reg>seculorum.</reg>
 	     </choice> 
 	     <choice>
@@ -267,26 +271,21 @@
 		       <orig>iā</orig>
 		       <reg>iam</reg>
 	     </choice> no⸗        
-	<choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">y(mnus)</seg>
-		       <orig>yp̄ꝰ</orig>
+		       <orig>hyp̄ꝰ</orig>
 		       <reg>ymnus</reg>
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">D(e)o.</seg>
-		       <orig>D͘o.</orig>
+		       <orig>Ḋo.</orig>
 		       <reg>Deo.</reg>
 	     </choice>
-      <lb/>ctis te??
+      <lb/>ctis
 	<choice>
 		       <seg type="lucas">at(ur)</seg>
-		       <orig>at˸</orig>
-		       <reg>atur</reg>
+		       <orig>tenat݃</orig>
+		       <reg>tenatur</reg>
 	     </choice> umbra
 <lb/>lucis aurora 
 	<choice>

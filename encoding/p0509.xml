@@ -100,7 +100,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>_</orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -174,7 +174,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">se(m)pit(er)</seg>
-		       <orig>sēpit</orig>
+		       <orig>sēpiṫ</orig>
 		       <reg>sempiter</reg>
 	     </choice>
       <lb break="no"/>
@@ -270,7 +270,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">iniq(ui)tas</seg>
-		       <orig>iniqtas</orig>
+		       <orig>iniq̇tas</orig>
 		       <reg>iniquitas</reg>
 	     </choice> 
 	     <choice>
@@ -306,7 +306,7 @@
 	     </choice> pace 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

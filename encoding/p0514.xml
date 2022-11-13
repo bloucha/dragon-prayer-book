@@ -16,7 +16,7 @@
 		       <reg>mentibus.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Eccl(esi)ar(um)</seg>
+		       <seg type="lucas">Eccl(esi)a(rum)</seg>
 		       <orig>Eccl͘aꝝ</orig>
 		       <reg>Ecclesiarum</reg>
 	     </choice> 
@@ -28,7 +28,7 @@
       <lb/>belli 
 	<choice>
 		       <seg type="lucas">t(ri)u(m)phales</seg>
-		       <orig>ẗuphales</orig>
+		       <orig>ṫūphales</orig>
 		       <reg>triumphales</reg>
 	     </choice> duces celes
 <lb break="no"/>tis aule milites 
@@ -54,7 +54,7 @@
 		       <reg>lumia.</reg>
 	     </choice> Devota 
 	<choice>
-		       <seg type="lucas">s(an)c(t)or(um)</seg>
+		       <seg type="lucas">s(an)c(t)o(rum)</seg>
 		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> fides in
@@ -162,7 +162,7 @@
 	     </choice>
       <lb/>ut 
 	<choice>
-		       <seg type="lucas">ip(s)or(um)</seg>
+		       <seg type="lucas">ip(s)o(rum)</seg>
 		       <orig>ip̄oꝝ</orig>
 		       <reg>ipsorum</reg>
 	     </choice> 

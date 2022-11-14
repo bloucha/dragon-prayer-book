@@ -69,12 +69,12 @@
 		       <reg>sionem</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
+		       <seg type="lucas">p(ec)c(a)to(rum)</seg>
 		       <orig>pct̄oꝝ</orig>
 		       <reg>peccatorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">eor(um).</seg>
+		       <seg type="lucas">eo(rum).</seg>
 		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> Per vis
@@ -219,8 +219,8 @@
 		       <reg>regem</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">a(n)g(e)lor(um)</seg>
-		       <orig>āgl͘or</orig>
+		       <seg type="lucas">a(n)g(e)lo(rum)</seg>
+		       <orig>āgl͘oꝝ</orig>
 		       <reg>angelorum</reg>
 	     </choice> sola 
 	<choice>
@@ -241,7 +241,7 @@
 	     </choice> pia 
 	<choice>
 		       <seg type="lucas">me(m)ora(re)</seg>
-		       <orig>mēorȧ</orig>
+		       <orig>meōrȧ</orig>
 		       <reg>memorare</reg>
 	     </choice>
    </ab>

@@ -26,14 +26,9 @@
 		       <reg>virtute</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">sta(n)</seg>
-		       <orig>stā</orig>
-		       <reg>stan</reg>
+		       <orig>ɔstā</orig>
+		       <reg>constan</reg>
 	     </choice>
       <lb break="no"/>cie 
 	<choice>
@@ -49,7 +44,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -150,7 +145,7 @@
 	<choice>
 		       <seg type="lucas">vi(n)ce(n)ci(us)</seg>
 		       <orig>vīcēciꝰ</orig>
-		       <reg>vincencius</reg>
+		       <reg>vincentius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">atq(ue)</seg>
@@ -161,7 +156,7 @@
 	     <choice>
 		       <seg type="lucas">b(?)l(?)m</seg>
 		       <orig>bl͘m</orig>
-		       <reg>b?l?m<!--  check expansion --></reg>
+		       <reg>bulum</reg>
 	     </choice> 
  
 	     <choice>
@@ -187,8 +182,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">alac(re?)tee</seg>
-		       <orig>alacṫee</orig>
-		       <reg>alacre?tee<!--  check expansion --></reg>
+		       <orig>alaċter</orig>
+		       <reg>alacriter</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -223,12 +218,17 @@
 		       <seg type="lucas">applicat(us)</seg>
 		       <orig>applicatꝰ</orig>
 		       <reg>applicatus</reg>
-	     </choice> torme(n0tis alacri
+	     </choice> 
+         <choice>
+               <orig>tormētis</orig>
+               <reg>tormentis</reg>
+         </choice>
+         alacri
 <lb/>vultu dei 
 	<choice>
 		       <seg type="lucas">p(?)ncia</seg>
 		       <orig>pn̄cia</orig>
-		       <reg>p?ncia<!--  check expansion --></reg>
+		       <reg>prasentia</reg>
 	     </choice> 
  roboratus
 <lb/>dixit hoc 
@@ -240,8 +240,7 @@
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
 		       <orig>qḋ</orig>
-	           <!-- might be a transcibing error -->
-		       <reg>qui</reg>
+		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(er)</seg>

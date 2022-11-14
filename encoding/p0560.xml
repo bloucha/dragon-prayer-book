@@ -24,19 +24,11 @@
 		       <seg type="lucas">ei(us)</seg>
 		       <orig>eiꝰ</orig>
 		       <reg>eius</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">i(?)
-	</seg>
-		       <orig>ī
-	</orig>
-		       <reg>i?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">plora(n)t</seg>
-		       <orig>plorāt</orig>
-		       <reg>plorant</reg>
+		       <orig>īplorāt</orig>
+		       <reg>implorant</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">auxiliu(m);</seg>
@@ -55,19 +47,14 @@
 		       <reg>salutarem</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">seq(ua)n</seg>
-		       <orig>seq˸n</orig>
-		       <reg>sequan</reg>
+		       <orig>ɔseq̈n</orig>
+		       <reg>consequan</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">t(ur)</seg>
-		       <orig>t˸</orig>
+		       <orig>t݃</orig>
 		       <reg>tur</reg>
 	     </choice> 
 	     <choice>
@@ -104,12 +91,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">cleme(n)t(er?)</seg>
-		       <orig>clemēt</orig>
-		       <reg>clementer?</reg>
+		       <orig>clemēṫ</orig>
+		       <reg>clementer</reg>
 	     </choice> exaudi: ut 
 	<choice>
 		       <seg type="lucas">b(ea)ti</seg>
-		       <orig>bṫi</orig>
+		       <orig>bt̄i</orig>
 		       <reg>beati</reg>
 	     </choice>
       <lb/>marcelli 
@@ -132,13 +119,12 @@
 	<choice>
 		       <seg type="lucas">m(?)itis</seg>
 		       <orig>mitis</orig>
-		       <reg>m?itis<!--  check expansion --></reg>
+		       <reg>meritis</reg>
 	     </choice> 
- adi??
 	<choice>
 		       <seg type="lucas">em(ur);</seg>
-		       <orig>em˸;</orig>
-		       <reg>emur;</reg>
+		       <orig>adiuvem݃;</orig>
+		       <reg>adiuvemur;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cui(us)</seg>
@@ -153,7 +139,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">letam(ur).</seg>
-		       <orig>letam˸.</orig>
+		       <orig>letam݃.</orig>
 		       <reg>letamur.</reg>
 	     </choice> 
 	     <choice>
@@ -164,7 +150,7 @@
 	     <choice>
 		       <seg type="lucas">P(ri?)sce</seg>
 		       <orig>Ṗsce</orig>
-		       <reg>Pri?sce<!--  check expansion --></reg>
+		       <reg>Prisce</reg>
 	     </choice> 
  
 	     <choice>
@@ -172,7 +158,7 @@
 		       <orig>v̇</orig>
 		       <reg>vir</reg>
 	     </choice>
-      <lb break="no"/>DA 
+      <lb/>DA 
 	<choice>
 		       <seg type="lucas">q(uesumu)s</seg>
 		       <orig>q̄s</orig>
@@ -185,7 +171,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s:</seg>
-		       <orig>ds:</orig>
+		       <orig>ḋs:</orig>
 		       <reg>deus:</reg>
 	     </choice> ut 
 	<choice>
@@ -207,7 +193,7 @@
 	     <choice>
 		       <seg type="lucas">P(?)sce</seg>
 		       <orig>Ṗsce</orig>
-		       <reg>P?sce<!--  check expansion --></reg>
+		       <reg>Prisce</reg>
 	     </choice> 
  
 	     <choice>
@@ -245,7 +231,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">letem(ur)</seg>
-		       <orig>letem˸</orig>
+		       <orig>letem݃</orig>
 		       <reg>letemur</reg>
 	     </choice> 
 	     <choice>

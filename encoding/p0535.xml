@@ -11,8 +11,8 @@
 
       <lb/>
 	     <choice>
-		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scoꝝ</orig>
+		       <seg type="lucas">s(an)c(t)o(rum)</seg>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
@@ -21,7 +21,7 @@
 		       <reg>matr?m</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">tuor(um).</seg>
+		       <seg type="lucas">tuo(rum).</seg>
 		       <orig>tuoꝝ.</orig>
 		       <reg>tuorum.</reg>
 	     </choice> N. 
@@ -68,7 +68,7 @@
 		       <reg>tudine</reg>
 	     </choice> te 
 	<choice>
-		       <seg type="lucas">eor(um)</seg>
+		       <seg type="lucas">eo(rum)</seg>
 		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> societate gau
@@ -197,7 +197,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">DE(us)</seg>
-		       <orig>DE</orig>
+		       <orig>DEꝰ</orig>
 		       <reg>DEus</reg>
 	     </choice> 
 	     <choice>
@@ -223,7 +223,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scoꝝ</orig>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
@@ -239,7 +239,7 @@
 	     </choice> N. 
 	<choice>
 		       <seg type="lucas">sole(m)nitate</seg>
-		       <orig>solēnitate</orig>
+		       <orig>solēpnitate</orig>
 		       <reg>solemnitate</reg>
 	     </choice> letificas
 <lb/>
@@ -272,7 +272,7 @@
  
 	     <choice>
 		       <seg type="lucas">acce(n)dam(ur)</seg>
-		       <orig>accedam݃</orig>
+		       <orig>accēdam݃</orig>
 		       <reg>accendamur</reg>
 	     </choice> exem⸗
 

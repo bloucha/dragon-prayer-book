@@ -88,11 +88,7 @@
 		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
+
 	     <choice>
 		       <seg type="lucas">i(e)r(usa)l(em)</seg>
 		       <orig>irl͘⋮</orig>
@@ -115,8 +111,8 @@
 		       <reg>Responsorium.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sc̄a</orig>
+		       <seg type="lucas">S(an)cta</seg>
+		       <orig>Sct̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice>
       <lb/>maria 
@@ -148,7 +144,7 @@
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">i(m)pet(ra)ta(m)</seg>
-		       <orig>īpeṫtā</orig>
+		       <orig>īpeẗtā</orig>
 		       <reg>impetratam</reg>
 	     </choice>
       <lb/>
@@ -280,7 +276,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ir)g(in)is</seg>
-		       <orig>v̇gis</orig>
+		       <orig>v̇gīs</orig>
 		       <reg>virginis</reg>
 	     </choice> 
 	     <choice>

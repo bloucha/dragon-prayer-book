@@ -48,7 +48,7 @@
 		       <reg>oculi</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">servor(um):</seg>
+		       <seg type="lucas">servo(rum):</seg>
 		       <orig>servoꝝ:</orig>
 		       <reg>servorum:</reg>
 	     </choice> 
@@ -64,12 +64,12 @@
 		       <reg>nibus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">d(omi)nor(um)</seg>
+		       <seg type="lucas">d(omi)no(rum)</seg>
 		       <orig>dnoꝝ</orig>
 		       <reg>dominorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">suor(um).</seg>
+		       <seg type="lucas">suo(rum).</seg>
 		       <orig>suoꝝ.</orig>
 		       <reg>suorum.</reg>
 	     </choice> 
@@ -117,13 +117,13 @@
 	     </choice> ad 
 	<choice>
 		       <seg type="lucas">d(omi)n(um)</seg>
-		       <orig>dn⋮</orig>
+		       <orig>dn̄⋮</orig>
 		       <reg>dominum</reg>
 	     </choice> deum
 <lb/>
 	     <choice>
 		       <seg type="lucas">n(ost)r(u)m</seg>
-		       <orig>nrm</orig>
+		       <orig>nr̄m</orig>
 		       <reg>nostrum</reg>
 	     </choice> donec 
 	<choice>
@@ -186,7 +186,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q̇a</orig>
+		       <orig>Q͘a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>

@@ -12,7 +12,7 @@
       <lb/>Qui 
 	     <choice>
 		       <seg type="lucas">fidu(n)t</seg>
-		       <orig>ɔfidut</orig>
+		       <orig>ɔfidūt</orig>
 		       <reg>fidunt</reg>
 	     </choice> 
 	     <choice>
@@ -57,15 +57,11 @@
 		       <orig>bit݃</orig>
 		       <reg>bitur</reg>
 	     </choice> 
+
 	     <choice>
-		       <seg type="lucas">i(n)</seg>
-		       <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">et(er)nu(m)</seg>
-		       <orig>eṫnū</orig>
-		       <reg>eternum</reg>
+		       <seg type="lucas">i(n)et(er)nu(m)</seg>
+		       <orig>īeṫnū</orig>
+		       <reg>ineternum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
@@ -136,7 +132,7 @@
 	     </choice> sui ex hoc 
 	<choice>
 		       <seg type="lucas">n(un)c</seg>
-		       <orig>nc̄</orig>
+		       <orig>n̄c</orig>
 		       <reg>nunc</reg>
 	     </choice>
       <lb/>
@@ -162,7 +158,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q̇a</orig>
+		       <orig>Q͘a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -187,7 +183,7 @@
 		       <reg>virgam</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
+		       <seg type="lucas">p(ec)c(a)to(rum)</seg>
 		       <orig>pct̄oꝝ</orig>
 		       <reg>peccatorum</reg>
 	     </choice> 
@@ -203,7 +199,7 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">iustor(um):</seg>
+		       <seg type="lucas">iusto(rum):</seg>
 		       <orig>iustoꝝ:</orig>
 		       <reg>iustorum:</reg>
 	     </choice> ut 
@@ -283,8 +279,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">c(um)</seg>
-		       <orig>c̄</orig>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cū</orig>
 		       <reg>cum</reg>
 	     </choice> 
 	     <choice>
@@ -294,7 +290,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)iq(ui)tate(m):</seg>
-		       <orig>īiqtate:</orig>
+		       <orig>īiq̇tatē:</orig>
 		       <reg>iniquitatem:</reg>
 	     </choice> pax
 <lb/>

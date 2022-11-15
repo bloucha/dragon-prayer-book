@@ -44,7 +44,7 @@
 	     </choice> furor
 <lb/>
 	     <choice>
-		       <seg type="lucas">eor(um)</seg>
+		       <seg type="lucas">eo(rum)</seg>
 		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
@@ -98,7 +98,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(er)t(ra)nsiss(et)</seg>
-		       <orig>ꝑẗnsiss</orig>
+		       <orig>ꝑẗnsiss⋮</orig>
 		       <reg>pertransisset</reg>
 	     </choice> 
 	     <choice>
@@ -170,7 +170,7 @@
 		       <reg>tibus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">eor(um).</seg>
+		       <seg type="lucas">eo(rum).</seg>
 		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> 
@@ -276,7 +276,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>= </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

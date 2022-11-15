@@ -38,11 +38,7 @@
 		       <reg>in</reg>
 	     </choice> ad.
 <lb/>into?. 
-	<choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
+
 	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
 		       <orig>yp̄nꝰ.</orig> 
@@ -213,7 +209,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sum(us)</seg>
-		       <orig>sūmꝰ</orig>
+		       <orig>sumꝰ</orig>
 		       <reg>sumus</reg>
 	     </choice>
       <lb/>
@@ -261,7 +257,7 @@
 	     </choice> austro. 
 	<choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q̇</orig>
+		       <orig>Q̇ⁱ</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>

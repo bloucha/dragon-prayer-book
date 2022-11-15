@@ -176,7 +176,7 @@
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">gi(ni)s.</seg>
-		       <orig>gīs.</orig>
+		       <orig>gīs.</orig> <!-- this is the end of the word virginis (see line 157) -->
 		       <reg>ginis.</reg>
 	     </choice>
       <lb/>

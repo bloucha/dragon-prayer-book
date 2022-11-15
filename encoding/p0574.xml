@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">M(agna?)</seg>
-		       <orig>Ɱ̈</orig>
+		       <orig>M̈</orig>
 		       <reg>Magna?</reg>
 	     </choice> 
 	     <choice>
@@ -29,7 +29,7 @@
 	     <choice>
 		       <seg type="lucas">supplica(n?)s</seg>
 		       <orig>supplicās</orig>
-		       <reg>supplican?s<!--  check expansion --></reg>
+		       <reg>supplicans</reg>
 	     </choice> 
       <lb/>assidue 
 	<choice>
@@ -71,7 +71,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(u)lta.</seg>
-		       <orig>mlta.</orig>
+		       <orig>ml͘ta.</orig>
 		       <reg>multa.</reg>
 	     </choice> 
 	     <choice>
@@ -87,7 +87,7 @@
 	     </choice> Iacobi 
 	<choice>
 		       <seg type="lucas">ap(u)li</seg>
-		       <orig>apli</orig>
+		       <orig>apl͘i</orig>
 		       <reg>apuli</reg>
 	     </choice>
       <lb/>ESto 
@@ -99,7 +99,7 @@
 	<choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>tue 
 	<choice>
@@ -135,14 +135,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ </orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">v(er)sat(i)o(n)e</seg>
-		       <orig>v̇satōe</orig>
-		       <reg>versatione</reg>
+		       <orig>ɔv̇satōe</orig>
+		       <reg>conversatione</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
@@ -205,7 +200,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christi)</seg>
-		       <orig>ṙ</orig>
+		       <orig>ẋ</orig>
 		       <reg>christi</reg>
 	     </choice>
 	     <choice>
@@ -238,7 +233,7 @@
 	     <choice>
 		       <seg type="lucas">beat(ri?)cis</seg>
 		       <orig>beaṫcis</orig>
-		       <reg>beatri?cis<!--  check expansion --></reg>
+		       <reg>beatricis</reg>
 	     </choice> 
  
 	     <choice>
@@ -249,8 +244,7 @@
 	     <choice>
 		       <seg type="lucas">sol(m)nitate</seg>
 		       <orig>solēpnitate</orig>
-		       <reg>solmnitate</reg>
-	           <!-- check expansion -->
+		       <reg>solemnitate</reg>
 	     </choice>
    </ab>
 

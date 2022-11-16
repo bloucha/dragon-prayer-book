@@ -51,7 +51,7 @@
 	<choice>
 		       <seg type="lucas">q(ui)d</seg>
 		       <orig>qḋ</orig>
-		       <reg>quid</reg>
+		       <reg>quod</reg>
 	     </choice> docuit. 
 	<choice>
 		       <seg type="lucas">P(er).</seg>
@@ -66,8 +66,8 @@
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">(con)fess(is?).</seg>
-		       <orig>ɔfess͘.</orig>
-		       <reg>confessis?.</reg>
+		       <orig>ɔfesṡ.</orig>
+		       <reg>confessis?. <!-- confessor or confesser? --></reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -180,7 +180,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">cam(ur):</seg>
-		       <orig>cam˸:</orig>
+		       <orig>cam݃:</orig>
 		       <reg>camur:</reg>
 	     </choice> ut 
 	<choice>
@@ -210,14 +210,9 @@
 		       <reg>tuorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">me(m)orat(i)o(n)e</seg>
-		       <orig>mēoratōe</orig>
-		       <reg>memoratione</reg>
+		       <orig>ɔmēoratōe</orig>
+		       <reg>commemoratione</reg>
 	     </choice> letifi⸗
 
 

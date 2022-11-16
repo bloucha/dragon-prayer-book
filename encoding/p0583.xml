@@ -38,13 +38,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">adiuvem(ur):</seg>
-		       <orig>adiuvem˸:</orig>
+		       <orig>adiuvem݃:</orig>
 		       <reg>adiuvemur:</reg>
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">q(ui)d</seg>
 		       <orig>qḋ</orig>
-		       <reg>quid</reg>
+		       <reg>quod</reg>
 	     </choice> pos
 <lb break="no"/>sibilitas 
 	<choice>
@@ -80,7 +80,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">donet(ur).</seg>
-		       <orig>donet˸.</orig>
+		       <orig>donet݃.</orig>
 		       <reg>donetur.</reg>
 	     </choice> 
 	     <choice>
@@ -172,7 +172,7 @@
 	     </choice> suffragiis 
 	<choice>
 		       <seg type="lucas">i(n)vitim(ur)</seg>
-		       <orig>īvitim˸</orig>
+		       <orig>īvitim݃</orig>
 		       <reg>invitimur</reg>
 	     </choice> 
 	     <choice>
@@ -180,25 +180,17 @@
 		       <orig>näli</orig>
 		       <reg>nara?li<!--  check expansion --></reg>
 	     </choice> 
-      <lb break="no"/>ciis 
-	<choice>
-		       <seg type="lucas">gl(ori?)
-	</seg>
-		       <orig>gl͘
-	</orig>
-		       <reg>glori?
-	<!--  check expansion --></reg>
-	     </choice> 
+      <lb break="no"/>ciis  
       <choice>
 		       <seg type="lucas">em(ur).</seg>
-		       <orig>em˸.</orig>
-		       <reg>emur.</reg>
+		       <orig>gl͘em݃.</orig>
+		       <reg>gloriemur.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(er).</seg>
 		       <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
-	     </choice> Cosine? 
+	     </choice> Cosine? <!-- check transcription -->
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+ </orig>
@@ -207,7 +199,7 @@
 	     <choice>
 		       <seg type="lucas">da(m)ia(n)i?</seg>
 		       <orig>dāiāi?</orig>
-		       <reg>damiani?</reg>
+		       <reg>damiani? <!-- check expanstion --></reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -251,7 +243,7 @@
 		       <orig>tuor̈u</orig>
 		       <reg>tuorum</reg>
 	     </choice>
-      <lb/>Cosine? 
+      <lb/>Cosine?  <!-- check transcription -->
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+ </orig>

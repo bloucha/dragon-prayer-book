@@ -96,7 +96,7 @@
       <lb/>N. Ad 
 	<choice>
 		       <seg type="lucas">l(?).</seg>
-		       <orig>l.</orig>
+		       <orig>l͘.</orig>
 		       <reg>l?.<!--  check expansion --></reg>
 	     </choice> 
  
@@ -127,7 +127,7 @@
 		       <reg>et </reg>
 	     </choice> una de 
 	<choice>
-		       <seg type="lucas">mi(sericordi?)o</seg>
+		       <seg type="lucas">nu(mer)o</seg>
 		       <orig>nu̇o</orig>
 		       <reg>numero</reg>
 	     </choice> 
@@ -135,7 +135,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">de(n)tu(m).</seg>
-		       <orig>dētu.</orig>
+		       <orig>dētū.</orig>
 		       <reg>dentum.</reg>
 	     </choice> 
 	     <choice>
@@ -172,7 +172,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vigila(n)te(m)</seg>
-		       <orig>vigilatē</orig>
+		       <orig>vigilātē</orig>
 		       <reg>vigilantem</reg>
 	     </choice> 
 	     <choice>
@@ -189,7 +189,7 @@
  Veni 
 	<choice>
 		       <seg type="lucas">sp(?)osa</seg>
-		       <orig>sp̄osa</orig>
+		       <orig>spōsa</orig>
 		       <reg>sp?osa<!--  check expansion --></reg>
 	     </choice> 
  
@@ -248,7 +248,7 @@
 	     </choice> ecce  
       <choice>
 		       <seg type="lucas">os(us)</seg>
-		       <orig>sposꝰ</orig>
+		       <orig>spōsꝰ</orig>
 		       <reg>sposus</reg>
 	     </choice> venit
 <lb/>exite 

@@ -28,7 +28,7 @@
  
 	     <choice>
 		       <seg type="lucas">se(n)cium(us).</seg>
-		       <orig>sēciumꝰ.</orig>
+		       <orig>sēciamꝰ.</orig>
 		       <reg>senciumus.</reg>
 	     </choice>
       <lb/>
@@ -44,7 +44,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">val(er)ia(n?)i</seg>
-		       <orig>val͘iaī</orig>
+		       <orig>val͘iāi</orig>
 		       <reg>valerian?i</reg>
 	     </choice> 
 	     <choice>
@@ -80,13 +80,13 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōr</orig>
+		       <seg type="lucas">s(an)c(t)o(rum)</seg>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor</orig>
+		       <seg type="lucas">tuo(rum)</seg>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> tiburcii 
 	<choice>
@@ -107,7 +107,7 @@
 	     </choice> maximi 
 	<choice>
 		       <seg type="lucas">sole(m)nia</seg>
-		       <orig>solēnia</orig>
+		       <orig>solēpnia</orig>
 		       <reg>solemnia</reg>
 	     </choice>
       <lb/>
@@ -117,8 +117,8 @@
 		       <reg>colimus;</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor</orig>
+		       <seg type="lucas">eo(rum)</seg>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
@@ -134,7 +134,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">tem(ur).</seg>
-		       <orig>tem˸.</orig>
+		       <orig>tem݃.</orig>
 		       <reg>temur.</reg>
 	     </choice> 
 	     <choice>
@@ -238,15 +238,11 @@
 		       <orig>gr̄e</orig>
 		       <reg>gratie</reg>
 	     </choice> 
+
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">seq(ua)m(ur).</seg>
-		       <orig>seq̈m˸.</orig>
-		       <reg>sequamur.</reg>
+		       <seg type="lucas">(con)seq(ua)m(ur).</seg>
+		       <orig>ɔseq̈m݃.</orig>
+		       <reg>consequamur.</reg>
 	     </choice>
       <lb/>
 	     <choice>

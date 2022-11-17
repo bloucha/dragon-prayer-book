@@ -82,19 +82,11 @@
 		       <seg type="lucas">iuda(m)</seg>
 		       <orig>iudā</orig>
 		       <reg>iudam</reg>
-	     </choice> ad 
-	<choice>
-		       <seg type="lucas">ag(?)
-	</seg>
-		       <orig>aġ
-	</orig>
-		       <reg>ag?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice> ad  
       <choice>
 		       <seg type="lucas">t(i)o(nem)</seg>
-		       <orig>tō⋮</orig>
-		       <reg>tionem</reg>
+		       <orig>aġtō⋮</orig>
+		       <reg>ag?tionem <!-- check expansion --></reg>
 	     </choice> tui
 <lb/>
 	     <choice>
@@ -203,14 +195,9 @@
 	     </choice> tui.
 <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fessio(n)e</seg>
-		       <orig>fessiōe</orig>
-		       <reg>fessione</reg>
+		       <orig>ɔfessiōe</orig>
+		       <reg>confessione</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gl(ori)osa</seg>
@@ -293,7 +280,7 @@
 	     <choice>
 		       <seg type="lucas">m(at)r(?)ti(?)</seg>
 		       <orig>mr̈tī</orig>
-		       <reg>matr?ti?</reg>
+		       <reg>matrti? <!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(?)?</seg>
@@ -310,7 +297,7 @@
 	     <choice>
 		       <seg type="lucas">c(us?)</seg>
 		       <orig>cꝰ</orig>
-		       <reg>cus?</reg>
+		       <reg>cuius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)i(m)a</seg>
@@ -325,7 +312,7 @@
 	<choice>
 		       <seg type="lucas">un(de?)</seg>
 		       <orig>un̄</orig>
-		       <reg>unde?<!--  check expansion --></reg>
+		       <reg>unde</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -340,7 +327,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">leta(n)t(ur)</seg>
-		       <orig>letāt˸</orig>
+		       <orig>letāt݃</orig>
 		       <reg>letantur</reg>
 	     </choice> 
 	     <choice>

@@ -50,16 +50,16 @@
 	     <choice>
 		       <seg type="lucas">(con)</seg>
 		       <orig>ɔ</orig>
-		       <reg>con</reg>
+		       <reg>con</reg><!-- are these connected -->
 	     </choice>
 	     <choice>
 		       <seg type="lucas">seq(ua)m(ur):</seg>
-		       <orig>seq̈m˸:</orig>
+		       <orig>seq̈m݃</orig>
 		       <reg>sequamur:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q̇</orig>
+		       <orig>Q͘</orig>
 		       <reg>Qui</reg>
 	     </choice> vi. Heinrici.
 <lb/>ADesto 
@@ -102,7 +102,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(er)a(n)de</seg>
-		       <orig>spāde</orig>
+		       <orig>sꝑāde</orig>
 		       <reg>sperande</reg>
 	     </choice> pietatis 
 	<choice>
@@ -187,7 +187,7 @@
 	     </choice> alexi⸗                
 	<choice>
 		       <seg type="lucas">fess(is).</seg>
-		       <orig>fess.</orig>
+		       <orig>fess͘.</orig>
 		       <reg>fessis.</reg>
 	     </choice>
       <lb/>o 
@@ -273,7 +273,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">muniam(ur)</seg>
-		       <orig>muniam˸</orig>
+		       <orig>muniam݃</orig>
 		       <reg>muniamur</reg>
 	     </choice>
    </ab>

@@ -19,7 +19,7 @@
 	     <choice>
 		       <seg type="lucas">(con)</seg>
 		       <orig>ɔ</orig>
-		       <reg>con</reg>
+		       <reg>con</reg><!-- are these two connected -->
 	     </choice>
 	     <choice>
 		       <seg type="lucas">fessio(n)ib(us)</seg>
@@ -65,7 +65,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">imitat(i)o(n)e</seg>
-		       <orig>imitȧtōe</orig>
+		       <orig>imitatōe</orig>
 		       <reg>imitatione</reg>
 	     </choice> 
 	     <choice>
@@ -91,7 +91,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gaude(re):</seg>
-		       <orig>gaudė:</orig>
+		       <orig>gauḋe:</orig>
 		       <reg>gaudere:</reg>
 	     </choice> 
 	     <choice>
@@ -169,7 +169,7 @@
 	     </choice> pauli 
 	<choice>
 		       <seg type="lucas">m(at)rio</seg>
-		       <orig>mr̈io</orig>
+		       <orig>m̈rio</orig>
 		       <reg>matrio</reg>
 	     </choice> 
 	     <choice>
@@ -258,7 +258,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(ea)t(u)m</seg>
-		       <orig>bt̄m</orig>
+		       <orig>btm̄</orig>
 		       <reg>beatum</reg>
 	     </choice> pe
 <lb break="no"/>
@@ -290,10 +290,10 @@
 	</orig>
 		       <reg>m?ge?
 	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice> <!-- are these connected -->
       <choice>
 		       <seg type="lucas">t(ur)</seg>
-		       <orig>t˸</orig>
+		       <orig>t݃</orig>
 		       <reg>tur</reg>
 	     </choice> erexit: 
 	<choice>
@@ -303,7 +303,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">coap(u)l(um)?</seg>
-		       <orig>coapl⋮?</orig>
+		       <orig>coapl͘⋮</orig>
 		       <reg>coapulum?</reg>
 	     </choice>
       <lb/>
@@ -330,7 +330,7 @@
       <lb/>de 
 	<choice>
 		       <seg type="lucas">p(ro)fu(n)do</seg>
-		       <orig>pfūdo</orig>
+		       <orig>ꝓfūdo</orig>
 		       <reg>profundo</reg>
 	     </choice> pelagi 
 	<choice>

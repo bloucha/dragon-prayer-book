@@ -112,7 +112,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">m(ur);</seg>
-		       <orig>m˸;</orig>
+		       <orig>m݃;</orig>
 		       <reg>mur;</reg>
 	     </choice> 
 	     <choice>
@@ -124,16 +124,16 @@
 	     <choice>
 		       <seg type="lucas">(con)</seg>
 		       <orig>ɔ</orig>
-		       <reg>con</reg>
+		       <reg>con</reg><!-- are these two connected -->
 	     </choice>
 	     <choice>
 		       <seg type="lucas">seq(ua)m(ur).</seg>
-		       <orig>seq̈m˸.</orig>
+		       <orig>seq̈m݃.</orig>
 		       <reg>sequamur.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q̇</orig>
+		       <orig>Q͘</orig>
 		       <reg>Qui</reg>
 	     </choice> vi. 
 	<choice>
@@ -181,7 +181,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">tifice(m)</seg>
-		       <orig>tificē</orig>
+		       <orig>tific̄e</orig>
 		       <reg>tificem</reg>
 	     </choice> 
 	     <choice>
@@ -223,7 +223,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
+		       <orig>ɔ</orig> <!-- are these two connected -->
 		       <reg>con</reg>
 	     </choice>
 	     <choice>
@@ -254,7 +254,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">imitem(ur)</seg>
-		       <orig>imitem˸</orig>
+		       <orig>imitem݃</orig>
 		       <reg>imitemur</reg>
 	     </choice> ex
 <lb break="no"/>
@@ -286,7 +286,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q?</orig>
+		       <orig>qm?</orig>
 		       <reg>qui</reg>
 	           <!-- looks like "qui" just written out? -->
 	     </choice> nos                ani 
@@ -298,7 +298,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōꝝ</orig>
+		       <orig>sc̄oꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>

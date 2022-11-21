@@ -54,7 +54,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">m(ur).</seg>
-		       <orig>m˸.</orig>
+		       <orig>m݃.</orig>
 		       <reg>mur.</reg>
 	     </choice> 
 	     <choice>
@@ -240,7 +240,7 @@
       <lb/>s.s.
 	<choice>
 		       <seg type="lucas">p(ro)clama(n)t.</seg>
-		       <orig>pclamāt.</orig>
+		       <orig>ꝓclamāt.</orig>
 		       <reg>proclamant.</reg>
 	     </choice> 
 	     <choice>
@@ -330,10 +330,10 @@
 	</orig>
 		       <reg>mi?
 	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice> <!-- are these connected -->
       <choice>
 		       <seg type="lucas">st(er)ia</seg>
-		       <orig>sti̇a</orig>
+		       <orig>sṫi̇a</orig>
 		       <reg>steria</reg>
 	     </choice> 
 	     <choice>
@@ -342,7 +342,7 @@
 		       <orig>ho
 	</orig>
 		       <reg>ho?
-	<!--  check expansion --></reg>
+	<!--  check expansion --></reg><!-- are these connected -->
 	     </choice> 
       <choice>
 		       <seg type="lucas">imq(ue)</seg>

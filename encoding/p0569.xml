@@ -94,16 +94,16 @@
 		       <seg type="lucas">atq(ue)</seg>
 		       <orig>atq⋮</orig>
 		       <reg>atque</reg>
-	     </choice> pō(n0
-       <!-- weird coding right here -->
-	<choice>
-		       <seg type="lucas">tifice(m)</seg>
-		       <orig>tificē</orig>
-		       <reg>tificem</reg>
-	     </choice> 
+	     </choice>
+       <choice>
+           <seg type="lucas">po(?)tifice(m)</seg>
+           <orig>pōtificē</orig>
+           <reg>po(?)tificem</reg>
+       </choice>
+
 	     <choice>
 		       <seg type="lucas">eccl(esi)e</seg>
-		       <orig>ecclė</orig>
+		       <orig>eccl͘e</orig>
 		       <reg>ecclesie</reg>
 	     </choice>
       <lb/>tue 
@@ -199,7 +199,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōꝝ</orig>
+		       <orig>sc̄oꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> mar
 <lb break="no"/>ti 
@@ -254,12 +254,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)t(er)cessio(n)ib(us)</seg>
-		       <orig>ītcessiōib⋮</orig>
+		       <orig>īṫcessiōib⋮</orig>
 		       <reg>intercessionibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">lib(er)em(ur).</seg>
-		       <orig>liḃem˸.</orig>
+		       <orig>liḃem݃.</orig>
 		       <reg>liberemur.</reg>
 	     </choice>
       <lb/>

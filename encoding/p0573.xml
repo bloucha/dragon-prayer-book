@@ -18,7 +18,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">dim(ur)</seg>
-		       <orig>dim˸</orig>
+		       <orig>dim݃</orig>
 		       <reg>dimur</reg>
 	     </choice> 
 	     <choice>
@@ -122,7 +122,7 @@
 		       <orig>ꝑ
 	</orig>
 		       <reg>par?
-	<!--  check expansion --></reg>
+	<!--  check expansion --></reg><!-- are these connected -->
 	     </choice> 
       <choice>
 		       <seg type="lucas">te(m)</seg>
@@ -137,7 +137,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">aude(re)t(ur)</seg>
-		       <orig>audėẗ</orig>
+		       <orig>audėt݃</orig>
 		       <reg>auderetur</reg>
 	     </choice> ab ea. 
 	<choice>
@@ -165,7 +165,7 @@
  
 	     <choice>
 		       <seg type="lucas">p(ate)r:</seg>
-		       <orig>pr:</orig>
+		       <orig>pr̄:</orig>
 		       <reg>pater:</reg>
 	     </choice> 
 	     <choice>
@@ -201,13 +201,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ihesu(m)</seg>
-		       <orig>ihesu̇</orig>
+		       <orig>ihesū</orig>
 		       <reg>ihesum</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(christu)m</seg>
-		       <orig>rp̄m</orig>
+		       <orig>xp̄m</orig>
 		       <reg>christum</reg>
 	     </choice> 
 	     <choice>

@@ -42,7 +42,7 @@
 		       <orig>mīst
 	</orig>
 		       <reg>min?stra?
-	<!--  check expansion --></reg>
+	<!--  check expansion --></reg><!-- are these connected -->
 	     </choice> 
       <choice>
 		       <seg type="lucas">ntib(us)</seg>
@@ -61,7 +61,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">assistit(ur);</seg>
-		       <orig>assistit˸;</orig>
+		       <orig>assistit݃;</orig>
 		       <reg>assistitur;</reg>
 	     </choice>
       <lb/>ab hiis 
@@ -88,7 +88,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">at(ur).</seg>
-		       <orig>at˸.</orig>
+		       <orig>at݃.</orig>
 		       <reg>atur.</reg>
 	     </choice> 
 	     <choice>
@@ -109,7 +109,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>Ds</orig>
+		       <orig>D͘s</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -145,7 +145,7 @@
 	     </choice> fetu nove 
 	<choice>
 		       <seg type="lucas">p(ro)l(is?)</seg>
-		       <orig>pl͘</orig>
+		       <orig>ꝓl͘</orig>
 		       <reg>prolis?</reg>
 	     </choice> 
 	     <choice>
@@ -273,7 +273,7 @@
       <lb break="no"/>ce; 
 	<choice>
 		       <seg type="lucas">supplicat(i)o(n)es</seg>
-		       <orig>supplicatoes</orig>
+		       <orig>supplicatōes</orig>
 		       <reg>supplicationes</reg>
 	     </choice> 
 	     <choice>
@@ -299,14 +299,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">S(?)</seg>
-		       <orig>Ṡ</orig>
+		       <orig>S͘</orig>
 		       <reg>S?</reg>
 	     </choice> gii 
 	<choice>
-		       <seg type="lucas">bachior(?).
+		       <seg type="lucas">bachior(um?).
 
 </seg>
-		       <orig>bachior⋮.
+		       <orig>bachior̄⋮.
 
 </orig>
 		       <reg>bachior?.

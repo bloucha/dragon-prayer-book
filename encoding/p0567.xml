@@ -65,7 +65,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">lib(er)em(ur)</seg>
-		       <orig>liḃem˸</orig>
+		       <orig>liḃem݃</orig>
 		       <reg>liberemur</reg>
 	     </choice> 
 	     <choice>
@@ -81,7 +81,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ra)nq(ui)lla</seg>
-		       <orig>t̄nqlla</orig>
+		       <orig>ẗnqlla</orig>
 		       <reg>tranquilla</reg>
 	     </choice> 
 	     <choice>
@@ -102,7 +102,7 @@
 	     </choice> laude 
 	<choice>
 		       <seg type="lucas">letem(ur).</seg>
-		       <orig>letem˸.</orig>
+		       <orig>letem݃.</orig>
 		       <reg>letemur.</reg>
 	     </choice> 
 	     <choice>
@@ -160,7 +160,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">r(um)</seg>
-		       <orig>r</orig>
+		       <orig>ꝝ</orig>
 		       <reg>rum</reg>
 	     </choice> 
 	     <choice>
@@ -170,7 +170,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> Marcellini?
 <lb/>
@@ -186,7 +186,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sole(m)nitate</seg>
-		       <orig>solēnitate</orig>
+		       <orig>solēpnitate</orig>
 		       <reg>solemnitate</reg>
 	     </choice> 
 	     <choice>
@@ -224,7 +224,7 @@
  
 	     <choice>
 		       <seg type="lucas">p(ro)vocem(ur)</seg>
-		       <orig>pvocem˸</orig>
+		       <orig>ꝓvocem݃</orig>
 		       <reg>provocemur</reg>
 	     </choice> 
 	     <choice>
@@ -273,7 +273,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)o</seg>
-		       <orig>scō</orig>
+		       <orig>sc̄o</orig>
 		       <reg>sancto</reg>
 	     </choice>
       <lb break="no"/>
@@ -284,7 +284,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuorꝝ</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> 
 	     <choice>

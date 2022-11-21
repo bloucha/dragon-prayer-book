@@ -90,8 +90,7 @@
 	     <choice>
 		       <seg type="lucas">a(d)nu(n)</seg>
 		       <orig>ānū</orig>
-		       <reg>adnun</reg>
-	           <!-- there is a hole in the paper -->
+		       <reg>adnun</reg>	           
 	     </choice> 
       <gap reason="damage"/> tiabit lau
 <lb break="no"/>
@@ -107,7 +106,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -129,7 +128,7 @@
 	<choice>
 		       <seg type="lucas">adivua(n)d(er?).</seg>
 		       <orig>adivuāḋ.</orig>
-		       <reg>adivuander?.</reg>
+		       <reg>adivuandum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Gl(ori)a</seg>
@@ -174,18 +173,15 @@
 		       <reg>adoremus.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">y(?)p(us)
-	</seg>
-		       <orig>ȳpꝰ.
-	</orig>
-		       <reg>y?pus
-	<!--  check expansion, hymnus --></reg>
+		       <seg type="lucas">y(?)p(us)</seg>
+		       <orig>ȳpꝰ.</orig>
+		       <reg>hymnus</reg>
 	     </choice> 
  
       <lb/>VEnite 
 	<choice>
 		       <seg type="lucas">exulte(mus)</seg>
-		       <orig>exultēꝰ</orig>
+		       <orig>exultēꝰ</orig> 
 		       <reg>exultemus</reg>
 	     </choice> 
 	     <choice>
@@ -198,12 +194,12 @@
 		       <seg type="lucas">iubile(mus)</seg>
 		       <orig>iubilēꝰ</orig>
 		       <reg>iubilemus</reg>
-	     </choice> deo †salutari 
+	     </choice>  <supplied>salutari 
 	<choice>
 		       <seg type="lucas">n(ost)ro†</seg>
-		       <orig>nr̄o†</orig>
-		       <reg>nostro†</reg>
-	     </choice>
+		       <orig>nr̄o</orig>
+		       <reg>nostro</reg>
+	</choice></supplied>
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(re)occupem(us)</seg>
@@ -214,7 +210,7 @@
 		       <seg type="lucas">facie(m)</seg>
 		       <orig>faciē</orig>
 		       <reg>faciem</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">ei(us)</seg>
 		       <orig>eiꝰ</orig>
@@ -227,9 +223,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">co(n)⸗†</seg>
-		       <orig>cō⸗†</orig>
-		       <reg>con⸗†</reg>
-	     </choice>
+		       <orig>cō⸗</orig>
+		       <reg>con⸗</reg>
+	     </choice></supplied>
    </ab>
 
    <ab type="translation"

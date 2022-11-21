@@ -55,7 +55,7 @@
 	     </choice>
       <lb/>tuos 
 	<choice>
-	      	       <seg type="lucas">s(u)bsidys</seg>
+	      	  <seg type="lucas">s(u)bsidys</seg>
 		       <orig>sb͘sidys</orig>
 		       <reg>subsidys</reg>
 	     </choice> pacis :
@@ -86,16 +86,11 @@
 		       <reg>patro</reg>
 	     </choice>
       <lb break="no"/>cinys 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fide(n)tes</seg>
-		       <orig>fidētes</orig>
-		       <reg>fidentes</reg>
-	     </choice> ; a 
+		       <orig>ɔfidētes;</orig>
+		       <reg>confidentes;</reg>
+	     </choice> a 
 	<choice>
 		       <seg type="lucas">cu(n)ctis</seg>
 		       <orig>cūctis</orig>
@@ -122,7 +117,11 @@
 		       <seg type="lucas">d(omi)ne</seg>
 		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
-	     </choice> Oro. 
+	     </choice> 
+         <choice>
+               <orig>Or̄o.</orig>
+               <reg>Oratio.</reg>
+         </choice> 
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(re)ces</seg>
@@ -159,9 +158,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">univ(er)sis</seg>
-		       <orig>univ̇sis</orig>
-		       <reg>universis</reg>
-	     </choice> ; 
+		       <orig>univ̇sis;</orig>
+		       <reg>universis;</reg>
+	     </choice>  
 <lb/>
 	     <choice>
 		       <seg type="lucas">sec(ur)a</seg>
@@ -170,14 +169,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>t͘</orig>
+		       <orig>ṫ</orig>
 		       <reg>tibi</reg>
 	     </choice> serviat 
 	<choice>
 		       <seg type="lucas">lib(er)tate</seg>
-		       <orig>lib͘tate</orig>
-		       <reg>libertate</reg>
-	     </choice> : 
+		       <orig>lib͘tate:</orig>
+		       <reg>libertate:</reg>
+	     </choice>  
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
@@ -213,7 +212,7 @@
 	     <choice>
 		       <seg type="lucas">p(i?)latos</seg>
 		       <orig>p̄latos</orig>
-		       <reg>pi?latos<!--  check expansion --></reg>
+		       <reg>prelatos??<!--  check expansion, can't find solution online --></reg>
 	     </choice> 
  
 	     <choice>

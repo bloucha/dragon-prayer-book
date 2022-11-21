@@ -14,20 +14,11 @@
 		       <seg type="lucas">d(e?)o</seg>
 		       <orig>dȯ</orig>
 		       <reg>de?o<!--  check expansion --></reg>
-	     </choice> 
- 
-	     <choice>
-		       <seg type="lucas">p(re?)
-	</seg>
-		       <orig>p
-	</orig>
-		       <reg>pre?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">p(er)a(n)tis</seg>
-		       <orig>ꝑātis</orig>
-		       <reg>perantis</reg>
+		       <orig>pꝑātis</orig>
+		       <reg>preperantis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">c(ir)vos;</seg>
@@ -41,19 +32,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">r(e)velabit</seg>
-		       <orig>r¨velabit</orig>
+		       <orig>r̈velabit</orig>
 		       <reg>revelabit</reg>
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ᴐ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">de(n)sa:</seg>
-		       <orig>dēsa:</orig>
-		       <reg>densa:</reg>
+		       <orig>ɔdēsa:</orig>
+		       <reg>condensa:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -155,7 +141,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">do(minus)</seg>
-		       <orig>doᵒ</orig>
+		       <orig>doꝰ</orig>
 		       <reg>dominus</reg>
 	     </choice>
       <lb/>
@@ -177,7 +163,7 @@
 <lb/>EXaltabo te 
 	<choice>
 		       <seg type="lucas">do(mine)</seg>
-		       <orig>doᵒ</orig>
+		       <orig>doᵉ</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
@@ -195,7 +181,10 @@
 		       <seg type="lucas">d(e)l(i)ca(n?)sti</seg>
 		       <orig>ḋlc̄asti</orig>
 		       <reg>delican?sti</reg>
-	     </choice> i*n)imicos
+	     </choice> <choice>
+	         <orig>īimico</orig>
+	         <reg>inimicio</reg>
+	     </choice>
 <lb/>
 	     <choice>
 		       <seg type="lucas">m(e)os</seg>
@@ -224,7 +213,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cla(ma)</seg>
-		       <orig>cla¨</orig>
+		       <orig>clä</orig>
 		       <reg>clama</reg>
 	     </choice>
       <lb break="no"/>ci ad te: 
@@ -292,14 +281,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ᴐ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fitemi(ni)</seg>
-		       <orig>fitemī</orig>
-		       <reg>fitemini</reg>
+		       <orig>ɔfitemī</orig>
+		       <reg>confitemini</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -330,7 +314,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)dig(na)t(i)o(n)e</seg>
-		       <orig>idig¨tōe</orig>
+		       <orig>idig̈tōe</orig>
 		       <reg>indignatione</reg>
 	     </choice> 
 	     <choice>

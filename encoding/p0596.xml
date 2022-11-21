@@ -31,14 +31,9 @@
 		       <reg>eternum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ᴐ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fitebo(r)</seg>
-		       <orig>fitebȯ</orig>
-		       <reg>fitebor</reg>
+		       <orig>ɔfitebȯ</orig>
+		       <reg>confitebor</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi).</seg>
@@ -47,7 +42,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(?)</seg>
-		       <orig>p¨</orig>
+		       <orig>p̈</orig>
 		       <reg>p?</reg>
 	     </choice> In
 <lb/>te 
@@ -111,7 +106,7 @@
 	     <choice>
 		       <seg type="lucas">nova(m)</seg>
 		       <orig>novā</orig>
-		       <reg>novam</reg>
+		       <reg>novam <!-- looks like nonam?? --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">excla(ma)vit</seg>
@@ -126,8 +121,8 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">mag(Na)</seg>
-		       <orig>mag¨</orig>
-		       <reg>magNa</reg>
+		       <orig>mag̈</orig>
+		       <reg>magna</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
@@ -142,7 +137,7 @@
 	<choice>
 		       <seg type="lucas">q(ui)d</seg>
 		       <orig>q̇d</orig>
-		       <reg>quid</reg>
+		       <reg>quod</reg>
 	     </choice> me 
 	<choice>
 		       <seg type="lucas">de(re)li</seg>
@@ -177,11 +172,6 @@
 		       <reg>Cum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(er)</seg>
-		       <orig/>
-		       <reg>er</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">g(o)</seg>
 		       <orig>gᵒ</orig>
 		       <reg>go</reg>
@@ -197,15 +187,10 @@
 		       <reg>acetum?<!--  check expansion --></reg>
 	     </choice> 
       <lb/>dixit 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ᴐ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">su(m)matu(m)</seg>
-		       <orig>sūmatū</orig>
-		       <reg>summatum</reg>
+		       <orig>ɔsūmatū</orig>
+		       <reg>consummatum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st).</seg>
@@ -214,7 +199,7 @@
 	     </choice> Et. 
 	<choice>
 		       <seg type="lucas">a(lleluia?)</seg>
-		       <orig>a¨</orig>
+		       <orig>ä</orig>
 		       <reg>alleluia?</reg>
 	     </choice> Cri
 <lb break="no"/>
@@ -326,7 +311,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ua?)</seg>
-		       <orig>q¨</orig>
+		       <orig>q̈</orig>
 		       <reg>qua?</reg>
 	     </choice> 
 	     <choice>
@@ -346,7 +331,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christus) </seg>
-		       <orig>rꝰ </orig>
+		       <orig>xꝰ </orig>
 		       <reg>christus </reg>
 	     </choice> 
 	     <choice>

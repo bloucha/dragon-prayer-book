@@ -143,14 +143,14 @@
             </choice>
             <lb/>
             <choice>
-                  <seg type="lucas">ps(alm?).</seg>
+                  <seg type="lucas">ps(alm).</seg>
                   <orig>p̄s.</orig>
-                  <reg>psalm?.<!--  check expansion --></reg>
+                  <reg>psalm.<!--  check expansion --></reg>
             </choice>
             <choice>
                   <seg type="lucas">a(lleluia?).</seg>
                   <orig>ā.</orig>
-                  <reg>alleluia?.<!--  check expansion --></reg>
+                  <reg>alleluia.<!--  check expansion --></reg>
             </choice>
             <choice>
                   <seg type="lucas">Co(m)pleti</seg>

@@ -28,7 +28,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -174,9 +174,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
-		       <orig>ḋs</orig>
-		       <reg>deus</reg>
-	     </choice> : 
+		       <orig>ḋs:</orig>
+		       <reg>deus:</reg>
+	     </choice>  
 	<choice>
 	    <seg type="lucas">(con)fiteant(ur)</seg>
 	    <orig>ɔfiteant݃</orig>

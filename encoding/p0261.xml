@@ -120,7 +120,7 @@
             </choice> Zu <choice>
                   <seg type="lucas">d(eo?)</seg>
                   <orig>ḋ</orig>
-                  <reg>deo?</reg>
+                  <reg>dem</reg>
             </choice>
             <choice>
                   <seg type="lucas">(con)plet</seg>
@@ -130,11 +130,11 @@
             <lb/>an <choice>
                   <seg type="lucas">de(r?)</seg>
                   <orig>dē</orig>
-                  <reg>der?</reg>
+                  <reg>der</reg>
             </choice> ivonacht <choice>
                   <seg type="lucas">abe(?)t</seg>
                   <orig>abēt</orig>
-                  <reg>abe?t<!--  check expansion --></reg>
+                  <reg>abent</reg>
             </choice>
             <choice>
                   <seg type="lucas">s(upe?)r</seg>
@@ -300,8 +300,9 @@
             and let Thy blessing be always upon us.
             Through Christ our Lord. Amen. <!-- linked in doc choral wiki. --> Jesus Christ. 
             May the blessing of Almighty God, the Father, and the Son, and the Holy Spirit, come down on you and remain with you forever.
-            <!-- linked in doc. blessing at papal "urbi et orbi" speeches --> Zu deo complet
-            an der ivonacht abe(?)t. <!-- german that needs discussion. --> On the psalm. <!-- my translation. unsure --> Alleluia. 
+            <!-- linked in doc. blessing at papal "urbi et orbi" speeches --> Zu dem complet
+            an der ivonacht abent. <!-- "To this prayer (i.e. the completi/"accomplished" prayer below) 
+                  on the evening of "ivonacht" -check ivonacht; I think it's Christmas--> On the psalm. <!-- my translation. unsure --> Alleluia. 
             The days of Mary were accomplished that she should bring forth her first-born Son. <!-- linked in doc. choral wiki -->
             At the current day. Antiphon. Behold, all that was said by the angel about the virgin Mary has been fulfilled. <!-- google translate. -->
             Through the octave. On the psalm. This day is born to us a Saviour, who is Christ the Lord, in the city of David. <!-- drb luke 2:11 --></ab>

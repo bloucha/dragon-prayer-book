@@ -52,6 +52,7 @@
 		       <reg>dominum</reg>
 	     </choice> 
 	     <choice>
+
 		       <seg type="lucas">(con)</seg>
 		       <orig>ɔ</orig>
 		       <reg>con</reg>
@@ -60,6 +61,11 @@
 		       <seg type="lucas">fit(er)i</seg>
 		       <orig>fiṫi</orig>
 		       <reg>fiteri</reg>
+
+		       <seg type="lucas">fit(er)i</seg>
+		       <orig>ɔfiti</orig>
+		       <reg>confiteri</reg>
+
 	     </choice>
       <lb/>
 	     <choice>
@@ -73,6 +79,7 @@
 		       <reg>veritate</reg>
 	     </choice> 
 	     <choice>
+
 		       <seg type="lucas">(con)</seg>
 		       <orig>ɔ</orig>
 		       <reg>con</reg>
@@ -81,6 +88,10 @@
 		       <seg type="lucas">pellim(ur):</seg>
 		       <orig>pellim݃:</orig>
 		       <reg>pellimur:</reg>
+	           
+		       <seg type="lucas">pellim(ur):</seg>
+		       <orig>ɔpellim݃:</orig>
+		       <reg>compellimur:</reg>
 	     </choice>
       <lb/>ita tres 
 	<choice>
@@ -100,7 +111,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dic(er)e</seg>
-		       <orig>dic̄e</orig>
+		       <orig>dicė</orig>
 		       <reg>dicere</reg>
 	     </choice>
       <lb/>katholica 

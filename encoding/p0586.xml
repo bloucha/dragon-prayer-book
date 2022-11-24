@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)or(um)</seg>
-		       <orig>Scoꝝ</orig>
+		       <orig>Scōꝝ</orig>
 		       <reg>Sanctorum</reg>
 	     </choice> 
 	     <choice>
@@ -55,7 +55,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">seq(ua)nt(ur);</seg>
-		       <orig>seq̈nt˸;</orig>
+		       <orig>seq̈nt݃;</orig>
 		       <reg>sequantur;</reg>
 	     </choice> 
 	     <choice>
@@ -86,7 +86,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">S(?).</seg>
-		       <orig>S.</orig>
+		       <orig>Ṡ.</orig>
 		       <reg>S?.<!--  check expansion --></reg>
 	     </choice> 
  dioni
@@ -185,7 +185,7 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>+ </orig>
 		       <reg>et </reg>
-	     </choice> ele?
+	     </choice> ele?<!-- connected to thiu? -->
 	<choice>
 		       <seg type="lucas">th(er)iu(m).sociare</seg>
 		       <orig>tḣiū.sociare</orig>
@@ -241,7 +241,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">despic(er)e;</seg>
-		       <orig>ḋespicė;</orig>
+		       <orig>despicė;</orig>
 		       <reg>despicere;</reg>
 	     </choice> 
 	     <choice>

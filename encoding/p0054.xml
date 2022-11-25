@@ -313,11 +313,12 @@
 		       <orig>at̄</orig>
 		       <reg>autem</reg>
 	     </choice> 
-	     <choice>
+         <supplied> <choice> 
 		       <seg type="lucas">p(o)p(u)lus</seg>
 		       <orig>ppl͘us</orig>
 		       <reg>populus</reg>
 	     </choice>
+	     </supplied>
       <lb/>
 	     <choice>
 		       <seg type="lucas">ei(us)</seg>

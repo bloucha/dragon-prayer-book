@@ -187,7 +187,7 @@
 	     </choice> surgite 
 	<choice>
 		       <seg type="lucas">postq(uam)</seg>
-		       <orig>postq̈</orig> <!-- quam -->
+		       <orig>postɋ̈</orig> <!-- quam -->
 		       <reg>postquam</reg>
 	     </choice> sede
 <lb break="no"/>ritis 
@@ -236,7 +236,7 @@
 	     </choice> filii 
 	<choice>
 		       <seg type="lucas">m(er)ces</seg>
-		       <orig>m̄ces</orig>
+		       <orig>ṁces</orig>
 		       <reg>merces</reg>
 	     </choice> 
 	     <choice>
@@ -246,7 +246,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ve(n)t(ri)s.</seg>
-		       <orig>veṫs.</orig>
+		       <orig>vēṫs.</orig>
 		       <reg>ventris.</reg>
 	     </choice>
    </ab>

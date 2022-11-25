@@ -33,7 +33,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uesumu)s.</seg>
-		       <orig>q̇s.</orig>
+		       <orig>q̄s.</orig>
 		       <reg>quesumus.</reg>
 	     </choice> 
 	     <choice>
@@ -85,7 +85,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Vital(is)</seg>
-		       <orig>Vital̇</orig>
+		       <orig>Vital̇͘</orig>
 		       <reg>Vitalis</reg>
 	     </choice> 
 	     <choice>
@@ -95,7 +95,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">or(ati?)o.</seg>
-		       <orig>or̈o.</orig>
+		       <orig>or̄o.</orig>
 		       <reg>orati?o.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -164,7 +164,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">m(ur)</seg>
-		       <orig>m˸</orig>
+		       <orig>m݃</orig>
 		       <reg>mur</reg>
 	     </choice> 
 	     <choice>
@@ -196,7 +196,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mu(n)dem(ur)</seg>
-		       <orig>mūdem</orig>
+		       <orig>mūdem݃</orig>
 		       <reg>mundemur</reg>
 	     </choice> 
 	     <choice>
@@ -230,7 +230,7 @@
 	     </choice> 
       <choice>
 		       <seg type="lucas">r(um)q(ue)</seg>
-		       <orig>rq⋮</orig>
+		       <orig>ꝝq⋮</orig>
 		       <reg>rumque</reg>
 	     </choice> 
 	     <choice>
@@ -267,12 +267,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōr</orig>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> 
 	     <choice>
@@ -320,7 +320,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice>
       <lb/>
@@ -331,7 +331,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">liberem(ur):</seg>
-		       <orig>liberem˸:</orig>
+		       <orig>liberem݃:</orig>
 		       <reg>liberemur:</reg>
 	     </choice> 
 	     <choice>

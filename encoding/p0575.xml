@@ -17,7 +17,7 @@
 	     </choice> ita 
 	<choice>
 		       <seg type="lucas">p(er)fruat(ur)</seg>
-		       <orig>ꝑfruat˸</orig>
+		       <orig>ꝑfruat݃</orig>
 		       <reg>perfruatur</reg>
 	     </choice> 
 	     <choice>
@@ -42,14 +42,9 @@
 		       <reg>celebrat</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">p(re)he(n)dat</seg>
-		       <orig>p̄hēdat</orig>
-		       <reg>prehendat</reg>
+		       <orig>ɔp̄hēdat</orig>
+		       <reg>conprehendat</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -69,13 +64,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">se(n)†ne(m)†</seg>
-		       <orig>sē†nē†</orig>
-		       <reg>sen†nem†</reg>
+		       <orig>sē<supplied>nē</supplied></orig>
+		       <reg>sen<supplied>nem</supplied></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">or(ati?)o</seg>
 		       <orig>or̄o</orig>
-		       <reg>orati?o<!--  check expansion --></reg>
+		       <reg>oratio</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -100,7 +95,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig>ɔ</orig>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>
@@ -138,7 +133,7 @@
 	     <choice>
 		       <seg type="lucas">gr(ati?)e</seg>
 		       <orig>gr̄e</orig>
-		       <reg>grati?e<!--  check expansion --></reg>
+		       <reg>gratie</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -191,7 +186,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">me(re)am(ur)</seg>
-		       <orig>mėam˸</orig>
+		       <orig>mėam݃</orig>
 		       <reg>mereamur</reg>
 	     </choice> 
 	     <choice>
@@ -224,7 +219,7 @@
 	     <choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>

@@ -18,11 +18,11 @@
 	<choice>
 		       <seg type="lucas">vesp(er)(?)</seg>
 		       <orig>vesꝑ⋮</orig>
-		       <reg>vesper?</reg>
+		       <reg>vesper? <!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">de(m)orabi(ur)</seg>
-		       <orig>dēorabi˸</orig>
+		       <orig>dēorabi݃</orig>
 		       <reg>demorabiur</reg>
 	     </choice> 
 	     <choice>
@@ -53,14 +53,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(ab)</seg>
-		       <orig>hꜧ</orig>
-		       <reg>ab</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">unda(n)cia</seg>
-		       <orig>ūndācia</orig>
-		       <reg>undancia</reg>
+		       <orig>hūndācia</orig>
+		       <reg>abundancia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(e)a:</seg>
@@ -108,7 +103,7 @@
 		       <orig>p̄s</orig>
 		       <reg>pres</reg>
 	     </choice>
-      <lb break="no"/>†tit†isti 
+      <lb break="no"/><supplied>tit</supplied>isti 
 	<choice>
 		       <seg type="lucas">deco(r?)i</seg>
 		       <orig>decȯi</orig>
@@ -163,8 +158,8 @@
 	     </choice>
 	     <choice>
 		       <seg type="lucas">t(ur)bat(us).</seg>
-		       <orig>t̄batꝰ.</orig>
-		       <reg>turbatus.</reg>
+		       <orig>ɔt݃batꝰ.</orig>
+		       <reg>conturbatus.</reg>
 	     </choice>
       <lb/>Ad te 
 	<choice>
@@ -174,7 +169,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cla(ma)bo:</seg>
-		       <orig>cla¨bo:</orig>
+		       <orig>cläbo:</orig>
 		       <reg>clamabo:</reg>
 	     </choice> 
 	     <choice>
@@ -234,7 +229,7 @@
 	     <choice>
 		       <seg type="lucas">Nu(m)q(ui)d</seg>
 		       <orig>Nūq̇d</orig>
-		       <reg>Numquid</reg>
+		       <reg>Numquod</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)</seg>
@@ -243,8 +238,8 @@
 	     </choice>
 	     <choice>
 		       <seg type="lucas">fitebi(ur)</seg>
-		       <orig>fitebi˸</orig>
-		       <reg>fitebiur</reg>
+		       <orig>ɔfitebi݃</orig>
+		       <reg>confitebiur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
@@ -259,7 +254,7 @@
  
 	     <choice>
 		       <seg type="lucas">a(ut)</seg>
-		       <orig>a͘</orig>
+		       <orig>ȧ</orig>
 		       <reg>aut</reg>
 	     </choice> 
 	     <choice>
@@ -293,19 +288,11 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>+ </orig>
 		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">mis(er?)
-	</seg>
-		       <orig>mis͘
-	</orig>
-		       <reg>miser?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">t(us)</seg>
-		       <orig>ṫꝰ</orig>
-		       <reg>tus</reg>
+		       <orig>miṡṫꝰ</orig>
+		       <reg>misertus <!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
@@ -392,7 +379,7 @@
 	     </choice> me 
 	<choice>
 		       <seg type="lucas">leti(cia?).</seg>
-		       <orig>leti¨.</orig>
+		       <orig>leẗi.</orig>
 		       <reg>leticia?.<!--  check expansion --></reg>
 	     </choice> 
  Ut
@@ -428,18 +415,13 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ᴐ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">pu(n)gar:</seg>
-		       <orig>pūgar:</orig>
-		       <reg>pungar:</reg>
+		       <orig>ɔpūgar:</orig>
+		       <reg>conpungar:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">do(mine)</seg>
-		       <orig>doᶜ</orig>
+		       <orig>doᵉ</orig>
 		       <reg>domine</reg>
 	     </choice>
    </ab>

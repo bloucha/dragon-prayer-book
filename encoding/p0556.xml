@@ -37,12 +37,15 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>eor⋮.</orig>
+		       <orig>eoꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice>
       <lb/>
-   	<!-- abbreviation to be added -->
-   	Et. Gl(oria. 
+   	Et. 
+   	<choice>
+   		<orig>Gl͘.</orig>
+   		<reg>Gloria</reg>
+   	</choice>
 	<choice>
 		       <seg type="lucas">Al(leluia).</seg>
 		       <orig>Al͘.</orig>
@@ -229,7 +232,7 @@
 	     <choice>
 		       <seg type="lucas">al(leluia?)</seg>
 		       <orig>al͘</orig>
-		       <reg>alleluia?</reg>
+		       <reg>alleluia? <!-- check expansion --></reg>
 	     </choice> vos elegit 
 	<choice>
 		       <seg type="lucas">d(eu)s</seg>
@@ -308,19 +311,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">iustor(um)</seg>
-		       <orig>iustor⋮</orig>
+		       <orig>iustoꝝ</orig>
 		       <reg>iustorum</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- check transcription -->
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(m)nu(m)</seg>
-		       <orig>ȳnū</orig>
-		       <reg>ymnum</reg>
+		       <orig>ȳpnū</orig>
+		       <reg>hymnum</reg>
 	     </choice> di
 <lb break="no"/>cite deo 
 	<choice>
@@ -337,7 +334,7 @@
 	<choice>
 		       <seg type="lucas">a(lleluia?)</seg>
 		       <orig>ä</orig>
-		       <reg>alleluia?</reg>
+		       <reg>alleluia?<!-- check expansion --></reg>
 	     </choice> In celes
 <lb break="no"/>
 	     <choice>
@@ -347,7 +344,7 @@
 	     </choice> regnis 
 	<choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōr⋮</orig>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>

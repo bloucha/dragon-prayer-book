@@ -33,19 +33,19 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um)</seg>
-		       <orig>eor⋮</orig>
+		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">al(leluia?).</seg>
 		       <orig>al͘.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia?.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia?.</reg>
 	     </choice> 
  Lux 
 	<choice>
@@ -81,25 +81,28 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">et(er)nitas</seg>
-		       <orig>et͘nitas</orig>
+		       <orig>eṫnitas</orig>
 		       <reg>eternitas</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(em)p(er)m?</seg>
 		       <orig>tꝑm?</orig>
-		       <reg>temperm?</reg>
+		       <reg>temporum?</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">al(leluia?).</seg>
 		       <orig>al͘.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
-	     </choice> 
- a. a. 
+		       <reg>alleluia?.</reg>
+	     </choice>
+       <choice>
+           <orig>a.a</orig>
+           <reg>alleluia</reg>
+       </choice>
 	<choice>
 		       <seg type="lucas">M(agna?)</seg>
 		       <orig>M̈</orig>
-		       <reg>Magna?</reg>
+		       <reg>Magna? <!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon).</seg>
@@ -113,14 +116,13 @@
 		       <reg>domini</reg>
 	     </choice> clare 
 	<choice>
-	    <!-- check transcription, do not see an i -->
 		       <seg type="lucas">sona(n)ti</seg>
-		       <orig>sonāti</orig>
+		       <orig>sonāt</orig>
 		       <reg>sonanti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">iugit(er)</seg>
-		       <orig>iugit͘</orig>
+		       <orig>iugiṫ</orig>
 		       <reg>iugiter</reg>
 	     </choice> or
 <lb break="no"/>
@@ -131,7 +133,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scōr⋮</orig>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> ibi 
 	<choice>
@@ -151,15 +153,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-	         <!-- check transcription -->
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">y(m)nu(m)</seg>
 		       <orig>yp̄nū</orig>
-		       <reg>ymnum</reg>
+		       <reg>hymnum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">deca(n)ta(n)t</seg>
@@ -180,7 +176,7 @@
 	<choice>
 		       <seg type="lucas">al(leluia?).</seg>
 		       <orig>al͘.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia?.</reg>
 	     </choice> 
  De uno 
 	<choice>
@@ -206,14 +202,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)ce</seg>
-		       <orig>ꝑce</orig>
+		       <orig>ꝓce</orig>
 		       <reg>proce</reg>
 	     </choice>
       <lb break="no"/>dit mel 
 	<choice>
 		       <seg type="lucas">al(leluia?)</seg>
 		       <orig>al͘</orig>
-		       <reg>alleluia?</reg>
+		       <reg>alleluia</reg>
 	     </choice> dulcedo
 <lb/>
 	     <choice>
@@ -239,7 +235,7 @@
 	     <choice>
 		       <seg type="lucas">al(leluia?).</seg>
 		       <orig>al͘.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Fa??s
 <lb/>
@@ -314,7 +310,7 @@
 	     <choice>
 		       <seg type="lucas">Al(leluia?).</seg>
 		       <orig>Al͘.</orig>
-		       <reg>Alleluia?.<!--  check expansion --></reg>
+		       <reg>Alleluia?.</reg>
 	     </choice> 
  
 	     <choice>
@@ -325,7 +321,7 @@
 	     <choice>
 		       <seg type="lucas">octa(vam?)</seg>
 		       <orig>octä⋮</orig>
-		       <reg>octavam?</reg>
+		       <reg>octavam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)dree</seg>

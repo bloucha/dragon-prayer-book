@@ -86,12 +86,12 @@
 		       <reg>velamento</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">alar(um)</seg>
+		       <seg type="lucas">ala(rum)</seg>
 		       <orig>alaꝝ</orig>
 		       <reg>alarum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">tuar(um)</seg>
+		       <seg type="lucas">tua(rum)</seg>
 		       <orig>tuaꝝ</orig>
 		       <reg>tuarum</reg>
 	     </choice> ex
@@ -123,15 +123,11 @@
 		       <orig>v̇o</orig>
 		       <reg>vero</reg>
 	     </choice> 
+
 	     <choice>
-		       <seg type="lucas">i(n)</seg>
-		       <orig>ī</orig>
-		       <reg>in</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">vanu(m)</seg>
-		       <orig>vanū</orig>
-		       <reg>vanum</reg>
+		       <seg type="lucas">i(n)vanu(m)</seg>
+		       <orig>īvanū</orig>
+		       <reg>invanum</reg>
 	     </choice>
       <lb/>
 	     <choice>

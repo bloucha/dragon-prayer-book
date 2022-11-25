@@ -9,19 +9,11 @@
        xml:id="p0592_transcription"
        corresp="#p0592_translation">
 
-      <lb/>
-	     <choice>
-		       <seg type="lucas">ad(?)?
-	</seg>
-		       <orig>adū?
-	</orig>
-		       <reg>ad??
-	<!--  check expansion --></reg>
-	     </choice> 
+      <lb/> 
       <choice>
 		       <seg type="lucas">ie(n)t(i)onu(m)</seg>
-		       <orig>iētōnū</orig>
-		       <reg>ientionum</reg>
+		       <orig>adv̄iēcōnū</orig>
+		       <reg>adviencionum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ip(s)or(um).</seg>
@@ -108,7 +100,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">do(mini);</seg>
-		       <orig>do꞉;</orig>
+		       <orig>doⁱ;</orig>
 		       <reg>domini;</reg>
 	     </choice> 
 	     <choice>
@@ -140,7 +132,7 @@
 	     <choice>
 		       <seg type="lucas">d(?)strues</seg>
 		       <orig>ḋstrues</orig>
-		       <reg>d?strues<!--  check expansion --></reg>
+		       <reg>destrues</reg>
 	     </choice> 
  illos 
 	<choice>
@@ -156,7 +148,7 @@
 	     <choice>
 		       <seg type="lucas">edificab(is?)</seg>
 		       <orig>edificaḃ</orig>
-		       <reg>edificabis?<!--  check expansion --></reg>
+		       <reg>edificabis</reg>
 	     </choice> 
       <lb/>eos. 
 	<choice>
@@ -267,22 +259,16 @@
 	     <choice>
 		       <seg type="lucas">m(isericordi?)a</seg>
 		       <orig>m̄a</orig>
-		       <reg>misericordi?a<!--  check expansion --></reg>
+		       <reg>mea</reg>
 	     </choice> 
- 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ᴐ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fitebo(r)</seg>
-		       <orig>fitebȯ</orig>
-		       <reg>fitebor</reg>
+		       <orig>ɔfitebȯ</orig>
+		       <reg>confitebor</reg>
 	     </choice> ei. 
 	<choice>
 		       <seg type="lucas">D(omi)n(e)</seg>
-		       <orig>Dn̄</orig>
+		       <orig>Dn̄ᵉ</orig>
 		       <reg>Domine</reg>
 	     </choice> for
 <lb break="no"/>titudo 
@@ -309,7 +295,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ) </seg>
-		       <orig>ṙ </orig>
+		       <orig>ẋ̇ </orig>
 		       <reg>christ </reg>
 	     </choice> sui 
 	<choice>
@@ -375,15 +361,9 @@
 		       <reg>illos</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">us(que?)
-
-</seg>
-		       <orig>us⋮
-
-</orig>
-		       <reg>usque?
-
-<!--  check expansion --></reg>
+		       <seg type="lucas">us(que?)</seg>
+		       <orig>us⋮</orig>
+		       <reg>usque</reg>
 	     </choice> 
    </ab>
 

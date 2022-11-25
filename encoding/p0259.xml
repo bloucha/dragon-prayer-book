@@ -26,9 +26,9 @@
 		       <reg>meum.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 	             <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> Rede
 <lb break="no"/>misti me 
 	<choice>
@@ -48,9 +48,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">Co(?)?.</seg>
-	             <orig>Cō?.</orig>
-		       <reg>Co??.<!--  check expansion --></reg>
+		       <seg type="lucas">Co(mmendo).</seg>
+	             <orig>Cō.</orig>
+		       <reg>Commendo.</reg>
 	     </choice> 
  
 	     <choice>
@@ -229,9 +229,9 @@
 		       <reg>Amen.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 	             <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> Custodi †nos 
 	<choice>
 		       <seg type="lucas">d(omi)ne†</seg>
@@ -255,7 +255,7 @@
 		       <reg>Sub</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">umb(ra)†</seg>
+		       <seg type="lucas">umb(ra)</seg>
 	             <orig>umb̈</orig> <!-- !!! hard to see -->
 		       <reg>umbra</reg>
 	     </choice>
@@ -281,6 +281,25 @@
 
    <ab type="translation"
        xml:id="p0259_translation"
-       corresp="#p0259_transcription"/>
+       corresp="#p0259_transcription"> Into thy hands, O Lord, I commend my spirit. Versicle. 
+         Thou hast redeemed me, O Lord, the God of truth. <!-- drb psalm 30. --> 
+         I commend my spirit.  Glory [be to the Father, and to the Son, and to the Holy Spirit. 
+         As it was in the beginning, is now, and ever shall be, world without end. Amen.] Into thy hands, O Lord. 
+      Hymn.
+      O Thee, before the close of day
+      Creator of the world, we pray
+      that with Thy wonted favor, Thou
+      wouldst be our Guard and Keeper now.
+      	From all ill dreams defend our eyes,
+      from nightly fears and fantasies:
+      tread under foot our ghostly foe,
+      that no pollution we may know.
+      	<!-- Preces Latinae hymn "te lucis ante terminum" -->
+         Grant all of this, Father Almighty,
+         through Jesus Christ the Lord,
+         who with you in perpetuity
+         reigns with the Holy Spirit. Amen. <!-- Liturgies.net Compline hymns, same hymn -->
+         Versicle. Keep us as the apple of thy eye. Protect us under the shadow of thy wings. <!-- DRB psalm 16. -->
+   </ab>
 
 </div>

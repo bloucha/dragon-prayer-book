@@ -17,7 +17,7 @@
 	     </choice> ypoliti 
 	<choice>
 		       <seg type="lucas">sot(i)or(um)q(ue)</seg>
-		       <orig>sotōꝝq⋮</orig>
+		       <orig>sotōꝝq⋮</orig> 
 		       <reg>sotiorumque</reg>
 	     </choice>
       <lb/>DA 
@@ -67,7 +67,6 @@
 		       <seg type="lucas">sole(m)</seg>
 		       <orig>solēp</orig>
 		       <reg>solem</reg>
-	       <!-- unaccounted p -->
 	     </choice>
       <lb break="no"/>nitas; 
 	<choice>
@@ -112,25 +111,15 @@
 		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> remigii 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">fess(is).</seg>
-		       <orig>fess͘.</orig>
-		       <reg>fessis.</reg>
+		       <orig>ɔfess͘.</orig>
+		       <reg>confessis.</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
 		       <orig>ȳpnꝰ.</orig>
-		       <reg>ymnus.</reg>
+		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>ISte 
 	<choice>
@@ -145,7 +134,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sac(ra)t(us)</seg>
-		       <orig>sac̈tꝰ</orig>
+		       <orig>sac̈tꝰ</orig> 
 		       <reg>sacratus</reg>
 	     </choice> sobri
 <lb break="no"/>us 
@@ -199,7 +188,7 @@
 	     <choice>
 		       <seg type="lucas">Or(ati?)o.</seg>
 		       <orig>Or̄o.</orig>
-		       <reg>Orati?o.<!--  check expansion --></reg>
+		       <reg>Oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -235,8 +224,8 @@
 	     </choice> sebaldi 
 	<choice>
 		       <seg type="lucas">(con)fe†s⸗†</seg>
-		       <orig>ɔfe†s⸗†</orig>
-		       <reg>confe†s⸗†</reg>
+		       <orig>ɔfe<supplied>s⸗</supplied></orig>
+		       <reg>confe<supplied>s⸗</supplied></reg>
 	     </choice> 
       <lb/>soris tui. 
 	<choice>
@@ -257,7 +246,7 @@
 	     <choice>
 		       <seg type="lucas">eru(m?)p</seg>
 		       <orig>erūp</orig>
-		       <reg>erum?p<!--  check expansion --></reg>
+		       <reg>erum? <!-- check expansion, cannot find prayer online --></reg>
 	     </choice> 
       <lb break="no"/>nas 
 	<choice>

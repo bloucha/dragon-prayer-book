@@ -54,7 +54,7 @@
       <lb break="no"/>ti 
 	<choice>
 		       <seg type="lucas">sole(m)nitate</seg>
-		       <orig>solēnitate</orig>
+		       <orig>solēpnitate</orig>
 		       <reg>solemnitate</reg>
 	     </choice> foneas; 
 	<choice>
@@ -108,7 +108,7 @@
 	     <choice>
 		       <seg type="lucas">si(m)phoriani?</seg>
 		       <orig>sīphoriani?</orig>
-		       <reg>simphoriani?</reg>
+		       <reg>simphoriani? <!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(ate)r.</seg>
@@ -218,7 +218,7 @@
 	     </choice> S. bartholomei 
 	<choice>
 		       <seg type="lucas">ap(u)li.</seg>
-		       <orig>apli̇.</orig>
+		       <orig>apl͘i̇.</orig>
 		       <reg>apuli.</reg>
 	     </choice>
       <lb/>
@@ -250,8 +250,8 @@
 	     </choice> diei 
 	<choice>
 		       <seg type="lucas">ven(er)anda(m?)</seg>
-		       <orig>veṅanda</orig>
-		       <reg>venerandam?</reg>
+		       <orig>veṅandā</orig>
+		       <reg>venerandam</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -276,7 +276,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ap(u)li</seg>
-		       <orig>apli̇</orig>
+		       <orig>apl͘i̇</orig>
 		       <reg>apuli</reg>
 	     </choice>
    </ab>

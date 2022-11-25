@@ -27,8 +27,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(?)</seg>
-		       <orig>p¨</orig>
-		       <reg>p?</reg>
+		       <orig>p̈</orig>
+		       <reg>p?<!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -59,7 +59,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Aff(er)te</seg>
-		       <orig>Afft¨e</orig>
+		       <orig>Affṫe</orig>
 		       <reg>Afferte</reg>
 	     </choice> 
 	     <choice>
@@ -141,25 +141,29 @@
 	     </choice> Vox 
 	<choice>
 		       <seg type="lucas">do(mini)</seg>
-		       <orig>doᵗ</orig>
+		       <orig>doⁱ</orig>
 		       <reg>domini</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(upe)r</seg>
-		       <orig>sr¨</orig>
+		       <orig>sr̄</orig>
 		       <reg>super</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">aq(ua)s;</seg>
-		       <orig>aq¨s;</orig>
+		       <orig>aq̈s;</orig>
 		       <reg>aquas;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
 		       <orig>ḋs</orig>
 		       <reg>deus</reg>
-	     </choice> maiestatis ?(?)ovuit:
+	     </choice> maiestatis 
+         <choice>
+               <orig>ītonuit</orig>
+               <reg>intonuit</reg>
+         </choice>
 <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)n(u0s</seg>
@@ -173,7 +177,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">aq(ua)s</seg>
-		       <orig>aq¨s</orig>
+		       <orig>aq̈s</orig>
 		       <reg>aquas</reg>
 	     </choice> 
 	     <choice>
@@ -219,30 +223,20 @@
 		       <reg>domini</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ᴐ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">f(ri)nge(n)tis</seg>
-		       <orig>fṅgētis</orig>
-		       <reg>fringentis</reg>
+		       <orig>ɔfṅgētis</orig>
+		       <reg>confringentis</reg>
 	     </choice> cedros: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ᴐ</orig>
-		       <reg>con</reg>
-	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">f(ri)ng(et)</seg>
-		       <orig>fṅg⋮</orig>
-		       <reg>fringet</reg>
+		       <orig>ɔfṅg⋮</orig>
+		       <reg>confringet</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(u)s</seg>
@@ -262,7 +256,7 @@
       <lb break="no"/>minuet eos 
 	<choice>
 		       <seg type="lucas">ta(m)q(uam)</seg>
-		       <orig>tāq¨</orig>
+		       <orig>tāq̈</orig>
 		       <reg>tamquam</reg>
 	     </choice> 
 	     <choice>
@@ -289,7 +283,7 @@
 	     <choice>
 		       <seg type="lucas">q(uam)admod(um)</seg>
 		       <orig>q̄ˢadmoḋ</orig>
-		       <reg>quamadmodum</reg>
+		       <reg>quemadmodum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fili(us)</seg>
@@ -309,42 +303,29 @@
 	     </choice> Vox 
 	<choice>
 		       <seg type="lucas">do(mini)</seg>
-		       <orig>doᵗ</orig>
+		       <orig>doⁱ</orig>
 		       <reg>domini</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)t(er)cide(n)tis</seg>
 		       <orig>īṫcidētis</orig>
 		       <reg>intercidentis</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">fla(?)
-	</seg>
-		       <orig>flā
-	</orig>
-		       <reg>fla?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">ma(m?)</seg>
-		       <orig>mā</orig>
-		       <reg>mam?</reg>
+		       <orig>flāmām</orig>
+		       <reg>flammam</reg>
 	     </choice> ig
 <lb break="no"/>nis: vox 
 	<choice>
 		       <seg type="lucas">do(?)</seg>
 		       <orig>dȯ</orig>
-		       <reg>do?</reg>
+		       <reg>do? <!-- deo? check expansion --> </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ᴐ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">cucie(n)tis</seg>
-		       <orig>cuciētis</orig>
-		       <reg>cucientis</reg>
+		       <orig>ɔcuciētis</orig>
+		       <reg>concucientis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(e)s(er)tu(m):</seg>
@@ -359,7 +340,7 @@
 	     <choice>
 		       <seg type="lucas">(con)</seg>
 		       <orig>ᴐ</orig>
-		       <reg>con</reg>
+		       <reg>com</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>

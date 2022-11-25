@@ -43,7 +43,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(er).</seg>
-		       <orig>P.</orig>
+		       <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
 	     </choice> 
 	     <choice>
@@ -98,7 +98,7 @@
 	<choice>
 		       <seg type="lucas">i(m)pet?(a?)</seg>
 		       <orig>īpetn̈?</orig>
-		       <reg>impet?a?</reg>
+		       <reg>impet?a? <!-- check expansion, can't find the prayer --></reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -136,7 +136,12 @@
 		       <seg type="lucas">P(er).</seg>
 		       <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
-	     </choice> In (sextus?) ma
+	     </choice> In 
+         <choice>
+               <orig>v̈i</orig>
+               <reg>sextus</reg>
+         </choice>
+         ma
 <lb break="no"/>DA 
 	<choice>
 		       <seg type="lucas">nob(is)</seg>
@@ -146,7 +151,7 @@
 	<choice>
 		       <seg type="lucas">eiv(a)n(geliste?).</seg>
 		       <orig>eiv̈n.</orig>
-		       <reg>eivangeliste?.</reg>
+		       <reg>eivangeliste?. <!-- check expansion, can't find prayer --></reg>
 	     </choice>
       <lb/>
 	     <choice>

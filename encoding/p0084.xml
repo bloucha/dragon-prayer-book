@@ -26,7 +26,7 @@
 		       <reg>per</reg>
 	     </choice> os 
 	<choice>
-		       <seg type="lucas">s(an)c(t)or(um):</seg>
+		       <seg type="lucas">s(an)c(t)o(rum):</seg>
 		       <orig>scōꝝ:</orig>
 		       <reg>sanctorum:</reg>
 	     </choice> 
@@ -47,7 +47,7 @@
 		       <reg>sunt</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">p(ro)ph(et)ar(um)</seg>
+		       <seg type="lucas">p(ro)ph(et)a(rum)</seg>
 		       <orig>ꝓphaꝝ</orig>
 		       <reg>prophetarum</reg>
 	     </choice> 
@@ -106,7 +106,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mi(sericordi)a(m)</seg>
-		       <orig>mia⋮</orig>
+		       <orig>mīa⋮</orig>
 		       <reg>misericordiam</reg>
 	     </choice> 
 	     <choice>
@@ -174,7 +174,7 @@
 		       <reg>nostrum:</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">datur(um)</seg>
+		       <seg type="lucas">datu(rum)</seg>
 		       <orig>datuꝝ</orig>
 		       <reg>daturum</reg>
 	     </choice> se 
@@ -191,7 +191,7 @@
 	     </choice> de 
 	<choice>
 		       <seg type="lucas">ma(n)u</seg>
-		       <orig>maū</orig>
+		       <orig>māu</orig>
 		       <reg>manu</reg>
 	     </choice> 
 	     <choice>
@@ -201,12 +201,12 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">cor(um)</seg>
+		       <seg type="lucas">co(rum)</seg>
 		       <orig>coꝝ</orig>
 		       <reg>corum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">n(ost)ror(um)</seg>
+		       <seg type="lucas">n(ost)ro(rum)</seg>
 		       <orig>nr̄oꝝ</orig>
 		       <reg>nostrorum</reg>
 	     </choice> 
@@ -244,7 +244,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mn)ib(us)</seg>
-		       <orig>oib⋮</orig>
+		       <orig>ōib⋮</orig>
 		       <reg>omnibus</reg>
 	     </choice> die
 <lb break="no"/>
@@ -271,7 +271,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(re)ib(is)</seg>
-		       <orig>piḃ</orig>
+		       <orig>p̄iḃ</orig>
 		       <reg>preibis</reg>
 	     </choice>
    </ab>

@@ -9,19 +9,11 @@
        xml:id="p0032_transcription"
        corresp="#p0032_translation">
 
-      <lb/>
-	     <choice>
-		       <seg type="lucas">Regl(?)
-	</seg>
-		       <orig>Regl
-	</orig>
-		       <reg>Regl?
-	<!--  check expansion --></reg>
-	     </choice> 
+      <lb/> 
       <choice>
 		       <seg type="lucas">arib(um)</seg>
-		       <orig>̇arib⋮</orig>
-		       <reg>aribum</reg>
+		       <orig>Regl͘arib⋮</orig>
+		       <reg>Regularibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">discipli(ni)s</seg>
@@ -37,21 +29,20 @@
 	<choice>
 		       <seg type="lucas">mg(?)r</seg>
 		       <orig>mḡr</orig>
-		       <reg>mg?r<!--  check expansion --></reg>
+		       <reg>magister</reg>
 	     </choice> 
  celestis ; 
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ua)m</seg>
-		       <orig>Q̄m</orig>
-		       <reg>Quam</reg>
-	           <!-- supposed to be a macron about the m -->
+		       <orig>Qm̄</orig>
+		       <reg>Quoniam</reg>
 	     </choice> ex 
-	<choice>
-		       <seg type="lucas">p(a?)ce</seg>
-		       <orig>̇pce</orig>
-		       <reg>pa?ce<!--  check expansion --></reg>
-	     </choice> 
+	<seg next="seg1">
+         <choice>
+		       <orig>p̄ce</orig>
+		       <reg>prece</reg>
+	     </choice> </seg>
  
 	     <choice>
 		       <seg type="lucas">S(an)c(t)o</seg>
@@ -63,45 +54,38 @@
 		       <orig>Amē.</orig>
 		       <reg>Amen.</reg>
 	     </choice>
-      <lb/>pto 
+      <lb/><seg xml:id="seg1">pto</seg>
 	<choice>
 		       <seg type="lucas">regle(m?)</seg>
-		       <orig>regl̇e</orig>
-		       <reg>reglem?</reg>
+		       <orig>regl͘e</orig>
+		       <reg>regule</reg>
 	     </choice> inbemur
 <lb/>
 	     <choice>
 		       <seg type="lucas">h(?)re</seg>
 		       <orig>hṙe</orig>
-		       <reg>h?re<!--  check expansion --></reg>
+		       <reg>habere</reg>
 	     </choice> 
  cor 
 	<choice>
 		       <seg type="lucas">unu(m?)</seg>
 		       <orig>unū</orig>
-		       <reg>unum?</reg>
+		       <reg>unum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et</reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">ai(?)
-	</seg>
-		       <orig>aī</orig>
-		       <reg>ai?
-	<!--  check expansion --></reg>
-	     </choice> 
+	     </choice>  
       <choice>
 		       <seg type="lucas">a(us)</seg>
-		       <orig>a⋮</orig>
-		       <reg>aus</reg>
+		       <orig>aīa⋮</orig>
+		       <reg>animam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">una(m?)</seg>
 		       <orig>unā</orig>
-		       <reg>unam?<!--  check expansion --></reg>
+		       <reg>unam</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -111,29 +95,29 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)no</seg>
-		       <orig>dṅo</orig>
+		       <orig>dn̄o</orig>
 		       <reg>domino</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">instu(m?)</seg>
 		       <orig>instū</orig>
-		       <reg>instum?</reg>
+		       <reg>iustum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(?)</seg>
 		       <orig>ē</orig>
-		       <reg>e?</reg>
+		       <reg>est</reg>
 	     </choice> : ut 
 	<choice>
 		       <seg type="lucas">q(ue)</seg>
-		       <orig>̇q</orig>
+		       <orig>q̄</orig>
 		       <reg>que</reg>
 	     </choice> sub
 <lb/>una 
 	<choice>
 		       <seg type="lucas">regl(?)a</seg>
 		       <orig>regl̇a</orig>
-		       <reg>regl?a<!--  check expansion --></reg>
+		       <reg>regula</reg>
 	     </choice> 
  
 	     <choice>
@@ -148,7 +132,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)fessi</seg>
-		       <orig>pfessi</orig>
+		       <orig>ꝓfessi</orig>
 		       <reg>professi</reg>
 	     </choice>
       <lb break="no"/>
@@ -171,7 +155,7 @@
 	     <choice>
 		       <seg type="lucas">observa(n?)cia</seg>
 		       <orig>observācia</orig>
-		       <reg>observan?cia<!--  check expansion --></reg>
+		       <reg>observantia</reg>
 	     </choice> 
  
 	     <choice>
@@ -199,14 +183,14 @@
  
 	     <choice>
 		       <seg type="lucas">P(?)s</seg>
-		       <orig>Ṗs</orig>
-		       <reg>P?s<!--  check expansion --></reg>
+		       <orig>Ps̄</orig>
+		       <reg>Ps̄alm? <!-- check expansion --></reg>
 	     </choice> 
  De 
 	<choice>
 		       <seg type="lucas">p(ro)fu(n)d(e?).</seg>
-		       <orig>pfūd.</orig>
-		       <reg>profunde?.</reg>
+		       <orig>pfūḋ.</orig>
+		       <reg>profundere? <!-- check expansion -->.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -216,7 +200,7 @@
 	     </choice>  
 	     <choice>
 		       <seg type="lucas">(Christe eleison)</seg>
-		       <orig/>
+		       <orig>X</orig>
 		       <reg>Christe eleison</reg>
 	     </choice> . 
 	<choice>
@@ -226,18 +210,18 @@
 	     </choice>  
 	     <choice>
 		       <seg type="lucas">P(ate?)r</seg>
-		       <orig>Ṗr</orig>
+		       <orig>Pr̄</orig>
 		       <reg>Pate?r<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">n(oste)r(?)</seg>
-		       <orig>ṅr</orig>
+		       <orig>nr̄</orig>
 		       <reg>noster?</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(espers?)</seg>
-		       <orig>̇V</orig>
+		       <orig>V̇</orig>
 		       <reg>Vespers?</reg>
 	     </choice> 
 	     <choice>
@@ -247,51 +231,47 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)ta</seg>
-		       <orig>pta</orig>
+		       <orig>ꝑta</orig>
 		       <reg>perta</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)feri</seg>
-		       <orig>iferi</orig>
+		       <orig>īferi</orig>
 		       <reg>inferi</reg>
 	     </choice> ; Er. 
 	<choice>
 		       <seg type="lucas">D(omi)ne.</seg>
-		       <orig>Dṅe.</orig>
+		       <orig>Dn̄e.</orig>
 		       <reg>Domine.</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">Q(uam)ur??</seg>
-		       <orig>Qur??</orig>
-		       <reg>Quamur??</reg>
-	     </choice> vil
+	     Fur vil
 <lb/>ABsolve 
 	<choice>
 		       <seg type="lucas">q(uaesumu)s</seg>
-		       <orig>q̇s</orig>
+		       <orig>q̄s</orig>
 		       <reg>quaesumus</reg>
 	     </choice> sel 
 	<choice>
 		       <seg type="lucas">or(?)o.</seg>
-		       <orig>oṙo.</orig>
-		       <reg>or?o.<!--  check expansion --></reg>
+		       <orig>or̄o.</orig>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dṅe</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(?)ias</seg>
 		       <orig>ạīas</orig>
-		       <reg>a?ias<!--  check expansion --></reg>
+		       <reg>animas</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">fam(i)lor(um)</seg>
-		       <orig>famlor</orig>
+		       <orig>faml͘oꝝ</orig>
 		       <reg>familorum</reg>
 	     </choice>
    </ab>

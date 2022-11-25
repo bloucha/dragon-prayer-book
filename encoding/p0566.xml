@@ -29,7 +29,7 @@
 	<choice>
 		       <seg type="lucas">ti(?)
 	</seg>
-		       <orig>tī
+		       <orig>ltī
 	</orig>
 		       <reg>ti?
 	<!--  check expansion --></reg>
@@ -63,7 +63,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q˸</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> nos 
 	<choice>
@@ -148,18 +148,18 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">S(an)c(t)or(um)</seg>
-		       <orig>Sc̄or</orig>
+		       <orig>Sc̄oꝝ</orig>
 		       <reg>Sanctorum</reg>
 	     </choice> Nere[[*]]
 <lb/>achillei 
 	<choice>
 		       <seg type="lucas">m(at)r(um)</seg>
-		       <orig>m̈r⋮</orig>
+		       <orig>mr̈⋮</orig>
 		       <reg>matrum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">or(ati)o.</seg>
-		       <orig>or̈o.</orig>
+		       <orig>or̄o.</orig>
 		       <reg>oratio.</reg>
 	     </choice>
       <lb/>
@@ -176,12 +176,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">m(at)r(u)m</seg>
-		       <orig>mr̈m</orig>
+		       <orig>mrm̈</orig>
 		       <reg>matrum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> Nerei achilei
 <lb/>
@@ -203,7 +203,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sole(m)nitas;</seg>
-		       <orig>solēnitas;</orig>
+		       <orig>solep̄nitas;</orig>
 		       <reg>solemnitas;</reg>
 	     </choice> 
 	     <choice>
@@ -235,7 +235,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)lotu</seg>
-		       <orig>ppl̇otu</orig>
+		       <orig>ppl̇͘otu</orig>
 		       <reg>populotu</reg>
 	     </choice>        servacii.
 <lb/>o 

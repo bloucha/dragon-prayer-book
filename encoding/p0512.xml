@@ -11,7 +11,7 @@
             </choice>
             <choice>
                   <seg type="lucas">v(ir)tutib(us).</seg>
-                  <orig>vtutib⋮.</orig>
+                  <orig>v̇tutib⋮.</orig>
                   <reg>virtutibus.</reg>
             </choice> Ut <choice>
                   <seg type="lucas">cu(m)</seg>
@@ -34,7 +34,7 @@
                   <reg>seculi</reg>
             </choice> nos <choice>
                   <seg type="lucas">se(m)pit(er)ni</seg>
-                  <orig>sēpitni</orig>
+                  <orig>sēpiṫni</orig>
                   <reg>sempiterni</reg>
             </choice> gaudii fa <lb break="no"/>ciat <choice>
                   <seg type="lucas">e(ss)e</seg>
@@ -43,7 +43,7 @@
             </choice>
             <choice>
                   <seg type="lucas">(con)mpotes.</seg>
-                  <orig>ɔmpotes.</orig>
+                  <orig>ɔpotes.</orig>
                   <reg>conmpotes.</reg>
             </choice> Deo <choice>
                   <seg type="lucas">p(at)ri</seg>
@@ -62,7 +62,7 @@
             </choice>
             <choice>
                   <seg type="lucas">q(ue)</seg>
-                  <orig>q̄</orig>
+                  <orig>q⋮</orig>
                   <reg>que</reg>
             </choice> soli filio <choice>
                   <seg type="lucas">cu(m)</seg>
@@ -97,7 +97,7 @@
             </choice>
             <choice>
                   <seg type="lucas">i(m)p(er)petuu(m).</seg>
-                  <orig>īꝑpetuū.</orig>
+                  <orig>īppetuū.</orig>
                   <reg>imperpetuum.</reg>
             </choice>
             <lb/>Amen. <choice>
@@ -119,7 +119,7 @@
                   <reg>sonus</reg>
             </choice>
             <choice>
-                  <seg type="lucas">eor(um).</seg>
+                  <seg type="lucas">eo(urm).</seg>
                   <orig>eoꝝ.</orig>
                   <reg>eorum.</reg>
             </choice> Et <choice>
@@ -137,7 +137,7 @@
                   <reg>verba</reg>
             </choice>
             <choice>
-                  <seg type="lucas">eor(um).</seg>
+                  <seg type="lucas">eo(rum).</seg>
                   <orig>eoꝝ.</orig>
                   <reg>eorum.</reg>
             </choice>
@@ -187,7 +187,7 @@
                   <reg>seperaveri?t</reg>
             </choice> vos <choice>
                   <seg type="lucas">(et) </seg>
-                  <orig> </orig>
+                  <orig>+</orig>
                   <reg>et </reg>
             </choice>
             <choice>
@@ -198,7 +198,7 @@
             <lb break="no"/>
             <choice>
                   <seg type="lucas">ver(un)t</seg>
-                  <orig>ver̄t</orig>
+                  <orig>ver̄t <!-- check --></orig>
                   <reg>verunt</reg>
             </choice>
             <choice>
@@ -224,7 +224,7 @@
             <lb/>
             <choice>
                   <seg type="lucas">ta(m)q(uam)</seg>
-                  <orig>taq̈<!--quam--></orig>
+                  <orig>tāɋ̈<!--quam--></orig>
                   <reg>tamquam</reg>
             </choice>
             <choice>

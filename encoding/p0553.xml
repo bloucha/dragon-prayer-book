@@ -12,13 +12,13 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">diam(ur)</seg>
-		       <orig>diam˸</orig>
+		       <orig>diam݃</orig>
 		       <reg>diamur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">affcu(m?):</seg>
 		       <orig>affcū:</orig>
-		       <reg>affcum?:<!--  check expansion --></reg>
+		       <reg>affectu:</reg>
 	     </choice> 
  
 	     <choice>
@@ -30,12 +30,12 @@
 		       <seg type="lucas">Vo(?)</seg>
 		       <orig>Vō</orig>
 		       <reg>Vo?</reg>
-	     </choice> e????(?)r
+	     </choice> e????(?)r <!-- what's going on here -->
 <lb/>?
 	<choice>
 		       <seg type="lucas">umecte(m?)</seg>
-		       <orig>umectē</orig>
-		       <reg>umectem?</reg>
+		       <orig>zumectē</orig>
+		       <reg>zumectem? <!-- MT unhelpful --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(upe)r</seg>
@@ -44,7 +44,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ps(alm)</seg>
-		       <orig>ṗṡ</orig>
+		       <orig>ps̈</orig>
 		       <reg>psalm</reg>
 	     </choice> 
 	     <choice>
@@ -55,7 +55,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">LEtabit(ur)</seg>
-		       <orig>LEtabit˸</orig>
+		       <orig>LEtabit݃</orig>
 		       <reg>LEtabitur</reg>
 	     </choice> 
 	     <choice>
@@ -96,7 +96,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">laudabu(n)t(ur)</seg>
-		       <orig>laudabūt</orig>
+		       <orig>laudabūt݃</orig>
 		       <reg>laudabuntur</reg>
 	     </choice>
       <lb/>
@@ -112,7 +112,7 @@
 	     </choice> corde. 
 	<choice>
 		       <seg type="lucas">V(ir)gi(ni)s</seg>
-		       <orig>Vgīs</orig>
+		       <orig>V̇gīs</orig>
 		       <reg>Virginis</reg>
 	     </choice> 
 	     <choice>
@@ -139,7 +139,7 @@
 	     <choice>
 		       <seg type="lucas">sp(?)oso</seg>
 		       <orig>spōso</orig>
-		       <reg>sp?oso<!--  check expansion --></reg>
+		       <reg>sponso</reg>
 	     </choice> 
  pru
 <lb break="no"/>
@@ -204,6 +204,7 @@
 	     <choice>
 		       <seg type="lucas">ta(m)q(uam)</seg>
 		       <orig>tāq̈</orig>
+	           <!-- quam -->
 		       <reg>tamquam</reg>
 	     </choice>
       <lb/>
@@ -283,7 +284,7 @@
 	<choice>
 		       <seg type="lucas">lu(?)bi</seg>
 		       <orig>lūbi</orig>
-		       <reg>lu?bi<!--  check expansion --></reg>
+		       <reg>lumbi</reg>
 	     </choice> 
  
 	     <choice>
@@ -305,7 +306,7 @@
 	     <choice>
 		       <seg type="lucas">luc(?)ne</seg>
 		       <orig>luċne</orig>
-		       <reg>luc?ne<!--  check expansion --></reg>
+		       <reg>lucerne</reg>
 	     </choice> 
  
 	     <choice>

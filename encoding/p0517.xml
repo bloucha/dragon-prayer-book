@@ -64,7 +64,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)tine(n?)s</seg>
-		       <orig>ɔtines</orig>
+		       <orig>ɔtinēs</orig>
 		       <reg>continen?s</reg>
 	     </choice> 
 	     <choice>
@@ -96,12 +96,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(ate)r</seg>
-		       <orig>mr</orig>
+		       <orig>mr̄</orig>
 		       <reg>mater</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ho(no)rifica(ra);</seg>
-		       <orig>horifica;</orig>
+		       <orig>hōrificä;</orig>
 		       <reg>honorificara;</reg>
 	     </choice>
       <lb/>
@@ -130,7 +130,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ap(er)tu(m)</seg>
-		       <orig>aꝑtu</orig>
+		       <orig>aꝑtū</orig>
 		       <reg>apertum</reg>
 	     </choice> 
 	     <choice>
@@ -188,7 +188,7 @@
       <lb break="no"/>or 
 	<choice>
 		       <seg type="lucas">a(n)i(m)alia</seg>
-		       <orig>āialia</orig>
+		       <orig>aīalia</orig>
 		       <reg>animalia</reg>
 	     </choice> 
 	     <choice>
@@ -224,7 +224,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gl(ori)a(m)</seg>
-		       <orig>gl͘a</orig>
+		       <orig>gl͘a⋮</orig>
 		       <reg>gloriam</reg>
 	     </choice> 
 	     <choice>
@@ -255,7 +255,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(upe)r</seg>
-		       <orig>sr</orig>
+		       <orig>sr̄</orig>
 		       <reg>super</reg>
 	     </choice> 
 	     <choice>
@@ -280,7 +280,7 @@
 		       <reg>secula</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">s(e)c(u)lor(um).</seg>
+		       <seg type="lucas">s(e)c(u)lo(rum).</seg>
 		       <orig>scl͘oꝝ.</orig>
 		       <reg>seculorum.</reg>
 	     </choice> 

@@ -12,12 +12,12 @@
       <lb/>In 
 	<choice>
 		       <seg type="lucas">pa(?)</seg>
-		       <orig>paᵒ̄ˤ</orig>
+		       <orig>paᵒ̄ᵉ</orig>
 		       <reg>pa?</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">do(mini)</seg>
-		       <orig>doᶦ</orig>
+		       <orig>doⁱ</orig>
 		       <reg>domini</reg>
 	     </choice> 
 	     <choice>
@@ -27,7 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ).</seg>
-		       <orig>ṙ.</orig>
+		       <orig>ẋ̇.</orig>
 		       <reg>christ.</reg>
 	     </choice> 
 	     <choice>
@@ -142,8 +142,8 @@
 <lb/>me 
 	<choice>
 		       <seg type="lucas">neq(?)?</seg>
-		       <orig>neq?n̄</orig>
-		       <reg>neq??<!--  check expansion --></reg>
+		       <orig>neqn̄</orig>
+		       <reg>nequando</reg>
 	     </choice> 
  taceas a me: 
 	<choice>
@@ -207,8 +207,8 @@
 	     </choice> meas ad 
 	<choice>
 		       <seg type="lucas">te(m)phi(?)</seg>
-		       <orig>tēphī</orig>
-		       <reg>temphi?</reg>
+		       <orig>tēplū</orig>
+		       <reg>templum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(tum)</seg>
@@ -270,12 +270,12 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Qᶦ</orig>
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">locu(n)t(ur)</seg>
-		       <orig>locūt꞉</orig>
+		       <orig>locūt݃</orig>
 		       <reg>locuntur</reg>
 	     </choice> 
 	     <choice>
@@ -290,14 +290,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)xi(m)o</seg>
-		       <orig>pxīo</orig>
+		       <orig>ꝓxīo</orig>
 		       <reg>proximo</reg>
 	     </choice> suo:
 <lb/>
 	     <choice>
 		       <seg type="lucas">m(?)la</seg>
 		       <orig>m̈la</orig>
-		       <reg>m?la<!--  check expansion --></reg>
+		       <reg>mala</reg>
 	     </choice> 
  
 	     <choice>
@@ -317,7 +317,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
-		       <orig>̇eorꝝ.</orig>
+		       <orig>eorꝝ.</orig>
 		       <reg>eorum.</reg>
 	     </choice> Da 
 	<choice>
@@ -348,7 +348,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(un)d(um)</seg>
-		       <orig>scḋ</orig>
+		       <orig>scḋ⋮</orig>
 		       <reg>secundum</reg>
 	     </choice> 
 	     <choice>

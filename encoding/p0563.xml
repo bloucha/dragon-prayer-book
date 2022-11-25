@@ -27,14 +27,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">dit(i)o(nem)</seg>
-		       <orig>ditō⋮</orig>
-		       <reg>ditionem</reg>
+		       <orig>ɔditō⋮</orig>
+		       <reg>conditionem</reg>
 	     </choice> excludis; te supplici
 <lb break="no"/>ter 
 	<choice>
@@ -61,7 +56,7 @@
 	     <choice>
 		       <seg type="lucas">v(ir)gi(n?)</seg>
 		       <orig>v̇gī</orig>
-		       <reg>virgin?</reg>
+		       <reg>virgini</reg>
 	     </choice> tue 
 	<choice>
 		       <seg type="lucas">p(ost)</seg>
@@ -71,24 +66,24 @@
 	     <choice>
 		       <seg type="lucas">t(er)re(n?)i</seg>
 		       <orig>ṫrēi</orig>
-		       <reg>terren?i</reg>
+		       <reg>terreni</reg>
 	     </choice> cul
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">me(?)</seg>
 		       <orig>m̄e</orig>
-		       <reg>me?</reg>
+		       <reg>men </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(?)pii</seg>
 		       <orig>īꝑii</orig>
-		       <reg>i?pii<!--  check expansion --></reg>
+		       <reg>imperii</reg>
 	     </choice> 
  regni celestis 
 	<choice>
 		       <seg type="lucas">soliu(m)?</seg>
-		       <orig>soliū?</orig>
-		       <reg>solium?</reg>
+		       <orig>soliū</orig>
+		       <reg>solium</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -104,7 +99,7 @@
 	     <choice>
 		       <seg type="lucas">m(?)itis</seg>
 		       <orig>ṁitis</orig>
-		       <reg>m?itis<!--  check expansion --></reg>
+		       <reg>meritis<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
@@ -125,7 +120,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">famul(is)</seg>
-		       <orig>famul̇</orig>
+		       <orig>famul͘</orig>
 		       <reg>famulis</reg>
 	     </choice> tuis. 
 	<choice>
@@ -148,7 +143,7 @@
 	<choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -190,7 +185,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sole(m)nitate</seg>
-		       <orig>solēnitate</orig>
+		       <orig>solēpnitate</orig>
 		       <reg>solemnitate</reg>
 	     </choice> letifi
 <lb break="no"/>cas: 
@@ -201,7 +196,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pici(us).</seg>
-		       <orig>ppiciꝰ.</orig>
+		       <orig>ꝓpiciꝰ.</orig>
 		       <reg>propicius.</reg>
 	     </choice> ut 
 	<choice>

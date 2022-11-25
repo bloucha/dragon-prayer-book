@@ -51,13 +51,13 @@
 			<reg>super</reg>
 		</choice>
 		<choice>
-			<seg type="lucas">celor(um)</seg>
+			<seg type="lucas">celo(rum)</seg>
 			<orig>celoꝝ</orig>
 			<reg>celorum</reg>
 		</choice>
 		<choice>
 			<seg type="lucas">p(er)g(?)nos</seg>
-			<orig>pġnos</orig>
+			<orig>ꝑeġnos</orig>
 			<reg>perg?nos</reg>
 		</choice>
 		<lb/>
@@ -86,7 +86,7 @@
 			<reg>libera</reg>
 		</choice> nos <lb/>a <choice>
 			<seg type="lucas">p(er)icul(is)</seg>
-			<orig>picul͘</orig>
+			<orig>ꝑicul͘</orig>
 			<reg>periculis</reg>
 		</choice>
 		<choice>
@@ -130,11 +130,11 @@
 			<seg type="lucas">R(esponsorium).</seg>
 			<orig>℞.</orig>
 			<reg>Responsorium.</reg>
-		</choice> O 
+		</choice>  
 		<choice>
 			<seg type="lucas">spe(m)</seg>
-			<orig>spē</orig>
-			<reg>spem</reg>
+			<orig>Ospē</orig>
+			<reg>spem<!-- check --></reg>
 		</choice>
 		<choice>
 			<seg type="lucas">mira(m)</seg>
@@ -178,8 +178,8 @@
 			<reg>promi</reg>
 		</choice>
 		<lb break="no"/>sisti te <choice>
-			<seg type="lucas">p(ro)futur(um)</seg>
-			<orig>ꝓfutur</orig>
+			<seg type="lucas">p(ro)futu(rum)</seg>
+			<orig>ꝓfutuꝝ</orig>
 			<reg>profuturum</reg>
 		</choice>
 		<choice>
@@ -202,7 +202,7 @@
 		</choice>
 		<choice>
 			<seg type="lucas">p(re)cib(us).</seg>
-			<orig>p̄cib.</orig>
+			<orig>p̄cib⋮.</orig>
 			<reg>precibus.</reg>
 		</choice>
 		<choice>
@@ -212,7 +212,7 @@
 		</choice>
 		<choice>
 			<seg type="lucas">Q(ui)</seg>
-			<orig>Q̇</orig>
+			<orig>Q͘</orig>
 			<reg>Qui</reg>
 		</choice> tot </ab>
 

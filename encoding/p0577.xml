@@ -13,7 +13,8 @@
 	     <choice>
 		       <seg type="lucas">b(us?)</seg>
 		       <orig>b⋮</orig>
-		       <reg>bus?</reg>
+		       <reg>bus</reg>
+	           <!-- this is attached to the geni on the previous page -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(ea)t(u)s</seg>
@@ -23,7 +24,7 @@
 	     <choice>
 		       <seg type="lucas">steph(anu?)s</seg>
 		       <orig>stepḣs</orig>
-		       <reg>stephanu?s<!--  check expansion --></reg>
+		       <reg>stephanus</reg>
 	     </choice> 
  
 	     <choice>
@@ -125,8 +126,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)pici(us).</seg>
-		       <orig>ꝓpiciꝰ.</orig>
-		       <reg>propicius.</reg>
+		       <orig>ꝓpitiꝰ.</orig>
+		       <reg>propitius.</reg>
 	     </choice> ut
 <lb/> 
 	     <choice>
@@ -169,7 +170,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">m(ur).</seg>
-		       <orig>m˸.</orig>
+		       <orig>m݃.</orig>
 		       <reg>mur.</reg>
 	     </choice> 
 	     <choice>
@@ -180,7 +181,7 @@
 	<choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -240,16 +241,11 @@
 		       <seg type="lucas">talib(us)</seg>
 		       <orig>talib⋮</orig>
 		       <reg>talibus</reg>
-	     </choice> auxiliis 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
+	     </choice> auxiliis
 	     <choice>
 		       <seg type="lucas">cess(er)is</seg>
-		       <orig>cess͘is</orig>
-		       <reg>cesseris</reg>
+		       <orig>ɔcess͘is</orig>
+		       <reg>concesseris</reg>
 	     </choice> ad⸗
 
 

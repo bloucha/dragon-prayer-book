@@ -50,7 +50,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ce(re);</seg>
-		       <orig>ċe;</orig>
+		       <orig>cė;</orig>
 		       <reg>cere;</reg>
 	     </choice> ad 
 	<choice>
@@ -65,7 +65,7 @@
 	     </choice> nos 
 	<choice>
 		       <seg type="lucas">m(iser)i</seg>
-		       <orig>mī</orig>
+		       <orig>m̄i</orig>
 		       <reg>miseri</reg>
 	     </choice>
       <lb break="no"/>
@@ -144,7 +144,7 @@
 	     </choice> lucas 
 	<choice>
 		       <seg type="lucas">eiv(a)ng(e)lista;</seg>
-		       <orig>eiv̈nglista;</orig>
+		       <orig>eiv̈ngl͘ista;</orig>
 		       <reg>eivangelista;</reg>
 	     </choice> 
 	     <choice>
@@ -265,7 +265,7 @@
 	     </choice> iude 
 	<choice>
 		       <seg type="lucas">gl(ori)osa</seg>
-		       <orig>glȯsa</orig>
+		       <orig>gl͘osa</orig>
 		       <reg>gloriosa</reg>
 	     </choice>
       <lb/>

@@ -82,8 +82,7 @@
       <lb/>ut 
 	<choice>
 		       <seg type="lucas">i(n)t(er)cessio(nis</seg>
-		       <orig>īṫcessiō</orig>
-	      <!-- unaccounted character next to "o" -->
+		       <orig>īṫcessiōis</orig>
 		       <reg>intercessionis</reg>
 	     </choice> 
 	     <choice>
@@ -109,7 +108,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">lib(er)em(ur).</seg>
-		       <orig>liḃem˸.</orig>
+		       <orig>liḃem݃.</orig>
 		       <reg>liberemur.</reg>
 	     </choice>
       <lb/>
@@ -148,16 +147,16 @@
 	     <choice>
 		       <seg type="lucas">a(?)</seg>
 		       <orig>ā</orig>
-		       <reg>a?</reg>
+		       <reg>a? <!-- end of the word "Mathia" --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ap(u)lor(um)</seg>
-		       <orig>apl̇or</orig>
+		       <orig>apl͘oꝝ</orig>
 		       <reg>apulorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> collegio so
 <lb break="no"/>ciasti; 
@@ -221,9 +220,13 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">OM(ni)p(oten)s†'†sem(?)⸗</seg>
-		       <orig>OMp̄s†'†sem̄⸗</orig>
-		       <reg>OMnipotens†'†sem?⸗</reg>
-	     </choice>        
+		       <orig>OMp̄ssem̄⸗</orig>
+		       <reg>OMnipotens</reg>
+	     </choice>
+         <choice>
+               <orig>sem̄⸗</orig>
+               <reg>sem̄m⸗?? <!-- check expansion, not sure what is supposed to go here --></reg>
+         </choice>
 	     <choice>
 		       <seg type="lucas">gu(n)dis</seg>
 		       <orig>gūdis</orig>

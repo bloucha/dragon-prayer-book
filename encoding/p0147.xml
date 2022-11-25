@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Qa</orig>
+		       <orig>Q͘a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -52,9 +52,20 @@
 		       <reg>dominum</reg>
 	     </choice> 
 	     <choice>
+
+		       <seg type="lucas">(con)</seg>
+		       <orig>ɔ</orig>
+		       <reg>con</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">fit(er)i</seg>
+		       <orig>fiṫi</orig>
+		       <reg>fiteri</reg>
+
 		       <seg type="lucas">fit(er)i</seg>
 		       <orig>ɔfiti</orig>
 		       <reg>confiteri</reg>
+
 	     </choice>
       <lb/>
 	     <choice>
@@ -68,6 +79,16 @@
 		       <reg>veritate</reg>
 	     </choice> 
 	     <choice>
+
+		       <seg type="lucas">(con)</seg>
+		       <orig>ɔ</orig>
+		       <reg>con</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">pellim(ur):</seg>
+		       <orig>pellim݃:</orig>
+		       <reg>pellimur:</reg>
+	           
 		       <seg type="lucas">pellim(ur):</seg>
 		       <orig>ɔpellim݃:</orig>
 		       <reg>compellimur:</reg>
@@ -80,7 +101,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(ut)</seg>
-		       <orig>ā</orig>
+		       <orig>ȧ</orig>
 		       <reg>aut</reg>
 	     </choice> 
 	     <choice>
@@ -122,7 +143,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">f(ac)t(a)s:</seg>
-		       <orig>ft̄s:</orig>
+		       <orig>fts̄:</orig>
 		       <reg>factas:</reg>
 	     </choice>
       <lb/>nec 
@@ -191,7 +212,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> filio: 
 	<choice>
@@ -212,7 +233,7 @@
 	     </choice> nec 
 	<choice>
 		       <seg type="lucas">ge(n)it(us)</seg>
-		       <orig>gēit</orig>
+		       <orig>gēitꝰ</orig>
 		       <reg>genitus</reg>
 	     </choice> 
 	     <choice>
@@ -280,7 +301,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(on)</seg>
-		       <orig>n̄</orig>
+		       <orig>nō</orig>
 		       <reg>non</reg>
 	     </choice> tres 
 	<choice>

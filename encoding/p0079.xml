@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)cellar(um):</seg>
-		       <orig>ꝓcellar:</orig>
+		       <orig>ꝓcellaꝝ</orig>
 		       <reg>procellarum:</reg>
 	     </choice> 
 	     <choice>
@@ -249,9 +249,9 @@
 	     </choice>
       <lb/>sui. 
 	<choice>
-		       <seg type="lucas">H(y)mn(us)<!-- check --></seg>
+		       <seg type="lucas">H(y)mn(us)</seg>
 		       <orig>Impnꝰ</orig>
-		       <reg>Hymnus<!-- check expansion --></reg>
+		       <reg>Hymnus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mn)ib(us)</seg>

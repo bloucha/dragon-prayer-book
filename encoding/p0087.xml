@@ -53,7 +53,7 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">pit(er)na</seg>
-		       <orig>pit̄na</orig>
+		       <orig>piṫna</orig>
 		       <reg>piterna</reg>
 	     </choice> 
 	     <choice>
@@ -79,7 +79,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)bularer</seg>
-		       <orig>t̄bularer</orig>
+		       <orig>ṫbularer</orig>
 		       <reg>tribularer</reg>
 	     </choice>
       <lb/>
@@ -117,7 +117,7 @@
 <lb/>labiis 
 	<choice>
 		       <seg type="lucas">inq(ui)s:</seg>
-		       <orig>īnq̄s:</orig>
+		       <orig>īnq̇s:</orig>
 		       <reg>inquis:</reg>
 	     </choice> 
 	     <choice>
@@ -133,7 +133,7 @@
       <lb/>dolosa. 
 	<choice>
 		       <seg type="lucas">Q(ui)d</seg>
-		       <orig>Q͘d</orig>
+		       <orig>Q̇d</orig>
 		       <reg>Quid</reg>
 	     </choice> 
 	     <choice>
@@ -149,7 +149,7 @@
 	     <choice>
 		       <seg type="lucas">a(?)</seg>
 		       <orig>ȧ</orig>
-		       <reg>a?</reg>
+		       <reg>aut</reg>
 	     </choice> ap
 <lb break="no"/>
 	     <choice>
@@ -218,7 +218,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)lo(n)gat(us)</seg>
-		       <orig>plōgatꝰ</orig>
+		       <orig>ꝓlōgatꝰ</orig>
 		       <reg>prolongatus</reg>
 	     </choice> 
 	     <choice>

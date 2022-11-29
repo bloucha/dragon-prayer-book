@@ -54,9 +54,9 @@
 	     </choice> mise
 <lb break="no"/>EMpti es⸗        
 	<choice>
-		       <seg type="lucas">Cap(ite?)</seg>
+		       <seg type="lucas">Cap(itulum)</seg>
 		       <orig>Cap̄</orig>
-		       <reg>Capite?</reg>
+		       <reg>Capitulum</reg>
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">re(re)</seg>
@@ -280,9 +280,9 @@
 		       <reg>secula.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Cap(ite?).</seg>
+		       <seg type="lucas">Cap(itulum).</seg>
 		       <orig>Cap̄.</orig>
-		       <reg>Capite?.<!--  check expansion --></reg>
+		       <reg>Capitulum.</reg>
 	     </choice> 
       <lb/>TRes 
 	<choice>
@@ -318,8 +318,12 @@
    	From my secret ones cleanse
    	Thou me: and from
    	the sins of others,
-   	spare Thy servant. <!-- OBVM 24 --> Lord have mercy, Christ have mercy, Lord have mercy. Sunday antiphon. 
+   	spare Thy servant. <!-- OBDS 24 --> Lord have mercy, Christ have mercy, Lord have mercy. 
+   	Our Father, [who art in heaven: hallowed be thy name. Thy kingdom come. Thy will be done, on earth as it is in heaven. 
+   	Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. 
+   	And lead us not into temptation, but deliver us from evil.]
+   	Sunday antiphon. 
    	Of whom are all things, by whom are all things, in which are all things, be glory unto the ages. <!-- google/my transl via 1 Cor. 8:6 -->
-   	Chapter. There are three who give testimony <!-- 1 john 5:7 drb cont --> </ab>
+   	Chapter. There are three who give testimony in heaven, the Father, the Word, and the Holy Ghost. <!-- 1 john 5:7 drb cont --> </ab>
 
 </div>

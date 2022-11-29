@@ -68,9 +68,9 @@
 	     </choice>
       <lb break="no"/>a. In 
 	<choice>
-		       <seg type="lucas">eph(er?)ia</seg>
+		       <seg type="lucas">e(pi)ph(an)ia</seg>
 		       <orig>epḣia</orig>
-		       <reg>epher?ia<!--  check expansion --></reg>
+		       <reg>epiphania<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
@@ -84,14 +84,14 @@
 		       <reg>super</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ps(alm?)</seg>
+		       <seg type="lucas">ps(alm)</seg>
 		       <orig>p̄s</orig>
-		       <reg>psalm?</reg>
+		       <reg>psalmus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>lux de luce 
 	<choice>
@@ -314,6 +314,6 @@
        corresp="#p0262_transcription">At this day. Alleluia, the Word
        was made flesh.
       Alleluia, and dwelt among
-       us, alleluia. <!-- PBDS pg 480 the angelus --> </ab>
+       us, alleluia. <!-- PBDS pg 480 the angelus --> On Epiphany of the Lord. On the Psalm. Antiphon. </ab>
 
 </div>

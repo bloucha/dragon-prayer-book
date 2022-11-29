@@ -13,7 +13,7 @@
 	     <choice>
 		       <seg type="lucas">fidu(n)t</seg>
 		       <orig>ɔfidūt</orig>
-		       <reg>fidunt</reg>
+		       <reg>confidunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -80,7 +80,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(e)r(usa)l(e)m.</seg>
-		       <orig>irlm.</orig> <!-- don't see any diacritics here -->
+		       <orig>irlm.</orig>
 		       <reg>ierusalem.</reg>
 	     </choice>
       <lb/>
@@ -158,7 +158,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>

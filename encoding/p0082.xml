@@ -87,7 +87,7 @@
       <lb/>post 
 	<choice>
 		       <seg type="lucas">p(ar)tu(m)</seg>
-		       <orig>ꝑtū</orig>
+		       <orig>ꝑtū</orig> 
 		       <reg>partum</reg>
 	     </choice> 
 	     <choice>
@@ -125,14 +125,18 @@
 	     <choice>
 		       <seg type="lucas">Cap(?)</seg>
 		       <orig>Cap̄</orig>
-		       <reg>Cap?</reg>
+		       <reg>Cap? <!-- Capite? I feel like this is usually Capite --></reg>
 	     </choice> 
 
 	     <choice>
 		       <seg type="lucas">p(ro)nob(is).</seg>
-		       <orig>ꝓnoḃ.</orig>
-		       <reg>pronobis.</reg>
+		       <orig>ꝓ.</orig> 
+		       <reg>pro.</reg>
 	     </choice>
+         <choice>
+               <orig>noḃ</orig>
+               <reg>nobis</reg>
+         </choice>
       <lb/>vitis fructificavi su
 <lb break="no"/>
 	     <choice>
@@ -161,11 +165,12 @@
 		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
-	     <choice>
+	    <seg next ="#segm"> <choice>
 		       <seg type="lucas">ho(n)esta</seg>
 		       <orig>hōesta</orig>
 		       <reg>honesta</reg>
 	     </choice>
+	    </seg>
       <lb break="no"/>O 
 	<choice>
 		       <seg type="lucas">Gl(or)iosa</seg>
@@ -176,8 +181,8 @@
 	     <choice>
 		       <seg type="lucas">y(mnus).</seg>
 		       <orig>ȳpꝰ.</orig>
-		       <reg>ymnus.</reg>
-	     </choice>         tis. 
+		       <reg>hymnus.</reg>
+	     </choice>         <seg xml:id="segm">tis</seg>
 	<choice>
 		       <seg type="lucas">D(eus).</seg>
 		       <orig>Ḋ.</orig>

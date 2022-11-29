@@ -20,15 +20,10 @@
 		       <orig>p̄cib⋮</orig>
 		       <reg>precibus</reg>
 	     </choice> deo 
-	<choice>
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">me(n)</seg>
-		       <orig>mē</orig>
-		       <reg>men</reg>
+		       <orig>ɔmē</orig>
+		       <reg>commen</reg>
 	     </choice>
       <lb break="no"/>dari. 
 	<choice>
@@ -42,9 +37,8 @@
 		       <reg>Sapientiam</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription -->
 		       <seg type="lucas">s(an)c(t)o(rum)</seg>
-		       <orig>sc̄or⋮</orig>
+		       <orig>sc̄oꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> nar
 <lb break="no"/>
@@ -86,7 +80,7 @@
 	     </choice> O 
 	<choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig>
+		       <orig>q̈</orig> <!--quam needs to be fixed -->
 		       <reg>quam</reg>
 	     </choice>
       <lb/>felix 
@@ -108,12 +102,12 @@
 	     <choice>
 	           
 		       <seg type="lucas">s(an)c(t)o(rum)</seg>
-		       <orig>sc̄or⋮</orig>
+		       <orig>sc̄oꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈</orig>
+		       <orig>q̈</orig> <!-- quam -->
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
@@ -128,39 +122,18 @@
 		       <reg>merita</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">
-	           <choice>
-	                <!-- there should not be 3 "sut" -->
-		             <seg type="lucas">su(?)t</seg>
-		             <orig>sut</orig>
-		             <reg>su?t<!--  check expansion --></reg>
-	           </choice> 
-         </seg>
-		       <orig>
-	           <choice>
-		             <seg type="lucas">su(?)t</seg>
-		             <orig>sut</orig>
-		             <reg>su?t<!--  check expansion --></reg>
-	           </choice> 
-         </orig>
-		       <reg>
-	           <choice>
-		             <seg type="lucas">su(?)t</seg>
-		             <orig>sut</orig>
-		             <reg>su?t<!--  check expansion --></reg>
-	           </choice> 
-         </reg>
-	     </choice> 
- 
+	           <orig>sūt</orig>
+	           <reg>sunt</reg>                 
+	     </choice>
 	     <choice>
 		       <seg type="lucas">p(re)dicato(rum)</seg>
-		       <orig>p̄dicator⋮</orig>
+		       <orig>p̄dicatoꝝ</orig>
 		       <reg>predicatorum</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(u)o(rum)</seg>
-		       <orig>qºr⋮</orig>
+		       <orig>qºꝝ</orig>
 		       <reg>quorum</reg>
 	     </choice> 
 	     <choice>
@@ -191,7 +164,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eo(rum)q(ue)</seg>
-		       <orig>eor⋮q⋮</orig>
+		       <orig>eoꝝq⋮</orig>
 		       <reg>eorumque</reg>
 	     </choice> 
 	     <choice>
@@ -204,16 +177,11 @@
 		       <orig>mēs</orig>
 		       <reg>mens</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">soliadat(ur)</seg>
-		       <orig>soliadat݃</orig>
-		       <reg>soliadatur</reg>
+		       <orig>ɔsoliadat݃</orig>
+		       <reg>consoliadatur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(ersiculus)</seg>
@@ -291,12 +259,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)o(rum)</seg>
-		       <orig>sc̄or⋮</orig>
+		       <orig>sc̄oꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuo(rum)</seg>
-		       <orig>tuor⋮</orig>
+		       <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> Petri
 <lb/>thome 
@@ -323,7 +291,7 @@
 	     </choice> nos 
 	<choice>
 		       <seg type="lucas">p(ro)voce(n)t</seg>
-		       <orig>ꝑvocēt</orig>
+		       <orig>ꝓvocēt</orig>
 		       <reg>provocent</reg>
 	     </choice> ; 
 	<choice>

@@ -134,8 +134,8 @@
       <lb break="no"/>tes 
 	<choice>
 		       <seg type="lucas">sim(u)los?.</seg>
-		       <orig>su̇mlos?.</orig> <!-- check expansion -->
-		       <reg>simulos?.</reg>
+		       <orig>ṡuulos.</orig> 
+		       <reg>seruulos.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(ersiculus).</seg>

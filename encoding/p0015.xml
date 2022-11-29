@@ -129,19 +129,13 @@
 		       <seg type="lucas">n(ost)ras</seg>
 		       <orig>nr̄as</orig>
 		       <reg>nostras</reg>
-	     </choice> d <!--unsure if this is the proper way to handle a supplied element appearing mid-word-->
-                  <supplied>
+	     </choice> 
+                          
                         <choice>
-                              <seg type="lucas">ep(re)</seg>
-                              <orig>ep̄</orig>
-                              <reg>epre</reg>
-                        </choice>  
-                  </supplied>
-	<choice>
 		       <seg type="lucas">cat(i)o(n)es</seg>
-	             <orig>cac̄oēs</orig>
-	                 <reg>cationes</reg>
-	     </choice> ne despi⸗
+	             <orig>d<supplied>ep̄</supplied>catoēs</orig>
+	                 <reg>d<supplied>epre</supplied>cationes</reg>
+	</choice>  ne despi⸗
 
 
 

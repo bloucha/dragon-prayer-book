@@ -182,7 +182,7 @@
             </choice>
             <choice>
                   <seg type="lucas">p(ar)ticipat(i)o</seg>
-                  <orig>ꝑticipatō</orig>
+                  <orig>ꝑticipatō</orig> 
                   <reg>participatio</reg>
             </choice>
             <choice>
@@ -252,7 +252,7 @@
             </choice>
             <choice>
                   <seg type="lucas">Q(ui)a</seg>
-                  <orig>Q͘a</orig>
+                  <orig>Q̇a</orig>
                   <reg>Quia</reg>
             </choice> il <lb break="no"/>lic <choice>
                   <seg type="lucas">seder(un)t</seg>

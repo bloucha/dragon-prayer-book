@@ -99,13 +99,13 @@
 		       <seg type="lucas">d(omi)ne</seg>
 		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
-	     </choice> famu⸗ <!-- famulos is actually one word -->
+	     </choice> <seg next = "seg1">famu⸗</seg> 
 	<choice>
 		       <seg type="lucas">or(emus)</seg>
 			   <orig>or̄</orig>
 		       <reg>oremus</reg>
 	     </choice>
-   	<lb/>los tuos subsidiis pa
+   	<lb/> <seg xml:id="seg1">los</seg>tuos subsidiis pa
 <lb break="no"/>cis : 
 	<choice>
 		       <seg type="lucas">(et)</seg>

@@ -33,7 +33,7 @@
       <lb break="no"/>tis: ita filii 
 	<choice>
 		       <seg type="lucas">excussor(um).</seg>
-	    <orig>excussoꝝ.</orig>
+	           <orig>excussoꝝ.</orig>
 		       <reg>excussorum.</reg>
 	     </choice> 
 	     <choice>
@@ -79,7 +79,6 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unicode 0743 is not appearing correctly -->
 		       <seg type="lucas">(con)f(u)ndet(ur)</seg>
 	         <orig>ɔfn̄det݃</orig>
 		       <reg>confundetur</reg>
@@ -90,7 +89,6 @@
 		       <reg>cum</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unicode 0743 is not appearing correctly -->
 		       <seg type="lucas">loq(uen)t(ur)</seg>
 		       <orig>loq̄t݃</orig>
 		       <reg>loquentur</reg>
@@ -156,9 +154,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-	         <!-- unclear how to code, looks like either an r or semicolon -->
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -195,15 +192,9 @@
 	     </choice> vitis
 <lb/>
 	     <choice>
-	         <!-- unicode character not assigned -->
-		       <seg type="lucas">(ab)</seg>
-		       <orig/>
-		       <reg>ab</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">u(n)uda(n)s:</seg>
-		       <orig>ūudās:</orig>
-		       <reg>unudans:</reg>
+		       <orig>hūudās:</orig>
+		       <reg>abunudans:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -229,7 +220,7 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">var(um):</seg>
-		       <orig>var⋮:</orig>
+		       <orig>vaꝝ:</orig>
 		       <reg>varum:</reg>
 	     </choice> 
 	     <choice>
@@ -249,8 +240,7 @@
 	     </choice> tue.
 <lb/>Ecce sic 
 	<choice>
-	    <!-- unicode 0743 is not appearing correctly -->
-		       <seg type="lucas">b(e)n(e)dicet(ur)</seg>
+	    <seg type="lucas">b(e)n(e)dicet(ur)</seg>
 		       <orig>bn̄dicet݃</orig>
 		       <reg>benedicetur</reg>
 	     </choice> 
@@ -278,7 +268,7 @@
 	     <choice>
 		       <seg type="lucas">t(e)</seg>
 		       <orig>ṫ</orig>
-		       <reg>te</reg> <!-- the Latin vulgate has this as 'tibi' -->
+		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(u)s</seg>

@@ -155,7 +155,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi).</seg>
-		       <orig>t̄.</orig>
+		       <orig>ṫ.</orig>
 		       <reg>tibi.</reg>
 	     </choice>
       <lb/>
@@ -199,7 +199,7 @@
 	<choice>
 		       <seg type="lucas">ca(?).</seg>
 		       <orig>cā.</orig>
-		       <reg>ca?.<!--  check expansion --></reg>
+		       <reg>ca?.<!--  check expansion, no hint in MT --></reg>
 	     </choice> 
       <lb/>AB 
 	<choice>

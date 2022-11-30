@@ -104,7 +104,11 @@
 		       <seg type="lucas">FAm(u)lor(um)</seg>
 		       <orig>FAm̄l͘oꝝ</orig>
 		       <reg>FAmulorum</reg>
-	     </choice>        Oro        
+	     </choice>        
+         <choice>
+               <orig>Or̄o</orig>
+               <reg>Oratio <!-- oratio? --></reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">u(m)</seg>
 		       <orig>ū</orig>
@@ -186,9 +190,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- check transcrption for next two words, looks like "diu xpi" -->
 		       <seg type="lucas">i(es)u(m)</seg>
-		       <orig>ih̄u</orig>
+		       <orig>iḣu</orig>
 		       <reg>iesum</reg>
 	     </choice> 
 	     <choice>

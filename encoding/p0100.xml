@@ -71,7 +71,6 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-	           <!-- the "us" character is not working -->
 		       <seg type="lucas">ca(mus)</seg>
 		       <orig>cāꝰ</orig>
 		       <reg>camus</reg>
@@ -116,7 +115,7 @@
 	<choice>
 		       <seg type="lucas">ix(?).</seg>
 		       <orig>iẍ.</orig>
-		       <reg>ix?.<!--  check expansion --></reg>
+		       <reg>novum.<!--  check expansion --></reg>
 	     </choice> 
  Ave maria.
 <lb/>

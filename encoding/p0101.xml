@@ -173,7 +173,6 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, I don't see a y -->
 		       <seg type="lucas">synu(m)</seg>
 		       <orig>synū</orig>
 		       <reg>synum</reg>
@@ -247,15 +246,16 @@
 		       <reg>in</reg>
 	     </choice> no
 <lb break="no"/>DE 
-	<choice>
+	<seg next = "#i"><choice>
 		       <seg type="lucas">p(ro)fu(n)⸗</seg>
 		       <orig>ꝓfū⸗</orig>
 		       <reg>profun⸗</reg>
-	     </choice>        
+	     </choice> 
+	</seg>
 	     <choice>
 		       <seg type="lucas">Ps(alm)</seg>
 		       <orig>Ps̈</orig>
-		       <reg>Psalm</reg>
+		       <reg>Psalmus</reg>
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">mi(n)e</seg>
@@ -267,7 +267,7 @@
 		       <orig>dn̄i.</orig>
 		       <reg>domini.</reg>
 	     </choice>
-      <lb/>dis 
+      <lb/><seg xml:id="i">dis</seg> 
 	<choice>
 		       <seg type="lucas">cla(ma)vi</seg>
 		       <orig>clävi</orig>

@@ -198,7 +198,6 @@
 		       <reg>Deo.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- Did we ever settle on a character -->
 		       <seg type="lucas">R(esponsorium)</seg>
 		       <orig>℞</orig>
 		       <reg>Responsorium</reg>
@@ -206,7 +205,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>ꝑ</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -247,7 +246,6 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- check transcription, looks like xpi -->
 		       <seg type="lucas">(christ)i.</seg>
 		       <orig>xp̄i.</orig>
 		       <reg>christi.</reg>
@@ -281,7 +279,7 @@
 	     <choice>
 		       <seg type="lucas">Or(?)o.</seg>
 		       <orig>Or̄o.</orig>
-		       <reg>Or?o.<!--  check expansion --></reg>
+		       <reg>Oratio.</reg>
 	     </choice> 
       <lb/>PRotege 
 	<choice>

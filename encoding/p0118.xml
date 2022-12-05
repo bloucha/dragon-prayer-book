@@ -18,7 +18,7 @@
 	<choice>
 		       <seg type="lucas">pe(n)th(?)co.</seg>
 		       <orig>pētḣco.</orig>
-		       <reg>penth?co.</reg>
+		       <reg>penthecostam.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -86,10 +86,9 @@
 		       <reg>MEmento</reg>
 	     </choice>        
 	     <choice>
-	           <!-- 0308 not appearing over the P -->
 		       <seg type="lucas">Ps(alm)</seg>
 		       <orig>P̈s</orig>
-		       <reg>Psalm</reg>
+		       <reg>Psalmus</reg>
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -202,9 +201,8 @@
 		       <reg>dedero</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like a p -->
 		       <seg type="lucas">so(m)nu(m)</seg>
-		       <orig>sōnū</orig>
+		       <orig>sōpnū</orig>
 		       <reg>somnum</reg>
 	     </choice> 
 	     <choice>

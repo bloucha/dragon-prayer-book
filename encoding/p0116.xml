@@ -97,7 +97,7 @@
             <choice>
                   <seg type="lucas">an(tiphon?).</seg>
                   <orig>an̈.</orig>
-                  <reg>antiphon?.<!--  check expansion --></reg>
+                  <reg>antiphon.</reg>
             </choice>
             <lb/>
             <choice>
@@ -111,7 +111,7 @@
                   <reg>quomodo</reg>
             </choice> fiet istud. <choice>
                   <seg type="lucas">q(uia)</seg>
-                  <orig>q:</orig> <!-- check -->
+                  <orig>q:</orig> 
                   <reg>quia</reg>
             </choice>
             <lb/>nec <choice>

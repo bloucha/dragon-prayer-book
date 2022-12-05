@@ -51,22 +51,11 @@
 		       <orig>dn̄⋮</orig>
 		       <reg>dominum</reg>
 	     </choice> 
-	     <choice>
 
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">fit(er)i</seg>
-		       <orig>fiṫi</orig>
-		       <reg>fiteri</reg>
-
-		       <seg type="lucas">fit(er)i</seg>
-		       <orig>ɔfiti</orig>
+		       <seg type="lucas">(con)fit(er)i</seg>
+		       <orig>ɔfit̄i</orig>
 		       <reg>confiteri</reg>
 
-	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(christ)iana</seg>
@@ -80,14 +69,6 @@
 	     </choice> 
 	     <choice>
 
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">pellim(ur):</seg>
-		       <orig>pellim݃:</orig>
-		       <reg>pellimur:</reg>
 	           
 		       <seg type="lucas">pellim(ur):</seg>
 		       <orig>ɔpellim݃:</orig>
@@ -301,7 +282,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(on)</seg>
-		       <orig>nō</orig>
+		       <orig>n̄</orig>
 		       <reg>non</reg>
 	     </choice> tres 
 	<choice>

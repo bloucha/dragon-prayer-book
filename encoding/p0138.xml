@@ -34,13 +34,11 @@
 	     <choice>
 		       <seg type="lucas">nio(nem)</seg>
 		       <orig>niō⋮</orig>
-	           <!-- not sure if macron plus three dots is the right move here but that's what it looks like on the page -->
-		       <reg>nionem</reg>
+	           <reg>nionem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">remissio(nem)</seg>
 		       <orig>remissiō⋮</orig>
-	           <!-- see previous comment -->
 		       <reg>remissionem</reg>
 	     </choice> 
 	     <choice>
@@ -78,7 +76,7 @@
 	<choice>
 		       <seg type="lucas">i(?).</seg>
 		       <orig>ï.</orig>
-		       <reg>i?.<!--  check expansion --></reg>
+		       <reg>unus.<!--  This is my best guess --></reg>
 	     </choice> 
  
 	     <choice>
@@ -111,8 +109,6 @@
 	     <choice>
 		       <seg type="lucas">m(ur)</seg>
 		       <orig>m݃</orig>
-	           <!-- I think these two dots go with the m but they might be a 
-	                 seperate character -->
 		       <reg>mur</reg>
 	     </choice> supplices ut 
 	<choice>
@@ -178,11 +174,6 @@
                <seg type="lucas">va(n)itates </seg>
                <orig>vānitates</orig>
                <reg>vanitates</reg>
-             <!-- it's important to me that Lucas knows that
-                   he missed this abbreviation in his original doc
-                   and also that I'm better than him <3 (imagine learning to
-                   read gothic script for funsies and only catching 99.9% of the abbrevs
-                   lmaooo -->
          </choice>
 <lb/>hauriat. Sint pura cor
 <lb break="no"/>dis 
@@ -233,18 +224,12 @@
 	     </choice> dies 
 	<choice>
 		       <seg type="lucas">abscess(er)it</seg>
-		       <orig>abscessi͘t</orig>
-	      <!-- this looks like a dot to the right but the page is damaged
-	            so I am unsure -->
+		       <orig>abscesṡit</orig>
 		       <reg>abscesserit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nocte(m)q(ue)</seg>
 		       <orig>noctēq⋮</orig>
-	           <!-- this said "que" was in the orig but it looks
-	                 like three dots to me. Again let Lucas know I'm better than
-	                 him <3 (unless I messed up in which case it was an honest mistake and 
-	                 don't be mean to me) -->
 		       <reg>noctemque</reg>
 	     </choice>
    </ab>

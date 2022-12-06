@@ -252,15 +252,18 @@
 		       <seg type="lucas">iustificat(i)o(n)es</seg>
 		       <orig>iustificatōes</orig>
 		       <reg>iustificationes</reg>
+	           
 	     </choice>
-      <lb/>tue. Adhesit 
          <supplied>
+      <lb/>tue. Adhesit 
+         
 	<choice>
 		       <seg type="lucas">pavime(n)to</seg>
 		       <orig>pavimēto</orig>
 		       <reg>pavimento</reg>
-	     </choice>        
+	     </choice>     
          </supplied>
+         
    </ab>
 
    <ab type="translation"

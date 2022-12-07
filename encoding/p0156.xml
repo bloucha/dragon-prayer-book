@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q:</orig> <!-- check abbreviation -->
+		       <orig>q:</orig> 
 		       <reg>quia</reg>
 	     </choice> iudicia tua iocunda.
 <lb/>Ecce 
@@ -199,7 +199,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(u)li.</seg>
-		       <orig>scl͘i.</orig> <!-- check -->
+		       <orig>scl͘i.</orig> 
 		       <reg>seculi.</reg>
 	     </choice> Et 
 	<choice>
@@ -243,12 +243,12 @@
 		       <seg type="lucas">i(n)</seg>
 	             <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">testi(m)o⸗†</seg>
-	             <orig>testīo⸗†</orig>
-		       <reg>testimo⸗†</reg>
-	     </choice>
+	             <orig>testīo⸗</orig>
+		       <reg>testimo⸗</reg>
+	     </choice> </supplied>
    </ab>
 
    <ab type="translation"

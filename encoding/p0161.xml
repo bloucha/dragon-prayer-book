@@ -41,7 +41,7 @@
 	             <orig>ītellc̄m</orig>
 		       <reg>intellectum</reg>
 	     </choice>
-      <lb/>et ut <!-- check transcription is this correct? -->
+         <lb/>et [[ut]]<!-- strikethrough doesn't work on oxygen so this is what i'm working with -->
 	<choice>
 		       <seg type="lucas">disca(m)</seg>
 	             <orig>discā</orig>
@@ -54,7 +54,7 @@
 	     </choice> tua. 
 	<choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig> <!-- check transcription - unsure  -->
+		       <orig>Qi</orig> 
 		       <reg>Qui</reg>
 	     </choice>
       <lb/>

@@ -222,7 +222,7 @@
 		       <orig>v̇itas</orig>
 		       <reg>veritas</reg>
 	     </choice> tua:
-<lb/>†
+<lb/><supplied>
 	<choice>
 		       <seg type="lucas">fu(n)dasti†</seg>
 		       <orig>fūdasti</orig>
@@ -254,7 +254,7 @@
 		       <seg type="lucas">p(er)sev(er)at</seg>
 		       <orig>ꝑsev̇at</orig>
 		       <reg>perseverat</reg>
-	     </choice> <supplied>dies</supplied>
+	     </choice> dies</supplied>
 
 
 </ab>

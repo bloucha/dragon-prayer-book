@@ -57,18 +57,18 @@
 	     <choice>
 		       <seg type="lucas">Su(?)tag</seg>
 		       <orig>Sūtag</orig>
-		       <reg>Su?tag<!--  check expansion --></reg>
+		       <reg>Suntag</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">an(tiphon).</seg>
 		       <orig>an̈.</orig>
 		       <reg>antiphon.</reg>
-	     </choice> G 
+	     </choice>  
 	<choice>
 		       <seg type="lucas">l(ori)a</seg>
-		       <orig>l͘a</orig>
-		       <reg>loria</reg>
+		       <orig>Gl͘a</orig>
+		       <reg>Gloria</reg>
 	     </choice> laudis
 <lb/>
 	     <choice>
@@ -131,7 +131,7 @@
 	     <choice>
 		       <seg type="lucas">Cap(ite?).</seg>
 		       <orig>Cap̄.</orig>
-		       <reg>Capitulum.<!--  check expansion --></reg>
+		       <reg>Capitulum.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -275,7 +275,7 @@
 		       <orig>Ꝑ.</orig>
 		       <reg>Permanet.</reg>
 	     </choice>
-      <lb/>†
+      <lb/><supplied>
 	<choice>
 		       <seg type="lucas">Gl(ori)a.</seg>
 		       <orig>Gl͘a.</orig>
@@ -291,7 +291,7 @@
 		       <orig>Dn̄s</orig>
 		       <reg>Dominus</reg>
 	     </choice> regit me.
-
+      </supplied>
 
 </ab>
 

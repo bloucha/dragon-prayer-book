@@ -16,9 +16,9 @@
 		       <reg>viam</reg>
 	     </choice> 
 	     <choice>
-	           <seg type="lucas">i(n)q(ui)tatis.<!-- looks like there are two "i"s here --></seg>
-	             <orig>īq͘tatis.</orig> 
-		       <reg>inquitatis.</reg>
+	           <seg type="lucas">i(n)q(ui)tatis.</seg>
+	             <orig>īiq͘tatis.</orig> 
+		       <reg>iniquitatis.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Luc(er)na</seg>
@@ -77,9 +77,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">usq(ue)q(ua)q(ue)</seg>
-	             <orig>usq⋮q̈q⋮</orig>
-		       <reg>usquequaque</reg>
-	     </choice> : 
+	             <orig>usq⋮q̈q⋮:</orig>
+		       <reg>usquequaque:</reg>
+	     </choice>  
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
 		       <orig>dn̄e</orig>
@@ -120,8 +120,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> +</orig>
-		       <reg>et </reg>
+	             <orig>+</orig>
+		       <reg>et</reg>
 	     </choice> iudi
 <lb break="no"/>cia tua doce me. 
 	<choice>
@@ -147,8 +147,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	            <orig> + </orig>
-		       <reg>et </reg>
+	            <orig>+</orig>
+		       <reg>et</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">lege(m)</seg>
@@ -218,7 +218,7 @@
 		       <seg type="lucas">H(er)editate</seg>
 	           <orig>Hėditate</orig>
 		       <reg>Hereditate</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">adq(ui)sivi</seg>
 		       <orig>adq̇sivi</orig>
@@ -226,9 +226,10 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">testi(m)o⸗†</seg>
-	             <orig>testīo⸗†</orig>
-		       <reg>testimo⸗†</reg>
+	             <orig>testīo⸗</orig>
+		       <reg>testimo⸗</reg>
 	     </choice>
+	     </supplied>
    </ab>
 
    <ab type="translation"

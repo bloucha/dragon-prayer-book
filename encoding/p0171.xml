@@ -120,7 +120,7 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
-	     </choice> to[r/p]a <!-- check transcription -->
+	     </choice> topa 
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">zio(n).</seg>
@@ -142,7 +142,7 @@
 		       <orig>mā</orig>
 		       <reg>man</reg>
 	     </choice>
-      <lb break="no"/>data tua diri[p/g]ebar: <!-- check transcription -->
+      <lb break="no"/>data tua dirigebar: 
 	<choice>
 		       <seg type="lucas">o(mn)e(m)</seg>
 		       <orig>oē⋮</orig>
@@ -198,7 +198,6 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">t(er)i(us)</seg>
 		       <orig>t̄iꝰ</orig> 
 		       <reg>terius</reg>

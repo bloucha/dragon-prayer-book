@@ -130,10 +130,8 @@
 	     </choice> me
 <lb/>
 	     <choice>
-	           <!-- check transcription, doesn't look right -->
 		       <seg type="lucas">calu(m)nia(n)tib(us)</seg>
-		       <orig>calūniātib⋮</orig>
-	           <!-- agreed it look like a there's a p in here -->
+		       <orig>calūpniātib⋮</orig>
 		       <reg>calumniantibus</reg>
 	     </choice> me. Susci
 <lb break="no"/>pe 
@@ -164,9 +162,8 @@
 	     </choice>
       <lb/>
 	     <choice>
-	           <!-- check transcription (it also looks like there's a p here) -->
-		       <seg type="lucas">calu(m)nie(n)t(ur)</seg>
-		        <orig>calūniēt݃</orig>
+	           <seg type="lucas">calu(m)nie(n)t(ur)</seg>
+		        <orig>calūpniēt݃</orig>
 		       <reg>calumnientur</reg>
 	     </choice> me 
 	<choice>

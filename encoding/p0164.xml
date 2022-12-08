@@ -111,7 +111,7 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> saluta⸗        
+	     </choice> <seg next="#segment">saluta⸗</seg>        
 	<choice>
 		       <seg type="lucas">Gl(or)ia.</seg>
 		       <orig>Gl͘ia.</orig>
@@ -123,7 +123,7 @@
 		       <reg>mater?.<!--  check expansion --></reg>
 	     </choice> 
  Adiviname.
-<lb/>re 
+<lb/><seg xml:id="segment">re</seg>
 	<choice>
 		       <seg type="lucas">tuu(m)</seg>
 		       <orig>tuū</orig>
@@ -156,7 +156,6 @@
 		       <reg>um</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like sr are separate -->
 		       <seg type="lucas">s(upe)rsp(er)avi.</seg>
 		       <orig>sr̄sꝑavi.</orig> 
 		       <reg>supersperavi.</reg>

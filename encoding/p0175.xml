@@ -137,21 +137,16 @@
 	          <orig>sū</orig>
 		       <reg>sum</reg>
 	     </choice> ego
-<lb/>
+<lb/> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
 	           <orig> +</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	           <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">te(m)pt(us):</seg>
-	           <orig>tēptꝰ:</orig>
-		       <reg>temptus:</reg>
+	           <orig>ɔtēptꝰ:</orig>
+		       <reg>contemptus:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">iustificat(i)o(ne)s</seg>

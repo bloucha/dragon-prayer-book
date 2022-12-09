@@ -85,9 +85,9 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> maturita⸗
-ia 8 te 
-	<choice>
+	     </choice> <seg next="#segment">maturita⸗</seg>
+         ia <seg xml:id="segment">te</seg>
+         <choice>
 		       <seg type="lucas">(et) </seg>
 		       <orig>+ </orig>
 		       <reg>et </reg>

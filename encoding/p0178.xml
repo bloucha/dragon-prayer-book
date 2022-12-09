@@ -197,7 +197,7 @@
 		       <orig>Ini̇q̇ta</orig>
 		       <reg>Iniquita</reg>
 	     </choice>
-      <lb break="no"/>†
+      <lb break="no"/><supplied>
 	<choice>
 		       <seg type="lucas">te(m)</seg>
 		       <orig>tē</orig>
@@ -211,8 +211,9 @@
 	     <choice>
 		       <seg type="lucas">(et)†</seg>
 		       <orig>+</orig>
-		       <reg>et†</reg>
+		       <reg>et</reg>
 	     </choice> 
+      </supplied>
 	     <choice>
 		       <seg type="lucas">abho(m)i(n)at(us)</seg>
 		       <orig>abhoīatꝰ</orig>
@@ -223,7 +224,7 @@
 		       <orig>sū:</orig>
 		       <reg>sum:</reg>
 	     </choice>
-      <lb/>†
+      <lb/><supplied>
 	<choice>
 		       <seg type="lucas">lege(m)</seg>
 		       <orig>legē</orig>
@@ -238,7 +239,7 @@
 		       <seg type="lucas">tua(m)</seg>
 		       <orig>tuā</orig>
 		       <reg>tuam</reg>
-	     </choice> dilexi. Septi⸗†
+	     </choice> dilexi. Septi⸗</supplied>
 
 
 </ab>

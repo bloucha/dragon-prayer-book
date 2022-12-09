@@ -51,19 +51,22 @@
 		       <seg type="lucas">(et) </seg>
 	     	  <orig> +</orig>
 		       <reg>et </reg>
-	     </choice> mise
-<lb break="no"/>EMpti es⸗        
+	     </choice> <seg next="#seg1">mise</seg>
+<lb break="no"/>EMpti <seg next="#seg2">es⸗</seg>       
 	<choice>
 		       <seg type="lucas">Cap(itulum)</seg>
 		       <orig>Cap̄</orig>
 		       <reg>Capitulum</reg>
-	     </choice>        
+	     </choice> 
+   	<seg xml:id = "seg1">
 	     <choice>
 		       <seg type="lucas">re(re)</seg>
 	     	  <orig>rė</orig>
 		       <reg>rere</reg>
-	     </choice> mei.
-<lb/>tis 
+	     </choice>
+   	</seg>
+   		mei.
+<lb/><seg xml:id = "seg2">tis</seg>
 	<choice>
 		       <seg type="lucas">p(re)t(i)o</seg>
 		       <orig>p̄tō</orig>
@@ -299,12 +302,12 @@
 		       <seg type="lucas">testi(m)oniu(m)</seg>
 	     	  <orig>testīoniū</orig>
 		       <reg>testimonium</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">da(n)t†</seg>
-		       <orig>dāt†</orig>
-		       <reg>dant†</reg>
-	     </choice>
+		       <orig>dāt</orig>
+		       <reg>dant</reg>
+	     </choice></supplied>
    </ab>
 
    <ab type="translation"

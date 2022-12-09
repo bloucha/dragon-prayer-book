@@ -105,7 +105,6 @@
 			<orig>mādata</orig>
 			<reg>mandata</reg>
 		</choice> tua dilexi. 
-		<!-- abbreviation on the u and line continuation with the stodivit -->
 		Cu
 		<lb break="no"/>stodivit 
 		<choice>
@@ -145,7 +144,7 @@
 			<seg type="lucas">testo(m)o(n)ia</seg>
 			<orig>testoōia</orig>
 			<reg>testomonia</reg>
-		</choice> tu[e/a]: 
+		</choice> tua: 
 		
 		<choice>
 			<seg type="lucas">q(uia)</seg>
@@ -164,14 +163,9 @@
 			<reg>in</reg>
 		</choice> 
 		<choice>
-			<seg type="lucas">(con)</seg>
-			<orig>ɔ</orig>
-			<reg>con</reg>
-		</choice>
-		<choice>
 			<seg type="lucas">sp(ec)tu</seg>
-			<orig>sptū</orig>
-			<reg>spectu</reg>
+			<orig>ɔsptū</orig>
+			<reg>conspectu</reg>
 		</choice> tuo. Ap
 		<lb break="no"/>
 		<choice>
@@ -190,14 +184,9 @@
 			<reg>in</reg>
 		</choice> 
 		<choice>
-			<seg type="lucas">(con)</seg>
-			<orig>ɔ</orig>
-			<reg>con</reg>
-		</choice>
-		<choice>
 			<seg type="lucas">sp(ec)tu</seg>
-			<orig>sptū</orig>
-			<reg>spectu</reg>
+			<orig>ɔsptū</orig>
+			<reg>conspectu</reg>
 		</choice>
 		<lb/>tuo 
 		<choice>
@@ -241,14 +230,9 @@
 			<reg>in</reg>
 		</choice> 
 		<choice>
-			<seg type="lucas">(con)</seg>
-			<orig>ɔ</orig>
-			<reg>con</reg>
-		</choice>
-		<choice>
 			<seg type="lucas">sp(e)c(t)u</seg>
-			<orig>spcū</orig>
-			<reg>spectu</reg>
+			<orig>ɔspcū</orig>
+			<reg>conspectu</reg>
 		</choice> tuo:
 
 		

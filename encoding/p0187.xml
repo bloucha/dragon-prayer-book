@@ -138,7 +138,7 @@
                   <seg type="lucas">d(omi)n(um):</seg>
                   <orig>dn̄⋮:</orig>
                   <reg>dominum:</reg>
-            </choice> lauda⸗         Sit 
+            </choice> <seg next="#seg1">lauda⸗</seg>        Sit 
             <choice>
                   <seg type="lucas">nome(n).</seg>
                   <orig>nomē.</orig>
@@ -149,7 +149,7 @@
                   <orig>viⁱi.</orig>
                   <reg>vii.</reg>
             </choice> 
-            <lb/>te 
+            <lb/><seg xml:id = "seg1">te</seg>
             <choice>
                   <seg type="lucas">nome(n)</seg>
                   <orig>nomē</orig>

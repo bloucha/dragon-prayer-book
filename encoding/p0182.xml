@@ -113,7 +113,7 @@
 	<choice>
 		       <seg type="lucas">vs(?)</seg>
 		       <orig>v̈s</orig>
-	      <reg>vesperas<!-- check expansion (there is another one on pg 224 for reference)--> </reg>
+	      <reg>vesperas </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ps(almus).</seg>

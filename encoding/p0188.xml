@@ -193,9 +193,8 @@
 		       <reg>populi</reg>
 	     </choice> sui. 
 	<choice>
-	      <!-- transcription question -->
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Qi</orig>
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -263,7 +262,7 @@
 		       <orig>isrl͘</orig>
 		       <reg>israel</reg>
 	     </choice> de e
-<lb break="no"/>gipto: do⸗                Nos 
+<lb break="no"/>gipto: <seg next="#seg1">do⸗</seg>              Nos 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
 		       <orig>q̇</orig>
@@ -280,11 +279,14 @@
 		       <reg>Evo?e.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
+         <seg xml:id = "seg1">
 	     <choice>
 		       <seg type="lucas">m(us)</seg>
 		       <orig>mꝰ</orig>
 		       <reg>mus</reg>
-	     </choice> iacob de 
+	     </choice>
+         </seg>
+               iacob de 
 	<choice>
 		       <seg type="lucas">p(o)p(u)lo</seg>
 		       <orig>ppl͘o</orig>

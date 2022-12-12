@@ -49,7 +49,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> + </orig>
+	             <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> fugit: 
 	<choice>
@@ -58,14 +58,9 @@
 		       <reg>iordanis</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">v(er)s(us)</seg>
-	             <orig>v̇sꝰ</orig>
-		       <reg>versus</reg>
+	             <orig>ɔv̇sꝰ</orig>
+		       <reg>conversus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
@@ -91,7 +86,7 @@
 	     </choice> ut arietes: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	             <orig> + </orig>
+	             <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> colles si
 <lb break="no"/>cut agni 
@@ -138,14 +133,9 @@
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">v(er)s(us)</seg>
-	             <orig>v̇sꝰ</orig>
-		       <reg>versus</reg>
+	             <orig>ɔv̇sꝰ</orig>
+		       <reg>conversus</reg>
 	     </choice> es 
 	<choice>
 		       <seg type="lucas">retrorsu(m).</seg>
@@ -171,7 +161,7 @@
 <lb break="no"/>tes: 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> colles 
 	<choice>
@@ -291,9 +281,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nob(is)</seg>
-	             <orig>noḃ</orig>
-		       <reg>nobis</reg>
-	     </choice> : 
+	             <orig>noḃ:</orig>
+		       <reg>nobis:</reg>
+	     </choice>  
 	<choice>
 		       <seg type="lucas">s(ed)</seg>
 	             <orig>s⋮</orig>

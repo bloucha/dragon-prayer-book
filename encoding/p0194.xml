@@ -13,14 +13,14 @@
 	<choice>
 		       <seg type="lucas">Mo(n?)tag</seg>
 		       <orig>Mōtag</orig>
-		       <reg>Mon?tag<!--  check expansion --></reg>
+		       <reg>Montag</reg>
 	     </choice> 
   
       <lb/>
 	     <choice>
 		       <seg type="lucas">v(ersu)s.</seg>
 		       <orig>v̈s.</orig>
-		       <reg>versus.</reg> <!-- should this be vesperas ? -->
+		       <reg>vesperas.</reg> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
@@ -230,9 +230,8 @@
 		       <reg>noster</reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly-->
 		       <seg type="lucas">mise(re)t(ur).</seg>
-		       <orig>misėt݃.</orig> 
+		       <orig>misėt݃.</orig>
 		       <reg>miseretur.</reg>
 	     </choice> Custodi
 <lb break="no"/>
@@ -252,7 +251,6 @@
 		       <reg>dominus:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">hu(m)iliat(us)</seg>
 		       <orig>hūiliatꝰ</orig> 
 		       <reg>humiliatus</reg>

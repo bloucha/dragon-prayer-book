@@ -107,17 +107,19 @@
 		       <reg>domini.</reg>
 	     </choice>
       <lb/>DE 
+         <seg next="#seg210">
 	<choice>
 		       <seg type="lucas">p(ro)fu(n)⸗</seg>
 		       <orig>ꝓfū⸗</orig> 
 		       <reg>profun⸗</reg>
-	     </choice>          De 
+	     </choice> 
+               </seg> De 
 	<choice>
 		       <seg type="lucas">p(ro)fu(n)d(is).</seg>
 		       <orig>ꝓfūḋ.</orig> 
 		       <reg>profundis.</reg>
 	     </choice> viii.
-<lb/>dis 
+<lb/><seg xml:id="seg210">dis</seg>
 	<choice>
 		       <seg type="lucas">cla(ma)vi</seg>
 		       <orig>clävi</orig>

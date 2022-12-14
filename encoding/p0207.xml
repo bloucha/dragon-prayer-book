@@ -258,16 +258,11 @@
 		       <seg type="lucas">q(ui)</seg>
 		       <orig>q̇</orig>
 		       <reg>qui</reg>
-	     </choice> ti⸗        Beati. 
+	     </choice> ti⸗<!-- presumably this word pick up on the next page, no clue how to mark that -->        Beati. 
 	<choice>
-		       <seg type="lucas">ii(?).
-
-</seg>
-		       <orig>iⁱi. 
-</orig>
-		       <reg>ii?.
-
-<!--  check expansion --></reg>
+		       <seg type="lucas">ii(?).</seg>
+		       <orig>iⁱi.</orig>
+		       <reg>ii?.<!--  check expansion, Dorian or Phrygian mode depending on whether it's two or three --></reg>
 	     </choice> 
    </ab>
 

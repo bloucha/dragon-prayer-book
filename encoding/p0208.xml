@@ -94,15 +94,10 @@
 		       <orig>sic̄</orig>
 		       <reg>sicut</reg>
 	     </choice> vitis 
-	<choice>
-		       <seg type="lucas">(ab)</seg>
-		       <orig> h </orig> 
-		       <reg>ab</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">unda(n)s:</seg>
-	             <orig>ūndās:</orig>
-		       <reg>undans:</reg>
+	             <orig>hūndās:</orig>
+		       <reg>abundans:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -138,8 +133,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">c(ir)cuiti</seg>
-	              <orig>ċcuiti</orig> <!-- are there two "i"s at the end or u -->
-		       <reg>circuiti</reg>
+	              <orig>ċcuitu</orig> 
+		       <reg>circuitu</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -165,7 +160,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -256,7 +251,7 @@
 	     <choice>
 		       <seg type="lucas">a(?)</seg>
 	             <orig>ā</orig>
-		       <reg>a?</reg> <!-- this one is weird because the following are ä -->
+		       <reg>alleluia</reg> <!-- ??? What is this -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">B(ea)ti</seg>
@@ -270,7 +265,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice>
       <lb/>
@@ -290,15 +285,9 @@
 		       <reg>Benediximus.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">viii(?).
-
-</seg>
-		       <orig>viiⁱi.
-
-</orig>
-	           <reg>viiⁱi..
-
-<!--  check expansion --></reg>
+		       <seg type="lucas">viii(?).</seg>
+		       <orig>viiⁱi.</orig>
+	           <reg>novem.<!--  check expansion --></reg>
 	     </choice> 
    </ab>
 

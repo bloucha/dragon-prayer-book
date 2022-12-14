@@ -16,9 +16,8 @@
 		       <reg>originem.</reg>
 	     </choice> 
 	     <choice>
-	         <!-- check transcription, looks like qi-->
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig>
+		       <orig>Qⁱ</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
@@ -252,7 +251,7 @@
 	     <choice>
 		       <seg type="lucas">or(ati?)o</seg>
 		       <orig>or̄o</orig>
-		       <reg>orati?o<!--  check expansion --></reg>
+		       <reg>oratio</reg>
 	     </choice> 
       <lb/>mea. 
 	<choice>
@@ -273,7 +272,7 @@
 	     <choice>
 		       <seg type="lucas">sp(e)ctu</seg>
 		       <orig>ɔspc̄tu</orig>
-		       <reg>spectu</reg>
+		       <reg>conspectu</reg>
 	     </choice>
    </ab>
 

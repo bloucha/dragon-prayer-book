@@ -171,7 +171,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  De 
 	<choice>
@@ -211,13 +211,14 @@
 		       <seg type="lucas">altatu(m)</seg>
 		       <orig>altatū</orig>
 		       <reg>altatum</reg>
-	     </choice> cor me⸗                Speret. iiii.
+	     </choice> cor <seg next="#seg211">me⸗</seg>              Speret. iiii.
 <lb/>
-	     <choice>
+	   <seg xml:id="seg211"> <choice>
 		       <seg type="lucas">u(m):</seg>
 		       <orig>ū:</orig>
 		       <reg>um:</reg>
 	     </choice> 
+	   </seg>
 	     <choice>
 		       <seg type="lucas">neq(ue)</seg>
 		       <orig>neq⋮</orig>

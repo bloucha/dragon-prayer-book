@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">hu(m)ilit(er)</seg>
-		       <orig>hūilit͘</orig>
+		       <orig>hūiliṫ</orig>
 		       <reg>humiliter</reg>
 	     </choice> 
 	     <choice>
@@ -60,7 +60,7 @@
 <lb break="no"/>ta 
 	<choice>
 		       <seg type="lucas">ret(ri)but(i)o</seg>
-		       <orig>ret͘butō</orig>
+		       <orig>reṫbutō</orig>
 		       <reg>retributio</reg>
 	     </choice> 
 	     <choice>
@@ -151,7 +151,7 @@
 	     <choice>
 		       <seg type="lucas">cy(?)</seg>
 		       <orig>cÿ</orig>
-		       <reg>cy?</reg>
+		       <reg>cy?</reg> <!-- this definitely isnt "cy", maybe ni? nj? -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia).</seg>
@@ -169,7 +169,7 @@
 	      
 		       <seg type="lucas">v(?).</seg>
 		       <orig>vⁱ.</orig>
-		       <reg>v?.<!--  check expansion --></reg>
+		       <reg>sextem</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -197,18 +197,22 @@
 		       <seg type="lucas">K(yrie eleison).</seg>
 		       <orig>K.</orig>
 		       <reg>Kyrie eleison.</reg>
-	     </choice>  (Christi eleison).
+	     </choice> 
+         <choice>
+               <orig>X</orig>
+               <reg>Christe eleison </reg>
+         </choice>
 <lb/>
 	     <choice>
 		       <seg type="lucas">Pfi(?)c?tag</seg>
-		       <orig>Pfīc?tag</orig>
-		       <reg>Pfi?c?tag<!--  check expansion --></reg>
+		       <orig>Pfīgtag</orig>
+		       <reg>Freitag</reg> <!-- this is definitely a german day of the week -->
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">vs(?).</seg>
 		       <orig>vs̈.</orig>
-		       <reg>vs?.<!--  check expansion --></reg>
+		       <reg>vesperas</reg>
 	     </choice> 
   
       <lb/>
@@ -225,14 +229,14 @@
 	     <choice>
 		       <seg type="lucas">adiut(orium).</seg>
 		       <orig>adiut̄.</orig>
-		       <reg>adiutorium.<!--  check expansion --></reg>
+		       <reg>adiutorium.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">MEme(n)to</seg>
 		       <orig>MEmēto</orig>
 		       <reg>MEmento</reg>
-	     </choice> do⸗        Et 
+	     </choice> <seg next="#seg211-1">do⸗</seg>       Et 
 	<choice>
 		       <seg type="lucas">o(mn)is.</seg>
 		       <orig>oīs.</orig>
@@ -241,14 +245,16 @@
 	     <choice>
 		       <seg type="lucas">iiii(?).</seg>
 		       <orig>iiiiⁱ.</orig>
-		       <reg>iiii?.<!--  check expansion --></reg>
+		       <reg>iiii</reg>
 	     </choice> 
       <lb/>
+         <seg xml:id="seg211-1">
 	     <choice>
 		       <seg type="lucas">mi(n)e</seg>
 		       <orig>mīe</orig>
 		       <reg>mine</reg>
 	     </choice> 
+         </seg>
 	     <choice>
 		       <seg type="lucas">d(avi)d:</seg>
 		       <orig>dḋ:</orig>

@@ -28,7 +28,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(anc)ti</seg>
-		       <orig>st̄i</orig> <!-- check transcription. This is usually sci? -->
+		       <orig>sc̄i</orig> 
 		       <reg>sancti</reg>
 	     </choice> tui 
 	<choice>
@@ -206,12 +206,15 @@
 		       <orig>tuā.</orig>
 		       <reg>tuam.</reg>
 	     </choice> 
-         <!-- check trancription, there is an abbrevaition -->Q? rcus
+         <choice>
+               <orig>Qr̄cus</orig>
+               <reg>quirecus</reg> <!-- I think this is right?/ -->
+         </choice>
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">todieri(?)t</seg>
 		       <orig>todierīt</orig>
-		       <reg>todieri?t<!--  check expansion --></reg>
+		       <reg>todierint</reg>
 	     </choice> 
  filii tui: elegit 
 	<choice>

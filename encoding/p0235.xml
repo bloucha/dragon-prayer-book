@@ -16,13 +16,15 @@
 		       <seg type="lucas">d(omi)n(um)</seg>
 		       <orig>dn̄⋮</orig>
 		       <reg>dominum</reg>
-	     </choice> 
+	     </choice>
+         <seg next="#seg235">
 	     <choice>
 		       <seg type="lucas">cla(ma)⸗</seg>
 		       <orig>clä⸗</orig>
 		       <reg>clama⸗</reg>
-	     </choice>        Porcio. viii.
-<lb/>vi: voce mea ad 
+	     </choice>
+               </seg> Porcio. viii.
+<lb/><seg xml:id="seg235">vi</seg>: voce mea ad 
 	<choice>
 		       <seg type="lucas">d(omi)n(um)</seg>
 		       <orig>dn̄⋮</orig>

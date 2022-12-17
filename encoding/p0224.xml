@@ -19,7 +19,12 @@
 		       <seg type="lucas">K(yrie eleison).</seg>
 		       <orig>K.</orig>
 		       <reg>Kyrie eleison.</reg>
-	     </choice>  (Christi eleison). Freitag 
+	     </choice>  
+       <choice>
+           <orig>X</orig>
+           <reg>Christe eleison</reg>
+           </choice>
+       Freitag 
 	<choice>
 		       <seg type="lucas">v(espera)s.</seg>
 	             <orig>v̈s.</orig> 
@@ -50,7 +55,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-	             <orig>t͘</orig>
+	             <orig>ṫ</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
@@ -62,13 +67,13 @@
 		       <seg type="lucas">i(n)</seg>
 	              <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> to⸗        In 
+	     </choice> <seg next="#seg224">to⸗</seg>        In 
 	<choice>
 		       <seg type="lucas">co(n)sp(e)c(t)u.</seg>
 	             <orig>cōspc̄u.</orig>
 		       <reg>conspectu.</reg>
 	     </choice> v.
-<lb/>to corde meo: 
+<lb/><seg xml:id="seg224">to</seg> corde meo: 
 	<choice>
 		       <seg type="lucas">q(uonia)m</seg>
 		       <orig>qm̄</orig>
@@ -80,15 +85,10 @@
 	             <orig>v̇ba</orig>
 		       <reg>verba</reg>
 	     </choice> oris mei: In 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-	             <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-	             <orig>spcū</orig>
-		       <reg>spectu</reg>
+	             <orig>ɔpcū</orig>
+		       <reg>conspectu</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -103,7 +103,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi):</seg>
-	             <orig>t͘:</orig>
+	             <orig>ṫ:</orig>
 		       <reg>tibi:</reg>
 	     </choice> adorabo
 <lb/>ad 
@@ -150,7 +150,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>tua 
@@ -271,7 +271,7 @@
 	     </choice> reges 
 	<choice>
 		       <seg type="lucas">t(er)re:</seg>
-	             <orig>t͘re:</orig>
+	             <orig>ṫre:</orig>
 		       <reg>terre:</reg>
 	     </choice>
    </ab>

@@ -49,14 +49,14 @@
 	<choice>
 		       <seg type="lucas">Sa(m)pstag</seg>
 		       <orig>Sāpstag</orig>
-		       <reg>Sampstag<!--  check expansion --></reg>
+		       <reg>Samstag</reg>
 	     </choice> 
   
       <lb/>
 	     <choice>
 		       <seg type="lucas">v(e)s(pers).</seg>
 		       <orig>v̈s.</orig>
-		       <reg>vespers.</reg>
+		       <reg>vesperas.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>

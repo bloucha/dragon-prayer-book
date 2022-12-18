@@ -33,7 +33,7 @@
 	     <choice>
 		       <seg type="lucas">Ca(n)tic(um?).</seg>
 		       <orig>Cātic̄.</orig>
-	           <reg>Canticum?.  <!-- check expansion --></reg>
+	           <reg>Canticum.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -80,7 +80,7 @@
       <lb/>pace. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̄a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
@@ -288,7 +288,7 @@
 	     <choice>
 		       <seg type="lucas">Or(ati?)o.</seg>
 		       <orig>Orō.</orig>
-		       <reg>Orati?o.<!--  check expansion --></reg>
+		       <reg>Oratio.</reg>
 	     </choice> 
       <lb/>COncede 
 	<choice>

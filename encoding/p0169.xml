@@ -33,7 +33,7 @@
 	     </choice> mei 
 	<choice>
 		       <seg type="lucas">s(un)t.</seg>
-		       <orig>st͘.</orig> 
+		       <orig>sṫ.</orig> 
 		       <reg>sunt.</reg>
 	     </choice> Inclinavi
 <lb/>cor 
@@ -63,29 +63,34 @@
 	     	<orig>ꝓpt͘</orig>
 		       <reg>propter</reg>
 	     </choice> 
+   	<seg next="#segment1">
 	     <choice>
 		       <seg type="lucas">ret(ri)</seg>
 	     	  <orig>ret͘</orig>
 		       <reg>retri</reg>
 	     </choice>
-      <lb break="no"/>IN 
+   	</seg>
+      <lb break="no"/>
+   	<seg next="#segment2">
 	<choice>
 		       <seg type="lucas">iq(uo)s</seg>
-		       <orig>iqºs</orig> <!-- check -->
-		       <reg>iquos</reg>
-	     </choice> odio        
+		       <orig>INiqºs</orig>
+		       <reg>INiquos</reg>
+	     </choice> odio  </seg>      
 	<choice>
 		       <seg type="lucas">Ps(alm)</seg>
-		       <orig>Ps̈</orig> <!-- check if the diacritic is above p or s  -->
-		       <reg>Psalm</reg>
+		       <orig>Ps̈</orig>
+		       <reg>Psalmus</reg>
 	     </choice> 
+   	<seg xml:id="segment1">
 	     <choice>
 		       <seg type="lucas">but(i)o(nem).</seg>
 	     	  <orig>butō⋮.</orig>
 		       <reg>butionem.</reg>
 	     </choice>
+   	</seg>
       <lb/>
-	     <choice>
+	    <seg xml:id = "segment2"> <choice>
 		       <seg type="lucas">h(ab)ui:</seg>
 	     	  <orig>hūi:</orig>
 		       <reg>habui:</reg>
@@ -207,14 +212,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-	     	  <orig> ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">fu(n)das</seg>
-	     	  <orig>fūdas</orig>
-		       <reg>fundas</reg>
+	     	  <orig>ɔfūdas</orig>
+		       <reg>confundas</reg>
 	     </choice> me
 <lb/>ab 
 	<choice>
@@ -225,7 +225,7 @@
 <lb break="no"/>iuva me 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-	       	<orig> + </orig>
+	       	<orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -249,6 +249,7 @@
 	     	  <orig>iustificatōib⋮</orig>
 		       <reg>iustificationibus</reg>
 	     </choice> tu⸗
+	    </seg>
 
 
 </ab>

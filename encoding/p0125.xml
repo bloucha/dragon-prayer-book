@@ -164,7 +164,7 @@
 		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
 		       <reg>Versiculus</reg>
-	     </choice> Ora <!-- should this be in a choice? check transcription -->
+	     </choice> Ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
 	          <orig>ꝓ</orig>
@@ -205,7 +205,7 @@
 	     <choice>
 		       <seg type="lucas">S(ancte?)</seg>
 		       <orig>Ṡ</orig>
-		       <reg>Sancte?</reg>
+		       <reg>Sancte</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)nici</seg>

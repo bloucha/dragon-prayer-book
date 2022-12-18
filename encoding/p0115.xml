@@ -201,7 +201,6 @@
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q:</orig>
-	           <!-- looks like semicolon -->
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
@@ -267,16 +266,11 @@
 		       <reg>virtute</reg>
 	     </choice> tua. Et
 <lb/>
-	     <choice>
-		       <seg type="lucas">(ab)</seg>
-		       <orig/>
-		       <reg>ab</reg>
-	           <!-- no diacritic here is this just part of it? -->
-	     </choice>
+	     
 	     <choice>
 		       <seg type="lucas">unda(n)tia</seg>
 		       <orig>hun̄dātia</orig>
-		       <reg>undantia</reg>
+		       <reg>abundantia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -291,7 +285,7 @@
 	<choice>
 		       <seg type="lucas">Or(emus?).</seg>
 		       <orig>Or̄.</orig>
-		       <reg>Oremus?.<!--  check expansion (translator note: the office has oremus --></reg>
+		       <reg>Oremus.</reg>
 	     </choice> 
       <lb/>DEus a 
 	<choice>

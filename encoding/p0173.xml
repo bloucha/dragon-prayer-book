@@ -13,7 +13,7 @@
 	<choice>
 		       <seg type="lucas">ix(?).</seg>
 		       <orig>iẍ.</orig>
-		       <reg>ix?.<!--  check expansion --></reg>
+		       <reg>novem.</reg>
 	     </choice> 
  
 	     <choice>
@@ -127,24 +127,25 @@
 	     </choice>  
       <lb/>MIra
 <lb break="no"/>bi
-<lb break="no"/>lia testi⸗        Exquo. 
+<lb break="no"/>lia <seg next="#segment1">testi⸗</seg>      Exquo. 
 	<choice>
 		       <seg type="lucas">v(?).</seg>
-		       <orig>vⁱ.</orig>
-	      <reg>vⁱ.</reg>
+		    <orig>vⁱ.</orig>
+	      <reg>sexem <!--?? check expansion -->.</reg>
 	     </choice> 
  Aspice. 
 	<choice>
 		       <seg type="lucas">viii(?).</seg>
 		       <orig>viiiⁱ.</orig>
-	      <reg>viiiⁱ.</reg>
+	      <reg>novem.</reg>
 	     </choice> 
       <lb/>
+         <seg xml:id ="segment1">
 	     <choice>
 		       <seg type="lucas">mo(n)ia</seg>
 		       <orig>mōia</orig>
 		       <reg>monia</reg>
-	     </choice> tua: 
+	     </choice></seg> tua: 
 	<choice>
 		       <seg type="lucas">id(e)o</seg>
 		       <orig>iḋo</orig>
@@ -155,7 +156,7 @@
 		       <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice> ea
-<lb/>†
+<lb/><supplied>
 	<choice>
 		       <seg type="lucas">a(n)i(m)a</seg>
 		       <orig>aīa</orig>
@@ -169,11 +170,11 @@
 	<choice>
 		       <seg type="lucas">s(er)mo⸗†</seg>
 		       <orig>sṁo⸗</orig>
-		       <reg>sermo⸗†</reg>
+		       <reg>sermo⸗</reg>
 	     </choice>
-      <lb/><supplied>
+      <lb/>
 	<choice>
-		       <seg type="lucas">nu(m)†</seg>
+		       <seg type="lucas">nu(m)</seg>
 		       <orig>nū</orig>
 		       <reg>num</reg>
 	</choice> </supplied>

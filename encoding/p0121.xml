@@ -25,28 +25,30 @@
 		       <orig>at̄</orig>
 		       <reg>autem</reg>
 	     </choice> efflorebit 
+         <seg next="#segment">
 	<choice>
 		       <seg type="lucas">s(an)c(t)ifi</seg>
 		       <orig>sc̄ifi</orig>
 		       <reg>sanctifi</reg>
 	     </choice>
+         </seg>
       <lb break="no"/>ECce 
 	<choice>
 		       <seg type="lucas">q(uam)⸗</seg>
-		       <orig>q̈ˢ⸗</orig>
+		       <orig>q̈⸗</orig> <!-- quam -->
 		       <reg>quam⸗</reg>
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">P(salm?).</seg>
 		       <orig>P̈.</orig>
-		       <reg>Psalm?.<!--  check expansion --></reg>
+		       <reg>Psalmus?.<!--  check expansion --></reg>
 	     </choice> 
-        
+        <seg xml:id="segment">
 	     <choice>
 		       <seg type="lucas">cat(i)o</seg>
 		       <orig>catō</orig>
 		       <reg>catio</reg>
-	     </choice> mea.
+	     </choice> mea. </seg>
 <lb/>
 	     <choice>
 		       <seg type="lucas">bonu(m)</seg>
@@ -138,7 +140,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(uo)d</seg>
-		       <orig>Qḋ</orig>
+		       <orig>Q̇d</orig>
 		       <reg>Quod</reg>
 	     </choice>
       <lb/>
@@ -269,8 +271,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n†u(m)†</seg>
-		       <orig>dn̄†u†</orig>
-		       <reg>domin†um†</reg>
+		       <orig>dn̄<supplied>u</supplied></orig>
+		       <reg>domin<supplied>um</supplied></reg>
 	     </choice> :
 <lb/>
 	     <choice>

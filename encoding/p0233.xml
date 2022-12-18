@@ -39,8 +39,7 @@
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
 		       <orig>ɔspcū</orig>
-		       <reg>conspectu</reg>
-	           <!-- conspectum? check transcription -->
+		       <reg>conspectum</reg>
 	     </choice> tuo: ele
 <lb break="no"/>
 	     <choice>
@@ -166,9 +165,8 @@
 		       <reg>hominibums</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly -->
 		       <seg type="lucas">op(er)a(n)tib(us)</seg>
-		       <orig>oꝑātib⋮</orig> 
+		       <orig>oꝑātib⋮</orig>
 		       <reg>operantibus</reg>
 	     </choice> 
 	     <choice>

@@ -31,15 +31,10 @@
 		       <orig>Eructab̄t</orig>
 		       <reg>Eructabunt</reg>
 	     </choice> labia mea 
-	<choice> <!-- Lucas pls check the h -->
-		       <seg type="lucas">(h)</seg>
-		       <orig/>
-		       <reg>h</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">y(m)</seg>
 		       <orig>ȳp</orig>
-		       <reg>ym<!-- check expansion --></reg>
+		       <reg>hym</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -192,13 +187,13 @@
 		       <seg type="lucas">p(er)iit:</seg>
 		       <orig>ꝑiit:</orig>
 		       <reg>periit:</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">q(ue)⸗†</seg>
-		       <orig>q̄⸗†</orig>
-		       <reg>que⸗†</reg>
+		       <orig>q̄⸗</orig>
+		       <reg>que⸗</reg>
 	     </choice>
-      <lb/>†re 
+      <lb/></supplied>re 
 	<choice>
 		       <seg type="lucas">servu(m)</seg>
 		       <orig>servū</orig>
@@ -209,11 +204,13 @@
 		       <orig>tuū</orig>
 		       <reg>tuum</reg>
 	     </choice> 
+   	<supplied>
 	<choice>
 		       <seg type="lucas">[d(omi)ne]</seg>
-		       <orig>[dn̄e]</orig>
-		       <reg>[domine]</reg>
+		       <orig>dn̄e</orig>
+		       <reg>domine</reg>
 	     </choice> 
+   	</supplied>
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
 	           	<orig>q:</orig>
@@ -221,8 +218,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ma(n)da⸗†</seg>
-		       <orig>māda⸗†</orig>
-		       <reg>manda⸗†</reg>
+		       <orig>māda⸗</orig>
+		       <reg>manda⸗</reg>
 	     </choice>
    </ab>
 

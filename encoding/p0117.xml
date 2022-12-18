@@ -44,7 +44,7 @@
             <lb/>
             <choice>
                   <seg type="lucas">adiuvem(ur).</seg>
-                  <orig>adiuvem݃.</orig> <!-- checm two raised vertical dots -->
+                  <orig>adiuvem݃.</orig> 
                   <reg>adiuvemur.</reg>
             </choice>
             <choice>
@@ -55,12 +55,12 @@
             <choice>
                   <seg type="lucas">P(erus?) </seg>
                   <orig>Ꝑꝰ</orig>
-                  <reg>Perus? <!--  check expansion --></reg>
+                  <reg>Post</reg>
             </choice>
             <choice>
                   <seg type="lucas">u(n)titate(m)</seg>
-                  <orig>ūtitatē</orig>
-                  <reg>untitatem</reg>
+                  <orig>n̄titatē</orig>
+                  <reg>nativitatem</reg>
             </choice>
             <lb/>
             <choice>
@@ -80,7 +80,7 @@
             <choice>
                   <seg type="lucas">or(ati?)o.</seg>
                   <orig>or̄o.</orig>
-                  <reg>orati?o.<!--  check expansion --></reg>
+                  <reg>oratio.</reg>
             </choice>
             <lb/>ne <choice>
                   <seg type="lucas">b(ea)te</seg>
@@ -183,17 +183,17 @@
             </choice>
             <choice>
                   <seg type="lucas">T(em)p(er)e</seg>
-                  <orig>Tꝑe</orig> <!-- is there a macron over the T? -->
+                  <orig>Tꝑe</orig> 
                   <reg>Tempere</reg>
-            </choice> pas <lb break="no"/>
+            </choice> <seg next="#segment">pas</seg> <lb break="no"/>
             <choice>
                   <seg type="lucas">Regi(n)a</seg>
                   <orig>Regīa</orig>
                   <reg>Regina</reg>
-            </choice> celi leta⸗ chab <choice>
+            </choice> <seg xml:id="segment">chali</seg>leta⸗ chab <choice>
                   <seg type="lucas">or(emus?).</seg>
                   <orig>or̄.</orig>
-                  <reg>oremus?.<!--  check expansion --></reg>
+                  <reg>oremus.</reg>
             </choice>
             <lb/>re <choice>
                   <seg type="lucas">all(elui)a</seg>

@@ -21,7 +21,6 @@
 		       <reg>erigens</reg>
 	     </choice> 
 	     <choice>
-	           <!-- A751 not appearing correctly  -->
 		       <seg type="lucas">paup(er)e(m).</seg>
 		       <orig>paupꝑē.</orig>
 		       <reg>pauperem.</reg>
@@ -39,9 +38,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ri)ncipib(us)</seg>
-		       <orig>ṗncipib⋮</orig>
-		       <reg>principibus</reg>
-	     </choice> :
+		       <orig>ṗncipib⋮:</orig>
+		       <reg>principibus:</reg>
+	     </choice> 
 <lb/>
 	     <choice>
 		       <seg type="lucas">cu(m)</seg>
@@ -124,9 +123,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(ihi)</seg>
-		       <orig>ṁ</orig>
-		       <reg>mihi</reg>
-	     </choice> : 
+		       <orig>m:̇</orig>
+		       <reg>mihi:</reg>
+	     </choice>  
 	<choice>
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
@@ -211,12 +210,11 @@
 		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice>
-      <lb/>id <!-- in the doc this looks like one word, 
-            check transcription -->
+      <lb/>
 	<choice>
 		       <seg type="lucas">ip(su)m.</seg>
-		       <orig>ip̄m.</orig>
-		       <reg>ipsum.</reg>
+		       <orig>idip̄m.</orig>
+		       <reg>idipsum.</reg>
 	     </choice> Illuc 
 	<choice>
 		       <seg type="lucas">e(n)i(m)</seg>
@@ -262,9 +260,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">isr(ae)l</seg>
-		       <orig>isrl͘</orig>
-		       <reg>israel</reg>
-	     </choice> : ad 
+		       <orig>isrl͘:</orig>
+		       <reg>israel:</reg>
+	     </choice>  ad 
 	     <choice>
 		       <seg type="lucas">fite(n)du(m)</seg>
 		       <orig>ɔfitēdū</orig>
@@ -283,7 +281,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> illic 
 	<choice>

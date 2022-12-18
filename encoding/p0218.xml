@@ -77,12 +77,13 @@
 		       <seg type="lucas">isr(ae)l</seg>
 		       <orig>isrl͘</orig>
 		       <reg>israel</reg>
-	     </choice> †
+	     </choice> <supplied>
 	<choice>
 		       <seg type="lucas">p(opu)lo†</seg>
-	             <orig>ꝑl͘o†</orig>
-		       <reg>populo†</reg>
-	     </choice> suo. 
+	             <orig>ꝑl͘o</orig>
+		       <reg>populo</reg>
+	     </choice>
+	           </supplied>suo. 
 	<choice>
 		       <seg type="lucas">D(omi)ne</seg>
 		       <orig>Dn̄e</orig>
@@ -132,7 +133,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -148,7 +149,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig> 
+		       <orig>Q̄a</orig> 
 		       <reg>Quia</reg>
 	     </choice> iudicabit 
 	<choice>
@@ -169,7 +170,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -238,7 +239,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -290,7 +291,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

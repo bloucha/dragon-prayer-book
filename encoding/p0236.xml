@@ -153,7 +153,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Portio mea 
 	<choice>
@@ -180,7 +180,7 @@
 	<choice>
 		       <seg type="lucas">m(?) </seg>
 		       <orig>m̈ </orig>
-		       <reg>m? <!--  check expansion --></reg>
+		       <reg>mihi <!--  ?? check expansion --></reg>
 	    </choice> 
       <choice>
 		       <seg type="lucas">a(lleluia)</seg>
@@ -229,7 +229,7 @@
 		       <seg type="lucas">abraha(m)</seg>
 		       <orig>abrahā</orig>
 		       <reg>abraham</reg>
-	     </choice> et           Suscepit. vii.”
+	     </choice> et           Suscepit. vii;
 
 
 </ab>

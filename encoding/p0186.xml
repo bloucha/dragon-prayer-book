@@ -194,14 +194,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">movebit(ur).</seg>
-		       <orig>movebit݃.</orig>
-		       <reg>movebitur.</reg>
+		       <orig>ɔmovebit݃.</orig>
+		       <reg>commovebitur.</reg>
 	     </choice>
       <lb/>In 
 	<choice>
@@ -258,14 +253,9 @@
 		       <reg>domino:</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">firmatu(m)</seg>
-		       <orig>firmatū</orig>
-		       <reg>firmatum</reg>
+		       <orig>ɔfirmatū</orig>
+		       <reg>confirmatum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
@@ -284,14 +274,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(com)</seg>
-		       <orig>ɔ</orig>
-		       <reg>com</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">movebit(ur)</seg>
-		       <orig>movebit݃</orig>
-		       <reg>movebitur</reg>
+		       <orig>ɔmovebit݃</orig>
+		       <reg>commovebitur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">do(n)ec</seg>

@@ -64,8 +64,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
-		       <reg>et </reg>
+		       <orig>+</orig>
+		       <reg>et</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">op(er)a.</seg>
@@ -80,8 +80,8 @@
 	     </choice> Ad. 
 	<choice>
 		       <seg type="lucas">M(?).</seg>
-		       <orig>M̈.</orig>
-		       <reg>M?.<!--  check expansion --></reg>
+		       <orig>iii.</orig>
+		       <reg>Tribus.<!-- ?? this looks like one of the number ones check expansion --></reg>
 	     </choice> 
  
 	     <choice>
@@ -193,7 +193,7 @@
 	     <choice>
 		       <seg type="lucas">(con)fessio(nem)</seg>
 		       <orig>ɔfessio⋮</orig>
-		       <reg>con</reg>
+		       <reg>confessionem</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">p(er)so(n)e(n)t</seg>
@@ -248,7 +248,7 @@
 	     <choice>
 		       <seg type="lucas">(com)par</seg>
 		       <orig>ɔpar</orig>
-		       <reg>compar <!-- check expansion --></reg>
+		       <reg>compar</reg>
 
 	     </choice> 
 	     <choice>
@@ -307,14 +307,14 @@
 	     </choice> laus.
 	<choice>
 		       <seg type="lucas">ii(?).</seg>
-		       <orig>iiⁱ.</orig>
+		       <orig>nⁱ.</orig>
 		       <reg>ii?.<!--  check expansion --></reg>
 	     </choice> 
  Deduc me. 
 	<choice>
 		       <seg type="lucas">ii(?).</seg>
-		       <orig>iiⁱ.</orig>
-		       <reg>ii?.<!--  check expansion --></reg>
+		       <orig>nⁱ.</orig>
+		       <reg>ii?.<!--  check expansion, not sure what ni could be but these are def n's --></reg>
 	     </choice> 
      </supplied>
 

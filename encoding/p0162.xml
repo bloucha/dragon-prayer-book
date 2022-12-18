@@ -216,15 +216,7 @@
 		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
 		       <reg>Versiculus</reg>
-	     </choice> 
-	     <choice>
-	           <!-- check trancription, not sure this is the right abbreviation -->
-	           <!-- I'm not sure this is an abbreviation -->
-	           <!-- the OBVM says Adjutor so the r looks right! -->
-		       <seg type="lucas">Adiuto(r).</seg>
-		       <orig>Adiutor.</orig>
-		       <reg>Adiutor.</reg>
-	     </choice> 
+	     </choice> Adiutor 
 	     <choice>
 		       <seg type="lucas">m(eu)s</seg>
 		       <orig>ms</orig>

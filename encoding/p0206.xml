@@ -117,7 +117,11 @@
 		       <seg type="lucas">K(yrie eleison).</seg>
 		       <orig>K.</orig>
 		       <reg>Kyrie eleison.</reg>
-	     </choice>  (Christi eleison). 
+	     </choice>  
+         <choice>
+               <orig>X</orig>
+               <reg>Christe eleison</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">K(yrie eleison).</seg>
 		       <orig>K.</orig>
@@ -137,7 +141,7 @@
 	     <choice>
 		       <seg type="lucas">che(m)?</seg>
 	             <orig>chē?</orig>
-		       <reg>chem?</reg> <!--needs checking -->
+		       <reg>chem?</reg> <!-- okay from a little googling my best guess here is "mitiuo cabem versus" which means "I will head gently toward him -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ersu)s.</seg>
@@ -164,13 +168,13 @@
 	     <choice>
 		       <seg type="lucas">v(?).</seg>
 	             <orig>v̇.</orig>
-		       <reg>v?.<!--  check expansion --></reg>
+		       <reg>v?.<!--  okay if this means the fifth mode then it's mixolydian. There is no ninth mode so idk what this could be --> --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">viii.</seg>
 		       <orig>viiⁱi.</orig> 
-	           <reg>viiⁱi.</reg>
+	           <reg>novem.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -191,7 +195,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
@@ -220,12 +224,12 @@
 		       <seg type="lucas">st(ra)</seg>
 		       <orig>sẗ</orig>
 		       <reg>stra</reg>
-	     </choice> †vigilat 
+	     </choice> <supplied>vigilat 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
 		       <orig>q͘</orig>
 		       <reg>qui</reg>
-	     </choice> cust†odit 
+	     </choice> custodit</supplied>
 	<choice>
 		       <seg type="lucas">ea(m).</seg>
 	             <orig>eā.</orig>

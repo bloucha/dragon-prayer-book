@@ -148,15 +148,10 @@
 		       <orig>īplebit</orig>
 		       <reg>implebit</reg>
 	     </choice> ruinas: 
-	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
-	     </choice>
 	     <choice>
 		       <seg type="lucas">q(ua)ssa</seg>
-		       <orig>qssa</orig>
-		       <reg>quassa</reg>
+		       <orig>ɔqssa</orig>
+		       <reg>conquassa</reg>
 	     </choice>
       <lb break="no"/>bit capita 
 	<choice>
@@ -223,7 +218,7 @@
 		       <seg type="lucas">t(ibi)</seg>
 		       <orig>t͘</orig>
 		       <reg>tibi</reg>
-	     </choice>                   †Fidelia. m[[*]]†
+	     </choice>                   <supplied>Fidelia. m[[*]]</supplied>
 
 
 </ab>

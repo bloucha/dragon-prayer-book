@@ -84,7 +84,6 @@
 		       <reg>virum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like m or n -->
 		       <seg type="lucas">i(n)iu</seg>
 		       <orig>īiu</orig>
 		       <reg>iniu</reg>
@@ -193,7 +192,7 @@
 	<choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̄.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
       <lb/>Aviro 
 	<choice>

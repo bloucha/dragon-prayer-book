@@ -142,7 +142,7 @@
       <lb/>Ecce 
 	<choice>
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q̈ˢ</orig>
+		       <orig>q̈ˢ</orig> <!-- pls quam -->
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
@@ -191,7 +191,7 @@
 	<choice>
 		       <seg type="lucas">iii(?).</seg>
 		       <orig>iiįⁱ.</orig>
-		       <reg>iii?.<!--  check expansion --></reg>
+		       <reg>iii?.<!-- another mode --></reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -291,7 +291,7 @@
 	     </choice> sibi. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̄a</orig>
 		       <reg>Quia</reg>
 	     </choice>
    </ab>

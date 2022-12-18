@@ -26,8 +26,8 @@
 		       <seg type="lucas">ge(n)tes:</seg>
 		       <orig>gētes:</orig>
 		       <reg>gentes:</reg>
-	     </choice> lauda⸗            laudate. iiii.
-<lb/>te 
+	     </choice> <seg next="#seg">lauda⸗</seg>           laudate. iiii.
+<lb/><seg xml:id="seg">te</seg>
 	<choice>
 		       <seg type="lucas">eu(m)</seg>
 		       <orig>eū</orig>
@@ -52,7 +52,6 @@
 	     <choice>
 		       <seg type="lucas">f(ir)ma</seg>
 		       <orig>ɔf͘ma</orig> 
-	           <!-- is this supposed to be a dot? -->
 		       <reg>confirma</reg>
 	     </choice>
       <lb break="no"/>ta 
@@ -145,8 +144,8 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig>+</orig>
 		       <reg>et </reg>
-	     </choice> exau⸗     Clamavi. vii
-<lb/>divit me. 
+	     </choice> <seg next="#seg2">exau⸗</seg>    Clamavi. vii
+<lb/><seg xml:id="seg2">divit</seg> me. 
 	<choice>
 		       <seg type="lucas">D(omi)ne</seg>
 		       <orig>Dn̄e</orig>

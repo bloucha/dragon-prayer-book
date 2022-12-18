@@ -271,13 +271,13 @@
 	     <choice>
 		       <seg type="lucas">Suntag</seg>
 	           <orig>Sūtag</orig>
-		       <reg>Suntag</reg>
+		       <reg>Suntag</reg> <!-- is there a way to mark this as german? -->
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">an(?).</seg>
 	           <orig>an̈.</orig>
-		       <reg>an?.<!--  check expansion; EMB -I'll check on this with Dr. Jones --></reg>
+		       <reg>antiphon <!-- ?? --></reg>
 	     </choice> 
                 
 	     <choice>

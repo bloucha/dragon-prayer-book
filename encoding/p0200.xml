@@ -18,7 +18,7 @@
 	     <choice>
 		       <seg type="lucas">v(ersu)s.</seg>
 		       <orig>v̈s.</orig>
-		       <reg>versus.</reg>
+		       <reg>vesperas.</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -218,7 +218,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Q͘a</orig>
+		       <orig>Q̇a</orig>
 		       <reg>Quia</reg>
 	     </choice> illic 
 	<choice>
@@ -275,16 +275,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code, looks like an h -->
-	           <!-- so true what is happening here -->
-		       <seg type="lucas">(ab)</seg>
-		       <orig/>
-		       <reg>ab</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">unda(n)tia</seg>
-		       <orig>ūndātia</orig>
-		       <reg>undantia</reg>
+		       <orig>hūndātia</orig>
+		       <reg>abundantia</reg>
 	     </choice> dili⸗
 
 

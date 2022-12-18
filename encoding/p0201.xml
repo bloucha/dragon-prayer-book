@@ -32,15 +32,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code, looks like h -->
-		       <seg type="lucas">(ab)</seg>
-		       <orig/>
-		       <reg>ab</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">unda(n)tia</seg>
-		       <orig>ūndātia</orig>
-		       <reg>undantia</reg>
+		       <orig>hūndātia</orig>
+		       <reg>abundantia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -64,7 +58,6 @@
 		       <reg>Propter</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like there is only one r -->
 		       <seg type="lucas">fr(at)res</seg>
 		       <orig>frēs</orig>
 		       <reg>fratres</reg>
@@ -157,8 +150,7 @@
       <lb/>AD te le
 <lb break="no"/>vavi 
 	<choice>
-	      <!-- check abbreviation, it is either a small raise s or e -->
-		       <seg type="lucas">oc(u)lo(s)</seg>
+	    <seg type="lucas">oc(u)lo(s)</seg>
 		       <orig>ocl͘oˢ</orig>
 		       <reg>oculos</reg>
 	     </choice>        
@@ -261,8 +253,8 @@
 		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> sue: 
-         <!-- check transcription -->[[i]]
-<lb/>ta 
+      <supplied>i</supplied>
+<lb break="no"/>ta 
 	<choice>
 		       <seg type="lucas">oc(u)li</seg>
 		       <orig>ocl͘i</orig>

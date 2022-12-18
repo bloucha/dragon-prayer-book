@@ -119,14 +119,9 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">usq(ue)q(ua)</seg>
-		       <orig>usq⋮q̈</orig> <!-- check transcription these seem like separate words -->
-		       <reg>usquequa</reg>
+		       <orig>usq⋮q̈q⋮</orig> 
+		       <reg>usquequaque</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">q(ue).</seg>
-		       <orig>q⋮.</orig>
-		       <reg>que.</reg>
-	     </choice>
       <lb/>In quo corrigit adoles
 <lb break="no"/>
 	     <choice>

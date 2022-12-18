@@ -94,7 +94,7 @@
 	<choice>
 		       <seg type="lucas">Ps(alm).</seg>
 		       <orig>Ps̄.</orig>
-		       <reg>Psalm.</reg>
+		       <reg>Psalmus.</reg>
 	     </choice>
       <lb/>MEmor esto 
 	<choice>
@@ -184,15 +184,10 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">usq(ue)q(ua)</seg>
-		       <orig>usq⋮</orig>
-		       <reg>usquequa</reg>
+		       <orig>usq⋮q̈q⋮</orig>
+		       <reg>usquequaque</reg>
 	     </choice> 
-   	<!-- check transcription looks like usq qq -->
-	     <choice>
-		       <seg type="lucas">q(ue):</seg>
-		       <orig>q̈q⋮:</orig>
-		       <reg>que:</reg>
-	     </choice> a<supplied> le⸗ </supplied>
+   	 a<supplied> le⸗ </supplied>
 <lb/>ge 
 	<choice>
 		       <seg type="lucas">aut(em)</seg>

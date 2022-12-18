@@ -141,7 +141,6 @@
 		       <reg>nostrum.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- Won't let me encode dot above Q ! -->
 		       <seg type="lucas">Q(ui)</seg>
 		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
@@ -158,7 +157,7 @@
 	              <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice> 
-      <!-- several slashes --> ex maria 
+      ex maria 
 	<choice>
 		       <seg type="lucas">v(ir)gi(n)e.</seg>
 		       <orig>v̇gīe.</orig>

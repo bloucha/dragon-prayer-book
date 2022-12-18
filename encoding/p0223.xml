@@ -199,7 +199,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia.<!--  check expansion, alleluia? --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Deposuit 
 	<choice>
@@ -235,10 +235,11 @@
 		       <orig>xp̄m</orig>
 		       <reg>christum</reg>
 	     </choice> 
+         <!-- interrupted word split across two pages, what is the code? -->
 	     <choice>
 		       <seg type="lucas">(con)⸗</seg>
-		       <orig>ɔ</orig>
-		       <reg>con</reg>
+	           <orig>ɔ⸗</orig>
+	           <reg>con⸗</reg>
 	     </choice>        Deposuit. i.
 
 

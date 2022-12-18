@@ -255,7 +255,7 @@
 		       <reg>M?</reg>
 	     </choice> 
 	     <choice>
-	           <seg type="lucas">a(?)</seg> <!--check transcription->
+	           <seg type="lucas">a(?)</seg> <!--check transcription-->
 	           <orig>ä</orig>
 		       <reg>a?</reg>
 	     </choice>        Audivi.ii.

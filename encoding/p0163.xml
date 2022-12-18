@@ -34,7 +34,7 @@
 	     <choice>
 		       <seg type="lucas">Su(?)tag</seg>
 		       <orig>Sūtag</orig>
-		       <reg>Su?tag<!--  check expansion --></reg>
+		       <reg>Suntag</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -107,7 +107,7 @@
 	     <choice>
 		       <seg type="lucas">Cap(ite?).</seg>
 		       <orig>Cap̄.</orig>
-		       <reg>Capite?.<!--  check expansion --></reg>
+		       <reg>Capite?.<!--  capitulum? check expansion --></reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -244,13 +244,13 @@
 	     </choice> Adiutor. Ad. 
 	<choice>
 		       <seg type="lucas">m(?).</seg>
-		       <orig>m̈.</orig>
-		       <reg>m?.<!--  check expansion --></reg>
+		       <orig>iii.</orig>
+		       <reg>tribus??.<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>D͘s</orig>
+		       <orig>Ḋs</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
@@ -276,7 +276,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
-		       <orig>ȳpnꝰ.</orig> <!-- double check transcription, this might be an m instead of an n -->
+		       <orig>ȳpnꝰ.</orig> 
 		       <reg>hymnus.</reg>
 	     </choice>
       <lb/>

@@ -53,7 +53,6 @@
 	     </choice>
       <lb/>
 	     <choice>
-	         <!-- A770 not appearing correctly -->
 		       <seg type="lucas">i(n)creat(us)</seg>
 		       <orig>īcreatꝰ</orig> 
 		       <reg>increatus</reg>
@@ -370,6 +369,7 @@
 		       <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice> deus.
+       <!-- is there some way to mark this as an add-on? -->
 <lb/>Ita 
 	<choice>
 		       <seg type="lucas">d(omi)n(u)s</seg>

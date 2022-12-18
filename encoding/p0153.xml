@@ -20,18 +20,17 @@
 		       <seg type="lucas">ho(r)a</seg>
 		       <orig>hȯa</orig>
 		       <reg>hora</reg>
-	     </choice> hu⸗
-         <!-- what word is this connected to?, hu= -->
+	     </choice> <seg next="#segment">hu⸗</seg>
 	<choice>
 		       <seg type="lucas">Or(emus).</seg>
 		       <orig>Or̄.</orig>
 		       <reg>Oremus.</reg>
 	     </choice>        
-	     <choice>
+	    <seg xml:id="segment"> <choice>
 		       <seg type="lucas">Ore(mus).</seg>
 		       <orig>Oreꝰ.</orig>
 		       <reg>Oremus.</reg>
-	     </choice>
+	     </choice> </seg>
       <lb/>
 	     <choice>
 		       <seg type="lucas">i(us)</seg>
@@ -101,7 +100,7 @@
 		       <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
 	     </choice> do. 
-         Via? <!-- check transcription -->
+         Fia? <!-- check transcription -->
          
 	<choice>
 		       <seg type="lucas">an(tiphon).</seg>
@@ -144,7 +143,7 @@
 	     <choice>
 		       <seg type="lucas">Cap(ite?).</seg>
 		       <orig>Cāp.</orig>
-		       <reg>Capite?.<!--  check expansion --></reg>
+		       <reg>Capite.<!--  might be capitulum --></reg>
 	     </choice> 
  
 	     <choice>

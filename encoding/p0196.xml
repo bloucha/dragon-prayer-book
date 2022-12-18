@@ -97,8 +97,7 @@
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
 		       <orig>ɔspcū</orig>
-		       <reg>comspectu</reg>
-	           <!-- I would surmise that this is conspectum, check transcription -->
+		       <reg>comspectum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ni</seg>
@@ -230,8 +229,7 @@
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
 		       <orig>ɔspcū</orig>
-		       <reg>conspectu</reg>
-	           <!-- conspectum? check transcription -->
+		       <reg>conspectum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">om(n)is</seg>

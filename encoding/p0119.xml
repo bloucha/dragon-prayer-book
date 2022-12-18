@@ -198,7 +198,6 @@
 		       <reg>faciem</reg>
 	     </choice> 
 	     <choice>
-	         <!-- check transcription, looks like x with raised two dots -->
 		       <seg type="lucas">(christi)</seg>
 		       <orig>xⁱ</orig>
 		       <reg>christi</reg>

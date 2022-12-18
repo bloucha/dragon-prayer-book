@@ -43,10 +43,8 @@
       <lb break="no"/>cite 
 	<choice>
 		       <seg type="lucas">d(omi)n[[o]]</seg>
-		       <orig>dn̄[[ō]]</orig>
-	    <!-- double check brackets -->
-	   
-		       <reg>domin[[o]]</reg>
+		       <orig>dn̄ū</orig>   
+		       <reg>dominum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">B(e)n(e)dicat</seg>
@@ -66,7 +64,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> fecit 
 	<choice>
@@ -107,7 +105,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>t̄</orig>
+		       <orig>ṫ</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
@@ -155,7 +153,7 @@
       <lb/>ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-	    <orig>ꝓ</orig>
+	        <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
@@ -187,7 +185,7 @@
 	     <choice>
 		       <seg type="lucas">Cap(ite?).</seg>
 		       <orig>Cap̄.</orig>
-		       <reg>Capite?.<!--  check expansion --></reg>
+		       <reg>Capitulum.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -243,7 +241,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Int(er)</seg>
-		       <orig>Int͘</orig>
+		       <orig>Inṫ</orig>
 		       <reg>Inter</reg>
 	     </choice>
       <lb break="no"/>cede 
@@ -301,8 +299,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Int(ra?).</seg>
-		       <orig>Int͘.</orig>
-		       <reg>Intra?.<!--  check expansion --></reg>
+		       <orig>Int̄.</orig>
+		       <reg>Intercede.<!--  ??check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(h)y(mnus)</seg>
@@ -314,7 +312,7 @@
 		       <orig>V̇</orig>
 		       <reg>Vir</reg>
 	     </choice>
-      <lb break="no"/>go singl?. 
+      <lb break="no"/>go singl?. <!-- singl? --> 
 	<choice>
 		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>

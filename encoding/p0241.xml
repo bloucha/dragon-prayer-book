@@ -108,8 +108,7 @@
 	     <choice>
 		       <seg type="lucas">(ab)un</seg>
 		       <orig>hūn</orig>
-	         <!-- this looks like an h not an ab, what's going on here? -->
-		       <reg>abun</reg>
+	         <reg>abun</reg>
 	     </choice> 
       <lb break="no"/>
 	     <choice>

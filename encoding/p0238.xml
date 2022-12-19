@@ -108,8 +108,8 @@
 	     </choice> eos. Emitte 
 	<choice>
 		       <seg type="lucas">manu(um)</seg>
-		       <orig>manū</orig> <!-- make sure this spelling and its meaning makes sense -->
-		       <reg>manuum</reg>
+		       <orig>manū</orig>
+		       <reg>manum</reg>
 	     </choice>
       <lb/>
 	     <choice>

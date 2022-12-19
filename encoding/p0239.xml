@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q͘</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> redemisti david 
 	<choice>
@@ -176,17 +176,11 @@
 		       <orig>eoꝝ</orig>
 		       <reg>eorum</reg>
 	     </choice> fe
-<lb break="no"/>tose 
-	<choice>
-		       <seg type="lucas">(ab)</seg>
-		       <orig/>
-		       <reg>ab</reg>
-	      <!-- I don't see this or a diacritic indicating it anywhere are we just assuming it's here? -->
-	     </choice>
+<lb break="no"/>tose
 	     <choice>
 		       <seg type="lucas">hunda(n)tes</seg>
 		       <orig>hūndātes</orig>
-		       <reg>hundantes</reg>
+		       <reg>abundantes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>

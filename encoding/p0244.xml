@@ -71,9 +71,8 @@
 		       <reg>in</reg>
 	     </choice> filiis 
 	<choice>
-	      <!-- check transcription, looks like hoim -->
 		       <seg type="lucas">ho(m)i(n)u(m)</seg>
-		       <orig>hoīu</orig>
+		       <orig>hoīm</orig>
 		       <reg>hominum</reg>
 	     </choice> 
 	     <choice>
@@ -119,7 +118,6 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">rev(er)tet(ur)</seg>
 		       <orig>rev̇tet݃</orig>
 		       <reg>revertetur</reg> 
@@ -146,7 +144,6 @@
 	     </choice> il
 <lb break="no"/>la die 
 	<choice>
-	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)ib(un)t</seg>
 		       <orig>ꝑib̄t</orig> 
 		       <reg>peribunt</reg>
@@ -187,7 +184,7 @@
 		       <seg type="lucas">ei(us);</seg>
 		       <orig>eiꝰ;</orig>
 		       <reg>eius;</reg>
-	     </choice> spes <!-- check transcription, this looks like sꝑes -->
+	     </choice> spes 
  
 	<choice>
 		       <seg type="lucas">ei(us)</seg>

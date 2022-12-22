@@ -286,17 +286,12 @@
 	     </choice> peccavi nimis co⸗
 
 
-*
+* [[patri nostro]]
 	<choice>
 		       <seg type="lucas">det(?)</seg>
-		       <orig>detº</orig>
-		       <reg>det?</reg>
-	     </choice> g??
-	<choice>
-		       <seg type="lucas">idu(?)s</seg>
-		       <orig>idu̇s</orig>
-		       <reg>idu?s<!--  check expansion --></reg>
-	     </choice> 
+		       <orig>etº</orig>
+		       <reg>et</reg>
+	     </choice> omnibus
  sanctis
 
 

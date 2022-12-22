@@ -97,7 +97,7 @@
 	<choice>
 		       <seg type="lucas">(co)pl(is?)</seg>
 	             <orig>ɔpl͘</orig>
-		       <reg>coplis?</reg>
+		       <reg>conplis</reg>
 	     </choice> iu
 <lb break="no"/>be 
 	<choice>
@@ -259,26 +259,14 @@
 	             <orig>noīe</orig>
 		       <reg>nomine</reg>
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">d(omi)ni;
+	  
 *Domine
 mise-
 rere
 nostri.
-		     </seg>
-		       <orig>dn̄i;
-*Domine
-mise-
-rere
-nostri.</orig>
-		       <reg>domini;
 
 
-*Domine
-mise-
-rere
-nostri.</reg>
-	     </choice>
+	     
    </ab>
 
    <ab type="translation"

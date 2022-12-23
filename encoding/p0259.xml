@@ -104,8 +104,8 @@
 	     </choice> recedant
 <lb/>
 	     <choice>
-		       <seg type="lucas">so(m)nia</seg> <!-- is there a "p" here? maybe translation error? -->
-	             <orig>sōnia</orig> 
+		       <seg type="lucas">so(m)nia</seg> 
+	             <orig>sōpnia</orig> 
 		       <reg>somnia</reg>
 	     </choice> 
 	     <choice>
@@ -172,7 +172,7 @@
 		       <reg>per</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ih(eseu)m</seg> <!-- not changing original translation, but there is no "m" on the page -->
+		       <seg type="lucas">ih(eseu)m</seg> 
 	             <orig>iḣ⋮</orig>
 		       <reg>iheseum</reg>
 	     </choice> 
@@ -221,7 +221,7 @@
 		       <seg type="lucas">sp(irit)u</seg>
 		       <orig>sp̄u</orig>
 		       <reg>spiritu</reg>
-	     </choice></supplied>
+	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">Ame(n).</seg>
@@ -232,31 +232,31 @@
 		       <seg type="lucas">V(ersiculus).</seg>
 	             <orig>V̇.</orig>
 		       <reg>Versiculus.</reg>
-	     </choice> Custodi †nos 
+	     </choice> Custodi nos 
 	<choice>
 		       <seg type="lucas">d(omi)ne†</seg>
 		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
-	     </choice><supplied>
+	     </choice>
       <lb/>ut 
 	<choice>
 		       <seg type="lucas">pupilla(m)</seg>
 	             <orig>pupillā</orig>
 		       <reg>pupillam</reg>
-	</choice> </supplied>
+	</choice> 
 	<choice>
 		       <seg type="lucas">oc(u)li.</seg>
 		       <orig>ocl͘i.</orig>
 		       <reg>oculi.</reg>
-	     </choice> <supplied>
+	     </choice> 
 	     <choice>
 		       <seg type="lucas">S(u)b</seg>
-	           <orig>Sḃ</orig> <!-- check, it is hard to see -->
+	           <orig>Sḃ</orig> 
 		       <reg>Sub</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">umb(ra)</seg>
-	             <orig>umb̈</orig> <!-- !!! hard to see -->
+	             <orig>umb̈</orig>
 		       <reg>umbra</reg>
 	     </choice>
       <lb/>

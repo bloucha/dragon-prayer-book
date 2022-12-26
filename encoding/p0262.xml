@@ -70,7 +70,7 @@
 	<choice>
 		       <seg type="lucas">e(pi)ph(an)ia</seg>
 		       <orig>epḣia</orig>
-		       <reg>epiphania<!--  check expansion --></reg>
+		       <reg>epiphania</reg>
 	     </choice> 
  
 	     <choice>
@@ -91,7 +91,7 @@
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
       <lb/>lux de luce 
 	<choice>
@@ -197,18 +197,18 @@
 	     <choice>
 		       <seg type="lucas">vaste(m?)</seg>
 		       <orig>vastē</orig>
-		       <reg>vastem?</reg>
+		       <reg>vastem</reg>
 	     </choice> ad 
 	<choice>
 		       <seg type="lucas">v(ersu?)s</seg>
 		       <orig>v̈s</orig>
-		       <reg>versu?s<!--  check expansion --></reg>
+		       <reg>versus</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">cap(ite?).</seg>
 		       <orig>cap̄.</orig>
-		       <reg>capite?.<!--  check expansion --></reg>
+		       <reg>capite.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -302,7 +302,6 @@
 	     </choice>
       <lb/>AUdi benigne         
 	     <choice>
-	         <!-- check transcription, looks like ypm -->
 		       <seg type="lucas">y(m)n(us).</seg>
 		       <orig>yp̄nꝰ.</orig>
 		       <reg>hymnus.</reg>

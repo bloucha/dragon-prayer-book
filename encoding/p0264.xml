@@ -64,7 +64,6 @@
 		       <reg>conplet</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
 		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>
@@ -107,9 +106,8 @@
 		       <reg>dedero</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like sopnu -->
 		       <seg type="lucas">so(m)nu(m)</seg>
-		       <orig>sōnū</orig>
+		       <orig>sōpnū</orig>
 		       <reg>somnum</reg>
 	     </choice> 
 	     <choice>

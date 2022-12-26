@@ -16,9 +16,8 @@
 		       <reg>gravis</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- check transcription, looks like sopn -->
 		       <seg type="lucas">so(m)n(us)</seg>
-		       <orig>sōnꝰ</orig> 
+		       <orig>sop̄nꝰ</orig> 
 		       <reg>somnus</reg>
 	     </choice> irruat
 <lb/>
@@ -55,9 +54,8 @@
 		       <reg>Oculi</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- check transcription, looks like sop -->
 		       <seg type="lucas">so(m)</seg>
-		       <orig>sō</orig>
+		       <orig>sōp</orig>
 		       <reg>som</reg>
 	     </choice>
       <lb break="no"/>
@@ -118,13 +116,15 @@
 		       <seg type="lucas">i(n)sidia(n)tes</seg>
 		       <orig>īsidiātes</orig>
 		       <reg>insidiantes</reg>
-	     </choice> re⸗ +
+	     </choice> <seg next="#seg265">re⸗</seg> +
 <lb/>
-	     <choice>
+	     <seg xml:id="seg265">
+         <choice>
 		       <seg type="lucas">p(ri)me</seg>
 		       <orig>ṗme</orig>
 		       <reg>prime</reg>
 	     </choice> 
+	     </seg>
 	     <choice>
 		       <seg type="lucas">gub(er)na</seg>
 		       <orig>guḃna</orig>

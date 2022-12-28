@@ -88,7 +88,7 @@
 	     <choice>
 		       <seg type="lucas">i(?)p??sa</seg>
 		       <orig>īp??sa</orig>
-		       <reg>i?p??sa<!--  check expansion, cannot find in translation --></reg>
+	         <reg>i?p??sa<!--  check expansion, cannot find in translation (improvisa?) --></reg>
 	     </choice> 
  morte.l n d. Ab
 <lb/>
@@ -211,6 +211,22 @@
 
    <ab type="translation"
        xml:id="p0434_translation"
-       corresp="#p0434_transcription"/>
+       corresp="#p0434_transcription">
+       All you holy virgins
+       All you saints
+       Be merciful unto us spare us O Lord.
+       From eternal damnation. <!-- li. n. d translates to? -->
+       From a sudden and unprovided death.
+       From the scourges that threaten our sins.
+       From the snares of the devil.
+       From the uncleanness of mind and body.
+       From anger, hatred, and all ill-will.
+       From unclean thoughts.  <!-- DM page 402 -->       
+       From blindness of heart.
+       From lightning and storm.
+       From all evil.
+       <!-- DM page 403 cont. -->
+       
+   </ab>
 
 </div>

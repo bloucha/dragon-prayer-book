@@ -33,7 +33,7 @@
 	     <choice>
 		       <seg type="lucas">Cap(ite?).</seg>
 		       <orig>Cap̄.</orig>
-		       <reg>Capite?.<!--  check expansion --></reg>
+		       <reg>Capite.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -119,30 +119,33 @@
 		       <seg type="lucas">o(mn)ib(us)</seg>
 		       <orig>ōib⋮</orig>
 		       <reg>omnibus</reg>
-	     </choice> di
+	     </choice> <seg next = "#seg2731"> di </seg>
 <lb break="no"/>SI 
+         <seg next = "#seg2732">
 	<choice>
 		       <seg type="lucas">(con)sur⸗</seg>
 		       <orig>ɔsur⸗</orig>
 		       <reg>consur⸗</reg>
-	     </choice>                 
+	     </choice>  
+         </seg>               
 	     <choice>
 		       <seg type="lucas">Cap(ite?).</seg>
 		       <orig>Cap̄.</orig>
 		       <reg>Capite?.<!--  check expansion --></reg>
 	     </choice> 
         
-	     <choice>
+	   <seg xml:id="seg2731">  <choice>
 		       <seg type="lucas">eb(us)</seg>
 		       <orig>eb⋮</orig>
 		       <reg>ebus</reg>
-	     </choice> 
+	     </choice>
+	   </seg>
 	     <choice>
 		       <seg type="lucas">al(leluia).</seg>
 		       <orig>al͘.</orig>
 		       <reg>alleluia.</reg>
 	     </choice>
-      <lb/>rexistis 
+      <lb/> <seg xml:id="seg2732"> rexistis </seg>
 	<choice>
 		       <seg type="lucas">c(um)</seg>
 		       <orig>c̄</orig>
@@ -292,7 +295,7 @@
 	<choice>
 		       <seg type="lucas">ix(?)</seg>
 		       <orig>iẍ</orig>
-		       <reg>ix?</reg>
+		       <reg>nona</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia).</seg>
@@ -337,12 +340,10 @@
          </choice>
         appa⸗ 
 	<choice>
-		       <seg type="lucas">Cap(ite?).
-
-</seg>
+		       <seg type="lucas">Cap(ite?).</seg>
 		   <orig>Cap̄.</orig>
-		      <reg>Capite?.<!--  check expansion --></reg>
-	     </choice> 
+		      <reg>Capite.</reg>
+	 </choice> 
    </ab>
 
    <ab type="translation"

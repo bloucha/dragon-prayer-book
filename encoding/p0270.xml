@@ -13,7 +13,7 @@
 	     <choice>
 		       <seg type="lucas">ps(alm?)</seg>
 		       <orig>p̈s</orig>
-		       <reg>psalm?</reg>
+		       <reg>psalmus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia).</seg>
@@ -27,7 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-	             <orig>℞.</orig> <!-- suggested to use, can change -->
+	             <orig>℞.</orig> 
 		       <reg>Responsorium.</reg>
 	     </choice> Hec dies
 <lb/>
@@ -65,7 +65,7 @@
 	<choice>
 		       <seg type="lucas">n(un?)c</seg>
 		       <orig>nc̄</orig>
-		       <reg>nun?c<!--  check expansion --></reg>
+		       <reg>nunc</reg>
 	     </choice> 
  di. 
 	<choice>
@@ -124,7 +124,7 @@
 	     <choice>
 		       <seg type="lucas">cap(ite?)</seg>
 		       <orig>cap̄</orig>
-		       <reg>capite?<!--  check expansion --></reg>
+		       <reg>capite</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -223,7 +223,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">viv(it)</seg>
-		       <orig>vivᵗ</orig> <!-- same unicode as above, not sure what to use? -->
+		       <orig>vivᵗ</orig>
 		       <reg>vivit</reg>
 	     </choice> 
 	     <choice>

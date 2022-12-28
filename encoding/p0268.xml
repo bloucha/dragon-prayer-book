@@ -77,7 +77,7 @@
 		       <seg type="lucas">stat(er)a</seg>
 		       <orig>staṫa</orig>
 		       <reg>statera</reg>
-	     </choice> facta [*]
+	     </choice> facta 
 <lb/>
 	     <choice>
 		       <seg type="lucas">corp(or)i</seg>
@@ -206,13 +206,13 @@
 	<choice>
 		       <seg type="lucas">n(un?)c</seg>
 		       <orig>nc̄</orig>
-		       <reg>nun?c<!--  check expansion --></reg>
+		       <reg>nunc</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  O rex
 <lb/>

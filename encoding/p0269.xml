@@ -155,7 +155,7 @@
 	     <choice>
 		       <seg type="lucas">ps(alm?)</seg>
 		       <orig>p̄s</orig>
-		       <reg>psalm?</reg>
+		       <reg>psalmus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -171,7 +171,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia?.</reg>
 	     </choice> 
  
 	     <choice>

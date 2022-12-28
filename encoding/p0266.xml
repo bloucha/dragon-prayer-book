@@ -55,7 +55,7 @@
 	<choice>
 		       <seg type="lucas">n(un?)c.</seg>
 		       <orig>n̄c.</orig>
-		       <reg>nun?c.<!--  check expansion --></reg>
+		       <reg>nunc.</reg>
 	     </choice> 
  Me
 <lb break="no"/>dia vita 
@@ -86,9 +86,8 @@
 		       <reg>adiutorem</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- check character, ask in meeting -->
 		       <seg type="lucas">n(isi)</seg>
-		       <orig>n</orig>
+		       <orig>nⁱ</orig>
 		       <reg>nisi</reg>
 	     </choice> te
 <lb/>
@@ -204,9 +203,8 @@
 		       <reg>virtus</reg>
 	     </choice> <supplied>
 	<choice>
-		<!-- check transcription, looks like me or nie-->
 		       <seg type="lucas">(nostr)⸗</seg>
-		       <orig>nīe⸗</orig>
+		       <orig>nr̄t⸗</orig>
 		       <reg>nostr⸗</reg>
 	     </choice> 
 	     </supplied>
@@ -215,8 +213,7 @@
 		       <seg type="lucas">de(re)li(n)q(ua)s</seg>
 		       <orig>dėlīq̈s</orig>
 		       <reg>derelinquas</reg>
-		<!-- check transcription -->
-	     </choice> <supplied>nos?</supplied>
+	     </choice> <supplied>nos</supplied>
 	<choice>
 		       <seg type="lucas">d(omi)ne.</seg>
 		       <orig>dn̄e.</orig>
@@ -267,7 +264,7 @@
 	<choice>
 		       <seg type="lucas">cap(ite?).</seg>
 		       <orig>cap̄.</orig>
-		       <reg>capite?.<!--  check expansion --></reg>
+		       <reg>capite.</reg>
 	     </choice> 
       <lb/>baoth 
 	<choice>

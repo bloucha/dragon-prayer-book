@@ -60,8 +60,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">defe(n)d[/e]</seg>
-	             <orig>defēd[/e]</orig>
-		       <reg>defend[/e]</reg>
+	             <orig>defēde</orig>
+		       <reg>defende</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(o)p(u)l(um)</seg>
@@ -170,7 +170,7 @@
 	     <choice>
 		       <seg type="lucas">Or(emus?).</seg>
 		       <orig>Or̄.</orig>
-		       <reg>Oremus?.<!--  check expansion --></reg>
+		       <reg>Oratio</reg>
 	     </choice> 
  
       <lb/>
@@ -241,13 +241,13 @@
 	<choice>
 		       <seg type="lucas">i(?).</seg>
 		       <orig>ï.</orig>
-		       <reg>i?.<!--  check expansion --></reg>
+		       <reg>prima </reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -273,7 +273,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">frac(t)io(n)e</seg>
-	             <orig>fraciōē</orig> <!-- is there a macron over the e as well? -->
+	             <orig>fraciōe</orig>
 		       <reg>fractione</reg>
 	     </choice> 
 	     <choice>
@@ -285,12 +285,12 @@
 	<choice>
 		       <seg type="lucas">m(?)</seg>
 		       <orig>m̈</orig>
-		       <reg>m?</reg>
+		       <reg>tertia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 	             <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Pax 
 	<choice>

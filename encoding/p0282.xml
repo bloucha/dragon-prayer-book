@@ -204,13 +204,13 @@
 	<choice>
 		       <seg type="lucas">i(?).</seg>
 	             <orig>ï̈.</orig>
-		       <reg>i?.<!--  check expansion --></reg>
+		       <reg>prima.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 	             <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Veni 
 	<choice>
@@ -272,14 +272,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(?).</seg>
-		       <orig>m̈.</orig>
-		       <reg>m?.<!--  check expansion --></reg>
+		       <orig>iii.</orig>
+		       <reg>terita.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon?.</reg>
 	     </choice> 
  Veni
 

@@ -113,12 +113,12 @@
 	     <choice>
 		       <seg type="lucas">ps(alm?)</seg>
 		       <orig>p̈s</orig>
-		       <reg>psalm?</reg>
+		       <reg>psalmus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -187,7 +187,7 @@
 	<choice>
 		       <seg type="lucas">pe(n?)ch.</seg>
 		       <orig>pēch.</orig>
-		       <reg>pen?ch.<!--  check expansion --></reg>
+		       <reg>pen?th.<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
@@ -198,12 +198,12 @@
 	     <choice>
 		       <seg type="lucas">ps(alm?)</seg>
 		       <orig>p̈s</orig>
-		       <reg>psalm?</reg>
+		       <reg>psalmus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleuia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleuia?.<!--  check expansion --></reg>
+		       <reg>alleuia. </reg>
 	     </choice> 
  
 	     <choice>
@@ -220,7 +220,7 @@
 	<choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -289,7 +289,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -316,12 +316,12 @@
 	     <choice>
 		       <seg type="lucas">ps(alm?)</seg>
 		       <orig>p̈s</orig>
-		       <reg>psalm?</reg>
+		       <reg>psalmus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>

@@ -44,7 +44,7 @@
 	     <choice>
 		       <seg type="lucas">Cap(ite?)</seg>
 		       <orig>Cap̄</orig>
-		       <reg>Capite?<!--  check expansion --></reg>
+		       <reg>Capite</reg>
 	     </choice> 
       <lb/>Ecce dies. 
 	<choice>
@@ -119,7 +119,11 @@
 		       <seg type="lucas">Gl(ori)a.</seg>
 		       <orig>Gl͘a.</orig>
 		       <reg>Gloria.</reg>
-	     </choice> Ve?. 
+	     </choice> 
+         <choice>
+         <orig>De </orig>
+               <reg>Deus </reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
@@ -175,14 +179,14 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(?).</seg>
-		       <orig>m̈.</orig>
-		       <reg>m?.<!--  check expansion --></reg>
+		       <orig>iii</orig>
+		       <reg>terita.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -220,13 +224,13 @@
 	     <choice>
 		       <seg type="lucas">Cap(ite?).</seg>
 		       <orig>Cap̄.</orig>
-		       <reg>Capite?.<!--  check expansion --></reg>
+		       <reg>Capite.</reg>
 	     </choice> 
         
 	     <choice>
 		       <seg type="lucas">va(n)d(is)?</seg>
-		       <orig>vāḋ?</orig>
-		       <reg>vandis?</reg>
+		       <orig>vāḋ</orig>
+		       <reg>vandis</reg>
 	     </choice> nos.
 <lb/>
 	     <choice>
@@ -308,7 +312,6 @@
 		       <reg>noster;</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
 		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>

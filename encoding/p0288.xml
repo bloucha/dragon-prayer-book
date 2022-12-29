@@ -13,7 +13,7 @@
 	     <choice>
 		       <seg type="lucas">v(er)sa</seg>
 		       <orig>ɔv̇sa</orig>
-		       <reg>versa</reg>
+		       <reg>conversa</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
@@ -278,8 +278,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(tercia).</seg>
-		       <orig>ṅj.</orig><!-- check expansion -->
-		       <reg>tercia.</reg>
+		       <orig>iii.</orig>
+		       <reg>tertia.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(ec)c(a)ta.</seg>
@@ -291,7 +291,7 @@
 
 </seg>
 		       <orig>Or̄o.</orig>
-		       <reg>Orati?o.<!--  check expansion --></reg>
+		       <reg>Oratio.</reg>
 	     </choice> 
    </ab>
 

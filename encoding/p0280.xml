@@ -11,12 +11,9 @@
 
       <lb/>In 
 	<choice>
-	      <!-- gonna raise a big red flag here because to me the letters
-	            look like ntiate or mtiate not vtate there's def an i
-	      that didn't make the transcription -->
 		       <seg type="lucas">v(eri?)tate.</seg>
 		       <orig>vẗate.</orig>
-		       <reg>veri?tate.<!--  check expansion --></reg>
+		       <reg>veritate.</reg>
 	     </choice> 
  in 
 	<choice>
@@ -48,13 +45,13 @@
 	     <choice>
 		       <seg type="lucas">ps(alm?)</seg>
 		       <orig>p̈s</orig>
-		       <reg>psalm?<!--  check expansion --></reg>
+		       <reg>psalmus</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.></reg>
 	     </choice> 
  
 	     <choice>
@@ -70,7 +67,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Corde. In
 <lb/>festo 
@@ -93,12 +90,12 @@
 	     <choice>
 		       <seg type="lucas">ps(alm?)</seg>
 		       <orig>p̄s</orig>
-		       <reg>psalm?</reg>
+		       <reg>psalmus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
       <lb/>Ave 
 	<choice>
@@ -175,7 +172,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
       <lb/>Vox de 
 	<choice>
@@ -261,7 +258,7 @@
 	<choice>
 		       <seg type="lucas">v(ersu?)s</seg>
 		       <orig>v̈s</orig>
-		       <reg>versu?s<!--  check expansion --></reg>
+		       <reg>versus<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>

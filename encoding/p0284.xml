@@ -44,7 +44,7 @@
 	     <choice>
 		       <seg type="lucas">Mi(sericordia?).</seg>
 		       <orig>Mi.</orig>
-		       <reg>Misericordia?.<!--  check expansion --></reg>
+		       <reg>Misericordia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -99,7 +99,11 @@
 		       <seg type="lucas">i(n)</seg>
 		       <orig>ī</orig>
 		       <reg>in</reg>
-	     </choice> salutari tuo. Ad. ixa. <!-- check transcription, this x has some dots and might be an abbreviation -->
+	     </choice> salutari tuo. Ad. 
+         <choice>
+               <orig>iẍ</orig>
+               <reg>nona</reg>
+         </choice>
 <lb/>In tuo 
 	<choice>
 		       <seg type="lucas">adve(n)tu</seg>
@@ -120,7 +124,7 @@
 	<choice>
 		       <seg type="lucas">Cap(ite?).</seg>
 		       <orig>Cap̄.</orig>
-		       <reg>Capite?.<!--  check expansion --></reg>
+		       <reg>Capite.</reg>
 	     </choice> 
         
 	     <choice>
@@ -267,7 +271,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Orie(tur).</seg>
-		       <orig>Orie.</orig> <!-- check expansion -->
+		       <orig>Orie.</orig> 
 		       <reg>Orietur.</reg>
 	     </choice> 
 	     <choice>

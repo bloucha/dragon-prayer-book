@@ -28,7 +28,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -81,7 +81,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -141,7 +141,7 @@
 	<choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -180,7 +180,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>

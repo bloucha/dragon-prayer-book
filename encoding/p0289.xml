@@ -132,15 +132,14 @@
 		       <reg>Per.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, this is definitely a b -->
 		       <seg type="lucas">v(?)</seg>
-		       <orig>v̇</orig>
-		       <reg>v?</reg>
+		       <orig>ḃ</orig>
+		       <reg>??? <!-- check expansion --></reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>an?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -240,7 +239,7 @@
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -282,10 +281,9 @@
 		       <reg>Dominica.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription -->
 		       <seg type="lucas">iiii(?).</seg>
-		       <orig>iïii.</orig>
-		       <reg>iiii?.<!--  check expansion --></reg>
+		       <orig>iiii.</orig>
+		       <reg>quarta.</reg>
 	     </choice> 
  
 	     <choice>
@@ -296,7 +294,7 @@
 	     <choice>
 		       <seg type="lucas">Or(ati?)o.</seg>
 		       <orig>Or̄o.</orig>
-		       <reg>Orati?o.<!--  check expansion --></reg>
+		       <reg>Oratio.</reg>
 	     </choice> 
    </ab>
 

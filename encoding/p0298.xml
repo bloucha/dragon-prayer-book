@@ -64,9 +64,9 @@
 	     </choice> sa
 <lb break="no"/>gitta ionathe 
 	<choice>
-	      <!-- line to the side of q don't know how to code -->
 		       <seg type="lucas">nu(m)q(uam)</seg>
 		       <orig>nūq̈</orig>
+	      <!-- pls quam -->
 		       <reg>numquam</reg>
 	     </choice> abiit
 <lb/>

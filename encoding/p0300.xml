@@ -112,7 +112,7 @@
             </choice> Ad <choice>
                   <seg type="lucas">M(?).</seg>
                   <orig>M̈͘͘.</orig>
-                  <reg>M?.<!--  check expansion --></reg>
+                  <reg>M?.<!-- tertia? check expansion --></reg>
             </choice>
             <choice>
                   <seg type="lucas">a(lleluia?).</seg>
@@ -180,7 +180,7 @@
             <choice>
                   <seg type="lucas">a(lleluia?).</seg>
                   <orig>ä.</orig>
-                  <reg>alleluia?.<!--  check expansion --></reg>
+                  <reg>alleluia.</reg>
             </choice>
             <lb/>
             <choice>
@@ -234,13 +234,13 @@
             </choice>
             <choice>
                   <seg type="lucas">v(ir)tute."</seg>
-                  <orig>v̇tute."</orig>
+                  <orig>v̇tute.</orig>
                   <reg>virtute."</reg>
             </choice>
             <choice>
                   <seg type="lucas">a(lleluia?).</seg>
                   <orig>ä.</orig>
-                  <reg>alleluia?.<!--  check expansion --></reg>
+                  <reg>alleluia</reg>
             </choice>
             <lb/>
             <choice>

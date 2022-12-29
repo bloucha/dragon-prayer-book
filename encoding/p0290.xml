@@ -75,7 +75,6 @@
 		       <reg>tectione</reg>
 	     </choice> 
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">mu(n)iat(ur).</seg>
 		       <orig>mūiat݃.</orig> 
 		       <reg>muniatur.</reg>
@@ -88,13 +87,13 @@
 	     <choice>
 		       <seg type="lucas">bn(?).</seg>
 		       <orig>bn̄.</orig>
-		       <reg>bn?.<!--  check expansion --></reg>
+		       <reg>benedicte?.<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">an(?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>an?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -144,16 +143,15 @@
 		       <reg>et </reg>
 	     </choice> ait hoc fecit 
 	<choice>
-	      <!-- check transcription, either ii or u -->
 		       <seg type="lucas">i(n)</seg>
-		       <orig>ī</orig>
-		       <reg>in</reg>
+		       <orig>īi</orig>
+		       <reg>ini</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">imic(us)</seg>
-		       <orig>imicꝰ</orig>
-		       <reg>imicus</reg>
+		       <orig>micꝰ</orig>
+		       <reg>micus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ho(mo).</seg>
@@ -168,7 +166,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Colligite
 <lb/>
@@ -231,9 +229,8 @@
 		       <reg>Dominica</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">(sexta).</seg>
-		       <orig>un??.</orig>
+		       <orig>vi.</orig>
 		       <reg>sexta.</reg>
 	     </choice> 
 	     <choice>

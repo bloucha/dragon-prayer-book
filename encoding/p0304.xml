@@ -82,7 +82,7 @@
 	<choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Ne 
 	<choice>
@@ -131,7 +131,7 @@
 	<choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  A
 <lb break="no"/>donay 
@@ -201,18 +201,21 @@
 	     <choice>
 		       <seg type="lucas">Do(minica?).</seg>
 		       <orig>Dö.</orig>
-		       <reg>Dominica?.<!--  check expansion --></reg>
+		       <reg>Dominica.</reg>
 	     </choice> 
- (prima?). octo
+         <choice>
+               <orig>i.̈</orig>
+               <reg>prima.</reg>
+         </choice>
+         octo
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">b(ri?)s</seg>
 		       <orig>ḃs</orig>
-		       <reg>bri?s<!--  check expansion --></reg>
+		       <reg>bris</reg>
 	     </choice> 
  
 	     <choice>
-	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
 		       <orig>℞.</orig>
 		       <reg>Responsorium.</reg>

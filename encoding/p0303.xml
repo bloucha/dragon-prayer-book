@@ -13,13 +13,13 @@
 	     <choice>
 		       <seg type="lucas">Sabb(ato?).</seg>
 		       <orig>Sabḃ.</orig>
-		       <reg>Sabbato?.<!--  check expansion --></reg>
+		       <reg>Sabbato.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  In 
 	<choice>
@@ -83,7 +83,7 @@
 	     <choice>
 		       <seg type="lucas">septe(m)b(ri?)s</seg>
 		       <orig>septēḃs</orig>
-		       <reg>septembri?s</reg>
+		       <reg>septembris</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -216,7 +216,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>

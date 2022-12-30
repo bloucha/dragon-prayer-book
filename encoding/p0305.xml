@@ -76,7 +76,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -105,7 +105,10 @@
 		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
-         <!-- check transcription, missing an i, probably ī(n) -->
+         <choice>
+               <orig>ī</orig>
+               <reg>in</reg>
+         </choice>
 	     <choice>
 		       <seg type="lucas">p(re)ceptis</seg>
 		       <orig>p̄ceptis</orig>
@@ -125,12 +128,12 @@
 	     <choice>
 		       <seg type="lucas">Sabb(ato?)</seg>
 		       <orig>Sabḃ</orig>
-		       <reg>Sabbato?</reg>
+		       <reg>Sabbato</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
       <lb/>Da 
 	<choice>
@@ -213,7 +216,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Tua
 <lb/>
@@ -287,7 +290,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>

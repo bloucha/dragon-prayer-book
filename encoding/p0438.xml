@@ -178,7 +178,7 @@
 		       <seg type="lucas">n(oste)r.</seg>
 		       <orig>nr̄.</orig>
 		       <reg>noster.</reg>
-	     </choice> Et ne. 
+	     </choice> Et ne. <!-- et ne full transcription? -->
 	<choice>
 		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
@@ -327,6 +327,20 @@
 
    <ab type="translation"
        xml:id="p0438_translation"
-       corresp="#p0438_transcription"/>
+       corresp="#p0438_transcription">
+       That You would vouchsafe to give eternal rest to all the faithful departed.
+       That You would vouchsafe to hear us.
+       Son of God. Lamb of God who take away the sins of the world spare us O Lord.
+       Lamb of God who take away the sins of the world have mercy on us. <!-- DM page 405 -->
+       Lord, have mercy on us. Christ, have mercy on us.
+       Lord, have mercy on us. Our Father. And not.
+       After childbirth you remained a virgin. O mother of God, intercede for us. <!-- DM page 70 -->
+       Pray for us St. Dominic <!-- DM page 401 -->
+       <!-- ut digna? -->
+       You have given him, O Lord, his heart's desire. 
+       And have not withheld from him the request of his lips. <!-- DM page 708 cont. -->
+       
+       
+   </ab>
 
 </div>

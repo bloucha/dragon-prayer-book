@@ -255,37 +255,37 @@
 		       <reg>noster.</reg>
 	     </choice> Credo?. So 
 	<choice>
-		       <seg type="lucas">ma(?)</seg>
+		       <seg type="lucas">ma(n)</seg>
 		       <orig>mā</orig>
-		       <reg>ma?</reg>
+		       <reg>man</reg>
 	     </choice> die dis
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">cipli(?)</seg>
+		       <seg type="lucas">cipli(n)</seg>
 		       <orig>cipli</orig>
-		       <reg>cipli?</reg>
+		       <reg>ciplin</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">nyp(?)t.</seg>
-		       <orig>nyp̄t.</orig>
-		       <reg>nyp?t.<!--  check expansion --></reg>
+		       <seg type="lucas">ny(m)pt.</seg>
+		       <orig>nyp̄t.</orig> <!-- needs checking -->
+		       <reg>nympt.</reg>
 	     </choice> 
  
 	     <choice>
-		       <seg type="lucas">d(?)</seg>
+		       <seg type="lucas">d(er)</seg>
 		       <orig>ḋ</orig>
-		       <reg>d?</reg>
+		       <reg>der</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)?e(?)t</seg>
-		       <orig>ɔvēt</orig>
-		       <reg>con?e?t</reg>
+		       <seg type="lucas">(con)ue(n)t</seg>
+		       <orig>ɔuēt</orig> <!-- needs checking --> 
+		       <reg>conuent</reg>
 	           <!--check transcription -->
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">sp(?)cht.</seg>
-		       <orig>sṗcht.</orig>
-		       <reg>sp?cht.<!--  check expansion --></reg>
+		       <seg type="lucas">sp(ri)cht.</seg>
+		       <orig>sṗcht.</orig> <!-- needs checking -->
+		       <reg>spricht.</reg>
 	     </choice> 
    </ab>
 

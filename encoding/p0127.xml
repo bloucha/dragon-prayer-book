@@ -15,9 +15,9 @@
             <reg>Confiteor.</reg>  
          </choice>Dye 
 	<choice>
-		       <seg type="lucas">woch(?)vin.</seg>
-	             <orig>wochv̇in.</orig>
-		       <reg>woch?vin.<!--  check expansion --></reg>
+		       <seg type="lucas">wochn(er)in.</seg>
+	             <orig>wochṅin.</orig> <!-- needs checking-->
+		       <reg>wochnerin.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -31,9 +31,9 @@
 		       <reg>vestri.</reg>
 	     </choice>        Dy 
 	<choice>
-		       <seg type="lucas">woch(?)m(?).</seg>
-		       <orig>wochn.</orig> <!-- this looks like an n with a dot and then an i with a macron -->
-		       <reg>woch?m?.<!--  check expansion --></reg>
+		       <seg type="lucas">wochn(er)i(n).</seg>
+		       <orig>wochṅī.</orig> <!-- needs checking -->
+		       <reg>wochnerin.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -315,6 +315,9 @@
 
    <ab type="translation"
        xml:id="p0127_translation"
-       corresp="#p0127_transcription"/>
+       corresp="#p0127_transcription"> I confess to [almighty God, to blessed Mary ever virgin, to blessed Dominic our Father, 
+   to all the saints, (and to you, father), that I have sinned exceedingly in thought, word, deed, and omission, through my fault: 
+   I beseech you, pray for me.] <!-- OBDS 490--> Weekly presider: <!-- German, CJ Jones --> 
+   </ab>
 
 </div>

@@ -23,7 +23,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -214,13 +214,13 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">m(?)</seg>
-		       <orig>m̈</orig>
-		       <reg>m?</reg>
+		       <orig>M̈</orig>
+		       <reg>Magnificat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>

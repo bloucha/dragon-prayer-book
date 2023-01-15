@@ -23,12 +23,17 @@
 	     <choice>
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
-		       <reg>Dominica?</reg>
-	     </choice> (secunda?) <!-- check transcription, there's a symbol here -->
+		       <reg>Dominica</reg>
+	     </choice> 
+       <choice>
+           <orig>ii</orig>
+           <reg>secunda</reg>
+       </choice>
+   
 	<choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -135,7 +140,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -235,13 +240,13 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(?)</seg>
-		       <orig>m̈</orig>
-		       <reg>m?</reg>
+		       <orig>M̈</orig>
+		       <reg>Magnificat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  Exi cito 
 	<choice>
@@ -288,7 +293,7 @@
 
    <ab type="translation"
        xml:id="p0310_translation"
-       corresp="#p0310_transcription"/> my tongue. Second Sunday 
+       corresp="#p0310_transcription"> my tongue. Second Sunday 
     After Pentecost. O Lord, may we have a perpetual fear and love of 
     Your holy name; for You never fail to govern those whom You solidly 
     establish in Your love: through (our Lord?)

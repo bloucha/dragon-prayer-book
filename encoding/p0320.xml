@@ -28,7 +28,7 @@
 	     <choice>
 		       <seg type="lucas">M(?).</seg>
 		       <orig>M̈.</orig>
-		       <reg>M?.<!--  check expansion --></reg>
+		       <reg>Magnficiat.</reg>
 	     </choice> 
  
 	     <choice>
@@ -109,17 +109,17 @@
 	     <choice>
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
-		       <reg>Dominica?</reg>
+		       <reg>Dominica</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">xii(?)</seg>
 		       <orig>xïi</orig>
-		       <reg>xii?</reg>
+		       <reg>duodecima</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">or(ati?)o</seg>
 		       <orig>or̄o</orig>
-		       <reg>orati?o<!--  check expansion --></reg>
+		       <reg>oratio</reg>
 	     </choice> 
  
 	     <choice>
@@ -144,16 +144,9 @@
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unsure how to code, looks like h -->
-	           <!-- agreed what's going on here -->
-		       <seg type="lucas">(ab)</seg>
-		       <orig/>
-		       <reg>ab</reg>
-	     </choice>
-	     <choice>
 		       <seg type="lucas">unda(n)cia</seg>
-		       <orig>ūndācia</orig>
-		       <reg>undancia</reg>
+		       <orig>hūndācia</orig>
+		       <reg>abundancia</reg>
 	     </choice>
       <lb/>pietatis tue 
 	<choice>
@@ -249,7 +242,7 @@
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>

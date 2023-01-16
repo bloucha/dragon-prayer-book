@@ -87,19 +87,19 @@
 	<choice>
 		       <seg type="lucas">Do(minica?).</seg>
 		       <orig>Dö.</orig>
-		       <reg>Dominica?.<!--  check expansion --></reg>
+		       <reg>Dominica.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">xi(?).</seg>
 		       <orig>xï.</orig>
-		       <reg>xi?.<!--  check expansion --></reg>
+		       <reg>undecima.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -179,7 +179,7 @@
 	     <choice>
 	           <!-- check transcription, looks like cretes -->
 		       <seg type="lucas">c(ur)e(n)tes;</seg>
-		       <orig>c݃ētes;</orig>  
+		       <orig>c݃rētes;</orig>  
 		       <reg>curentes;</reg>
 	     </choice> 
 	     <choice>

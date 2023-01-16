@@ -11,7 +11,6 @@
 
       <lb/>trare ut 
 	<choice>
-	      <!-- 0743 not appearing  -->
 		       <seg type="lucas">i(m)pleat(ur)</seg>
 		       <orig>īpleat݃</orig>  
 		       <reg>impleatur</reg>
@@ -35,8 +34,12 @@
 	     <choice>
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
-		       <reg>Dominica?</reg>
-	     </choice> (tercia?) <!-- check transcription, theres an abbrev here I think --> 
+		       <reg>Dominica</reg>
+	     </choice> 
+         <choice>
+               <orig>iii</orig>
+               <reg>tertia</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">or(emus?).</seg>
 		       <orig>or̄.</orig>
@@ -126,7 +129,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -304,7 +307,7 @@
 
    <ab type="translation"
        xml:id="p0311_translation"
-       corresp="#p0311_transcription"/>
+       corresp="#p0311_transcription">
       
       We pray on the third Sunday.
       In Your loving kindness, 0 Lord, we beseech You, hear our prayer; 

@@ -124,13 +124,13 @@
             <choice>
                   <seg type="lucas">M(agnificat?).</seg>
                   <orig>M̈.</orig>
-                  <reg>Magnificat?.<!--  check expansion --></reg>
+                  <reg>Magnificat.</reg>
             </choice>
             <lb/>
             <choice>
                   <seg type="lucas">a(lleluia??).</seg>
                   <orig>ä.</orig>
-                  <reg>alleluia??.<!--  check expansion --></reg>
+                  <reg>alleluia.</reg>
             </choice> Si offers <choice>
                   <seg type="lucas">mun(us)</seg>
                   <orig>munꝰ</orig>
@@ -256,13 +256,18 @@
             <choice>
                   <seg type="lucas">al(leluia?).</seg>
                   <orig>al͘.</orig>
-                  <reg>alleluia?.<!--  check expansion --></reg>
+                  <reg>alleluia.</reg>
             </choice>
             <choice>
                   <seg type="lucas">Do(minica?)</seg>
                   <orig>Dö</orig>
                   <reg>Dominica?</reg>
-            </choice> (septima?) <lb/> <!-- is there a choice needed here? check transcription -->
+            </choice> 
+            <choice>
+                  <orig>v̈ii</orig>
+                  <reg>septima</reg>
+                  </choice>
+            <lb/> 
             <choice>
                   <seg type="lucas">D(eu)s</seg>
                   <orig>Ḋs</orig>
@@ -286,7 +291,7 @@
             <choice>
                   <seg type="lucas">or(ati?)o</seg>
                   <orig>or̄o</orig>
-                  <reg>orati?o<!--  check expansion --></reg>
+                  <reg>oratio</reg>
             </choice>
             <lb/>
             <choice>

@@ -76,12 +76,12 @@
 	     <choice>
 		       <seg type="lucas">xv(?)</seg>
 		       <orig>xv̈</orig>
-		       <reg>xv?</reg>
+		       <reg>quindecima</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">or(ati?)o</seg>
 		       <orig>or̄o</orig>
-		       <reg>orati?o<!--  check expansion --></reg>
+		       <reg>oratio</reg>
 	     </choice> 
         
 	     <choice>

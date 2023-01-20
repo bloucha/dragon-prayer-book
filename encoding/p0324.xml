@@ -55,11 +55,14 @@
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
 		       <reg>Dominica?</reg>
-	     </choice> xvi. 
+	     </choice> 
+         <choice>
+               <orig>xvi</orig>
+               <reg>sedecima</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄.</orig>
-	      <!-- made this different than the lucas because I only see the o and the r -->
 		       <reg>orati?o.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
@@ -160,12 +163,12 @@
 	     <choice>
 		       <seg type="lucas">b(e)n(e?).</seg>
 		       <orig>bn̄.</orig>
-		       <reg>bene?.</reg>
+		       <reg>bene.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
       <lb/>Ibat 
 	<choice>
@@ -229,13 +232,13 @@
 	<choice>
 		       <seg type="lucas">M(?).</seg>
 		       <orig>M̈.</orig>
-		       <reg>M?.<!--  check expansion --></reg>
+		       <reg>Magnificat.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">an(tiphon?)</seg>
 		       <orig>an̈</orig>
-		       <reg>antiphon?</reg>
+		       <reg>antiphon</reg>
 	     </choice> Accepit 
 	<choice>
 		       <seg type="lucas">a(u)t(em)</seg>
@@ -324,12 +327,12 @@
 	     <choice>
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
-		       <reg>Dominica?</reg>
+		       <reg>Dominica</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">xvii(?).</seg>
 		       <orig>xvïi.</orig>
-		       <reg>xvii?. <!--  check expansion --></reg>
+		       <reg>septendecima</reg>
 	     </choice> 
    </ab>
 

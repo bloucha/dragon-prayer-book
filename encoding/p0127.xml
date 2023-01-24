@@ -48,7 +48,7 @@
 	     </choice>  
 	     <choice>
 		       <seg type="lucas">(Christe eleison)</seg>
-		       <orig>X</orig> <!-- unsure -->
+		       <orig>X</orig> <!-- unsure is this a special character for "Christ" ?-->
 		       <reg>Christe eleison</reg>
 	     </choice> . 
 	<choice>
@@ -68,9 +68,9 @@
 	     </choice> Et
 <lb/>ne. 
 	<choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 	             <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> Salvas fac 
 	<choice>
 		       <seg type="lucas">a(n)cillas</seg>
@@ -131,19 +131,19 @@
 		       <reg>Oratio</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">v(er)b(um?)</seg>
+		       <seg type="lucas">vb(er)</seg>
 	             <orig>vḃ</orig>
-		       <reg>verbum?</reg>
+		       <reg>vber</reg>
 	     </choice> die. 
 	<choice>
-		       <seg type="lucas">(christo).</seg>
-		       <orig> xo.</orig> 
-		       <reg>christo.</reg>
+		       <seg type="lucas">xv.</seg>
+		       <orig> xv.</orig> 
+		       <reg>xv.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ps(alm).</seg>
+		       <seg type="lucas">ps(almen).</seg>
 		       <orig>p̈s.</orig>
-		       <reg>psalm.</reg>
+		       <reg>psalmen.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(ate)r</seg>
@@ -295,9 +295,9 @@
 		       <reg>Per.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 	             <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Me(m)or</seg>
@@ -317,7 +317,66 @@
        xml:id="p0127_translation"
        corresp="#p0127_transcription"> I confess to [almighty God, to blessed Mary ever virgin, to blessed Dominic our Father, 
    to all the saints, (and to you, father), that I have sinned exceedingly in thought, word, deed, and omission, through my fault: 
-   I beseech you, pray for me.] <!-- OBDS 490--> Weekly presider: <!-- German, CJ Jones --> 
+   I beseech you, pray for me.] <!-- OBDS 490--> Weekly presider: <!-- German, CJ Jones --> May almighty God
+         have mercy on you,
+         [and may He forgive
+         you all your sins;
+         may He free you
+         from all evil, save and
+         strengthen you in
+         every good work and
+         may He lead you to
+         eternal life.] <!-- OBDS 491 - general absolution --> Weekly presider: <!-- German, CJ Jones -->
+         [Have mercy on] me,
+         O God : according
+         to Thy great mercy. <!-- OBDS pg 441 - Psalm 50, office of the dead. not sure if it is implying the entire psalm -->
+         Lord have mercy, Christ have mercy, Lord have mercy. Our Father, [who art in heaven: hallowed be thy name. Thy kingdom come. 
+         Thy will be done, on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. 
+         And [lead us] not [into temptation, but deliver us from evil.] Versicle. O Lord, save 
+         Thy handmaids. Who trust in
+         Thee, O my God. <!-- OBDS 486--> O Lord, [hear my prayer.] Let us pray.  God, whose prop-
+         erty it is [always
+         to have mercy and to
+         spare: receive our
+         prayer, that the mercy
+         of Thy compassion
+         may graciously pardon us and all Thy
+         servants, who are bound by the chain
+         of our faults.
+         Graciously hear, O Lord, the prayers of
+         Thy suppliants, and spare those who con-
+         fess their sins to
+         Thee, that Thou mayest grant us in Thy goodness both pardon and peace.
+         In Thy unspeakable
+         clemency, O Lord, show Thy mercy upon us : that Thou
+         mayest both strip us
+         of all our sins, and
+         deliver us from the punishment which
+         for them we deserve. O God, who art offended by sin and
+         appeased by repentance: look favourably upon the prayers of
+         Thy suppliant people, and turn away the
+         scourges of Thy anger, which we deserve
+         for our sins. Through
+         Christ our Lord. <!-- OBDS 489 -->
+         Collects over the fifteen psalms. <!-- after Oratio(Collect) is german, CJ Jones -->
+         Our Father, [who art in heaven: hallowed be thy name. Thy kingdom come. Thy will be done, on earth as it is in heaven. 
+         Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us. 
+         And [lead us] not [into temptation, but deliver us from evil.]
+         From the gates
+         of hell.
+          Deliver their
+         souls, O Lord. <!-- OBDS 441 -->
+        O Lord, [hear my
+         prayer. And let my cry
+         come unto Thee.]
+         Collect. Absolve, O Lord, we beseech You,
+         the soul of your servant from every bond of sin, that
+         he may be raised up in the glory of the resurrection, and
+         live again among Your saints: through our
+         Lord. <!-- DM 1306 --> Versicle. Be mindful of your congregations.  <!-- Google translate, needs checking -->
+         
+         
+         
    </ab>
 
 </div>

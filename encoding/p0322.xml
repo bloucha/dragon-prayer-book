@@ -81,18 +81,17 @@
 	     <choice>
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
-		       <reg>Dominica?</reg>
+		       <reg>Dominica</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription -->
 		       <seg type="lucas">xiiii(?)</seg>
 		       <orig>xiiii</orig>
-		       <reg>xiiii?</reg>
-	     </choice> 
+		       <reg>quattuordecima</reg>
+	     </choice>
 	     <choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -178,7 +177,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -193,7 +192,6 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-	           <!-- 0743 not appearing correctly -->
 		       <seg type="lucas">grede(re)t(ur)</seg>
 		       <orig>gredēt݃</orig>
 		       <reg>grederetur</reg>
@@ -290,13 +288,13 @@
 	     <choice>
 		       <seg type="lucas">M(?).</seg>
 		       <orig>M̈.</orig>
-		       <reg>M?.<!--  check expansion --></reg>
+		       <reg>Magnificat.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>

@@ -24,12 +24,12 @@
 	     <choice>
 		       <seg type="lucas">M(?)</seg>
 		       <orig>M̈</orig>
-		       <reg>M?</reg>
+		       <reg>Magnificat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>amen</reg>
 	     </choice> 
  
 	     <choice>
@@ -274,12 +274,12 @@
 	<choice>
 		       <seg type="lucas">M(?)</seg>
 		       <orig>M̈</orig>
-		       <reg>M?</reg>
+		       <reg>Magnificat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(me?)n.</seg>
 		       <orig>an̈.</orig>
-		       <reg>ame?n.<!--  check expansion --></reg>
+		       <reg>amen</reg>
 	     </choice> 
  
 	     <choice>

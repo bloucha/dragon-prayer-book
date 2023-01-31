@@ -11,31 +11,31 @@
 
       <lb/>
 	     <choice>
-		       <seg type="lucas">adue(?)t</seg>
+		       <seg type="lucas">adue(n)t</seg>
 	             <orig>aduēt</orig>
-		       <reg>adue?t<!--  check expansion --></reg>
+		       <reg>aduent</reg>
 	     </choice> 
  
 	     <choice>
-		       <seg type="lucas">vo(?)</seg>
+		       <seg type="lucas">vo(n)</seg>
 	             <orig>vō</orig>
-		       <reg>vo?</reg>
+		       <reg>von</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">vusr(?)</seg>
-	             <orig>vusṙ</orig>
-		       <reg>vusr?</reg>
+		       <seg type="lucas">v(n)s(e)r</seg>
+	             <orig>vnsṙ</orig>
+		       <reg>vnser</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">lybe(?)</seg>
+		       <seg type="lucas">lybe(n)</seg>
 	             <orig>lybē</orig>
-		       <reg>lybe?</reg>
+		       <reg>lyben</reg>
 	     </choice> fra
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">n(?)r.</seg>
-		       <orig>nr̄.</orig>
-		       <reg>n?r.<!--  check expansion --></reg>
+		       <seg type="lucas">wen.</seg>
+		       <orig>wē.</orig>
+		       <reg>wen.<!--  check expansion --></reg>
 	     </choice> 
          O 
 	<choice>
@@ -122,14 +122,14 @@
 		       <reg>qui</reg>
 	     </choice> de. 
 	<choice>
-		       <seg type="lucas">P(?)</seg>
+		       <seg type="lucas">P(ost)</seg>
 	             <orig>Pꝰ <!-- check abbreviation --></orig>
-		       <reg>P?<!--  check expansion --></reg>
+		       <reg>Post<!--  check expansion --></reg>
 	    </choice> 
       <choice>
-		       <seg type="lucas">u(n)titate(m)?</seg>
-                   <orig>ūtitatē?</orig>
-		       <reg>untitatem?</reg>
+		       <seg type="lucas">n(a)t(iv)itate(m)</seg>
+                   <orig>n̄titatē</orig> <!-- check transcription should be macron over n -->
+		       <reg>nativitatem</reg>
 	     </choice>
       <lb/>ad 
 	<choice>
@@ -326,6 +326,13 @@
 
    <ab type="translation"
        xml:id="p0129_translation"
-       corresp="#p0129_transcription"/>
+       corresp="#p0129_transcription">At Advent, for Our Dear Lady.
+         The Holy
+         Ghost shall come
+         down upon thee, O
+         Mary: fear not, thou
+         shalt bear within thy
+         womb the Son of God.
+         Alleluia. <!-- OBDS 74--> After the nativity. </ab>
 
 </div>

@@ -70,15 +70,15 @@
 	     </choice> ut videat bona.
 <lb/>QUare de        
 	<choice>
-		       <seg type="lucas">l(?).</seg>
+		       <seg type="lucas">l(ectio).</seg>
 		       <orig>l͘.</orig>
-		       <reg>l?.<!--  check expansion --></reg>
+		       <reg>lectio</reg>
 	     </choice> 
  
 	     <choice>
-		       <seg type="lucas">ix(?).</seg>
+		       <seg type="lucas">ix</seg>
 		       <orig>iẍ.</orig>
-		       <reg>ix?.<!--  check expansion --></reg>
+		       <reg>ix</reg>
 	     </choice> 
  Nec as.
 <lb/>vulva eduxisti me:c

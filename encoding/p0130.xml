@@ -42,11 +42,11 @@
 		       <reg>Tempere</reg>
 	     </choice>
          </supplied>
-      <lb/>paschah 
+      <lb/>paschali
 	<choice>
-		       <seg type="lucas">an(tiphon?).</seg>
+		       <seg type="lucas">an(tiphon).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  
 	     <choice>
@@ -56,9 +56,9 @@
 	     </choice> Zu
 <lb/>
 	     <choice>
-		       <seg type="lucas">mette(?)</seg>
+		       <seg type="lucas">mette(n)</seg>
 		       <orig>mettē</orig>
-		       <reg>mette?</reg>
+		       <reg>metten</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">B(ea)ta</seg>
@@ -299,6 +299,51 @@
 
    <ab type="translation"
        xml:id="p0130_translation"
-       corresp="#p0130_transcription"/>
+       corresp="#p0130_transcription">A Woman in
+         childbirth brought
+         forth a King, whose
+         Name is eternal; and,
+         possessing a Mother's joys with a Virgin's
+         honour, her like hath
+         not appeared before
+         nor since. Alleluia. <!-- OBDS 76 --> Let us pray. O God, who through the fruitful Virginity of Blessed Mary, hast given to
+         mankind the reward
+         of eternal salvation:
+         grant, we beseech
+         Thee, that we may
+         feel the intercession
+         she makes for us,
+         through whom we
+         have been made
+         worthy to receive the Author of life, Christ
+         our Lord. Amen. <!-- OBDS 78 -->  Eastertime. Antiphon. 
+         O Queen of Heaven, rejoice, alleluia; 
+         For He whom thou didst merit to bear, alleluia, 
+         Hath risen as He said, alleluia. Pray for us to God, alleluia.
+         Be glad and rejoice, O Virgin Mary,
+         alleluia; For the Lord has
+         truly risen, alleluia. <!-- OBDS 482 regina caeli --> At matins. 
+         O Blessed Mary, Mother of God, perpetual Virgin,
+         Temple of the Lord, Sanctuary of the Holy Ghost, thou only and
+         without equal wast pleasing to our Lord
+         Jesus Christ: pray for the people, plead
+         for the clergy, make
+         intercession for the
+         devout female sex:
+         Alleluia, alleluia. <!-- OBDS 82 --> Let us pray. 
+         Grant, we beseech Thee, O Lord God,
+         that we Thy servants may enjoy continual
+         health of mind and
+         body; and that,
+         through the glorious
+         intercession of Blessed Mary, ever Virgin,
+         we may be delivered
+         from present sorrow and hereafter enjoy
+         eternal happiness.
+         Through Christ our Lord. Amen. <!-- OBDS 80 --> Antiphon. 
+         Loving Mother of the Redeemer, who remains the gate by which we mortals enter heaven,
+         and star of the sea, help your fallen people who strive to rise:
+         You who gave birth, amazing nature, to your sacred Creator:
+         Virgin prior and following, taking from the mouth of Gabriel that Hail! have mercy on our sins. <!-- Choral wiki, linked in doc, cont --> </ab>
 
 </div>

@@ -55,7 +55,7 @@
 	     <choice>
 		       <seg type="lucas">i(e)r(usa)l(em):</seg>
 		       <orig>ihrl͘⋮:</orig>
-	           <!-- check transcription and translation -->
+	           
 		       <reg>ierusalem:</reg>
 	     </choice> 
 	     <choice>
@@ -64,16 +64,12 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(ab)</seg>
-		       <orig/>
-		       <reg>ab</reg>
-	     </choice>
-         <!-- no marking for this here, seems to replace h? -->
+
 	     <choice>
-		       <seg type="lucas">u(n)da(n)cia</seg>
+		       <seg type="lucas">(ab)u(n)da(n)cia</seg>
 		       <orig>hūndācia</orig>
-		       <reg>undancia</reg>
-	           <!-- h and n not originally included -->
+		       <reg>abundancia</reg>
+	           
 	     </choice> di
 <lb break="no"/>
 	     <choice>
@@ -98,16 +94,12 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(ab)</seg>
-		       <orig/>
-		       <reg>ab</reg>
-	     </choice>
-         <!-- same as above with the h and n -->
+		       
 	     <choice>
-		       <seg type="lucas">u(n)da(n)cia</seg>
+		       <seg type="lucas">(ab)u(n)da(n)cia</seg>
 		       <orig>ūndācia</orig>
 	           
-		       <reg>undancia</reg>
+		       <reg>abundancia</reg>
 	     </choice> di
 <lb break="no"/>
 	     <choice>
@@ -211,8 +203,7 @@
 		       <seg type="lucas">vanu(m)</seg>
 		       <orig>vanū</orig>
 		       <reg>vanum</reg>
-	           <!-- these two (in and vanum) look like one word on the page, check transcription 
-	           maybe looking at the translation might help-->
+	           
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">laboraver(un)t</seg>
@@ -271,6 +262,18 @@
 
    <ab type="translation"
        xml:id="p0108_translation"
-       corresp="#p0108_transcription"/>
+       corresp="#p0108_transcription"> Because
+         their seats have sat in judgment, seats 
+         upon the house of David. Pray ye for the
+         things that are for the peace of Jerusalem: 
+         and abundance for them that love thee. 
+         Let peace be in thy strength: and abundance in thy towers. 
+         For the sake of my brethren, and of my neighbours, I spoke 
+         peace of thee. Because of the house of the Lord our God, I 
+         have sought good things for thee. <!-- DRBO Psalm 121 -->
+         Unless the Lord build the house, they labour in vain that 
+         build it. Unless the Lord keep the city, he watcheth in vain that 
+         keepeth it. It is vain for you to rise before light,
+         <!-- DRBO Psalm 126 --></ab>
 
 </div>

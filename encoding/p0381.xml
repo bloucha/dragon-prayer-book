@@ -127,15 +127,15 @@
 		       <reg>Quia</reg>
 	     </choice> in.        
 	<choice>
-		       <seg type="lucas">l(?)</seg>
+		       <seg type="lucas">l(ectio)</seg>
 		       <orig>l͘</orig>
-		       <reg>l?</reg>
+		       <reg>lectio</reg>
 	     </choice> 
 	     <choice>
 	     	<!-- check transcription, viii-->
-		       <seg type="lucas">(octava).</seg>
-		       <orig>viii.</orig>
-		       <reg>octava.</reg>
+		       <seg type="lucas">viij.</seg>
+		       <orig>viij.</orig>
+		       <reg>viii.</reg>
 	     </choice> 
       <lb/>PElli mee 
 	     <choice>
@@ -261,10 +261,11 @@
    	I sin daily and repent not. 
    	Because in hell there is no redemption; 
    	have mercy on me, O God, and save me.
-   	V. O God, save me in Thy name, 
+   	Versicle. O God, save me in Thy name, 
    	and in Thy power deliver me. 
-   	R. Because in [hell there is no redemption;
+   	Because in [hell there is no redemption;
    	have mercy on me, O God, and save me.] <!-- OBDS page 436 -->
+         First lesson.
    	My flesh is wasted away, 
    	my bones have cleaved to my skin,
    	and nothing but lips are left about my teeth.
@@ -272,7 +273,7 @@
    	at least you my friends for the hand of 
    	the Lord hath touched me. 
    	Why do ye persecute me as God, 
-   	and glut yourselves with my flesh? <!-- OBDS page 437 -->
+   	and glut yourselves with my flesh? <!-- OBDS page 437, continues-->
    </ab>	
 
 </div>

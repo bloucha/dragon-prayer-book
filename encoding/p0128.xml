@@ -202,9 +202,9 @@
 		       <reg>famulabus</reg>
 	     </choice> tuis 
 	<choice>
-		       <seg type="lucas">dext(r)a(m)</seg>
+		       <seg type="lucas">dext(er)a(m)</seg>
 	             <orig>dext͘a⋮</orig>
-		       <reg>dextram</reg> <!-- I think it should be dexteram --> 
+		       <reg>dexteram</reg> 
 	     </choice>
       <lb/>celestis auxilii: ut te toto
 <lb/>corde 

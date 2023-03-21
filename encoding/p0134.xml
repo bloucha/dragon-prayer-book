@@ -21,9 +21,9 @@
 		       <reg>tecum.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">B(e)n(e)d(i)c(t)a</seg>
@@ -77,11 +77,16 @@
 		       <seg type="lucas">ma(r)i⸗</seg>
 		       <orig>mȧi⸗</orig>
 		       <reg>mari⸗</reg>
-	     </choice>        l?: 
+	     </choice>  
+         <choice>
+               <seg type="lucas">l(ectio).</seg>
+               <orig>l͘.</orig>
+               <reg>lectio.</reg>
+         </choice>
 	<choice>
-		       <seg type="lucas">m(?).</seg>
-		       <orig>m̈.</orig>
-		       <reg>m?.<!--  check expansion --></reg>
+		       <seg type="lucas">iii.</seg>
+		       <orig>iii.</orig>
+		       <reg>iii.</reg>
 	     </choice> 
  tui. 
 	<choice>
@@ -299,6 +304,7 @@
 
    <ab type="translation"
        xml:id="p0134_translation"
-       corresp="#p0134_transcription"/>
+       corresp="#p0134_transcription"> Hail Mary, full of grace, the Lord is with thee. Versicle. Blessed art thou amongst women and blessed is the fruit of 
+   thy womb. O God. Third lesson. </ab>
 
 </div>

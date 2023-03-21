@@ -231,7 +231,7 @@
 	     <choice>
 		       <seg type="lucas">j.</seg>
 		       <orig>j̈.</orig>
-		       <reg>j.</reg>
+		       <reg>j.</reg> <!-- come back to this, roman numeral? -->
 	     </choice> 
       <lb/>O 
 	<choice>

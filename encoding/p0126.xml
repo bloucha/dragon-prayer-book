@@ -258,13 +258,13 @@
 		       <seg type="lucas">ma(n)</seg>
 		       <orig>mā</orig>
 		       <reg>man</reg>
-	     </choice> die dis
-<lb break="no"/>
+	     </choice> die 
+         <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">cipli(n)</seg>
-		       <orig>cipli</orig>
-		       <reg>ciplin</reg>
-	     </choice> 
+		       <seg type="lucas">discipli(n)</seg>
+		       <orig>discipl͘i</orig>
+		       <reg>disciplin</reg>
+	     </choice>
 	     <choice>
 		       <seg type="lucas">ny(m)pt.</seg>
 		       <orig>nyp̄t.</orig> <!-- needs checking -->

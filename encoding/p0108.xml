@@ -69,7 +69,7 @@
 		       <seg type="lucas">(ab)u(n)da(n)cia</seg>
 		       <orig>hūndācia</orig>
 		       <reg>abundancia</reg>
-	           
+	           <!--  Should I be using a "supplied" tag to put in the "ab"? -->
 	     </choice> di
 <lb break="no"/>
 	     <choice>
@@ -97,8 +97,8 @@
 		       
 	     <choice>
 		       <seg type="lucas">(ab)u(n)da(n)cia</seg>
-		       <orig>ūndācia</orig>
-	           
+		       <orig>hūndācia</orig>
+	           <!--  Should I be using a "supplied" tag to put in the "ab"? -->
 		       <reg>abundancia</reg>
 	     </choice> di
 <lb break="no"/>

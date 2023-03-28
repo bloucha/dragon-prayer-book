@@ -198,7 +198,7 @@
 		       <reg>mundum</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- check transcription, looks like an "r" -->
+	     	
 		       <seg type="lucas">q(uod)</seg>
 		       <orig>ȹ</orig>
 		       <reg>quod</reg>
@@ -305,6 +305,21 @@
    <ab type="translation"
        xml:id="p0134_translation"
        corresp="#p0134_transcription"> Hail Mary, full of grace, the Lord is with thee. Versicle. Blessed art thou amongst women and blessed is the fruit of 
-   thy womb. O God. Third lesson. </ab>
+         thy womb. [Incline unto my aid], O God, [O God, make haste to help me.] <!-- Standard prompts. --> Third lesson.
+         O Blessed Mary, you, that Mary, you are the greatest of the blessed Marys, you are the greatest of women. 
+         You are that great and very great lady, you are that queen of the angels.
+         You are that lady of the world. You are that mother who cleanses the world so impure because our hearts are too impure. <!-- Google translate.
+         I found this in the Anselm of Canterbury prayers that seems to be the source for some things in the surrounding pages: "Queen of angels, Lady of the world,
+Mother of Him who cleanses the world, [20]
+I confess that my heart is unclean,
+and I am rightly ashamed to turn towards such cleanness." I don't know if that's helpful, but it seems close.-->
+         So I ask you to hear me
+         by your own merits rather than mine,
+         so that by the goodness you pour forth
+         and the power in which you abound,
+         I may escape the sorrows of damnation which I deserve
+         and enter into the joy of the blessed
+         to praise you, God,
+         who are worthy to be praised and exalted for ever. Amen. <!-- continues. University of Dayton Anselm of Canterbury prayers, linked in Doc --> </ab>
 
 </div>

@@ -62,9 +62,9 @@
 		       <reg>nobis</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">all(elui)</seg>
+		       <seg type="lucas">all(eluia)</seg>
 		       <orig>all͘</orig>
-		       <reg>allelui</reg>
+		       <reg>alleluia</reg>
 	     </choice>
       <lb break="no"/>a. In 
 	<choice>
@@ -74,9 +74,9 @@
 	     </choice> 
  
 	     <choice>
-		       <seg type="lucas">do(mini?)</seg>
+		       <seg type="lucas">do(mini)</seg>
 		       <orig>doⁱ</orig>
-		       <reg>domini?</reg>
+		       <reg>domini</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(upe)r</seg>
@@ -89,7 +89,7 @@
 		       <reg>psalmus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">an(tiphon?).</seg>
+		       <seg type="lucas">an(tiphon).</seg>
 		       <orig>an̈.</orig>
 		       <reg>antiphon.</reg>
 	     </choice> 
@@ -195,20 +195,20 @@
 		       <reg>deo</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">vaste(m?)</seg>
+		       <seg type="lucas">vaste(m?) <!-- needs checking --> </seg>
 		       <orig>vastē</orig>
 		       <reg>vastem</reg>
 	     </choice> ad 
 	<choice>
-		       <seg type="lucas">v(ersu?)s</seg>
+		       <seg type="lucas">v(espera)s</seg>
 		       <orig>v̈s</orig>
-		       <reg>versus</reg>
+		       <reg>vesperas</reg>
 	     </choice> 
  
 	     <choice>
-		       <seg type="lucas">cap(ite?).</seg>
+		       <seg type="lucas">cap(itulum).</seg>
 		       <orig>cap̄.</orig>
-		       <reg>capite.</reg>
+		       <reg>capitulum.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -315,6 +315,9 @@
       Alleluia, and dwelt among
       us, alleluia. <!-- PBDS pg 480 the angelus --> On Epiphany of the Lord. On the Psalm. Antiphon. Light from light you appeared to Christ to whom the magi 
        offer their gifts, alleluia alleluia alleluia. <!-- Google translate --> At this day. Alleluia all they from Saba shall come, alleluia,
-       bringing gold and frankincense, alleluia alleluia. <!-- DRB isaiah 60 verse 6 --> </ab>
+       bringing gold and frankincense, alleluia alleluia. <!-- DRB isaiah 60 verse 6 --> In deo vastem <!-- ??? needs checking --> At vespers. Little chapter. 
+       Be converted to me with all your heart, in fasting, and in weeping, and in mourning, and rend your hearts, and not your garments: <!-- Joel 2:12 -->
+       says the Lord Almighty. <!-- DM p 129 --> Thanks be to God. Hymn. O Merciful Creator, hear! <!-- cont, linked in doc, Preces-latinae -->
+   </ab>
 
 </div>

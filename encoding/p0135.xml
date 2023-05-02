@@ -186,7 +186,7 @@
    	</choice> 
    	
    	<choice>
-   		<seg type="lucas">B(e)n(e)?.</seg>
+   		<seg type="lucas">B(e)n(e)?. <!-- check expansion --> </seg>
    		<orig>Bn̄?.</orig>
    		<reg>Bene?.</reg>
    	</choice>

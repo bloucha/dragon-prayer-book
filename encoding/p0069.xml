@@ -244,7 +244,7 @@
 	     <choice>
 		       <seg type="lucas">V(espers).</seg>
 		       <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versicle.</reg>
 	     </choice> Ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
@@ -255,6 +255,16 @@
 
    <ab type="translation"
        xml:id="p0069_translation"
-       corresp="#p0069_transcription"/>
+       corresp="#p0069_transcription"> Make them to be numbered with Thy saints:
+         in glory everlasting. O Lord, Save Thy people: and bless Thine inheritance. 
+         And govern them: and lift them up for ever. Day by day: we magnify Thee. 
+         And we praise Thy Name for ever: yea, for ever and ever. Vouchsafe, O Lord, this 
+         day: to keep us without sin. O Lord, have mercy upon us; have mercy upon us. 
+         O Lord, let Thy mercy be upon us: as we have hoped in Thee. O Lord, in Thee have I 
+         hoped: let me not be confounded for ever. Versicle. Pray for us
+       
+         <!-- OBDS pg 44, 46 -->
+         
+   </ab>
 
 </div>

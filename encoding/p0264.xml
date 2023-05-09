@@ -16,9 +16,9 @@
 		       <reg>Amen.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Angel(is)</seg>
@@ -254,6 +254,6 @@
 
    <ab type="translation"
        xml:id="p0264_translation"
-       corresp="#p0264_transcription"/>
+       corresp="#p0264_transcription">Amen. Versicle. </ab>
 
 </div>

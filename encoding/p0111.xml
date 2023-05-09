@@ -234,18 +234,39 @@
 	     </choice> 
    	<choice>
 		       <seg type="lucas">l[ume(n)]</seg>
-		       <orig>lumē]</orig>
-		<!-- educated guess at this abbrevation -->
-		       <reg>umen]</reg>
+		       <orig>lumē</orig>
+   		<reg><supplied>lumen</supplied></reg>
 	     </choice>
    </ab>
 
    <ab type="translation"
        xml:id="p0111_translation"
-       corresp="#p0111_transcription"> He hath not done in like manner to every nation: 
-   	and his judgments he hath not made manifest to them. Alleluia. <!-- DRB psalm 147 cont -->   
-   	O holy Mother of God, ever Virgin, Mary. Intercede for us unto our Lord God. <!-- OBDS p. 154 -->
+<<<<<<< HEAD
+       corresp="#p0111_transcription"> 
    	
+   <ab>
+   	and his judgments he hath not made manifest to them. Alleluia.
+   	<!-- DRBO Psalm 147 -->
+   	O holy Mother of God, ever Virgin, Mary, 
+   	Intercede for us unto our Lord God
+   	<!-- OBDS pg. 154 -->
+   	I gave a sweet smell like cinnamon and aromatical balm:
+   	I yielded a sweet odour, like the choicest myrrh.
+   	<!-- OBDS pg. 172 --> 
+   	Hymn
+   	Hail, star of the sea,
+   	Nurturing Mother of God
+   	And ever Virgin,
+   	Happy Gate of Heaven 
+   	Receiving that "Ave" (Hail)
+   	From the mouth of Gabriel,
+   	Establish us in peace,
+   	Transforming the name "Eva" (Eve)
+   	Loosen the chains of the guilty,
+   	Send forth light to the blind,
+   	<!-- Wikipedia.com Ave Maris Stella linked in doc -->	
    </ab>
+
+>>>>>>> d60d17fdb3ce857d125d863866ff3cc0f847f208
 
 </div>

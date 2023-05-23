@@ -24,7 +24,7 @@
 	     <choice>
 		       <seg type="lucas">Si(c)</seg>
 		       <orig>Si</orig>
-		       <reg>Sic</reg>
+		       <reg>Si</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">me(m)or</seg>
@@ -256,6 +256,14 @@
 
    <ab type="translation"
        xml:id="p0073_translation"
-       corresp="#p0073_transcription"/>
+       corresp="#p0073_transcription"> and my mouth shall praise thee with joyful lips. 
+         If I have remembered thee upon my bed, I will meditate on thee in the morning: 
+         Because thou hast been my helper. And I will rejoice under the covert of thy wings: 
+         My soul hath stuck close to thee: thy right hand hath received me.
+         But they have sought my soul in vain, they shall go into the lower parts of the earth: 
+         They shall be delivered into the hands of the sword, they shall be the portions of foxes. 
+         But the king shall rejoice in God, all they shall be praised that swear by him: because the mouth is stopped of them that speak wicked things. 
+        
+         <!-- DRBO 62 --></ab>
 
 </div>

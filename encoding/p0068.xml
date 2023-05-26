@@ -93,15 +93,15 @@
          <choice>
                <seg type="lucas"></seg>
                <orig>suscepturꝰ</orig>
-               <reg>suspecterus</reg> <!-- struggling to figure out this section --> 
-         </choice> <!-- crossed out --> susceptur
+               <reg>suscepterus</reg>  
+         </choice> susceptur <!-- crossed out --> 
 
-	<choice>
+         <choice> 
 		       <seg type="lucas">nine(m):</seg>
 		       <orig>ninē:</orig>
-		       <reg>ninem:</reg> <!-- marginalia -->
-	     </choice> hor                    ^                ^
-<lb break="no"/>ruisti 
+		       <reg> <supplied> ho </supplied> minem:</reg> <!-- marginalia -->
+         </choice>   hor  
+         <lb break="no"/>ruisti <!-- I'm confused about why this is lb =no -->
 	<choice>
 		       <seg type="lucas">v(ir)gi(ni)s</seg>
 		       <orig>v̇gīs</orig>
@@ -219,6 +219,17 @@
 
    <ab type="translation"
        xml:id="p0068_translation"
-       corresp="#p0068_transcription"/>
+       corresp="#p0068_transcription">Thine adorable, true: and only Son. 
+        Also the Holy Ghost: the Comforter. Thou art the King of glory: 
+        O Christ. Thou art the everlasting Son: of the Father. When Thou
+        tookest upon Thee to deliver man: Thou didst not abhor the Virgin's 
+        womb. When Thou hadst overcome the sting of death: Thou didst open 
+        the kingdom of heaven to all believers. Thou sittest at the right 
+        hand of God: in the glory of the Father. We believe that Thou shalt
+        come: to be our Judge. We pray THee, therefore, help Thy servants: whom 
+        Thou has redeemed with Thy precious blood. Make them to be numbered with
+        Thy saints:
+         <!-- OBDS pg 42, 44 -->
+   </ab>
 
 </div>

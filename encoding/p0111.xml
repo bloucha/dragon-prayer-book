@@ -241,8 +241,10 @@
 
    <ab type="translation"
        xml:id="p0111_translation"
-       corresp="#p0111_transcription">
+<<<<<<< HEAD
+       corresp="#p0111_transcription"> 
    	
+   <ab>
    	and his judgments he hath not made manifest to them. Alleluia.
    	<!-- DRBO Psalm 147 -->
    	O holy Mother of God, ever Virgin, Mary, 
@@ -262,10 +264,9 @@
    	Transforming the name "Eva" (Eve)
    	Loosen the chains of the guilty,
    	Send forth light to the blind,
-   	<!-- Wikipedia.com Ave Maris Stella linked in doc -->
- 
-   	
+   	<!-- Wikipedia.com Ave Maris Stella linked in doc -->	
    </ab>
 
+>>>>>>> d60d17fdb3ce857d125d863866ff3cc0f847f208
 
 </div>

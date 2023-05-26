@@ -56,7 +56,7 @@
 	<choice>
 		       <seg type="lucas">d(er?)</seg>
 		       <orig>ḋ</orig>
-		       <reg>der?</reg>
+		       <reg>der</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)plet</seg>
@@ -254,6 +254,7 @@
 
    <ab type="translation"
        xml:id="p0264_translation"
-       corresp="#p0264_transcription">Amen. Versicle. </ab>
+       corresp="#p0264_transcription">Amen. Versicle. God has given His angels
+         charge over you, to keep you in all your ways. <!-- DM 112 --> To this prayer. <!-- german, needs checking --> </ab>
 
 </div>

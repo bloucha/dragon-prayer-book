@@ -84,9 +84,9 @@
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">musere(re)</seg>
-		       <orig>muserė</orig>
-		       <reg>muserere</reg>
+		       <seg type="lucas">misere(re)</seg>
+		       <orig>miserė</orig>
+		       <reg>miserere</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(ost)ri.</seg>
@@ -307,6 +307,19 @@
 
    <ab type="translation"
        xml:id="p0064_translation"
-       corresp="#p0064_transcription"/>
+       corresp="#p0064_transcription">
+	   Through thee we may deserve to have the reward of the heavenly kingdom, 
+	   and to reign with the elect of God unto all eternity. 
+	   But Thou, O Lord, have mercy on us.
+	   Responsorium. O holy and immaculate Virginity, 
+	   with what praises to extol thee I know not.
+	   For thou gavest Him from thy bosom whom the heavens could not contain.
+	   Versiculus. Blessed art thou amongst women, and blessed is the fruit of thy womb.
+	   For [thou gavest Him from thy bosom whom the heavens could not contain].
+	   We pray thee vouchsafe us a blessing.
+	   May the Mother of God be our helper.
+	   O Holy Mary, most compassionate of all the compassionate, 
+	   and holiest of all the holy, make intercession for us.
+	   </ab>
 
 </div>

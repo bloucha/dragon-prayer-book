@@ -56,7 +56,7 @@
 	<choice>
 		       <seg type="lucas">d(er?)</seg>
 		       <orig>ḋ</orig>
-		       <reg>der?</reg>
+		       <reg>der</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)plet</seg>
@@ -96,9 +96,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus.)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> Si 
 	<choice>
 		       <seg type="lucas">ded(er)o</seg>
@@ -133,9 +133,9 @@
 		       <reg>mitationem.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">D(eo).</seg>
+		       <seg type="lucas">D(ormiam).</seg>
 		       <orig>D.</orig>
-		       <reg>Deo.</reg>
+		       <reg>Dormiam.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Gl(ori)a.</seg>
@@ -254,6 +254,20 @@
 
    <ab type="translation"
        xml:id="p0264_translation"
-       corresp="#p0264_transcription">Amen. Versicle. </ab>
+       corresp="#p0264_transcription">Amen. Versicle. God has given His angels
+         charge over you, to keep you in all your ways. <!-- DM 112 --> To this prayer. <!-- german, needs checking --> Response. 
+         In peace in the selfsame I will sleep, and I will rest. <!-- DRB psalm 4--> Versicle. If I shall give sleep to my eyes, or slumber to my eyelids. 
+         <!-- DRB psalm 131 --> I will sleep, and I will rest. 
+         Glory [be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be, world without end.]
+         In peace in the selfsame. Hymn.
+         Christ, who art the light and day,
+         You drive away the darkness of night,
+         You are called the light of light,
+         For you proclaim the blessed light.
+         We beseech you, Holy Lord,
+         Protect us this night.
+         Let us take our rest in you;
+         Grant us a tranquil night. <!-- linked in doc. choral wiki -->
+   </ab>
 
 </div>

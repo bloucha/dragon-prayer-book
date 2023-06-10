@@ -53,7 +53,7 @@
 		       <reg>ternus</reg>
 	     </choice> adiutor. Ad 
 	<choice>
-		       <seg type="lucas">n(un?)c.</seg>
+		       <seg type="lucas">n(un)c.</seg>
 		       <orig>n̄c.</orig>
 		       <reg>nunc.</reg>
 	     </choice> 
@@ -246,9 +246,9 @@
 		       <reg>passione</reg>
 	     </choice> ad 
 	<choice>
-		       <seg type="lucas">v(espero)s</seg>
+		       <seg type="lucas">v(espera)s</seg>
 		       <orig>v̈s</orig>
-		       <reg>vesperos</reg>
+		       <reg>vesperas</reg>
 	     </choice>
       <lb/>TU 
 	<choice>
@@ -262,9 +262,9 @@
 		       <reg>domine</reg>
 	     </choice> sa⸗         
 	<choice>
-		       <seg type="lucas">cap(ite?).</seg>
+		       <seg type="lucas">cap(itulum).</seg>
 		       <orig>cap̄.</orig>
-		       <reg>capite.</reg>
+		       <reg>capitulum.</reg>
 	     </choice> 
       <lb/>baoth 
 	<choice>
@@ -278,6 +278,24 @@
 
    <ab type="translation"
        xml:id="p0266_translation"
-       corresp="#p0266_transcription"/>
+       corresp="#p0266_transcription">Watch over us forever, Savior, lest the cunning tempter seize us, for you have become our eternal helper. <!-- Google translate -->
+   	At the current day. In the midst of life we are in death
+   	of whom may we seek for succour,
+   	but of thee, O Lord,
+   	who for our sins
+   	art justly displeased?
+   	
+   	O holy God,
+   	O holy and strong,
+   	O holy and merciful Saviour,
+   	deliver us not to bitter death. <!-- Linked in doc, CPDL. "English Translation from the Anglican Book of Common Prayer" -->
+   	Versicle. Cast us not off in the time of old age: when our strength shall fail, do not thou forsake us. <!-- DRB Psalms 70:9, I changed me to us -->
+   	O holy God,
+   	[O holy and strong,
+   	O holy and merciful Saviour,
+   	deliver us not to bitter death.] <!-- From previous prayer. could also be "Holy God, Holy Mighty One, Holy Immortal One..." or other prayer? -->
+   	The Lord's Passion. <!-- this is my translation, it's definitely "Lord" and "Passion", not sure of the grammar --> At Vespers. Little Chapter.
+   	But thou, O Lord of Sabaoth, who judgest justly. <!-- Jeremiah 11:20 DRB cont -->
+   </ab>
 
 </div>

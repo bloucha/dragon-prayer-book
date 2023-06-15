@@ -96,7 +96,7 @@
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  Dixit 
 	<choice>
@@ -227,7 +227,12 @@
 		       <seg type="lucas">sup(er)i(us)</seg>
 		       <orig>suꝑiꝰ</orig>
 		       <reg>superius</reg>
-	     </choice> (et?)<!-- check transcription, what's going on here? --> erit 
+	     </choice> 
+       <choice>
+           <orig>n̄c</orig>
+           <reg>nunc</reg>
+           </choice> 
+       erit 
 	<choice>
 		       <seg type="lucas">t(ibi)</seg>
 		       <orig>ṫ</orig>
@@ -235,7 +240,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gl(ori)a</seg>
-		       <orig>gl̇a</orig>
+		       <orig>gl͘a</orig>
 		       <reg>gloria</reg>
 	     </choice> 
 	     <choice>
@@ -257,12 +262,12 @@
 	     <choice>
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
-		       <reg>Dominica?</reg>
+		       <reg>Dominica</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">xviii(?).</seg>
 		       <orig>xvïii.</orig>
-		       <reg>xviii?.<!--  check expansion --></reg>
+		       <reg>duodevingti</reg>
 	     </choice> 
       <lb/>DA 
 	<choice>
@@ -283,7 +288,7 @@
 	     <choice>
 		       <seg type="lucas">or(ati?)o.</seg>
 		       <orig>or̄o.</orig>
-		       <reg>orati?o.<!--  check expansion --></reg>
+		       <reg>oratio.</reg>
 	     </choice> 
    </ab>
 

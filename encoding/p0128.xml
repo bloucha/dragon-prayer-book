@@ -123,9 +123,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 	             <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> Salvos fac 
 	<choice>
 		       <seg type="lucas">s(er)vos</seg>
@@ -202,9 +202,9 @@
 		       <reg>famulabus</reg>
 	     </choice> tuis 
 	<choice>
-		       <seg type="lucas">dext(r)a(m)</seg>
+		       <seg type="lucas">dext(er)a(m)</seg>
 	             <orig>dext͘a⋮</orig>
-		       <reg>dextram</reg>
+		       <reg>dexteram</reg> 
 	     </choice>
       <lb/>celestis auxilii: ut te toto
 <lb/>corde 
@@ -235,14 +235,40 @@
 		       <reg>assequantur.</reg>
 	     </choice> Zu 
 	<choice>
-		       <seg type="lucas">de(?) </seg>
+		       <seg type="lucas">de(m) </seg>
 	            <orig>dē </orig>
-		    <reg>de? <!--  check expansion --></reg>
+		    <reg>dem <!--  check expansion --></reg>
 	     </choice> 
    </ab>
 
    <ab type="translation"
        xml:id="p0128_translation"
-       corresp="#p0128_transcription"/>
+       corresp="#p0128_transcription">Be mindful of your congregations. How you possessed it from the beginnning. <!-- google translate --> 
+         O Lord, [hear my prayer.] And let my cry [come unto thee.]  
+         Let us pray. O God, whose property it is always
+         to have mercy and to
+         spare: receive our
+         prayer, that the mercy
+         of Thy compassion
+         may graciously pardon us and all Thy
+         servants, who are
+         bound by the chain
+         of our faults. Through [Christ our Lord]. Versicle. O Lord, save
+         Thy servants and
+         Thy handmaids.
+         Who trust in
+         Thee, O my God. <!-- OBDS 486 --> O Lord, hear my
+         prayer.
+         And let my cry
+         come unto Thee. Collect. Stretch forth, O
+         Lord, the right hand
+         of Thy heavenly help
+         to Thy servants, and
+         handmaids, that they
+         may seek Thee with
+         their whole heart,
+         and may obtain whatsoever they worthily
+         ask of Thee. <!-- OBDS pg 487 -->
+         At Advent, for Our Dear Lady. <!-- German, CJ Jones, cont --> </ab>
 
 </div>

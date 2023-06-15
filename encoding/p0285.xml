@@ -39,7 +39,7 @@
 	     <choice>
 		       <seg type="lucas">Or(emus?).</seg>
 		       <orig>Or̠̄.</orig>
-		       <reg>Oremus?.<!--  check expansion --></reg>
+		       <reg>Oremus.</reg>
 	     </choice> 
  
 	     <choice>
@@ -114,18 +114,18 @@
       <lb/>salvari. 
 	<choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q͘</orig>
+		       <orig>Q̇</orig>
 		       <reg>Qui</reg>
 	     </choice> vi. 
 	<choice>
 		       <seg type="lucas">Or(?).</seg>
 		       <orig>Or̄.</orig>
-		       <reg>Or?.<!--  check expansion --></reg>
+		       <reg>Oremus.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">(secunda).</seg>
-		       <orig>n̈.</orig>
+		       <orig>ii.</orig>
 		       <reg>secunda.</reg>
 
 	     </choice> 
@@ -192,13 +192,13 @@
 	<choice>
 		       <seg type="lucas">Or(?).</seg>
 		       <orig>Or̄.</orig>
-		       <reg>Or?.<!--  check expansion --></reg>
+		       <reg>Oremus</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">(tercia).</seg>
-		       <orig>m.</orig>
-		       <reg>tercia.</reg>
+		       <orig>iii.</orig>
+		       <reg>tertia.</reg>
 	     </choice> 
       <lb/>
 	     <choice>

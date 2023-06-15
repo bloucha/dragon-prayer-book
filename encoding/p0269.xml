@@ -155,7 +155,7 @@
 	     <choice>
 		       <seg type="lucas">ps(alm?)</seg>
 		       <orig>p̄s</orig>
-		       <reg>psalm?</reg>
+		       <reg>psalmus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -171,7 +171,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -279,6 +279,14 @@
 
    <ab type="translation"
        xml:id="p0269_translation"
-       corresp="#p0269_transcription"/>
+       corresp="#p0269_transcription">and thy holy name is invoked upon us; do not forsake us, O Lord, our God, 
+         that in the day of judgment thou wilt deign to place us among thy saints and elect, blessed King. <!-- Google translate :( --> 
+         Holy Paschal Saturday <!-- ? about Pasche --> on the psalm and current day. Alleluia. Alleluia Alleluia Alleluia. Let us pray. Alleluia. 
+         Pour upon us, O Lord, the Spirit of Thy love, to make us of one heart, whom, 
+         by Thy tender mercy, Thou hast filled with the paschal sacrament.
+         Through Our [Lord Jesus Christ, Thy Son, Who with Thee liveth and reigneth in the unity of the same Holy Spirit, 
+         God, for ever and ever. Amen.] <!-- linked in doc, Preces Latinae "O Sacro Convivium" --> During the feast of Easter and all Eastertime. On the Psalm. <!-- Cont --> 
+         
+   </ab>
 
 </div>

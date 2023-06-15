@@ -33,12 +33,12 @@
 	     <choice>
 		       <seg type="lucas">ix(?)</seg>
 		       <orig>iẍ</orig>
-		       <reg>ix?</reg>
+		       <reg>nona</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">or(emus?)</seg>
 		       <orig>or̄</orig>
-		       <reg>oremus?<!--  check expansion --></reg>
+		       <reg>oremus</reg>
 	     </choice> 
       <lb/>LArgire 
 	<choice>
@@ -154,7 +154,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 	             <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Dixit 
 	<choice>
@@ -188,13 +188,13 @@
 	     <choice>
 		       <seg type="lucas">M(?).</seg>
 		       <orig>M̈.</orig>
-		       <reg>M?.<!--  check expansion --></reg>
+		       <reg>Magnificat.</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 	             <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>

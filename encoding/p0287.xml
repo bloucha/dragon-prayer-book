@@ -12,13 +12,13 @@
             <lb/>Ad 
             <choice>
                   <seg type="lucas">m(isericordia?)</seg>
-                  <orig>m̈</orig>
-                  <reg>misericordia?</reg>
+                  <orig>iii</orig>
+                  <reg>terita</reg>
             </choice> 
             <choice>
                   <seg type="lucas">an(tiphon?).</seg>
                   <orig>an̈.</orig>
-                  <reg>antiphon?.<!--  check expansion --></reg>
+                  <reg>antiphon.</reg>
             </choice> 
             
             <choice>
@@ -204,7 +204,7 @@
             <choice>
                   <seg type="lucas">a(lleluia?).</seg>
                   <orig>ä.</orig>
-                  <reg>alleluia?.<!--  check expansion --></reg>
+                  <reg>alleluia.</reg>
             </choice> Nuptie 
             <choice>
                   <seg type="lucas">f(a)c(t)e</seg>
@@ -251,12 +251,12 @@
             <choice>
                   <seg type="lucas">m(?)</seg>
                   <orig>m̈</orig>
-                  <reg>m?</reg>
+                  <reg>tertia</reg>
             </choice> 
             <choice>
                   <seg type="lucas">an(tiphon?).</seg>
                   <orig>an̈.</orig>
-                  <reg>antiphon?.<!--  check expansion --></reg>
+                  <reg>antiphon.</reg>
             </choice> 
             <lb/>
             <choice>

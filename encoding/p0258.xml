@@ -22,7 +22,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> + </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -49,7 +49,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n[[u(m)]]:</seg>
-		       <orig>dn̄<supplied>ū</supplied></orig>
+		       <orig>dn̄<supplied>u</supplied></orig>
 		       <reg>domin<supplied>um</supplied>:</reg>
 	     </choice>
       <lb/>
@@ -65,12 +65,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ni(?)</seg>
-		       <orig>dn̄i</orig> <!-- check expansion -->
-		       <reg>domini?</reg>
+		       <orig>dn̄i</orig> 
+		       <reg>domini</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(u)i</seg>
-		       <orig>Qi</orig> <!-- unsure of abbreviation -->
+		       <orig>Qi</orig> 
 		       <reg>Qui</reg>
 	     </choice> status 
 	<choice>
@@ -177,7 +177,12 @@
 		       <seg type="lucas">t(er)ra(m).</seg>
 	             <orig>ṫrā.</orig>
 		       <reg>terram.</reg>
-	     </choice> ??(??) <!-- !! -->
+	     </choice> 
+       <!-- this is a guess -->
+       <choice>
+           <orig>ä</orig>
+           <reg>alleluia <!--?? could be antiphon?? --> </reg>
+           </choice>
 <lb/>
 	     <choice>
 		       <seg type="lucas">misere(re)</seg>

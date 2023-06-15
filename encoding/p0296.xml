@@ -121,7 +121,7 @@
 		       <seg type="lucas">deu(m).</seg>
 		       <orig>deū.</orig>
 		       <reg>deum.</reg>
-	     </choice> ?
+	     </choice> 
 	<choice>
 		       <seg type="lucas">fr(?)</seg>
 		       <orig>fr̈</orig>
@@ -198,7 +198,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -247,8 +247,8 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">b(bat?)o</seg>
-		       <orig>b݃o</orig>
-		       <reg>bbat?o<!--  check expansion --></reg>
+		       <orig>ḃo</orig>
+		       <reg>bbato<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>

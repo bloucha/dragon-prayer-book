@@ -74,16 +74,10 @@
 		       <reg>Vigra?</reg>
 	           <!-- check expansion -->
 	     </choice> 
-	     <choice>
-		       <seg type="lucas">asce(?)li(?)</seg>
-		       <orig>ascēlī</orig>
-		       <reg>asce?li?
-	<!--  check expansion --></reg>
-	     </choice> 
       <choice>
 		       <seg type="lucas">o(n)is</seg>
-		       <orig>ōis</orig>
-		       <reg>onis</reg>
+		       <orig>ascēlīōis</orig>
+		       <reg>ascenlionis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">or(ati)o.</seg>
@@ -131,7 +125,6 @@
 	     <choice>
 		       <seg type="lucas">sole(m)nitatis</seg>
 		       <orig>solēpnitatis</orig>
-	           <!-- check transcription, there's a p in here -->
 		       <reg>solemnitatis</reg>
 	     </choice> 
 	     <choice>

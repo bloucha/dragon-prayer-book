@@ -221,8 +221,8 @@
 		       <seg type="lucas">care(m)</seg>
 		       <orig>carē</orig>
 		       <reg>carem</reg>
-	     </choice> ex⸗                    miserere. viii;
-<lb/>audivit me 
+	     </choice> <seg next="#seg252">ex⸗</seg>                   miserere. viii;
+<lb/><seg xml:id="seg252">audivit</seg> me 
 	<choice>
 		       <seg type="lucas">d(eu)s</seg>
 		       <orig>ḋs</orig>

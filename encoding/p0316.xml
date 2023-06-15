@@ -24,11 +24,15 @@
 		       <seg type="lucas">Do(minica?)</seg>
 	             <orig>Dö</orig>
 		       <reg>Dominica?</reg>
-	     </choice> (octava?) <!-- check transcription, choice needed here? -->
+	     </choice> 
+         <choice>
+               <orig>v̈iii</orig>
+               <reg>octava</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">or(emus?).</seg>
 		       <orig>or̄.</orig>
-		       <reg>oremus?.<!--  check expansion --></reg>
+		       <reg>oremus.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -113,7 +117,7 @@
 	     <choice>
 		       <seg type="lucas">a(me?)n.</seg>
 		       <orig>an̈.</orig>
-		       <reg>ame?n.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -188,12 +192,12 @@
 	<choice>
 		       <seg type="lucas">M(?)</seg>
 		       <orig>M̈</orig>
-		       <reg>M?</reg>
+		       <reg>Magnificat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 	             <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
       <lb/>

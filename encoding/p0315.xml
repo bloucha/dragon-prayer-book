@@ -118,7 +118,7 @@
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  Misereor 
 	<choice>
@@ -204,12 +204,12 @@
 	     <choice>
 		       <seg type="lucas">M(?)</seg>
 		       <orig>M̈</orig>
-		       <reg>M?</reg>
+		       <reg>Magnificat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 	             <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Et 
 	<choice>

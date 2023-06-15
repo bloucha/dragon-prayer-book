@@ -16,9 +16,9 @@
 		       <reg>Sancta</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Kimegu(n)dis?</seg>
-		       <orig>Kimegūdis?</orig>
-		       <reg>Kimegundis?</reg> <!-- check expansion, no hint in translation -->
+		       <seg type="lucas">Kunegu(n)dis</seg>
+		       <orig>Kunegūdis</orig>
+		       <reg>Kunegundis</reg> 
 	     </choice>                                or e
 <lb/>
 	     <choice>
@@ -204,6 +204,20 @@
 
    <ab type="translation"
        xml:id="p0449_translation"
-       corresp="#p0449_transcription"/>
+       corresp="#p0449_transcription">
+        St. Kunigunde, pray for us.
+        St. Elizabeth, pray for us.
+        All you holy Virgins and Widows, pray for us.
+        All you Saints, pray for us.
+        Be merciful unto us,
+        Spare us, O Lord. 
+        From eternal damnation, O Lord, deliver us.
+        From the scourges that threaten our sins, O Lord, deliver us.
+        From the snares of the devil, O Lord, deliver us. <!-- DM page 402 -->
+        From all evil, O Lord, deliver us.
+        Through the mystery of Your holy incarnation, O Lord, deliver us.
+        Through Your passion and cross, O Lord, deliver us.
+        Through Your glorious resurrection, O Lord, deliver us. <!-- DM page 403 -->
+   </ab>
 
 </div>

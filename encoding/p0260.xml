@@ -17,7 +17,7 @@
                   <seg type="lucas">d(omi)ne</seg>
                   <orig>dn̄e</orig>
                   <reg>domine</reg>
-            </choice> vigilan⸗ Salva nos. iiik. <lb/>tes custodi nos <choice>
+            </choice> <seg next="#seg260">vigilan⸗</seg> Salva nos. iiik. <lb/><seg xml:id="seg260">tes</seg> custodi nos <choice>
                   <seg type="lucas">dormie(n)tes</seg>
                   <orig>dormiētes</orig>
                   <reg>dormientes</reg>

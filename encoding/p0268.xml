@@ -77,7 +77,7 @@
 		       <seg type="lucas">stat(er)a</seg>
 		       <orig>staṫa</orig>
 		       <reg>statera</reg>
-	     </choice> facta [*]
+	     </choice> facta 
 <lb/>
 	     <choice>
 		       <seg type="lucas">corp(or)i</seg>
@@ -206,13 +206,13 @@
 	<choice>
 		       <seg type="lucas">n(un?)c</seg>
 		       <orig>nc̄</orig>
-		       <reg>nun?c<!--  check expansion --></reg>
+		       <reg>nunc</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">an(tiphon?).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.<!--  check expansion --></reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  O rex
 <lb/>
@@ -245,6 +245,23 @@
 
    <ab type="translation"
        xml:id="p0268_translation"
-       corresp="#p0268_transcription"/>
+       corresp="#p0268_transcription">O Tree! In radiant beauty bright!
+         With regal purple meetly dight! Thou chosen stem! divinely graced,
+         Which hath those Holy Limbs embraced! How blest thine arms, beyond compare,
+         Which Earth's Eternal Ransom bare!
+         That Balance where His Body laid,
+         The spoil of vanquished Hell outweighed.
+         O Cross! all hail! sole hope, abide
+         With us now in this Passion-tide:
+         New grace in pious hearts implant,
+         And pardon to the guilty grant.
+         
+         Thee, mighty Trinity! One God!
+         Let every living creature laud;
+         Whom by the Cross Thou dost deliver,
+         O guide and govern now and ever! Amen. <!-- Linked in Doc, CPDL / Wikipedia--> Versicle. 
+         Deliver me, O Lord, from the evil man: rescue me from the unjust man. <!-- DRB Psalms 139 -->
+         At the current day. Antiphon.  O glorious king among thy saints, 
+         who art always praiseworthy and yet ineffable, but thou art in us, Lord, and thy holy name is invoked upon us; <!-- Google translate :( cont --></ab>
 
 </div>

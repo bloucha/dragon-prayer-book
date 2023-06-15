@@ -116,15 +116,14 @@
                   <reg>Dominica.</reg>
             </choice>
             <choice>
-                  <!-- check transcription unsure how to code, looks like in with 0308 -->
                   <seg type="lucas">(terica).</seg>
                   <orig>in̈.</orig>
-                  <reg>terica.</reg>
+                  <reg>terita.</reg>
             </choice>
             <choice>
                   <seg type="lucas">or(emus?).</seg>
                   <orig>or̄.</orig>
-                  <reg>oremus?.<!--  check expansion --></reg>
+                  <reg>oremus.</reg>
             </choice>
             <lb/>
             <choice>
@@ -223,22 +222,20 @@
                   <seg type="lucas">DE(us)</seg>
                   <orig>DEꝰ</orig>
                   <reg>DEus</reg>
-                  <!-- check transcription, looks like guo -->
             </choice> a quo <choice>
                   <seg type="lucas">Do(minica)</seg>
                   <orig>Dö</orig>
                   <reg>Dominica</reg>
             </choice>
             <choice>
-                  <!-- check transcription, looks like im  -->
                   <seg type="lucas">(quarta).</seg>
-                  <orig>im.</orig>
+                  <orig>iiii.</orig>
                   <reg>quarta.</reg>
             </choice>
             <choice>
                   <seg type="lucas">or(emus?).</seg>
                   <orig>or̄.</orig>
-                  <reg>oremus?.<!--  check expansion --></reg>
+                  <reg>oremus.</reg>
             </choice>
             <lb/>
             <choice>

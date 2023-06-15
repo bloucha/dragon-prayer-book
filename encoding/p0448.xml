@@ -38,9 +38,9 @@
 		       <reg>Sancta</reg>
 	     </choice> maria 
 	<choice>
-		       <seg type="lucas">magda(lena?).</seg>
+		       <seg type="lucas">magda(lena).</seg>
 		       <orig>magdä.</orig>
-		       <reg>magdalena?.<!--  check expansion --></reg>
+		       <reg>magdalena.</reg>
 	     </choice> 
                         or e
 <lb/>
@@ -136,6 +136,22 @@
 
    <ab type="translation"
        xml:id="p0448_translation"
-       corresp="#p0448_transcription"/>
+       corresp="#p0448_transcription">
+        All you holy Confessors, pray for us.
+        St. Anne, pray for us.
+        St. Mary Magdalen, pray for us.
+        St. Martha, pray for us.
+        St. Felicitas, pray for us.
+        St. Perpetua, pray for us.
+        St. Agatha, pray for us.
+        St. Lucy, pray for us.
+        St. Agnes, pray for us.
+        St. Cecily, pray for us.
+        St. Catharine, pray for us.
+        St. Carherine (of Siena), pray for us.
+        St. Barbara, pray for us.
+        St. Margaret, pray for us.
+        St. Ursula with your companions, pray for us. <!-- DM page 402 -->
+   </ab>
 
 </div>

@@ -184,8 +184,13 @@
 		       <seg type="lucas">tecu(m).</seg>
 		       <orig>tecū.</orig>
 		       <reg>tecum.</reg>
-	     </choice> Genu?<!-- Check expansion -->. iube 
-	<choice>
+	     </choice> 
+         <choice>
+         <seg type="lucas">Genu.</seg>
+         <orig>Genu.</orig>
+         <reg>Genuisti</reg>
+         </choice> jube
+         <choice>
 		       <seg type="lucas">d(omi)na.</seg>
 		       <orig>dn̄a.</orig>
 		       <reg>domina.</reg>
@@ -215,13 +220,13 @@
 	<choice>
 		       <seg type="lucas">sc(?).</seg>
 		       <orig>lc̄.</orig>
-		       <reg>lectio.<!--  taken from translation --></reg>
+		       <reg>lectio.</reg>
 	     </choice> 
  
 	     <choice>
-		       <seg type="lucas">m(?).<!-- check --></seg>
+		       <seg type="lucas">iii.</seg>
 		       <orig>iii.</orig>
-		       <reg>tertia.<!--  taken from translation --></reg>
+		       <reg>tertia.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -277,6 +282,20 @@
 
    <ab type="translation"
        xml:id="p0065_translation"
-       corresp="#p0065_transcription"/>
+       corresp="#p0065_transcription">Through thee, O Virgin, 
+         may He receive our prayers who, born of thee, reigneth 
+         above the skies, 
+         that so of His loving kindness our sins may be cleansed away. 
+         [But] Thou, [O Lord, have mercy on us. [But] Thou, O Lord
+   have mercy on us.] Blessed art thou, O Virgin Mary, who didst bear 
+   the Lord, the Creator of the world.Thou gavest birth unto Him that 
+   made thee, and still thou remainest a Virgin evermore. 
+   Versicle. Hail Mary, full of grace, the Lord is with thee. 
+   [Thou gavest birth unto Him that made thee, and still thou 
+   remainest a Virgin evermore.] We pray thee vouchsafe us a blessing.
+   May the Virgin Mother Mary, with her Holy Child, bless us. 
+   Third Lesson. O Holy Mother of God, who didst worthily deserve to 
+   conceive Him whom the whole world cannot contain, cleanse away our
+   sins by thy loving intercession;,<!-- OBDS pg 34,36 --></ab>
 
 </div>

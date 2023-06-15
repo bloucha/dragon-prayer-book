@@ -226,13 +226,13 @@
 	<choice>
 		       <seg type="lucas">s(?).</seg>
 		       <orig>s̈.</orig>
-		       <reg>s?.<!--  check expansion --></reg>
+		       <reg>sed? <!-- check expansion --> </reg>
 	     </choice> 
  In die 
 	<choice>
 		       <seg type="lucas">pe(?)</seg>
 	             <orig>pē</orig>
-		       <reg>pe?<!--  check expansion --></reg>
+		       <reg>pe?? <!-- No clue what's going on here --></reg>
 	     </choice> 
       <lb/>
 	     <choice>

@@ -66,7 +66,7 @@
 	     <choice>
 		       <seg type="lucas">Or(ati?)o.</seg>
 		       <orig>Or̄o.</orig>
-		       <reg>Orati?o.<!--  check expansion --></reg>
+		       <reg>Oratio.</reg>
 	     </choice> 
       <lb/>PReces 
 	<choice>
@@ -243,6 +243,7 @@
 	     <choice>
 		       <seg type="lucas">postq(uam)</seg>
 		       <orig>postɋ̈</orig>
+	         <!-- quam-->
 		       <reg>postquam</reg>
 	     </choice> 
 	     <choice>

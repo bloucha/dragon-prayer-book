@@ -11,7 +11,6 @@
 
       <lb/>trare ut 
 	<choice>
-	      <!-- 0743 not appearing  -->
 		       <seg type="lucas">i(m)pleat(ur)</seg>
 		       <orig>īpleat݃</orig>  
 		       <reg>impleatur</reg>
@@ -35,8 +34,12 @@
 	     <choice>
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
-		       <reg>Dominica?</reg>
-	     </choice> (tercia?) <!-- check transcription, theres an abbrev here I think --> 
+		       <reg>Dominica</reg>
+	     </choice> 
+         <choice>
+               <orig>iii</orig>
+               <reg>tertia</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">or(emus?).</seg>
 		       <orig>or̄.</orig>
@@ -126,7 +129,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -216,7 +219,7 @@
 	     <choice>
 		       <seg type="lucas">q(ue)</seg>
 		       <orig>q̄</orig>
-		       <reg>que</reg>
+		       <reg>quae</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)i</seg>
@@ -248,7 +251,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia?.<!--  check expansion -> may be Aut, per DM 544  --></reg>
 	     </choice> 
  
 	     <choice>
@@ -304,6 +307,20 @@
 
    <ab type="translation"
        xml:id="p0311_translation"
-       corresp="#p0311_transcription"/>
-
+       corresp="#p0311_transcription">
+      
+      We pray on the third Sunday.
+      In Your loving kindness, 0 Lord, we beseech You, hear our prayer; 
+      and having bestowed on us the will to pray, give us also the help of Your protection:
+      through our Lord. <!--DM 243 -->
+      Alleluia
+      What man of you having a hundred sheep, and losing one of them,
+      does not leave the ninety-nine in the desert, and go
+      after that which is lost, until he finds it? 
+      Alleluia
+      (m?)
+      Or what woman, having ten drachmas, if she loses one drachma, 
+      does not <!--DM 544 -->
+      </ab>
+      
 </div>

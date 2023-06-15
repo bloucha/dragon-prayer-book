@@ -135,9 +135,8 @@
                   <reg>Dominica</reg>
             </choice>
             <choice>
-                  <!-- check transcription, loks like j with a unicode character -->
                   <seg type="lucas">(prima) </seg>
-                  <orig>j̈ </orig>
+                  <orig>ï </orig>
                   <reg>prima </reg>
             </choice>
             <choice>
@@ -163,7 +162,7 @@
             </choice> filii pasce <choice>
                   <seg type="lucas">or(emus?).</seg>
                   <orig>or̄.</orig>
-                  <reg>oremus?.<!--  check expansion --></reg>
+                  <reg>oremus.</reg>
             </choice>
             <lb/>tui <choice>
                   <seg type="lucas">hu(m)ilitate</seg>
@@ -243,15 +242,14 @@
                   <orig>errātib⋮</orig>
                   <reg>errantibus</reg>
             </choice> ut <choice>
-                  <!-- check transcription with this implied word -->
                   <seg type="lucas">(secunda) </seg>
-                  <orig>n </orig>
+                  <orig>ii</orig>
                   <reg>secunda </reg>
             </choice>
             <choice>
                   <seg type="lucas">or(emus?). </seg>
                   <orig>or̄. </orig>
-                  <reg>oremus?. <!--  check expansion --></reg>
+                  <reg>oremus.</reg>
             </choice>
       </ab>
 

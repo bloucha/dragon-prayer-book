@@ -192,9 +192,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">V(espers).</seg>
+		       <seg type="lucas">V(ersiculus).</seg>
 		       <orig>V̇.</orig>
-		       <reg>Vespers.</reg>
+		       <reg>Versiculus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(u)lch(ra)</seg>
@@ -217,18 +217,18 @@
 		       <seg type="lucas">i(e)r(usa)l(em).</seg>
 		       <orig>irl͘⋮.</orig>
 		       <reg>ierusalem.</reg>
-	     </choice> Qardus?. ?
+	     </choice> Nardus. <!-- I think! needs checking -->
 	<choice>
-		       <seg type="lucas">cc(?)o.</seg>
-		       <orig>cc̄o.</orig>
-		       <reg>cc?o.<!--  check expansion --></reg>
+		       <seg type="lucas">L(e)c(t)io.</seg>
+	      <orig>Lcīo.</orig> <!--  check transcription -->
+		       <reg>Lectio.</reg>
 	     </choice> 
  
 	     <choice>
-	           <!-- unsure how to code -->
-		       <seg type="lucas">ii(?).</seg>
+	         
+		       <seg type="lucas">ii.</seg>
 		       <orig>ii.</orig>
-		       <reg>ii?.<!--  check expansion --></reg>
+		       <reg>ii.</reg>
 	     </choice> 
       <lb/>OB 
 	<choice>
@@ -282,6 +282,20 @@
 
    <ab type="translation"
        xml:id="p0132_translation"
-       corresp="#p0132_transcription"/>
+       corresp="#p0132_transcription">O most illustrious 
+         among virgins, holy mother of God to the man of Christ,
+         help the most miserable, give mercy to those who take refuge in you, help and comfort those who ask and
+         all who trust in you. Pray for the intervention of the cups of the world,
+         intercede for the clergy and for the choir of monks; pray for the devout female sex;
+         let all those who invoke your glorious name feel your mercy. <!-- continues from prev page, google translate :( --> [We Praise Thee, O
+         God: we acknowledge Thee to be the Lord.] <!-- There's just a "T" and this was a big prayer that starts with T. needs checking. 
+               te deum laudamus obds 40 --> Response. While the king was at his repose, 
+         my spikenard sent forth the odour thereof. <!-- DRB Canticle of Canticles chapter 1 -->
+         Versiculus. I am a beautiful and comely daughter of Jerusalem. <!-- partly DRB Canticle of Canticles chapter 6 verse 3, needs checking -->
+         [My] spikenard [sent forth the odour thereof]. Second lesson. O Good Lord, o good lady, O loving Son and loving mother, 
+         let your sinners prove to themselves that you, the Son, and you, the mother, 
+         are for the sake of the salvation of sinners. Indeed, I am the sinner who belongs to you both. <!-- Google translate / linked in doc / needs checking.
+               it's a prayer by Anselm of Canterbury but i can't find a latin to english translation. cont -->
+   </ab>
 
 </div>

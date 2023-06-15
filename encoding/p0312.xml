@@ -65,8 +65,12 @@
 	     <choice>
 		       <seg type="lucas">Do(minica?)</seg>
 	              <orig>Dö</orig>
-		       <reg>Dominica?</reg>
-	     </choice> (quarta?)  <!-- should a seg, orig, and reg be made for this word? -->
+		       <reg>Dominica</reg>
+	     </choice>
+         <choice>
+               <orig>iiii</orig>
+               <reg>quarta</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">or(emus?).</seg>
 		       <orig>or̄.</orig>
@@ -149,7 +153,7 @@
       <lb break="no"/>re te duce sic 
 	<choice>
 		       <seg type="lucas">t(ra)nseam(us)</seg>
-	             <orig>tn̈seamꝰ</orig> <!-- two dots over n or one of them over the t? -->
+	             <orig>ẗnseamꝰ</orig> 
 		       <reg>transeamus</reg>
 	     </choice> 
 	     <choice>
@@ -242,7 +246,12 @@
 		       <orig>dn̄s.</orig>
 		       <reg>dominus.</reg>
 	     </choice>
-      <lb/>(tercia?). 
+      <lb/>
+         <choice>
+               <orig>iii</orig>
+               <reg>tertia</reg>
+         </choice>
+
 	<choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 	             <orig>ä.</orig>
@@ -293,17 +302,18 @@
    <ab type="translation"
        xml:id="p0312_translation"
        corresp="#p0312_transcription"> light a candle, and sweep the house, 
-         and seek diligently till she find it? We pray on the Fourth Sunday. 
+         and seek diligently till she find it? <!-- DR Luke 15:8 -->
+         We pray on the Fourth Sunday. 
          0 God, the protector of all who trust in You; 
          without whom nothing is strong, nothing holy; 
          increase and multiply upon us Your mercy, that You being our ruler and guide, 
-         we may so pass through things tem- poral, that we finally lose not eternal things: through. 
+         we may so pass through things tem- poral, that we finally lose not eternal things: through. <!-- linked in doc -->
          Through b(?) Hallelujah! 
          Therefore be merciful, as your Father 
          is merciful, says the Lord. 
          The third Hallelujah! Judge not, 
          and ye shall not be judged, for 
-         with what judgment ye judge 
+         with what judgment ye judge <!-- DR Luke 6:37 -->
          
          
          

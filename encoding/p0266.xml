@@ -53,9 +53,9 @@
 		       <reg>ternus</reg>
 	     </choice> adiutor. Ad 
 	<choice>
-		       <seg type="lucas">n(un?)c.</seg>
+		       <seg type="lucas">n(un)c.</seg>
 		       <orig>n̄c.</orig>
-		       <reg>nun?c.<!--  check expansion --></reg>
+		       <reg>nunc.</reg>
 	     </choice> 
  Me
 <lb break="no"/>dia vita 
@@ -86,9 +86,8 @@
 		       <reg>adiutorem</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- check character, ask in meeting -->
 		       <seg type="lucas">n(isi)</seg>
-		       <orig>n</orig>
+		       <orig>nⁱ</orig>
 		       <reg>nisi</reg>
 	     </choice> te
 <lb/>
@@ -204,9 +203,8 @@
 		       <reg>virtus</reg>
 	     </choice> <supplied>
 	<choice>
-		<!-- check transcription, looks like me or nie-->
 		       <seg type="lucas">(nostr)⸗</seg>
-		       <orig>nīe⸗</orig>
+		       <orig>nr̄t⸗</orig>
 		       <reg>nostr⸗</reg>
 	     </choice> 
 	     </supplied>
@@ -215,8 +213,7 @@
 		       <seg type="lucas">de(re)li(n)q(ua)s</seg>
 		       <orig>dėlīq̈s</orig>
 		       <reg>derelinquas</reg>
-		<!-- check transcription -->
-	     </choice> <supplied>nos?</supplied>
+	     </choice> <supplied>nos</supplied>
 	<choice>
 		       <seg type="lucas">d(omi)ne.</seg>
 		       <orig>dn̄e.</orig>
@@ -249,9 +246,9 @@
 		       <reg>passione</reg>
 	     </choice> ad 
 	<choice>
-		       <seg type="lucas">v(espero)s</seg>
+		       <seg type="lucas">v(espera)s</seg>
 		       <orig>v̈s</orig>
-		       <reg>vesperos</reg>
+		       <reg>vesperas</reg>
 	     </choice>
       <lb/>TU 
 	<choice>
@@ -265,9 +262,9 @@
 		       <reg>domine</reg>
 	     </choice> sa⸗         
 	<choice>
-		       <seg type="lucas">cap(ite?).</seg>
+		       <seg type="lucas">cap(itulum).</seg>
 		       <orig>cap̄.</orig>
-		       <reg>capite?.<!--  check expansion --></reg>
+		       <reg>capitulum.</reg>
 	     </choice> 
       <lb/>baoth 
 	<choice>
@@ -281,6 +278,24 @@
 
    <ab type="translation"
        xml:id="p0266_translation"
-       corresp="#p0266_transcription"/>
+       corresp="#p0266_transcription">Watch over us forever, Savior, lest the cunning tempter seize us, for you have become our eternal helper. <!-- Google translate -->
+   	At the current day. In the midst of life we are in death
+   	of whom may we seek for succour,
+   	but of thee, O Lord,
+   	who for our sins
+   	art justly displeased?
+   	
+   	O holy God,
+   	O holy and strong,
+   	O holy and merciful Saviour,
+   	deliver us not to bitter death. <!-- Linked in doc, CPDL. "English Translation from the Anglican Book of Common Prayer" -->
+   	Versicle. Cast us not off in the time of old age: when our strength shall fail, do not thou forsake us. <!-- DRB Psalms 70:9, I changed me to us -->
+   	O holy God,
+   	[O holy and strong,
+   	O holy and merciful Saviour,
+   	deliver us not to bitter death.] <!-- From previous prayer. could also be "Holy God, Holy Mighty One, Holy Immortal One..." or other prayer? -->
+   	Passion Sunday. <!-- Linked in doc, I'm not sure if there's a more correct name for this feast --> At Vespers. Little Chapter.
+   	But thou, O Lord of Sabaoth, who judgest justly. <!-- Jeremiah 11:20 DRB cont -->
+   </ab>
 
 </div>

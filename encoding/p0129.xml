@@ -11,31 +11,31 @@
 
       <lb/>
 	     <choice>
-		       <seg type="lucas">adue(?)t</seg>
+		       <seg type="lucas">adue(n)t</seg>
 	             <orig>aduēt</orig>
-		       <reg>adue?t<!--  check expansion --></reg>
+		       <reg>aduent</reg>
 	     </choice> 
  
 	     <choice>
-		       <seg type="lucas">vo(?)</seg>
+		       <seg type="lucas">vo(n)</seg>
 	             <orig>vō</orig>
-		       <reg>vo?</reg>
+		       <reg>von</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">vusr(?)</seg>
-	             <orig>vusṙ</orig>
-		       <reg>vusr?</reg>
+		       <seg type="lucas">v(n)s(e)r</seg>
+	             <orig>vnsṙ</orig>
+		       <reg>vnser</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">lybe(?)</seg>
+		       <seg type="lucas">lybe(n)</seg>
 	             <orig>lybē</orig>
-		       <reg>lybe?</reg>
+		       <reg>lyben</reg>
 	     </choice> fra
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">n(?)r.</seg>
-		       <orig>nr̄.</orig>
-		       <reg>n?r.<!--  check expansion --></reg>
+		       <seg type="lucas">wen.</seg>
+		       <orig>wē.</orig>
+		       <reg>wen.<!--  check expansion --></reg>
 	     </choice> 
          O 
 	<choice>
@@ -122,20 +122,20 @@
 		       <reg>qui</reg>
 	     </choice> de. 
 	<choice>
-		       <seg type="lucas">P(?)</seg>
+		       <seg type="lucas">P(ost)</seg>
 	             <orig>Pꝰ <!-- check abbreviation --></orig>
-		       <reg>P?<!--  check expansion --></reg>
+		       <reg>Post<!--  check expansion --></reg>
 	    </choice> 
       <choice>
-		       <seg type="lucas">u(n)titate(m)?</seg>
-                   <orig>ūtitatē?</orig>
-		       <reg>untitatem?</reg>
+		       <seg type="lucas">n(a)t(iv)itate(m)</seg>
+                   <orig>n̄titatē</orig> <!-- check transcription should be macron over n -->
+		       <reg>nativitatem</reg>
 	     </choice>
       <lb/>ad 
 	<choice>
-		       <seg type="lucas">v(ersu)s</seg>
+		       <seg type="lucas">v(erspera)s</seg>
 		       <orig>v̈s</orig>
-		       <reg>versus</reg>
+		       <reg>vesperas</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(ntiphon).</seg>
@@ -238,9 +238,9 @@
 		       <reg>deitatem.</reg>
 	     </choice> Zu 
 	<choice>
-		       <seg type="lucas">mett(?).</seg>
+		       <seg type="lucas">mett(en).</seg>
 	             <orig>met̄t.</orig>
-		       <reg>mett?.<!--  check expansion --></reg>
+		       <reg>metten.</reg>
 	     </choice> 
  Ge
 <lb break="no"/>nuit 
@@ -326,6 +326,41 @@
 
    <ab type="translation"
        xml:id="p0129_translation"
-       corresp="#p0129_transcription"/>
+       corresp="#p0129_transcription">At Advent, for Our Dear Lady.
+         The Holy
+         Ghost shall come
+         down upon thee, O
+         Mary: fear not, thou
+         shalt bear within thy
+         womb the Son of God.
+         Alleluia. <!-- OBDS 74--> Collect. 
+         O God, who wast
+         pleased that Thy
+         Word should take
+         flesh of the womb of the Blessed Virgin Mary, and didst make
+         it known unto her by
+         the message of an
+         Angel: grant that we
+         Thy suppliants, who
+         truly believe her to
+         be the Mother of God
+         may, through her intercession, find help with Thee. Through
+         the same Christ our Lord. Amen. <!-- OBDS 75--> After the nativity. At Vespers. Antiphon. 
+         O wonderful
+         intercourse! The
+         Creator of human
+         kind, taking unto
+         Himself a living body,
+         vouchsafed to be born of a Virgin, and, coming forth amongst us
+         a Man without human generation, bestowed upon us His
+         Divinity. <!-- OBDS 182--> At matins.
+         A Woman in
+         childbirth brought
+         forth a King, whose
+         Name is eternal; and,
+         possessing a Mother's joys with a Virgin's
+         honour, her like hath
+         not appeared before
+         nor since. <!-- OBDS 76 cont--> Alleluia. </ab>
 
 </div>

@@ -135,8 +135,10 @@
 		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
-         <!-- check transcription looks like an F or S -->
-         (t?)ibiis viri
+         <choice>
+              <orig> t̄biis </orig>
+               <reg> tibiss </reg>
+         </choice>
 <lb/>
 	     <choice>
 		       <seg type="lucas">b(e)n(e)placitu(m)</seg>
@@ -248,13 +250,15 @@
 		       <seg type="lucas">d(omi)n(u)m:</seg>
 		       <orig>dn̄m:</orig>
 		       <reg>dominum:</reg>
-	     </choice> lauda de⸗        lauda. iiii.
+	     </choice> lauda <seg next="#seg247">de⸗</seg>      lauda. iiii.
 <lb/>
-	     <choice>
+	    <seg xml:id="seg247">
+	          <choice>
 		       <seg type="lucas">u(m)</seg>
 		       <orig>ū</orig>
 		       <reg>um</reg>
 	     </choice> 
+	    </seg>
 	     <choice>
 		       <seg type="lucas">tuu(m)</seg>
 		       <orig>tuū</orig>

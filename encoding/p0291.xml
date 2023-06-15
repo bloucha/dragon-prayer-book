@@ -122,7 +122,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>
@@ -139,7 +139,7 @@
 	<choice>
 		       <seg type="lucas">Or(ati?)o.</seg>
 		       <orig>Or̄o.</orig>
-		       <reg>Orati?o.<!--  check expansion --></reg>
+		       <reg>Oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -265,7 +265,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>

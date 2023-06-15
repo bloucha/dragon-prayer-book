@@ -275,10 +275,9 @@
 		       <reg>celum</reg>
 	     </choice> 
 	     <choice>
-	         <!-- check transcription, looks like "nubib" -->
 		       <seg type="lucas">nubil(us):</seg>
-		       <orig>nubil⋮:</orig>
-		       <reg>nubilus:</reg>
+		       <orig>nubib⋮:</orig>
+		       <reg>nubibus:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -308,7 +307,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)ducit</seg>
-		       <orig>ꝑducit</orig>
+		       <orig>ꝓducit</orig>
 		       <reg>producit</reg>
 	     </choice>
    </ab>

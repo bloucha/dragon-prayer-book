@@ -31,7 +31,6 @@
                   <seg type="lucas">s(em)p(er).</seg>
                   <orig>sꝑ.</orig>
                   <reg>semper.</reg>
-                  <!-- check transcription, the p is an abbreviation -->
             </choice> Ꝑ(er Christum) <choice>
                   <seg type="lucas">do(minum).</seg>
                   <orig>do.</orig>
@@ -97,7 +96,6 @@
                   <reg>super</reg>
             </choice>
             <choice>
-                  <!-- check transcription, this looks like nos -->
                   <seg type="lucas">vo(s)</seg>
                   <orig>voˢ</orig>
                   <reg>vos</reg>
@@ -120,7 +118,7 @@
             </choice> Zu <choice>
                   <seg type="lucas">d(eo?)</seg>
                   <orig>ḋ</orig>
-                  <reg>dem</reg>
+                  <reg>der</reg>
             </choice>
             <choice>
                   <seg type="lucas">(con)plet</seg>
@@ -130,7 +128,7 @@
             <lb/>an <choice>
                   <seg type="lucas">de(r?)</seg>
                   <orig>dē</orig>
-                  <reg>der</reg>
+                  <reg>dem</reg>
             </choice> ivonacht <choice>
                   <seg type="lucas">abe(?)t</seg>
                   <orig>abēt</orig>
@@ -139,18 +137,18 @@
             <choice>
                   <seg type="lucas">s(upe?)r</seg>
                   <orig>sr̄</orig>
-                  <reg>supe?r<!--  check expansion --></reg>
+                  <reg>super</reg>
             </choice>
             <lb/>
             <choice>
                   <seg type="lucas">ps(alm).</seg>
                   <orig>p̄s.</orig>
-                  <reg>psalm.<!--  check expansion --></reg>
+                  <reg>psalmus.</reg>
             </choice>
             <choice>
                   <seg type="lucas">a(lleluia?).</seg>
                   <orig>ā.</orig>
-                  <reg>alleluia.<!--  check expansion --></reg>
+                  <reg>alleluia.</reg>
             </choice>
             <choice>
                   <seg type="lucas">Co(m)pleti</seg>
@@ -189,12 +187,11 @@
             </choice> Ad <choice>
                   <seg type="lucas">n(un)c</seg>
                   <orig>n̄c</orig>
-                  <reg>nunc<!--  check expansion --></reg>
+                  <reg>nunc</reg>
             </choice> di. <choice>
-                  <!-- check transcription, looks like ar -->
                   <seg type="lucas">an(tiphon)</seg>
                   <orig>an̈.</orig>
-                  <reg>antiphon.<!--  check expansion --></reg>
+                  <reg>antiphon.</reg>
             </choice>
             <lb/>Ecce <choice>
                   <seg type="lucas">(con)pleta</seg>
@@ -254,12 +251,12 @@
             <choice>
                   <seg type="lucas">s(upe)r</seg>
                   <orig>sr̄</orig>
-                  <reg>super<!--  check expansion --></reg>
+                  <reg>super</reg>
             </choice>
             <choice>
                   <seg type="lucas">ps(alm).</seg>
                   <orig>p̄s.</orig>
-                  <reg>psalm.<!--  check expansion --></reg>
+                  <reg>psalmus.</reg>
             </choice> <supplied><choice>
                   <seg type="lucas">Nat(us)</seg>
                   <orig>Natꝰ</orig>
@@ -280,7 +277,6 @@
                   <reg>est</reg>
             </choice>
             <lb/> <choice>
-                  <!-- check transcription -->
                   <seg type="lucas">(christus) </seg>
                   <orig>xp̄c</orig>
                   <reg>christus </reg>
@@ -300,8 +296,8 @@
             and let Thy blessing be always upon us.
             Through Christ our Lord. Amen. <!-- linked in doc choral wiki. --> Jesus Christ. 
             May the blessing of Almighty God, the Father, and the Son, and the Holy Spirit, come down on you and remain with you forever.
-            <!-- linked in doc. blessing at papal "urbi et orbi" speeches --> Zu dem complet
-            an der ivonacht abent. <!-- "To this prayer (i.e. the completi/"accomplished" prayer below) 
+            <!-- linked in doc. blessing at papal "urbi et orbi" speeches --> Zu der complet
+            an dem ivonacht abent. <!-- "To this prayer (i.e. the completi/"accomplished" prayer below) 
                   on the evening of "ivonacht" -check ivonacht; I think it's Christmas--> On the psalm. <!-- my translation. unsure --> Alleluia. 
             The days of Mary were accomplished that she should bring forth her first-born Son. <!-- linked in doc. choral wiki -->
             At the current day. Antiphon. Behold, all that was said by the angel about the virgin Mary has been fulfilled. <!-- google translate. -->

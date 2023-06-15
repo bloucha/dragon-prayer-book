@@ -134,13 +134,13 @@
  
 	     <choice>
 		       <seg type="lucas">M(agnificat)</seg>
-		       <orig>M̈</orig>
-		       <reg>Magnificat</reg>
+		       <orig>iii</orig>
+		       <reg>tertia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  
 	     <choice>

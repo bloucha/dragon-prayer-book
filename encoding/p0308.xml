@@ -45,7 +45,7 @@
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 		       <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
  Aspice 
 	<choice>
@@ -135,8 +135,12 @@
 	     <choice>
 		       <seg type="lucas">Do(minica?)</seg>
 		       <orig>Dö</orig>
-		       <reg>Dominica?</reg>
-	     </choice> (prima?) <!-- check transcription -->
+		       <reg>Dominica</reg>
+	     </choice>
+         <choice>
+         <orig>ï</orig>
+               <reg>prima</reg>
+         </choice>
 	<choice>
 		       <seg type="lucas">p(ost)</seg>
 		       <orig>pꝰ</orig>
@@ -166,7 +170,7 @@
 	     <choice>
 		       <seg type="lucas">Or(ati?)o.</seg>
 		       <orig>Or̄o.</orig>
-		       <reg>Orati?o.<!--  check expansion --></reg>
+		       <reg>Oratio.</reg>
 	     </choice> 
       <lb/>
 	     <choice>

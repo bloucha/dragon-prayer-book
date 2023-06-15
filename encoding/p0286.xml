@@ -28,18 +28,12 @@
 	<choice>
 		       <seg type="lucas">Or(?).</seg>
 	             <orig>Or̄.</orig>
-		       <reg>Or?.<!--  check expansion --></reg>
+		       <reg>Oremus.</reg>
 	     </choice> 
          <choice>
-               <orig>m̈</orig>
-               <reg>? <!-- check expansion --> </reg>
-         </choice>
- 
-	     <choice>
-	           <seg type="lucas">(quarta).<!--  it's not clear where this word is coming from; see note from Dr. Jones in tracking sheet--></seg>
-		       <orig>.</orig>
-		       <reg>quarta.</reg>
-	     </choice> 
+               <orig>iiii.</orig>
+               <reg>quarta.</reg>
+         </choice>      
       <lb/>EXcita 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>

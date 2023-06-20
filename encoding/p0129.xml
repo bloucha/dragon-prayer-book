@@ -109,7 +109,7 @@
 	     <choice>
 		       <seg type="lucas">Or(atio).</seg>
 		       <orig>Or̄.</orig>
-		       <reg>Oratio.</reg>
+		       <reg>Oremus.</reg> <!-- Savannah changed this 6/19/23 and is asking if it should be oremus or oratio -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>

@@ -132,9 +132,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 	             <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> Mane 
 	<choice>
 		       <seg type="lucas">nobiscu(m)</seg>
@@ -170,7 +170,7 @@
 	     <choice>
 		       <seg type="lucas">Or(emus?).</seg>
 		       <orig>Or̄.</orig>
-		       <reg>Oratio</reg>
+		       <reg>Oremus</reg>
 	     </choice> 
  
       <lb/>
@@ -304,6 +304,17 @@
 
    <ab type="translation"
        xml:id="p0272_translation"
-       corresp="#p0272_transcription"/>
+       corresp="#p0272_transcription">and Paradise for man regains. <!-- CPDL, linked in doc. the following is from the same hymn but the source doesn't have an English 
+             translation for it --> We ask the author of all
+                              in this joy of Eastertime,
+                              from every attack of death
+                              protect your people. <!-- Google translate :( --> All glory be to Thee,
+         O Lord,
+         who rose from the dead,
+         And equal praise for
+         ever greet
+         The Father and the
+         Paraclete. Amen. <!-- OBDS 16 except for "who rose from the dead" is Google translate --> Versicle. 
+         Stay with us, alleluia, because it is towards evening, alleluia. </ab>
 
 </div>

@@ -308,10 +308,7 @@
    <ab type="translation"
        xml:id="p0064_translation"
        corresp="#p0064_transcription">
-	   <!--This is my first time translating, so if someone could
-	   sanity check this and provide any corrections/feedback that would
-	   be awesome! The source I used was OBDS pages 32, 34.-->
-	   Through thee we may deserve to have the reward of the heavenly kingdom, 
+	   that through thee we may deserve to have the reward of the heavenly kingdom, 
 	   and to reign with the elect of God unto all eternity. 
 	   But Thou, O Lord, have mercy on us.
 	   Responsorium. O holy and immaculate Virginity, 
@@ -320,9 +317,12 @@
 	   Versiculus. Blessed art thou amongst women, and blessed is the fruit of thy womb.
 	   For [thou gavest Him from thy bosom whom the heavens could not contain].
 	   We pray thee vouchsafe us a blessing.
+	   <!--OBDS 32 -->
 	   May the Mother of God be our helper.
 	   O Holy Mary, most compassionate of all the compassionate, 
-	   and holiest of all the holy, make intercession for us.
+	   and holiest of all the holy, make intercession for us. 
+	   Through thee, O Virgin
+	   <!--OBDS 34 -->
 	   </ab>
 
 </div>

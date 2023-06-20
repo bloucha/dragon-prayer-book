@@ -117,14 +117,14 @@
 		       <reg>CRistus</reg>
 	     </choice> resur⸗ 
 	<choice>
-		       <seg type="lucas">adv(ersu)?s</seg>
-		       <orig>adv̈?s</orig>
-		       <reg>adversu?s</reg>
+		       <seg type="lucas">adv(espera)s</seg>
+		       <orig>adv̈s</orig>
+		       <reg>ad vesperas</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">cap(ite?)</seg>
+		       <seg type="lucas">cap(itulum)</seg>
 		       <orig>cap̄</orig>
-		       <reg>capite</reg>
+		       <reg>capitulum</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -316,6 +316,15 @@
 
    <ab type="translation"
        xml:id="p0270_translation"
-       corresp="#p0270_transcription"/>
+       corresp="#p0270_transcription">On the psalm. Alleluia. Alleluia. Response. This is the day which the Lord hath made: let us be glad and rejoice therein.
+   <!-- Psalm 117 DRB--> Current day. Alleluia, the Lord hath resurrected alleluia, as he said to you, alleluia. Alleluia. In the Easter Octave.
+         At vespers. Little chapter. Christ rising again from the dead, dieth now no more, death shall no more have dominion over him. 
+         For in that he died to sin, he died once; but in that he liveth, he liveth unto God. <!-- DRB Romans 6:8-10 --> [Thanks be to] God. 
+         Hymn. The Lamb's high banquet we await
+         in snow-white robes of royal state:
+         and now, the Red Sea's channel past,
+         to Christ our Prince we sing at last. 
+         Upon the Altar of the Cross
+         His Body hath redeemed our loss: <!-- Cont, John Mason Neale translation on CPDL, linked in doc --> </ab>
 
 </div>

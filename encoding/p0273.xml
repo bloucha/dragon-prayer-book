@@ -31,9 +31,9 @@
 		       <reg>alleluia.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">Cap(ite?).</seg>
+		       <seg type="lucas">Cap(itulum).</seg>
 		       <orig>Cap̄.</orig>
-		       <reg>Capite.</reg>
+		       <reg>Capitulum.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -129,9 +129,9 @@
 	     </choice>  
          </seg>               
 	     <choice>
-		       <seg type="lucas">Cap(ite?).</seg>
+		       <seg type="lucas">Cap(itulum).</seg>
 		       <orig>Cap̄.</orig>
-		       <reg>Capite?.<!--  check expansion --></reg>
+		       <reg>Capitulum.<!--  check expansion --></reg>
 	     </choice> 
         
 	   <seg xml:id="seg2731">  <choice>
@@ -266,9 +266,9 @@
 		       <reg>Alleluia.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> Et
 <lb/>
 	     <choice>
@@ -288,14 +288,14 @@
 	     </choice> G. Sur.
 <lb/>
 	     <choice>
-		       <seg type="lucas">V(espers)</seg>
+		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
 		       <reg>Vespers</reg>
 	     </choice> Surre. 
 	<choice>
 		       <seg type="lucas">ix(?)</seg>
 		       <orig>iẍ</orig>
-		       <reg>nona</reg>
+	      <reg>iẍ</reg> <!-- CHECK EXPANSION - in question doc for CJ jones --> 
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia).</seg>
@@ -340,14 +340,16 @@
          </choice>
         appa⸗ 
 	<choice>
-		       <seg type="lucas">Cap(ite?).</seg>
+		       <seg type="lucas">Cap(itulum).</seg>
 		   <orig>Cap̄.</orig>
-		      <reg>Capite.</reg>
+		      <reg>Capitulum.</reg>
 	 </choice> 
    </ab>
 
    <ab type="translation"
        xml:id="p0273_translation"
-       corresp="#p0273_transcription"/>
+       corresp="#p0273_transcription"> I am alleluia fear not alleluia. Little chapter. Christ re. <!-- can't figure out the prompt here. --> Response. The Lord has 
+   risen again from the dead alleluia alleluia. Versicle. As he has told you. alleluia. <!-- DRB mark 16 --> Glory [be to the Father, and to the Son, and to the Holy Spirit. As 
+   it was in the beginning, is now, and ever shall be, world without end.] </ab>
 
 </div>

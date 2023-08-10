@@ -71,13 +71,13 @@
 	     <choice>
 		       <seg type="lucas">Vig(ra?)</seg>
 		       <orig>Vig̈</orig>
-		       <reg>Vigra?</reg>
-	           <!-- check expansion -->
+		       <reg>Vigilia</reg>
+	           
 	     </choice> 
       <choice>
 		       <seg type="lucas">o(n)is</seg>
-		       <orig>ascēlīōis</orig>
-		       <reg>ascenlionis</reg>
+		       <orig>ascēsiōis</orig>
+		       <reg>ascensionis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">or(ati)o.</seg>
@@ -197,8 +197,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)plet(?).</seg>
-	             <orig>ɔplet.</orig>
-		       <reg>conplet?.</reg>
+	             <orig>ɔplet̄.</orig>
+		       <reg>conpletorium.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
@@ -311,6 +311,26 @@
 
    <ab type="translation"
        xml:id="p0276_translation"
-       corresp="#p0276_transcription"/>
+       corresp="#p0276_transcription">
+         give us, Your suppliants, by Your inspiration to think
+         what is right, and by Your guidance to perform the
+         same: through our Lord. <!-- continued, DM 454 --> Vigil of the Ascension.
+         Collect. Grant, we beseech You, almighty God, that
+         the bent of 9ur minds may always tend where the
+         glorious author of the coming solemnity has entered;
+         and attain by holy living that towards which it journeys
+         by faith: through the same Lord. <!-- DM 461. source differs: "future" and "venturae" seem
+         like they have similar enough meanings to not affect translation - "future and "coming". but "vide" and "fide"
+         have two different translations - by sight (?) and by faith. which to use? --> Compline. Hymn. 
+         Jesus, our redemption,
+         love and desire,
+         God, Creator of all things,
+         becomes man in the fullness of time.
+         
+         What mercy made thee
+         bear our crimes,
+         to suffer a cruel death
+         that we might be saved from death! <!-- Hymn, linked in doc. Continues -->
+   </ab>
 
 </div>

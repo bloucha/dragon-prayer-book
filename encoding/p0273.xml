@@ -39,8 +39,15 @@
 	     <choice>
 		       <seg type="lucas">(Christ) </seg>
 		       <orig>xp̄c </orig>
-		       <reg>Christ </reg>
-	     </choice> re. 
+		       <reg>Christ </reg> <!-- grammatically different ending needed? --> 
+	     </choice> 
+       
+                <choice> 
+                    <seg type="lucas">re. </seg>
+                    <orig> re. </orig>
+                    <reg> resurrexit. </reg> <!-- needs checking, both translation and this transcription. -->
+                </choice>
+       
 	<choice>
 		       <seg type="lucas">R(esponsorium).</seg>
 		       <orig>℞.</orig>
@@ -82,7 +89,13 @@
 		       <seg type="lucas">Gl(ori)a.</seg>
 		       <orig>Gl͘a.</orig>
 		       <reg>Gloria.</reg>
-	     </choice> Re. 
+	     </choice> 
+                    <choice>
+                        <seg type="lucas">Re.</seg>
+                        <orig>Re.</orig>
+                        <reg>Resurrexit. </reg> <!-- Again needs checking like the re. above -->
+                        
+                    </choice> 
 	<choice>
 		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
@@ -91,7 +104,7 @@
 	     <choice>
 		       <seg type="lucas">S(anct?)e.</seg>
 		       <orig>S͘⋮e.</orig>
-		       <reg>Sanct?e.<!--  check expansion --></reg>
+		       <reg>Sanct?e.<!--  check expansion!!  --></reg>
 	     </choice> 
  vi 
 	<choice>
@@ -131,7 +144,7 @@
 	     <choice>
 		       <seg type="lucas">Cap(itulum).</seg>
 		       <orig>Cap̄.</orig>
-		       <reg>Capitulum.<!--  check expansion --></reg>
+		       <reg>Capitulum. </reg>
 	     </choice> 
         
 	   <seg xml:id="seg2731">  <choice>
@@ -290,7 +303,7 @@
 	     <choice>
 		       <seg type="lucas">V(ersiculus)</seg>
 		       <orig>V̇</orig>
-		       <reg>Vespers</reg>
+		       <reg>Versiculus</reg>
 	     </choice> Surre. 
 	<choice>
 		       <seg type="lucas">ix(?)</seg>
@@ -348,8 +361,20 @@
 
    <ab type="translation"
        xml:id="p0273_translation"
-       corresp="#p0273_transcription"> I am alleluia fear not alleluia. Little chapter. Christ re. <!-- can't figure out the prompt here. --> Response. The Lord has 
-   risen again from the dead alleluia alleluia. Versicle. As he has told you. alleluia. <!-- DRB mark 16 --> Glory [be to the Father, and to the Son, and to the Holy Spirit. As 
-   it was in the beginning, is now, and ever shall be, world without end.] </ab>
+       corresp="#p0273_transcription"> I am alleluia fear not alleluia. Little chapter. Christ is risen. <!-- going for "Christus resurrexit", seen throughout the NT in the DRB, specifically 1 Cor. 15.  --> Response. The Lord is 
+       risen Alleluia. alleluia. Versicle. As he has told you. 
+       Alleluia. <!-- DRB mark 16 --> Glory [be to the Father, and to the Son, and to the Holy Spirit. As 
+   it was in the beginning, is now, and ever shall be, world without end.] [The Lord] is risen. Versicle. Saint. <!-- ??? Expansion seems wrong and
+       I can't find a translation to help. --> vi. Alleluia. Behold, I am with you alleluia all days alleluia. 
+       Chapter.  If you have risen
+       with Christ, seek the things that are above, where Christ
+       is seated at the right hand of God. Mind the things that
+       are above, not the things that are on earth. <!-- DM 406, DRB Col. 3 -->  
+       [Thanks be to] God. Response. The Lord has risen indeed. Alleluia. Versicle.
+      And has appeared to Simon. Alleluia. Glory [be to the Father, and to the Son, and 
+   to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without
+   end. Amen.] [The Lord has] risen [indeed.] Versicle. [The Lord has] risen [indeed.]
+   ix. Alleluia. Weep not, <!-- DRB Luke 7 --> Mary, alleluia the Lord is risen alleluia alleluia. 
+       Chapter. When Christ, your life, shall appear, <!-- cont, DM 406 / DRB Col. 3 --> </ab>
 
 </div>

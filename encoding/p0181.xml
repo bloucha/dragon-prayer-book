@@ -28,13 +28,13 @@
 	     <choice>
 		       <seg type="lucas">Fi(?)a</seg>
 		       <orig>Fi̇̄a</orig> 
-		       <reg>Fi?a<!--  check expansion --></reg>
+		       <reg>Feria</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
 	     	  <orig>ä.</orig>
-		       <reg>alleluia?.<!--  check expansion --></reg>
+		       <reg>alleluia.</reg>
 	     </choice> 
       <lb/>Aspice 
 	<choice>
@@ -312,7 +312,7 @@
 
    <ab type="translation"
        xml:id="p0181_translation"
-       corresp="#p0181_transcription">I have not forgotten thy commandments. <!-- cont from psalm 118 --> Fia Alleluia. <!-- ?? --> 
+       corresp="#p0181_transcription">I have not forgotten thy commandments. <!-- cont from psalm 118 --> Weekday. Alleluia. <!-- ?? --> 
    	Look thou upon me, O Lord, and have mercy on me. <!-- drb psalm 118 verse 132 --> Chapter. 
    	You are bought with a great price. Glorify and bear God in your body. <!-- DRB 1 Cor. 6:20 except it's missing 'enim' --> 
    	Response. Redeem me, O Lord, and have mercy on me. Versicle. For my foot has stood in the direct way;

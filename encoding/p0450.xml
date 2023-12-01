@@ -32,9 +32,9 @@
 		       <reg>tuam.l</reg>
 	     </choice> e. Per 
 	<choice>
-		       <seg type="lucas">gra(?)m?</seg>
+		       <seg type="lucas">gratiam?</seg>
 		       <orig>grām?</orig>
-		       <reg>gra?m?<!--  check expansion --></reg>
+		       <reg>gratiam?</reg>
 	     </choice> 
       <lb/>
 	     <choice>
@@ -160,6 +160,12 @@
 
    <ab type="translation"
        xml:id="p0450_translation"
-       corresp="#p0450_transcription"/>
+       corresp="#p0450_transcription">
+         Through Your wonderful ascension,
+         Through the grace of the
+         Holy Spirit, the Comforter,
+         In the day of judgement,
+         We sinners, We beseech You, hear us. <!--DM page 403-->
+   </ab>
 
 </div>

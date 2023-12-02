@@ -277,9 +277,9 @@
 	     </choice> 
  
 	     <choice>
-		       <seg type="lucas">an(tiphon?).</seg>
+		       <seg type="lucas">an(tiphon).</seg>
 		       <orig>an̈.</orig>
-		       <reg>antiphon?.</reg>
+		       <reg>antiphon.</reg>
 	     </choice> 
  Veni
 
@@ -288,6 +288,9 @@
 
    <ab type="translation"
        xml:id="p0282_translation"
-       corresp="#p0282_transcription"/>
+       corresp="#p0282_transcription"> the spotless Victim all divine. At whose dread Name, majestic now,
+         all knees must bend, all hearts must bow;
+         and things celestial Thee shall own,
+         and things terrestrial Lord alone. <!-- preces latinae hymn, linked in doc. continued --> </ab>
 
 </div>
